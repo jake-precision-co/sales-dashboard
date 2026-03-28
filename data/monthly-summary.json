@@ -1,9 +1,9 @@
 {
   "month": "2026-03",
-  "generated": "2026-03-27T21:55:44.813598",
+  "generated": "2026-03-27T21:58:36.225209",
   "joe": {
-    "closedAnnualRevenue": 153600,
-    "dealsCount": 12
+    "closedAnnualRevenue": 108000,
+    "dealsCount": 6
   },
   "jc": {
     "growthSessionsSet": 6
