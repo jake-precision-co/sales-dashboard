@@ -30,8 +30,13 @@ export default function LoginPage() {
     <div className="min-h-screen flex items-center justify-center bg-[#0a0a0a]">
       <div className="w-full max-w-sm">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-white">⚡ The Alpha Board</h1>
-          <p className="text-gray-500 mt-2 text-sm">Precision Sales</p>
+          <div className="flex items-center justify-center mb-4">
+            <svg className="w-16 h-16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M13 2L3 14h8l-1 8 10-12h-8l1-8z" fill="white" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+            </svg>
+          </div>
+          <h1 className="text-5xl font-bold text-white">The Alpha Board</h1>
+          <p className="text-gray-400 mt-3 text-sm">Precision Sales · Built to Win</p>
         </div>
 
         <form onSubmit={handleLogin} className="bg-[#141414] border border-gray-800 rounded-xl p-8 space-y-4">

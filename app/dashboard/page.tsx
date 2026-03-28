@@ -46,6 +46,14 @@ export default async function DashboardPage() {
 
   return (
     <div className="space-y-8">
+      {/* Hero Section */}
+      <div className="text-center py-8">
+        <h1 className="text-5xl font-bold bg-gradient-to-r from-white to-amber-400 text-transparent bg-clip-text">
+          THE ALPHA BOARD
+        </h1>
+        <p className="text-gray-500 text-lg mt-2">{monthName}</p>
+      </div>
+
       {/* Stats Row */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
         <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
