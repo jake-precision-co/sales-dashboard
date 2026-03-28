@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { authenticate } from '@/lib/auth'
-import { cookies } from 'next/headers'
 
 export async function POST(req: NextRequest) {
   const { username, password } = await req.json()
@@ -10,12 +9,13 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: 'Invalid credentials' }, { status: 401 })
   }
 
-  const cookieStore = await cookies()
-  cookieStore.set('user', username.toLowerCase(), {
+  const response = NextResponse.json({ ok: true })
+  response.cookies.set('user', username.toLowerCase(), {
     httpOnly: true,
     path: '/',
-    maxAge: 60 * 60 * 24 * 7, // 7 days
+    maxAge: 60 * 60 * 24 * 7,
+    sameSite: 'lax',
   })
 
-  return NextResponse.json({ ok: true })
+  return response
 }
