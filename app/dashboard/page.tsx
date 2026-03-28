@@ -2,8 +2,8 @@ import { cookies } from 'next/headers'
 import { getUser } from '@/lib/auth'
 import { getAllScorecards } from '@/lib/parseScorecard'
 import { getAELeaderboard, getSDRLeaderboard } from '@/lib/parseLeaderboard'
+import { getMonthlySummary } from '@/lib/parseMonthlySummary'
 import Link from 'next/link'
-import LiveStats from '@/components/LiveStats'
 
 function scoreColor(score: number, max: number) {
   const pct = (score / max) * 100
@@ -40,6 +40,10 @@ export default async function DashboardPage() {
   const recent = cards.slice(0, 5)
   const thisMonth = new Date().toISOString().slice(0, 7)
 
+  // Get monthly summary data (server-side)
+  const monthlySummary = getMonthlySummary()
+  const monthName = new Date().toLocaleString('default', { month: 'long', year: 'numeric' })
+
   return (
     <div className="space-y-8">
       {/* Stats Row */}
@@ -62,28 +66,41 @@ export default async function DashboardPage() {
         </div>
       </div>
 
-      {/* Live Revenue + Sessions */}
-      {user && (user.role === 'admin' || user.role === 'ae') && (
+      {/* Monthly Summary Stats */}
+      {user && (user.role === 'admin' || user.role === 'ae') && monthlySummary && (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          <LiveStats role={user.role} />
+          <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
+            <div className="flex items-center justify-between mb-1">
+              <p className="text-gray-500 text-sm">Joe — Closed ARR</p>
+              <span className="text-xs text-gray-600 bg-gray-800 px-2 py-0.5 rounded-full">{monthName}</span>
+            </div>
+            <p className="text-4xl font-bold text-green-400">
+              ${monthlySummary.joe.closedAnnualRevenue.toLocaleString()}
+              <span className="text-lg text-gray-500">/yr</span>
+            </p>
+            <p className="text-gray-600 text-xs mt-2">{monthlySummary.joe.dealsCount} deal{monthlySummary.joe.dealsCount !== 1 ? 's' : ''} closed this month</p>
+          </div>
           {user.role === 'admin' && (
             <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
               <div className="flex items-center justify-between mb-1">
                 <p className="text-gray-500 text-sm">JC — Growth Sessions Set</p>
-                <span className="text-xs text-gray-600 bg-gray-800 px-2 py-0.5 rounded-full">From scorecards</span>
+                <span className="text-xs text-gray-600 bg-gray-800 px-2 py-0.5 rounded-full">{monthName}</span>
               </div>
-              <p className="text-4xl font-bold text-purple-400">{jcMeetingsBooked}</p>
+              <p className="text-4xl font-bold text-purple-400">{monthlySummary.jc.growthSessionsSet}</p>
               <p className="text-gray-600 text-xs mt-2">meetings booked from cold calls</p>
             </div>
           )}
         </div>
       )}
 
-      {user && user.role === 'sdr' && (
+      {user && user.role === 'sdr' && monthlySummary && (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
-            <p className="text-gray-500 text-sm">Growth Sessions Set</p>
-            <p className="text-4xl font-bold text-purple-400 mt-1">{jcMeetingsBooked}</p>
+            <div className="flex items-center justify-between mb-1">
+              <p className="text-gray-500 text-sm">Growth Sessions Set</p>
+              <span className="text-xs text-gray-600 bg-gray-800 px-2 py-0.5 rounded-full">{monthName}</span>
+            </div>
+            <p className="text-4xl font-bold text-purple-400 mt-1">{monthlySummary.jc.growthSessionsSet}</p>
             <p className="text-gray-600 text-xs mt-2">meetings booked from cold calls</p>
           </div>
         </div>
