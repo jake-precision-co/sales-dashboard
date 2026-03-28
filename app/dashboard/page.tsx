@@ -1,7 +1,7 @@
 import { cookies } from 'next/headers'
 import { redirect } from 'next/navigation'
 import { getUser } from '@/lib/auth'
-import { getAllScorecards, Scorecard } from '@/lib/parseScorecard'
+import { getAllScorecards } from '@/lib/parseScorecard'
 import Link from 'next/link'
 
 function scoreColor(score: number, max: number) {
@@ -9,13 +9,6 @@ function scoreColor(score: number, max: number) {
   if (pct >= 70) return 'text-green-400'
   if (pct >= 50) return 'text-yellow-400'
   return 'text-red-400'
-}
-
-function scoreBg(score: number, max: number) {
-  const pct = (score / max) * 100
-  if (pct >= 70) return 'bg-green-400/10 border-green-400/30 text-green-400'
-  if (pct >= 50) return 'bg-yellow-400/10 border-yellow-400/30 text-yellow-400'
-  return 'bg-red-400/10 border-red-400/30 text-red-400'
 }
 
 export default async function DashboardPage() {
@@ -27,7 +20,6 @@ export default async function DashboardPage() {
 
   let cards = getAllScorecards()
 
-  // Filter by rep if not admin
   if (user.role !== 'admin' && user.repName) {
     cards = cards.filter(c => c.rep === user.repName)
   }
@@ -36,25 +28,35 @@ export default async function DashboardPage() {
     ? Math.round(cards.reduce((sum, c) => sum + (c.score / c.maxScore) * 100, 0) / cards.length)
     : 0
 
-  // Rep comparison for admin
   const joeCards = cards.filter(c => c.rep === 'Joe Meyers')
   const jcCards = cards.filter(c => c.rep === 'JC Ruiz')
+
   const joeAvg = joeCards.length ? Math.round(joeCards.reduce((s, c) => s + (c.score / c.maxScore) * 100, 0) / joeCards.length) : 0
   const jcAvg = jcCards.length ? Math.round(jcCards.reduce((s, c) => s + (c.score / c.maxScore) * 100, 0) / jcCards.length) : 0
+
+  // Joe: closed revenue
+  const closedRevenue = joeCards
+    .filter(c => c.closed && c.tier)
+    .reduce((sum, c) => sum + (c.tier ?? 0), 0)
+
+  // JC: meetings booked (growth sessions set)
+  const meetingsBooked = jcCards.filter(c => c.meetingBooked).length
 
   const recent = cards.slice(0, 5)
 
   return (
     <div className="space-y-8">
-      {/* Stats Row */}
+      {/* Top stats */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
         <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
-          <p className="text-gray-500 text-sm">Total Calls Scored</p>
+          <p className="text-gray-500 text-sm">Calls Scored</p>
           <p className="text-3xl font-bold text-white mt-1">{cards.length}</p>
         </div>
         <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
-          <p className="text-gray-500 text-sm">Average Score</p>
-          <p className={`text-3xl font-bold mt-1 ${scoreColor(avgScore, 100)}`}>{avgScore}%</p>
+          <p className="text-gray-500 text-sm">Avg Score</p>
+          <p className={`text-3xl font-bold mt-1 ${scoreColor(avgScore, 100)}`}>
+            {avgScore}<span className="text-lg text-gray-500">/100</span>
+          </p>
         </div>
         <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
           <p className="text-gray-500 text-sm">This Month</p>
@@ -64,33 +66,67 @@ export default async function DashboardPage() {
         </div>
       </div>
 
+      {/* Rep-specific counters */}
+      {(user.role === 'admin' || user.role === 'ae') && (
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          {/* Joe: Closed Revenue */}
+          <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
+            <p className="text-gray-500 text-sm">Joe — Closed MRR</p>
+            <p className="text-4xl font-bold text-green-400 mt-1">
+              ${closedRevenue.toLocaleString()}<span className="text-lg text-gray-500">/mo</span>
+            </p>
+            <p className="text-gray-600 text-xs mt-2">
+              {joeCards.filter(c => c.closed).length} deal{joeCards.filter(c => c.closed).length !== 1 ? 's' : ''} closed
+            </p>
+          </div>
+          {user.role === 'admin' && (
+            /* JC: Meetings Booked — admin only on this row */
+            <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
+              <p className="text-gray-500 text-sm">JC — Growth Sessions Set</p>
+              <p className="text-4xl font-bold text-purple-400 mt-1">{meetingsBooked}</p>
+              <p className="text-gray-600 text-xs mt-2">meetings booked from cold calls</p>
+            </div>
+          )}
+        </div>
+      )}
+
+      {user.role === 'sdr' && (
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
+            <p className="text-gray-500 text-sm">Growth Sessions Set</p>
+            <p className="text-4xl font-bold text-purple-400 mt-1">{meetingsBooked}</p>
+            <p className="text-gray-600 text-xs mt-2">meetings booked from cold calls</p>
+          </div>
+        </div>
+      )}
+
       {/* Rep Comparison — admin only */}
       {user.role === 'admin' && (
         <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
-          <h2 className="text-lg font-semibold text-white mb-4">Rep Comparison</h2>
-          <div className="grid grid-cols-2 gap-4">
+          <h2 className="text-lg font-semibold text-white mb-4">Rep Scores</h2>
+          <div className="grid grid-cols-2 gap-6">
             <div>
-              <p className="text-gray-400 text-sm mb-1">Joe Meyers (AE) — {joeCards.length} calls</p>
+              <p className="text-gray-400 text-sm mb-2">Joe Meyers (AE) — {joeCards.length} calls</p>
               <div className="flex items-center gap-3">
-                <div className="flex-1 bg-gray-800 rounded-full h-3">
+                <div className="flex-1 bg-gray-800 rounded-full h-2.5">
                   <div
-                    className={`h-3 rounded-full ${joeAvg >= 70 ? 'bg-green-500' : joeAvg >= 50 ? 'bg-yellow-500' : 'bg-red-500'}`}
+                    className={`h-2.5 rounded-full ${joeAvg >= 70 ? 'bg-green-500' : joeAvg >= 50 ? 'bg-yellow-500' : 'bg-red-500'}`}
                     style={{ width: `${joeAvg}%` }}
                   />
                 </div>
-                <span className={`text-sm font-bold ${scoreColor(joeAvg, 100)}`}>{joeAvg}%</span>
+                <span className={`text-sm font-bold w-14 ${scoreColor(joeAvg, 100)}`}>{joeAvg}/100</span>
               </div>
             </div>
             <div>
-              <p className="text-gray-400 text-sm mb-1">JC Ruiz (SDR) — {jcCards.length} calls</p>
+              <p className="text-gray-400 text-sm mb-2">JC Ruiz (SDR) — {jcCards.length} calls</p>
               <div className="flex items-center gap-3">
-                <div className="flex-1 bg-gray-800 rounded-full h-3">
+                <div className="flex-1 bg-gray-800 rounded-full h-2.5">
                   <div
-                    className={`h-3 rounded-full ${jcAvg >= 70 ? 'bg-green-500' : jcAvg >= 50 ? 'bg-yellow-500' : 'bg-red-500'}`}
+                    className={`h-2.5 rounded-full ${jcAvg >= 70 ? 'bg-green-500' : jcAvg >= 50 ? 'bg-yellow-500' : 'bg-red-500'}`}
                     style={{ width: `${jcAvg}%` }}
                   />
                 </div>
-                <span className={`text-sm font-bold ${scoreColor(jcAvg, 100)}`}>{jcAvg}%</span>
+                <span className={`text-sm font-bold w-14 ${scoreColor(jcAvg, 100)}`}>{jcAvg}/100</span>
               </div>
             </div>
           </div>
@@ -131,7 +167,7 @@ export default async function DashboardPage() {
                 </td>
                 <td className="px-6 py-4">
                   <span className={`text-sm font-bold ${scoreColor(card.score, card.maxScore)}`}>
-                    {Math.round((card.score / card.maxScore) * 100)}%
+                    {card.score}<span className="text-gray-600 text-xs">/{card.maxScore}</span>
                   </span>
                 </td>
                 <td className="px-6 py-4 text-sm text-gray-400">{card.outcome}</td>

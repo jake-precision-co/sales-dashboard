@@ -18,6 +18,9 @@ export type Scorecard = {
   outcome: string
   sections: SectionScore[]
   filePath: string
+  tier: number | null      // AE: deal value in dollars/mo
+  meetingBooked: boolean   // SDR: growth session set
+  closed: boolean          // AE: deal closed
 }
 
 const AE_DIR = path.join(process.cwd(), 'data/AE/scorecards')
@@ -29,7 +32,7 @@ function parseMarkdown(content: string, filePath: string, type: 'AE' | 'SDR'): S
     const dateMatch = content.match(/Date:\s+(\d{4}-\d{2}-\d{2})/i)
     const prospectMatch = content.match(/Prospect:\s+(.+)/i)
     const scoreMatch = content.match(/SCORE:\s+(\d+)\s*\/\s*(\d+)/i)
-    const outcomeMatch = content.match(/OUTCOME:\s*\[x\]\s+([^\[]+?)(?:\s*\[|$)/i)
+    const outcomeMatch = content.match(/OUTCOME:\s*\[x\]\s+([^\[]+?)(?:\s*\[|$|\n)/i)
 
     if (!repMatch || !dateMatch || !scoreMatch) return null
 
@@ -52,9 +55,20 @@ function parseMarkdown(content: string, filePath: string, type: 'AE' | 'SDR'): S
       })
     }
 
+    // Detect tier (AE)
+    let tier: number | null = null
+    const tierMatch = content.match(/Tier Discussed:.*?\[x\].*?\$(\d+)K/i)
+    if (tierMatch) tier = parseInt(tierMatch[1]) * 1000
+
+    // Detect closed (AE)
+    const closed = /OUTCOME:.*\[x\]\s*Closed/i.test(content)
+
+    // Detect meeting booked (SDR)
+    const meetingBooked = /OUTCOME:.*\[x\]\s*Meeting Booked/i.test(content)
+
     const id = path.basename(filePath, '.md')
 
-    return { id, rep, date, prospect, type, score, maxScore, outcome, sections, filePath }
+    return { id, rep, date, prospect, type, score, maxScore, outcome, sections, filePath, tier, meetingBooked, closed }
   } catch {
     return null
   }

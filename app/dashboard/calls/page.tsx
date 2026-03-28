@@ -62,7 +62,7 @@ export default async function CallsPage() {
                 </td>
                 <td className="px-6 py-4">
                   <span className={`text-sm font-bold ${scoreColor(card.score, card.maxScore)}`}>
-                    {Math.round((card.score / card.maxScore) * 100)}%
+                    {card.score}/{card.maxScore}
                   </span>
                   <span className="text-gray-600 text-xs ml-1">({card.score}/{card.maxScore})</span>
                 </td>
