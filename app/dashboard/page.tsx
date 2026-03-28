@@ -2,6 +2,7 @@ import { cookies } from 'next/headers'
 import { redirect } from 'next/navigation'
 import { getUser } from '@/lib/auth'
 import { getAllScorecards } from '@/lib/parseScorecard'
+import { getAELeaderboard, getSDRLeaderboard } from '@/lib/parseLeaderboard'
 import Link from 'next/link'
 import LiveStats from '@/components/LiveStats'
 
@@ -11,6 +12,8 @@ function scoreColor(score: number, max: number) {
   if (pct >= 50) return 'text-yellow-400'
   return 'text-red-400'
 }
+
+const MEDALS = ['🥇', '🥈', '🥉']
 
 export default async function DashboardPage() {
   const cookieStore = await cookies()
@@ -32,9 +35,10 @@ export default async function DashboardPage() {
   const jcCards = cards.filter(c => c.rep === 'JC Ruiz')
   const joeAvg = joeCards.length ? Math.round(joeCards.reduce((s, c) => s + (c.score / c.maxScore) * 100, 0) / joeCards.length) : 0
   const jcAvg = jcCards.length ? Math.round(jcCards.reduce((s, c) => s + (c.score / c.maxScore) * 100, 0) / jcCards.length) : 0
-
-  // JC: growth sessions set from scorecards
   const jcMeetingsBooked = jcCards.filter(c => c.meetingBooked).length
+
+  const aeTop3 = getAELeaderboard().slice(0, 3)
+  const sdrTop3 = getSDRLeaderboard().slice(0, 3)
 
   const recent = cards.slice(0, 5)
   const thisMonth = new Date().toISOString().slice(0, 7)
@@ -61,11 +65,10 @@ export default async function DashboardPage() {
         </div>
       </div>
 
-      {/* Revenue + Sessions — live from Close */}
+      {/* Live Revenue + Sessions */}
       {(user.role === 'admin' || user.role === 'ae') && (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <LiveStats role={user.role} />
-
           {user.role === 'admin' && (
             <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
               <div className="flex items-center justify-between mb-1">
@@ -76,12 +79,6 @@ export default async function DashboardPage() {
               <p className="text-gray-600 text-xs mt-2">meetings booked from cold calls</p>
             </div>
           )}
-        </div>
-      )}
-
-      {user.role === 'ae' && (
-        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          <LiveStats role={user.role} />
         </div>
       )}
 
@@ -118,6 +115,63 @@ export default async function DashboardPage() {
                 <span className={`text-sm font-bold w-16 ${scoreColor(jcAvg, 100)}`}>{jcAvg}/100</span>
               </div>
             </div>
+          </div>
+        </div>
+      )}
+
+      {/* Top 3 Leaderboards */}
+      {(user.role === 'admin' || user.role === 'ae') && aeTop3.length > 0 && (
+        <div className="bg-[#141414] border border-gray-800 rounded-xl overflow-hidden">
+          <div className="px-6 py-4 border-b border-gray-800 flex items-center justify-between">
+            <h2 className="text-lg font-semibold text-white">🏆 Joe — Top 3 Calls</h2>
+            <span className="text-xs text-gray-600">All time · by score</span>
+          </div>
+          <div className="divide-y divide-gray-800/50">
+            {aeTop3.map((entry, i) => (
+              <div key={i} className="px-6 py-4 flex items-center justify-between">
+                <div className="flex items-center gap-4">
+                  <span className="text-2xl">{MEDALS[i]}</span>
+                  <div>
+                    <p className="text-white font-medium text-sm">{entry.prospect}</p>
+                    <p className="text-gray-500 text-xs">{entry.company} · {entry.date}</p>
+                  </div>
+                </div>
+                <div className="text-right">
+                  <span className={`text-lg font-bold ${scoreColor(entry.score, 100)}`}>
+                    {entry.score}<span className="text-gray-600 text-xs">/100</span>
+                  </span>
+                  <p className="text-gray-600 text-xs">{entry.outcome}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {(user.role === 'admin' || user.role === 'sdr') && sdrTop3.length > 0 && (
+        <div className="bg-[#141414] border border-gray-800 rounded-xl overflow-hidden">
+          <div className="px-6 py-4 border-b border-gray-800 flex items-center justify-between">
+            <h2 className="text-lg font-semibold text-white">🏆 JC — Top 3 Calls</h2>
+            <span className="text-xs text-gray-600">All time · by score</span>
+          </div>
+          <div className="divide-y divide-gray-800/50">
+            {sdrTop3.map((entry, i) => (
+              <div key={i} className="px-6 py-4 flex items-center justify-between">
+                <div className="flex items-center gap-4">
+                  <span className="text-2xl">{MEDALS[i]}</span>
+                  <div>
+                    <p className="text-white font-medium text-sm">{entry.prospect}</p>
+                    <p className="text-gray-500 text-xs">{entry.company} · {entry.date}</p>
+                  </div>
+                </div>
+                <div className="text-right">
+                  <span className={`text-lg font-bold ${scoreColor(entry.score, 100)}`}>
+                    {entry.score}<span className="text-gray-600 text-xs">/100</span>
+                  </span>
+                  <p className="text-gray-600 text-xs">{entry.outcome}</p>
+                </div>
+              </div>
+            ))}
           </div>
         </div>
       )}
