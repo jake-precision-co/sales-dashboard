@@ -56,19 +56,19 @@ export default async function DashboardPage() {
 
       {/* Stats Row */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-        <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
-          <p className="text-gray-500 text-sm">Calls Scored</p>
-          <p className="text-3xl font-bold text-white mt-1">{cards.length}</p>
+        <div className="bg-[#141414] border border-gray-800 rounded-xl p-6 text-center">
+          <p className="text-xs font-bold tracking-widest text-gray-500 uppercase">All Time Calls Scored</p>
+          <p className="text-5xl font-bold text-white mt-3">{cards.length}</p>
         </div>
-        <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
-          <p className="text-gray-500 text-sm">Avg Score</p>
-          <p className={`text-3xl font-bold mt-1 ${scoreColor(avgScore, 100)}`}>
-            {avgScore}<span className="text-lg text-gray-500">/100</span>
+        <div className="bg-[#141414] border border-gray-800 rounded-xl p-6 text-center">
+          <p className="text-xs font-bold tracking-widest text-gray-500 uppercase">Avg Score</p>
+          <p className={`text-5xl font-bold mt-3 ${scoreColor(avgScore, 100)}`}>
+            {avgScore}<span className="text-2xl text-gray-500">/100</span>
           </p>
         </div>
-        <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
-          <p className="text-gray-500 text-sm">This Month</p>
-          <p className="text-3xl font-bold text-white mt-1">
+        <div className="bg-[#141414] border border-gray-800 rounded-xl p-6 text-center">
+          <p className="text-xs font-bold tracking-widest text-gray-500 uppercase">This Month Calls Scored</p>
+          <p className="text-5xl font-bold text-white mt-3">
             {cards.filter(c => c.date.startsWith(thisMonth)).length}
           </p>
         </div>
