@@ -30,7 +30,7 @@ export default function LoginPage() {
     <div className="min-h-screen flex items-center justify-center bg-[#0a0a0a]">
       <div className="w-full max-w-sm">
         <div className="text-center mb-8">
-          <h1 className="text-3xl font-bold text-white">🎬 Film Room</h1>
+          <h1 className="text-3xl font-bold text-white">⚡ The Alpha Board</h1>
           <p className="text-gray-500 mt-2 text-sm">Precision Sales</p>
         </div>
 

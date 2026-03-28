@@ -3,6 +3,7 @@ import { redirect } from 'next/navigation'
 import { getUser } from '@/lib/auth'
 import { getAllScorecards } from '@/lib/parseScorecard'
 import Link from 'next/link'
+import LiveStats from '@/components/LiveStats'
 
 function scoreColor(score: number, max: number) {
   const pct = (score / max) * 100
@@ -19,7 +20,6 @@ export default async function DashboardPage() {
   if (!user) redirect('/')
 
   let cards = getAllScorecards()
-
   if (user.role !== 'admin' && user.repName) {
     cards = cards.filter(c => c.rep === user.repName)
   }
@@ -30,23 +30,18 @@ export default async function DashboardPage() {
 
   const joeCards = cards.filter(c => c.rep === 'Joe Meyers')
   const jcCards = cards.filter(c => c.rep === 'JC Ruiz')
-
   const joeAvg = joeCards.length ? Math.round(joeCards.reduce((s, c) => s + (c.score / c.maxScore) * 100, 0) / joeCards.length) : 0
   const jcAvg = jcCards.length ? Math.round(jcCards.reduce((s, c) => s + (c.score / c.maxScore) * 100, 0) / jcCards.length) : 0
 
-  // Joe: closed revenue
-  const closedRevenue = joeCards
-    .filter(c => c.closed && c.tier)
-    .reduce((sum, c) => sum + (c.tier ?? 0), 0)
-
-  // JC: meetings booked (growth sessions set)
-  const meetingsBooked = jcCards.filter(c => c.meetingBooked).length
+  // JC: growth sessions set from scorecards
+  const jcMeetingsBooked = jcCards.filter(c => c.meetingBooked).length
 
   const recent = cards.slice(0, 5)
+  const thisMonth = new Date().toISOString().slice(0, 7)
 
   return (
     <div className="space-y-8">
-      {/* Top stats */}
+      {/* Stats Row */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
         <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
           <p className="text-gray-500 text-sm">Calls Scored</p>
@@ -61,32 +56,32 @@ export default async function DashboardPage() {
         <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
           <p className="text-gray-500 text-sm">This Month</p>
           <p className="text-3xl font-bold text-white mt-1">
-            {cards.filter(c => c.date.startsWith('2026-03')).length}
+            {cards.filter(c => c.date.startsWith(thisMonth)).length}
           </p>
         </div>
       </div>
 
-      {/* Rep-specific counters */}
+      {/* Revenue + Sessions — live from Close */}
       {(user.role === 'admin' || user.role === 'ae') && (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-          {/* Joe: Closed Revenue */}
-          <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
-            <p className="text-gray-500 text-sm">Joe — Closed MRR</p>
-            <p className="text-4xl font-bold text-green-400 mt-1">
-              ${closedRevenue.toLocaleString()}<span className="text-lg text-gray-500">/mo</span>
-            </p>
-            <p className="text-gray-600 text-xs mt-2">
-              {joeCards.filter(c => c.closed).length} deal{joeCards.filter(c => c.closed).length !== 1 ? 's' : ''} closed
-            </p>
-          </div>
+          <LiveStats role={user.role} />
+
           {user.role === 'admin' && (
-            /* JC: Meetings Booked — admin only on this row */
             <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
-              <p className="text-gray-500 text-sm">JC — Growth Sessions Set</p>
-              <p className="text-4xl font-bold text-purple-400 mt-1">{meetingsBooked}</p>
+              <div className="flex items-center justify-between mb-1">
+                <p className="text-gray-500 text-sm">JC — Growth Sessions Set</p>
+                <span className="text-xs text-gray-600 bg-gray-800 px-2 py-0.5 rounded-full">From scorecards</span>
+              </div>
+              <p className="text-4xl font-bold text-purple-400">{jcMeetingsBooked}</p>
               <p className="text-gray-600 text-xs mt-2">meetings booked from cold calls</p>
             </div>
           )}
+        </div>
+      )}
+
+      {user.role === 'ae' && (
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <LiveStats role={user.role} />
         </div>
       )}
 
@@ -94,7 +89,7 @@ export default async function DashboardPage() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
             <p className="text-gray-500 text-sm">Growth Sessions Set</p>
-            <p className="text-4xl font-bold text-purple-400 mt-1">{meetingsBooked}</p>
+            <p className="text-4xl font-bold text-purple-400 mt-1">{jcMeetingsBooked}</p>
             <p className="text-gray-600 text-xs mt-2">meetings booked from cold calls</p>
           </div>
         </div>
@@ -109,24 +104,18 @@ export default async function DashboardPage() {
               <p className="text-gray-400 text-sm mb-2">Joe Meyers (AE) — {joeCards.length} calls</p>
               <div className="flex items-center gap-3">
                 <div className="flex-1 bg-gray-800 rounded-full h-2.5">
-                  <div
-                    className={`h-2.5 rounded-full ${joeAvg >= 70 ? 'bg-green-500' : joeAvg >= 50 ? 'bg-yellow-500' : 'bg-red-500'}`}
-                    style={{ width: `${joeAvg}%` }}
-                  />
+                  <div className={`h-2.5 rounded-full ${joeAvg >= 70 ? 'bg-green-500' : joeAvg >= 50 ? 'bg-yellow-500' : 'bg-red-500'}`} style={{ width: `${joeAvg}%` }} />
                 </div>
-                <span className={`text-sm font-bold w-14 ${scoreColor(joeAvg, 100)}`}>{joeAvg}/100</span>
+                <span className={`text-sm font-bold w-16 ${scoreColor(joeAvg, 100)}`}>{joeAvg}/100</span>
               </div>
             </div>
             <div>
               <p className="text-gray-400 text-sm mb-2">JC Ruiz (SDR) — {jcCards.length} calls</p>
               <div className="flex items-center gap-3">
                 <div className="flex-1 bg-gray-800 rounded-full h-2.5">
-                  <div
-                    className={`h-2.5 rounded-full ${jcAvg >= 70 ? 'bg-green-500' : jcAvg >= 50 ? 'bg-yellow-500' : 'bg-red-500'}`}
-                    style={{ width: `${jcAvg}%` }}
-                  />
+                  <div className={`h-2.5 rounded-full ${jcAvg >= 70 ? 'bg-green-500' : jcAvg >= 50 ? 'bg-yellow-500' : 'bg-red-500'}`} style={{ width: `${jcAvg}%` }} />
                 </div>
-                <span className={`text-sm font-bold w-14 ${scoreColor(jcAvg, 100)}`}>{jcAvg}/100</span>
+                <span className={`text-sm font-bold w-16 ${scoreColor(jcAvg, 100)}`}>{jcAvg}/100</span>
               </div>
             </div>
           </div>
