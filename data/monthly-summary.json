@@ -1,9 +1,17 @@
 {
   "month": "2026-03",
-  "generated": "2026-03-27T22:38:36.863687",
+  "generated": "2026-03-27T22:49:06.459974",
   "joe": {
     "closedAnnualRevenue": 108000,
-    "dealsCount": 6
+    "dealsCount": 6,
+    "deals": [
+      "GAVBIZ",
+      "Alex Le",
+      "Brad Powell",
+      "Credit Butterfly",
+      "MovingLetters.ai",
+      "Kleen Corporation"
+    ]
   },
   "jc": {
     "growthSessionsSet": 18
