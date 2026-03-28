@@ -20,8 +20,8 @@ export type Scorecard = {
   filePath: string
 }
 
-const AE_DIR = '/Users/bettyjoe/.openclaw/workspace/vault/CRO/Call-Transcripts/AE/scorecards'
-const SDR_DIR = '/Users/bettyjoe/.openclaw/workspace/vault/CRO/Call-Transcripts/SDR/scorecards'
+const AE_DIR = path.join(process.cwd(), 'data/AE/scorecards')
+const SDR_DIR = path.join(process.cwd(), 'data/SDR/scorecards')
 
 function parseMarkdown(content: string, filePath: string, type: 'AE' | 'SDR'): Scorecard | null {
   try {
