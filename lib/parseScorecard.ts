@@ -77,15 +77,24 @@ function parseMarkdown(content: string, filePath: string, type: 'AE' | 'SDR'): S
 export function getAllScorecards(): Scorecard[] {
   const cards: Scorecard[] = []
 
-  for (const [dir, type] of [[AE_DIR, 'AE'], [SDR_DIR, 'SDR']] as [string, 'AE' | 'SDR'][]) {
-    if (!fs.existsSync(dir)) continue
-    const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'))
-    for (const file of files) {
-      const filePath = path.join(dir, file)
-      const content = fs.readFileSync(filePath, 'utf-8')
-      const card = parseMarkdown(content, filePath, type)
-      if (card) cards.push(card)
+  try {
+    for (const [dir, type] of [[AE_DIR, 'AE'], [SDR_DIR, 'SDR']] as [string, 'AE' | 'SDR'][]) {
+      if (!fs.existsSync(dir)) continue
+      const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'))
+      for (const file of files) {
+        try {
+          const filePath = path.join(dir, file)
+          const content = fs.readFileSync(filePath, 'utf-8')
+          const card = parseMarkdown(content, filePath, type)
+          if (card) cards.push(card)
+        } catch (err) {
+          console.error(`Error reading scorecard ${file}:`, err)
+        }
+      }
     }
+  } catch (err) {
+    console.error('Error loading scorecards:', err)
+    return []
   }
 
   return cards.sort((a, b) => b.date.localeCompare(a.date))

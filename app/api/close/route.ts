@@ -21,6 +21,15 @@ function toAnnual(value: number, period: string): number {
 
 export async function GET() {
   try {
+    if (!CLOSE_API_KEY) {
+      console.error('CLOSE_API_KEY not configured')
+      return NextResponse.json({ 
+        joeAnnualRevenue: 0, 
+        joeDealsCount: 0, 
+        month: `${new Date().toLocaleString('default', { month: 'long' })} ${new Date().getFullYear()}` 
+      })
+    }
+
     const { start, end } = getMonthRange()
     const auth = Buffer.from(`${CLOSE_API_KEY}:`).toString('base64')
 
@@ -46,6 +55,10 @@ export async function GET() {
     })
   } catch (err) {
     console.error('Close API error:', err)
-    return NextResponse.json({ error: 'Failed to fetch Close data' }, { status: 500 })
+    return NextResponse.json({ 
+      joeAnnualRevenue: 0, 
+      joeDealsCount: 0, 
+      month: `${new Date().toLocaleString('default', { month: 'long' })} ${new Date().getFullYear()}` 
+    })
   }
 }
