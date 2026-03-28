@@ -1,15 +1,14 @@
 import { cookies } from 'next/headers'
-import { redirect } from 'next/navigation'
 import { getUser } from '@/lib/auth'
 import LogoutButton from '@/components/LogoutButton'
 
 export default async function DashboardLayout({ children }: { children: React.ReactNode }) {
   const cookieStore = await cookies()
   const username = cookieStore.get('user')?.value
-  if (!username) redirect('/')
 
-  const user = getUser(username)
-  if (!user) redirect('/')
+  // Middleware handles auth redirect, so username should always exist here
+  // Get user for role info
+  const user = getUser(username || '')
 
   return (
     <div className="min-h-screen bg-[#0a0a0a]">
@@ -22,7 +21,7 @@ export default async function DashboardLayout({ children }: { children: React.Re
           </div>
           <div className="flex items-center gap-4">
             <span className="text-sm text-gray-400">
-              {user.role === 'admin' ? '👑 ' : ''}{username}
+              {user?.role === 'admin' ? '👑 ' : ''}{username}
             </span>
             <LogoutButton />
           </div>

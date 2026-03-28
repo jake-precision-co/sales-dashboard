@@ -1,5 +1,4 @@
 import { cookies } from 'next/headers'
-import { redirect } from 'next/navigation'
 import { getUser } from '@/lib/auth'
 import { getAllScorecards } from '@/lib/parseScorecard'
 import { getAELeaderboard, getSDRLeaderboard } from '@/lib/parseLeaderboard'
@@ -18,12 +17,10 @@ const MEDALS = ['🥇', '🥈', '🥉']
 export default async function DashboardPage() {
   const cookieStore = await cookies()
   const username = cookieStore.get('user')?.value
-  if (!username) redirect('/')
-  const user = getUser(username)
-  if (!user) redirect('/')
+  const user = getUser(username || '')
 
   let cards = getAllScorecards()
-  if (user.role !== 'admin' && user.repName) {
+  if (user && user.role !== 'admin' && user.repName) {
     cards = cards.filter(c => c.rep === user.repName)
   }
 
@@ -66,7 +63,7 @@ export default async function DashboardPage() {
       </div>
 
       {/* Live Revenue + Sessions */}
-      {(user.role === 'admin' || user.role === 'ae') && (
+      {user && (user.role === 'admin' || user.role === 'ae') && (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <LiveStats role={user.role} />
           {user.role === 'admin' && (
@@ -82,7 +79,7 @@ export default async function DashboardPage() {
         </div>
       )}
 
-      {user.role === 'sdr' && (
+      {user && user.role === 'sdr' && (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
           <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
             <p className="text-gray-500 text-sm">Growth Sessions Set</p>
@@ -93,7 +90,7 @@ export default async function DashboardPage() {
       )}
 
       {/* Rep Comparison — admin only */}
-      {user.role === 'admin' && (
+      {user && user.role === 'admin' && (
         <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
           <h2 className="text-lg font-semibold text-white mb-4">Rep Scores</h2>
           <div className="grid grid-cols-2 gap-6">
@@ -120,7 +117,7 @@ export default async function DashboardPage() {
       )}
 
       {/* Top 3 Leaderboards */}
-      {(user.role === 'admin' || user.role === 'ae') && aeTop3.length > 0 && (
+      {user && (user.role === 'admin' || user.role === 'ae') && aeTop3.length > 0 && (
         <div className="bg-[#141414] border border-gray-800 rounded-xl overflow-hidden">
           <div className="px-6 py-4 border-b border-gray-800 flex items-center justify-between">
             <h2 className="text-lg font-semibold text-white">🏆 Joe — Top 3 Calls</h2>
@@ -148,7 +145,7 @@ export default async function DashboardPage() {
         </div>
       )}
 
-      {(user.role === 'admin' || user.role === 'sdr') && sdrTop3.length > 0 && (
+      {user && (user.role === 'admin' || user.role === 'sdr') && sdrTop3.length > 0 && (
         <div className="bg-[#141414] border border-gray-800 rounded-xl overflow-hidden">
           <div className="px-6 py-4 border-b border-gray-800 flex items-center justify-between">
             <h2 className="text-lg font-semibold text-white">🏆 JC — Top 3 Calls</h2>
@@ -187,7 +184,7 @@ export default async function DashboardPage() {
             <tr className="text-left text-xs text-gray-500 border-b border-gray-800">
               <th className="px-6 py-3">Date</th>
               <th className="px-6 py-3">Prospect</th>
-              {user.role === 'admin' && <th className="px-6 py-3">Rep</th>}
+              {user && user.role === 'admin' && <th className="px-6 py-3">Rep</th>}
               <th className="px-6 py-3">Type</th>
               <th className="px-6 py-3">Score</th>
               <th className="px-6 py-3">Outcome</th>
@@ -202,7 +199,7 @@ export default async function DashboardPage() {
                     {card.prospect.split(' — ')[0]}
                   </Link>
                 </td>
-                {user.role === 'admin' && <td className="px-6 py-4 text-sm text-gray-400">{card.rep}</td>}
+                {user && user.role === 'admin' && <td className="px-6 py-4 text-sm text-gray-400">{card.rep}</td>}
                 <td className="px-6 py-4">
                   <span className={`text-xs px-2 py-0.5 rounded-full border ${card.type === 'AE' ? 'border-blue-500/30 text-blue-400 bg-blue-400/10' : 'border-purple-500/30 text-purple-400 bg-purple-400/10'}`}>
                     {card.type}

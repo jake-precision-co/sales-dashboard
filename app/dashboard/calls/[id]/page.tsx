@@ -23,15 +23,13 @@ export default async function CallDetailPage({ params }: { params: Promise<{ id:
   const { id } = await params
   const cookieStore = await cookies()
   const username = cookieStore.get('user')?.value
-  if (!username) redirect('/')
-  const user = getUser(username)
-  if (!user) redirect('/')
+  const user = getUser(username || '')
 
   const card = getScorecardById(id)
   if (!card) notFound()
 
-  // Access control
-  if (user.role !== 'admin' && user.repName && card.rep !== user.repName) {
+  // Access control - middleware ensures user exists
+  if (user && user.role !== 'admin' && user.repName && card.rep !== user.repName) {
     redirect('/dashboard')
   }
 

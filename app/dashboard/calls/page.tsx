@@ -1,5 +1,4 @@
 import { cookies } from 'next/headers'
-import { redirect } from 'next/navigation'
 import { getUser } from '@/lib/auth'
 import { getAllScorecards } from '@/lib/parseScorecard'
 import Link from 'next/link'
@@ -14,12 +13,10 @@ function scoreColor(score: number, max: number) {
 export default async function CallsPage() {
   const cookieStore = await cookies()
   const username = cookieStore.get('user')?.value
-  if (!username) redirect('/')
-  const user = getUser(username)
-  if (!user) redirect('/')
+  const user = getUser(username || '')
 
   let cards = getAllScorecards()
-  if (user.role !== 'admin' && user.repName) {
+  if (user && user.role !== 'admin' && user.repName) {
     cards = cards.filter(c => c.rep === user.repName)
   }
 
@@ -37,7 +34,7 @@ export default async function CallsPage() {
             <tr className="text-left text-xs text-gray-500 border-b border-gray-800">
               <th className="px-6 py-3">Date</th>
               <th className="px-6 py-3">Prospect</th>
-              {user.role === 'admin' && <th className="px-6 py-3">Rep</th>}
+              {user && user.role === 'admin' && <th className="px-6 py-3">Rep</th>}
               <th className="px-6 py-3">Type</th>
               <th className="px-6 py-3">Score</th>
               <th className="px-6 py-3">Outcome</th>
@@ -54,7 +51,7 @@ export default async function CallsPage() {
                     <span className="text-gray-500 font-normal"> · {card.prospect.split(' — ').slice(1).join(' ')}</span>
                   )}
                 </td>
-                {user.role === 'admin' && <td className="px-6 py-4 text-sm text-gray-400">{card.rep}</td>}
+                {user && user.role === 'admin' && <td className="px-6 py-4 text-sm text-gray-400">{card.rep}</td>}
                 <td className="px-6 py-4">
                   <span className={`text-xs px-2 py-0.5 rounded-full border ${card.type === 'AE' ? 'border-blue-500/30 text-blue-400 bg-blue-400/10' : 'border-purple-500/30 text-purple-400 bg-purple-400/10'}`}>
                     {card.type}
