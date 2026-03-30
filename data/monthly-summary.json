@@ -1,10 +1,11 @@
 {
   "month": "2026-03",
-  "generated": "2026-03-30T09:25:00.509460",
+  "generated": "2026-03-30T15:50:20.767053",
   "joe": {
-    "closedAnnualRevenue": 108000,
-    "dealsCount": 6,
+    "closedAnnualRevenue": 120000,
+    "dealsCount": 7,
     "deals": [
+      "Studio Sweat onDemand",
       "GAVBIZ",
       "Alex Le",
       "Brad Powell",
@@ -14,9 +15,9 @@
     ]
   },
   "jc": {
-    "growthSessionsSet": 18
+    "growthSessionsSet": 19
   },
   "avgAEScore": 64,
-  "avgSDRScore": 50,
-  "totalCallsScored": 31
+  "avgSDRScore": 51,
+  "totalCallsScored": 32
 }
