@@ -22,7 +22,8 @@ _Last updated: 2026-03-30_
 | 16 | JC Ruiz | Johann Karason | dent & buckle | 39/100 🔴 | DQ'd | 2026-03-27 |
 | 17 | JC Ruiz | Brandon Young | Data Dive Tools | 31/100 🔴 | No Next Step | 2026-03-27 |
 | 18 | JC Ruiz | Rob | Aquanomix | 30/100 🔴 | No Next Step | 2026-03-24 |
-| 19 | JC Ruiz | Jake | Agency | 19/100 🔴 | No Next Step | 2026-03-20 |
+| 19 | JC Ruiz | Peter Christensen | CLDigital | 19/96 🔴 | No Next Step | 2026-03-25 |
+| 20 | JC Ruiz | Jake | Agency | 19/100 🔴 | No Next Step | 2026-03-20 |
 
 ---
 
