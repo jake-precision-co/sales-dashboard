@@ -1,6 +1,6 @@
 # SDR Cold Call Leaderboard 🏆
 
-_Last updated: 2026-03-27_
+_Last updated: 2026-03-30_
 
 | Rank | Rep | Prospect | Company | Score | Outcome | Date |
 |------|-----|----------|---------|-------|---------|------|
@@ -18,9 +18,10 @@ _Last updated: 2026-03-27_
 | 12 | JC Ruiz | Garrett Campbell | Objectionly | 48/100 🔴 | Booked | 2026-03-12 |
 | 13 | JC Ruiz | Scott Messick | Analyst1 | 43/100 🔴 | Booked | 2026-03-25 |
 | 14 | JC Ruiz | Jonathan | Unknown | 42/100 🔴 | No Next Step | 2026-03-23 |
-| 15 | JC Ruiz | Brandon Young | Data Dive Tools | 31/100 🔴 | No Next Step | 2026-03-27 |
-| 16 | JC Ruiz | Rob | Aquanomix | 30/100 🔴 | No Next Step | 2026-03-24 |
-| 17 | JC Ruiz | Jake | Agency | 19/100 🔴 | No Next Step | 2026-03-20 |
+| 15 | JC Ruiz | Johann Karason | dent & buckle | 39/100 🔴 | DQ'd | 2026-03-27 |
+| 16 | JC Ruiz | Brandon Young | Data Dive Tools | 31/100 🔴 | No Next Step | 2026-03-27 |
+| 17 | JC Ruiz | Rob | Aquanomix | 30/100 🔴 | No Next Step | 2026-03-24 |
+| 18 | JC Ruiz | Jake | Agency | 19/100 🔴 | No Next Step | 2026-03-20 |
 
 ---
 
