@@ -1,12 +1,14 @@
 {
   "month": "2026-03",
-  "generated": "2026-03-31T08:45:45.245712",
+  "generated": "2026-03-31T16:32:33.906052",
   "joe": {
-    "closedAnnualRevenue": 120000,
-    "dealsCount": 7,
+    "closedAnnualRevenue": 156000,
+    "dealsCount": 9,
     "deals": [
+      "Be There Immersive",
       "Studio Sweat onDemand",
       "GAVBIZ",
+      "Inline Communications Inc.",
       "Alex Le",
       "Brad Powell",
       "Credit Butterfly",
@@ -19,5 +21,5 @@
   },
   "avgAEScore": 64,
   "avgSDRScore": 52,
-  "totalCallsScored": 35
+  "totalCallsScored": 36
 }
