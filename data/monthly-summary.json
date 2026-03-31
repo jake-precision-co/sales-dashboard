@@ -1,6 +1,6 @@
 {
   "month": "2026-03",
-  "generated": "2026-03-31T08:09:50.924672",
+  "generated": "2026-03-31T08:45:25.550815",
   "joe": {
     "closedAnnualRevenue": 120000,
     "dealsCount": 7,
@@ -18,6 +18,6 @@
     "growthSessionsSet": 21
   },
   "avgAEScore": 64,
-  "avgSDRScore": 51,
-  "totalCallsScored": 33
+  "avgSDRScore": 52,
+  "totalCallsScored": 35
 }
