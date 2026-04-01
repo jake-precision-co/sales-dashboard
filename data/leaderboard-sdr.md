@@ -23,12 +23,16 @@ _Last updated: 2026-03-31_
 | 17 | JC Ruiz | Scott Messick | Analyst1 | 43/100 🔴 | Booked | 2026-03-25 |
 | 18 | JC Ruiz | Jonathan | Unknown | 42/100 🔴 | No Next Step | 2026-03-23 |
 | 19 | JC Ruiz | Johann Karason | dent & buckle | 39/100 🔴 | DQ'd | 2026-03-27 |
-| 20 | JC Ruiz | Brandon Young | Data Dive Tools | 31/100 🔴 | No Next Step | 2026-03-27 |
+| 20 | JC Ruiz | Jake | Agency (Unknown) | 19/100 🔴 | No Next Step | 2026-03-20 |
 
 ---
+
+_Note: Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100) from 2026-03-31 did not rank in top 20._
 
 ## Notes
 - 🥇🥈🥉 denote top 3 positions
 - Scores are color-coded: 🟢 (80+) | 🟡 (70-79) | 🟠 (60-69) | 🔴 (<60)
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
+
+_Last updated: 2026-04-01_
