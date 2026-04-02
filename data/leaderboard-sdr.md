@@ -1,19 +1,19 @@
 # SDR Cold Call Leaderboard 🏆
 
-_Last updated: 2026-03-31_
+_Last updated: 2026-04-01_
 
 | Rank | Rep | Prospect | Company | Score | Outcome | Date |
 |------|-----|----------|---------|-------|---------|------|
 | 🥇 1 | JC Ruiz | Jaan Apajalahti | Romify | 72/100 🟠 | Booked | 2026-03-10 |
 | 🥈 2 | JC Ruiz | Fresnel Verna | Unknown | 70/100 🟠 | Callback Set | 2026-03-25 |
-| 🥉 3 | JC Ruiz | Khabir Muhammad | Creditfixrr | 68/100 🟠 | Booked | 2026-03-30 |
-| 4 | JC Ruiz | Daniel Segurola | AI Scaling | 67/100 🟠 | Booked | 2026-03-30 |
-| 5 | JC Ruiz | Jonathan Cardenas | Andicar | 64/100 🟠 | Booked | 2026-03-24 |
-| 6 | JC Ruiz | Roman Fedgers | Inline Con | 62/100 🟠 | Booked | 2026-03-23 |
-| 7 | JC Ruiz | Graham Walker | ATS | 61/100 🟠 | DQ'd | 2026-03-25 |
-| 8 | JC Ruiz | Casey Zeman | EasyWebinar | 58/100 🔴 | No Meeting | 2026-03-30 |
-| 9 | JC Ruiz | Zhiwen Tan | CareConnect | 58/100 🔴 | Callback Set | 2026-03-25 |
-| 10 | JC Ruiz | Brian Green | Audience | 55/100 🔴 | Callback Set | 2026-03-26 |
+| 🥉 3 | JC Ruiz | Daniel Segurola | AI Scaling | 67/100 🟠 | Booked | 2026-03-30 |
+| 4 | JC Ruiz | Jonathan Cardenas | Andicar | 64/100 🟠 | Booked | 2026-03-24 |
+| 5 | JC Ruiz | Roman Fedgers | Inline Con | 62/100 🟠 | Booked | 2026-03-23 |
+| 6 | JC Ruiz | Graham Walker | ATS | 61/100 🟠 | DQ'd | 2026-03-25 |
+| 7 | JC Ruiz | Casey Zeman | EasyWebinar | 58/100 🔴 | No Meeting | 2026-03-30 |
+| 8 | JC Ruiz | Zhiwen Tan | CareConnect | 58/100 🔴 | Callback Set | 2026-03-25 |
+| 9 | JC Ruiz | Brian Green | Audience | 55/100 🔴 | Callback Set | 2026-03-26 |
+| 10 | JC Ruiz | Khabir Muhammad | Creditfixrr | 53/100 🔴 (v2) | Booked | 2026-03-30 |
 | 11 | JC Ruiz | Pedro Uahib | Shack Shine | 53/100 🔴 | Booked | 2026-03-09 |
 | 12 | JC Ruiz | Einar Saevarsson | Activity Stream | 52/100 🔴 | Callback Set | 2026-03-26 |
 | 13 | JC Ruiz | Cole Dinney | dinneyclean.com | 50/100 🔴 | No Next Step | 2026-03-25 |
