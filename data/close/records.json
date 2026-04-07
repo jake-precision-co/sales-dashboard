@@ -1,0 +1,41 @@
+{
+  "allTime": {
+    "revenue": {
+      "amount": 36000,
+      "rep": "Joe Meyers",
+      "date": "2026-03-26"
+    },
+    "sets": {
+      "amount": 3,
+      "rep": "JC Ruiz",
+      "date": "2026-03-30"
+    }
+  },
+  "bestDay": {
+    "revenue": {
+      "amount": 36000,
+      "rep": "Joe Meyers",
+      "date": "2026-03-26"
+    },
+    "dials": {
+      "amount": 0,
+      "rep": "JC Ruiz",
+      "date": ""
+    },
+    "sets": {
+      "amount": 3,
+      "rep": "JC Ruiz",
+      "date": "2026-03-30"
+    }
+  },
+  "bestMonth": {
+    "revenue": {
+      "amount": 48000,
+      "month": "March 2026"
+    },
+    "sets": {
+      "amount": 5,
+      "month": "March 2026"
+    }
+  }
+}

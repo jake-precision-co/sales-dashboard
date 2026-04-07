@@ -1,0 +1,18 @@
+{
+  "month": "2026-04",
+  "monthName": "April 2026",
+  "daysElapsed": 1,
+  "daysInMonth": 30,
+  "dials": 93,
+  "sets": 0,
+  "closes": 2,
+  "revenue": 36000,
+  "dealsWon": 2,
+  "callsScored": 5,
+  "avgScore": 38,
+  "prevMonth": {
+    "revenue": 192000,
+    "sets": 21,
+    "closes": 11
+  }
+}

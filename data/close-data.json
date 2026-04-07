@@ -1,0 +1,906 @@
+{
+  "lastUpdated": "2026-04-01T22:26:04-0400",
+  "today": {
+    "date": "2026-04-01",
+    "dials": 93,
+    "sets": 0,
+    "closes": 2,
+    "revenue": 36000,
+    "calls": [
+      {
+        "id": "acti_hrWmO2GYyjz10Mjs61CTJTkJ8AtliO1IFqdiCT7o0ge",
+        "duration": 447,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjZv1aQqtI7AYRmE",
+        "leadName": "Nautilus AV",
+        "leadId": "lead_cbX8M0Ae0b1SLvM2ZFSU1cplcPjjAR1sfkHAgQNMLAL"
+      },
+      {
+        "id": "acti_vgbYRkYiOH5POOqGfTiNMECtKbXFiOrng16aMH5wAPl",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Briq",
+        "leadId": "lead_RKCNFYXqz4b8LyMydmfrJpO0LlZlNvbzthiq4u7P9h8"
+      },
+      {
+        "id": "acti_pbpyxWcBjGL6r7uRz3oHQ2DodEJoRELLirdoL41Zz19",
+        "duration": 19,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Briq",
+        "leadId": "lead_RKCNFYXqz4b8LyMydmfrJpO0LlZlNvbzthiq4u7P9h8"
+      },
+      {
+        "id": "acti_czPNZuVx9RXODt2E37PJbdjJqQsT8hRDPD9piZwJC0D",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Beth",
+        "leadId": "lead_sQg7FET2ISUusYMlxA29OYPTM9tRtLaInJEPblX1tep"
+      },
+      {
+        "id": "acti_wAWL36sojUp6umniZCq6m0XCkqB701x516e4zkAYQZ8",
+        "duration": 7,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Beth",
+        "leadId": "lead_sQg7FET2ISUusYMlxA29OYPTM9tRtLaInJEPblX1tep"
+      },
+      {
+        "id": "acti_5aDurnCCAoPMXGPqBsIgFWrFx23uWG2L4fhVSczagGi",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Engagedly Inc",
+        "leadId": "lead_KWGK91iApxb6oqti7ruQ13UniC0cFJ5ktTE8tPE44eI"
+      },
+      {
+        "id": "acti_tFc0SiHzG4NMga9DJABngbsGyS0aUNz8vlid7AbcOi4",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Engagedly Inc",
+        "leadId": "lead_KWGK91iApxb6oqti7ruQ13UniC0cFJ5ktTE8tPE44eI"
+      },
+      {
+        "id": "acti_6dhQtpngs0ky1YBnLwJiepnsoDm7CkhRliPEtzNoW46",
+        "duration": 877,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtk46ZyzptbVTCgsv",
+        "leadName": "Pbmr.org",
+        "leadId": "lead_LAD7qe7iwUiwt8AGCO9NocjHhu1evkiLkiqGVaMUbwP"
+      },
+      {
+        "id": "acti_JTE8HNLz0iIejBaZhFl9tnsuodxw9lQELboUZD2JXCT",
+        "duration": 113,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtk46ZyzptbVTCgsv",
+        "leadName": "Enflux",
+        "leadId": "lead_Mux87Gc3aMsYk4Rug9gLlG8CCzGuLVDo0WQPsgzXqGp"
+      },
+      {
+        "id": "acti_wVdJ90k861Utv4bXmk7Bs7U2RG1IxIuDaCuwbP9MRIU",
+        "duration": 41,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Enflux",
+        "leadId": "lead_Mux87Gc3aMsYk4Rug9gLlG8CCzGuLVDo0WQPsgzXqGp"
+      },
+      {
+        "id": "acti_RiHDRBRA5ULOVOGFEYiiSssKVF9GBJ9J6PTUGhbsGan",
+        "duration": 31,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "EP Documents",
+        "leadId": "lead_gPabfVms21T84N8WAPwRef6sqAarOko85Zasd3OV5WO"
+      },
+      {
+        "id": "acti_PSFEP7mqMOcFe5dwueSLrXZz9odib0mb4Hohbk9BXY8",
+        "duration": 31,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "EP Documents",
+        "leadId": "lead_gPabfVms21T84N8WAPwRef6sqAarOko85Zasd3OV5WO"
+      },
+      {
+        "id": "acti_IWOzv2AWlNTHmhGigurbdhP2TFghvLBesdLjYyORAky",
+        "duration": 82,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjZv1aQqtI7AYRmE",
+        "leadName": "emptrust.com",
+        "leadId": "lead_QVGu388fHyGbmpsDr1ci2YQPbiZ3FGfEPBMNkX9jkNs"
+      },
+      {
+        "id": "acti_EEEshPozTAdi1HlPWX1GR5UVrxqnbgNWpuUhwCBvHBi",
+        "duration": 17,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Enerex",
+        "leadId": "lead_3CmMtHxt648BxZ3Ol2BOnPk6EIb69IMXDCzRau9EvC0"
+      },
+      {
+        "id": "acti_oI9vGizrpfx4tSopb6gLHv2iujfnHs2FqFrb3ASvk6D",
+        "duration": 31,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Enerex",
+        "leadId": "lead_3CmMtHxt648BxZ3Ol2BOnPk6EIb69IMXDCzRau9EvC0"
+      },
+      {
+        "id": "acti_TRFhDVDTDIm7pOckWsIlvyOOOHSFijOeu5gq9kV88CG",
+        "duration": 3,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "eComEngine LLC",
+        "leadId": "lead_kqJRuVoFBpsaoEqvXher7z8q4chuksU1Y2Fg9gsGhMT"
+      },
+      {
+        "id": "acti_Q0T8Ubmi7hI9kH2Q9D2udRqK3qm68zEglHtB5rWuUiS",
+        "duration": 3,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "eComEngine LLC",
+        "leadId": "lead_kqJRuVoFBpsaoEqvXher7z8q4chuksU1Y2Fg9gsGhMT"
+      },
+      {
+        "id": "acti_74LpuNe1zJnijIFXGIrK2J3il6hSOhhPifz0ouac3bd",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Fairmatic",
+        "leadId": "lead_VGpSMlyfp41AJ6Y1Q8iHoHIbp2RbbmvW7n4Tza9nGhC"
+      },
+      {
+        "id": "acti_OEYtQSlLkgSaOFLcoPRq3dPQwAbKgZXOD08F6ceYiuk",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Fairmatic",
+        "leadId": "lead_VGpSMlyfp41AJ6Y1Q8iHoHIbp2RbbmvW7n4Tza9nGhC"
+      },
+      {
+        "id": "acti_YFwnKOps08S1wz5XWM1HY4gtMnZBORtNZEQ9QmsheOo",
+        "duration": 3,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Eyeson.team",
+        "leadId": "lead_g2s6fqJv6H9s8kd7ojxzQcfzcTDDa0bJOJMfpWE0cvZ"
+      },
+      {
+        "id": "acti_YLIziRDHlatvRNJDGn6HifTZNR56HUZUcnZukDCm9Vx",
+        "duration": 3,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Eyeson.team",
+        "leadId": "lead_g2s6fqJv6H9s8kd7ojxzQcfzcTDDa0bJOJMfpWE0cvZ"
+      },
+      {
+        "id": "acti_cbqkoz3nQfQt3ataAgEOpXgpsm40nYxDEieS6BVOyYy",
+        "duration": 3,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Expedite Commerce",
+        "leadId": "lead_efRVh6CCQrXOKrPF2mTuJ1shWjbmJ7MrywrZaDco2Pd"
+      },
+      {
+        "id": "acti_0I9iApPBEpsvfROFNaT8RS5Y2gDiY8lP8JratdwrIJi",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Expedite Commerce",
+        "leadId": "lead_efRVh6CCQrXOKrPF2mTuJ1shWjbmJ7MrywrZaDco2Pd"
+      },
+      {
+        "id": "acti_d8BhPNuI27DFyHXP4VuOxmJucOh30Uwvqpua5mcEDsO",
+        "duration": 0,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Exemplarcapitalist",
+        "leadId": "lead_dbmcCHIS77gIeAtoVMWJbTj3np80AOVdAztWVdVBXh1"
+      },
+      {
+        "id": "acti_ww5chMHlXqg8RNA0y5hkMUMrzXqOwIw4LYJt7ZTUQT6",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Exemplarcapitalist",
+        "leadId": "lead_dbmcCHIS77gIeAtoVMWJbTj3np80AOVdAztWVdVBXh1"
+      },
+      {
+        "id": "acti_D55PTVSrZYKEedIuca4p4FhoLUr5lLy2XPhsZemcFi7",
+        "duration": 3,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Exercise.com",
+        "leadId": "lead_7cygGcGvsLNLWrZyiLUJMpktSV3mncK0OV47Ia7RbtJ"
+      },
+      {
+        "id": "acti_l37POm0fgR5IVkjjwhzsz3XpjcZZ2z8PxrEZm7yn8j9",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Exercise.com",
+        "leadId": "lead_7cygGcGvsLNLWrZyiLUJMpktSV3mncK0OV47Ia7RbtJ"
+      },
+      {
+        "id": "acti_mkyYU2Mn2Zr6k7j0irsHSgYrtqceqF9u5yntiWAPGW7",
+        "duration": 57,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtk46ZyzptbVTCgsv",
+        "leadName": "ExpertFile",
+        "leadId": "lead_x1qXCEFHBPvrQ8khnDwwV3rLzrICHSFTXJFn5Qxjlra"
+      },
+      {
+        "id": "acti_26gmB3HSnuJM979cuFga99kn1utGddzzJ1d9KZl9KDV",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "www.salon-software.com",
+        "leadId": "lead_GZ8CuYq6wBJnIsxVSA8Rw5kfYrwJvIlliA0LM59KTAh"
+      },
+      {
+        "id": "acti_sKfXWvnmVtQ1LFFubv3faKEbKAv55cSFAj6bmg3nTMg",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "www.salon-software.com",
+        "leadId": "lead_GZ8CuYq6wBJnIsxVSA8Rw5kfYrwJvIlliA0LM59KTAh"
+      },
+      {
+        "id": "acti_hKJVowdBqSt348No3XUkOEXHAU2WmrPA9jjXCtt5yKu",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Pacific West mortgages",
+        "leadId": "lead_RGG7O25dyHcoKOaCuUGqqLTOvaaJmYmJMMz3sZ7Xg3Q"
+      },
+      {
+        "id": "acti_y3Plu5TYmt6yLUdMMs4PfjAPrEjBqNXNfOeGIv4NrsA",
+        "duration": 50,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Pacific West mortgages",
+        "leadId": "lead_RGG7O25dyHcoKOaCuUGqqLTOvaaJmYmJMMz3sZ7Xg3Q"
+      },
+      {
+        "id": "acti_s98sAwWIyXrQznIjHOMg1FVgzjv0MpdN4VNoHidxe9d",
+        "duration": 8,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Document Agility Inc",
+        "leadId": "lead_qt2W1e1zMqJBu7uOOOp7Wdp5URVmkC3yU7HoLRALbl8"
+      },
+      {
+        "id": "acti_ImBmveyDmieD1xCRh1jG4TtAO5sU85ssSW0pf1qAAdT",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Document Agility Inc",
+        "leadId": "lead_qt2W1e1zMqJBu7uOOOp7Wdp5URVmkC3yU7HoLRALbl8"
+      },
+      {
+        "id": "acti_lGjMHCxWwZuJUu3OXwbKKFKklenJ0VLf0VyYO5m3h6B",
+        "duration": 40,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "www.proofanalytics.ai",
+        "leadId": "lead_s9x81uEnkfuIG8Ppx8SS84apaBYJBCSMoorNURTrupm"
+      },
+      {
+        "id": "acti_Ah2Bw89AGv9i04BfaPjNW4fGDaixxpl4C5ay0gkERGM",
+        "duration": 43,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "www.proofanalytics.ai",
+        "leadId": "lead_s9x81uEnkfuIG8Ppx8SS84apaBYJBCSMoorNURTrupm"
+      },
+      {
+        "id": "acti_KqmRVO6r0vs05NpRotbyRLTIxiHFEsUW4w7zoqRe7eb",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "www.veriday.com",
+        "leadId": "lead_kFwLGpQOJp56TFrR6RFcP8HEvKS1f0r6W4oRjhubqpR"
+      },
+      {
+        "id": "acti_a3KLvCo8TvoKYdKVsJIfSWDlh0XceJWk4cCjTw3dzSm",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "www.veriday.com",
+        "leadId": "lead_kFwLGpQOJp56TFrR6RFcP8HEvKS1f0r6W4oRjhubqpR"
+      },
+      {
+        "id": "acti_1VR7T9fW8rzuxEBK4bqyvoy0LVAFRqpnY34Qfi3jDvt",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Dripjobs",
+        "leadId": "lead_sVCPOeYjsk3E3v1Mma06qw2ZGHJHUrC4rA4LDRoEI39"
+      },
+      {
+        "id": "acti_qy1mHjct2Ankph1AtnpjUIrQnJcGbQEzQqwfJi6LYQi",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Dripjobs",
+        "leadId": "lead_sVCPOeYjsk3E3v1Mma06qw2ZGHJHUrC4rA4LDRoEI39"
+      },
+      {
+        "id": "acti_qr2aVmOPkf0gYGkBG7MJpL0u7WssiyN1TawJvuM2Bak",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "cloudlabs.ai",
+        "leadId": "lead_JsEheAZbhwBCfjwDpRsrSvv3cH2IXc8RTtjtY1blZ5d"
+      },
+      {
+        "id": "acti_PfhTGT10W1PtqFoZ7tMVMYZ9kfmdDJurQEmIKYBjMfD",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "cloudlabs.ai",
+        "leadId": "lead_JsEheAZbhwBCfjwDpRsrSvv3cH2IXc8RTtjtY1blZ5d"
+      },
+      {
+        "id": "acti_otSWazt8PDPmMGB5JpRebVE6KXZkD6yFUnM6yPyE2MN",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Pelcro",
+        "leadId": "lead_e81hjXdbTi4aCu2M3KwYG06pLA2hhtn48chMAifWlLP"
+      },
+      {
+        "id": "acti_3I3SRBrEG04bjWLOs3YjvHNEc9pSgXR7zQAoOkGdj71",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Pelcro",
+        "leadId": "lead_e81hjXdbTi4aCu2M3KwYG06pLA2hhtn48chMAifWlLP"
+      },
+      {
+        "id": "acti_NHkyzVDIvWrro3hqTrDgBIxkErp0uRIaBEjrreaNqZa",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Total CSR",
+        "leadId": "lead_jlC7JRcCYyQZOchVcwlBAI9qOJfU8MNnFER1FVwRX1e"
+      },
+      {
+        "id": "acti_7ajOMYwnk79XSiqQgAPLYJEswT5Rodyw02YbDRuXcFZ",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Total CSR",
+        "leadId": "lead_jlC7JRcCYyQZOchVcwlBAI9qOJfU8MNnFER1FVwRX1e"
+      },
+      {
+        "id": "acti_j3EPf8KYpylVgZEbKeR0h6cFXa06zbJlazr1wpSG3FF",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "ClickPoint Software",
+        "leadId": "lead_Pky9dfnCK4NG012IB49letb2JWQ5qReeBF9FQ846pob"
+      },
+      {
+        "id": "acti_GD4H61P230GdCQk1ssZT04q29HW6hnGLG89FPhF8kDK",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "ClickPoint Software",
+        "leadId": "lead_Pky9dfnCK4NG012IB49letb2JWQ5qReeBF9FQ846pob"
+      },
+      {
+        "id": "acti_aSwxK7u3eBu6KRGx6yMdhWz0xpB8MdjvJVwt77SLSyU",
+        "duration": 10,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "EasyWebinar",
+        "leadId": "lead_pEgVyYN3pu0YJuVTrlYrmREWM1NwRGz4GTHQjkh7nJy"
+      },
+      {
+        "id": "acti_oFmnKyKTBh7vVp3hK89fqt2BH7ZbdMO8oATN88mnWQZ",
+        "duration": 15,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "EasyWebinar",
+        "leadId": "lead_pEgVyYN3pu0YJuVTrlYrmREWM1NwRGz4GTHQjkh7nJy"
+      },
+      {
+        "id": "acti_7Ytm9s53L9d8u7GPv2PIKshMVquiS3wN57do3o3G7f5",
+        "duration": 7,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Studeo",
+        "leadId": "lead_UGJTVxN6hIA8tg55i8B6qcbhHyij4Wjrb5JReXqELlR"
+      },
+      {
+        "id": "acti_BbFrfPkaYLrhjDc4gvbenqXbEDMTFtWYzd9Res7Chsl",
+        "duration": 7,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Studeo",
+        "leadId": "lead_UGJTVxN6hIA8tg55i8B6qcbhHyij4Wjrb5JReXqELlR"
+      },
+      {
+        "id": "acti_QBa1MSgu2E8GfGYomI0Q1UykFoYxvxAlrrLoSLUxI4N",
+        "duration": 8,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Citia.com",
+        "leadId": "lead_XZBg2Ir9qMUPvWftdioxht4s4hbLLW8is2bXd2vBPN5"
+      },
+      {
+        "id": "acti_6qcnqj1FIZQuhRocuj33JFQxw9OTN68Tp3wdroTNYGC",
+        "duration": 7,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Citia.com",
+        "leadId": "lead_XZBg2Ir9qMUPvWftdioxht4s4hbLLW8is2bXd2vBPN5"
+      },
+      {
+        "id": "acti_6KcCFkkNadvXNNwdMTL2WitVr8nwDnyKQsrXqMkPvu1",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Dealership Tools",
+        "leadId": "lead_8eKSVxFyVoSS1yeS6BrK1ZDu1XKKKACLJZSjzLmgAqH"
+      },
+      {
+        "id": "acti_bqM5zDg3Kmmboyt8GUsFpYVgI1tLZrwyzHQT81N7n81",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Dealership Tools",
+        "leadId": "lead_8eKSVxFyVoSS1yeS6BrK1ZDu1XKKKACLJZSjzLmgAqH"
+      },
+      {
+        "id": "acti_TRJHF42H9uq1e37O14fwB2ZohQzLu4rfx1YvqOBatwN",
+        "duration": 35,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "SAASPASS",
+        "leadId": "lead_6KuEiN1MoRDbwuu10MspkOTRZfBLj0yAl6rQJM1IzUn"
+      },
+      {
+        "id": "acti_PnI0qyN6bbPM9GOW7QEWL1HKreQ5RTh4IXInwZyHtC1",
+        "duration": 47,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "SAASPASS",
+        "leadId": "lead_6KuEiN1MoRDbwuu10MspkOTRZfBLj0yAl6rQJM1IzUn"
+      },
+      {
+        "id": "acti_glmXGypZaRNlHwOA5JuGtxvIC00dsCRJzOGzJSP6EW3",
+        "duration": 3,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "NarrativeWave",
+        "leadId": "lead_kHdk0kAgciJae8MgxKVbak1eCgi6nGJXKj2B7XJpNc2"
+      },
+      {
+        "id": "acti_1Y5g06r7A9Cf2jpuUx4tHFem7gMhNI8vYagGvHWpiu6",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "NarrativeWave",
+        "leadId": "lead_kHdk0kAgciJae8MgxKVbak1eCgi6nGJXKj2B7XJpNc2"
+      },
+      {
+        "id": "acti_H6u66jrfQRR8YQjGScFa88SlOzBhx2gMXnlcO2PqxWk",
+        "duration": 3,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Heyday.ai",
+        "leadId": "lead_58rhLlmLTYs7eFkmpmGyrJbD5ROZhqlLH1DniUqMJRk"
+      },
+      {
+        "id": "acti_JoVqKqUh6BzKTX9dYNlDbr2ZfswozMVL1Djddubdn1X",
+        "duration": 8,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Heyday.ai",
+        "leadId": "lead_58rhLlmLTYs7eFkmpmGyrJbD5ROZhqlLH1DniUqMJRk"
+      },
+      {
+        "id": "acti_SAG25ylCcvzhbzAPoI24NvWXlPZLhlMjr9XAsmxeloJ",
+        "duration": 11,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Elloe AI",
+        "leadId": "lead_bL2Ewaqu6kJ3x5ElWgsxsipMYC7VEjRZ4ROzwV43xss"
+      },
+      {
+        "id": "acti_J1PecHR2LbVD3MmtRDGNePELCtvbinFpgfSGMLyI2yE",
+        "duration": 7,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Elloe AI",
+        "leadId": "lead_bL2Ewaqu6kJ3x5ElWgsxsipMYC7VEjRZ4ROzwV43xss"
+      },
+      {
+        "id": "acti_snlC1lWqRliQtBmlH30hWsm4cFRyrJpRDYMmJt6z3h7",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Traxo",
+        "leadId": "lead_3nBXIzxGHsjvz3jobsYPbouoh5VkdKWCM59PewyytbU"
+      },
+      {
+        "id": "acti_K9jG9k4r7cgQLXk7UuDBJ7FssfVVuOKBCCSIioiNTB1",
+        "duration": 3,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Traxo",
+        "leadId": "lead_3nBXIzxGHsjvz3jobsYPbouoh5VkdKWCM59PewyytbU"
+      },
+      {
+        "id": "acti_iUOnqXJEquMtfL36904zHluHSkg4DLmWMvbDeBcaBeZ",
+        "duration": 39,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjZv1aQqtI7AYRmE",
+        "leadName": "www.airmobility.net",
+        "leadId": "lead_nuNNo1ocnZS8ysD8nBxLHv91b3tqzRcHNvdxw8QFN31"
+      },
+      {
+        "id": "acti_Wk9d4y7OiHZV6o8H60K9p2PUGDdDYpfTtZKp3T3XOCL",
+        "duration": 65,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjZv1aQqtI7AYRmE",
+        "leadName": "AKKO",
+        "leadId": "lead_bYKqkMvL2MLWkSDwR8w6e2MIvZUcDwdRqky5UQDZ1bG"
+      },
+      {
+        "id": "acti_HkZW560ysLZOU5wMumTraVY6KTwr1HDCRZJZqe46gm2",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "AKKO",
+        "leadId": "lead_bYKqkMvL2MLWkSDwR8w6e2MIvZUcDwdRqky5UQDZ1bG"
+      },
+      {
+        "id": "acti_HtT271DmZX2bpz15usmo9fv6J6FExIjQPv3GsM5kJs3",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "trackstar.com",
+        "leadId": "lead_jbHFQacAkddX9pkmjtsgmApfcpv0YrDNYZXQAjQDVeE"
+      },
+      {
+        "id": "acti_HcJhkToI31wYOtKPfYVedxkvdeHwmMuEC0UI0TtA4oR",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "trackstar.com",
+        "leadId": "lead_jbHFQacAkddX9pkmjtsgmApfcpv0YrDNYZXQAjQDVeE"
+      },
+      {
+        "id": "acti_U2duoOsae60iuAXy8miz99HgR4mnMdOUbRz7Axt0BHQ",
+        "duration": 7,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "CUDDLY",
+        "leadId": "lead_6MtiRdArxEIDSJd7dPqiaCjNbTnEjZQb103xc62MOnU"
+      },
+      {
+        "id": "acti_CP2q9y3IsO0dTocAFNTCnBaIabNimqmPkpzwaccuG4P",
+        "duration": 2,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "CUDDLY",
+        "leadId": "lead_6MtiRdArxEIDSJd7dPqiaCjNbTnEjZQb103xc62MOnU"
+      },
+      {
+        "id": "acti_Jv8QxGlCR8RPfdd5lJxcjWgCCJTyYkPtniQvB5OyZmj",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "DialMyCalls",
+        "leadId": "lead_T7GCs3oXrjITbBsJP0f6hQT95fq9Q4RL6t0r6o0FuR6"
+      },
+      {
+        "id": "acti_bjdVY1e5maEvX9mxfNImYLmIalMy4WScnvDifgItzjs",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "DialMyCalls",
+        "leadId": "lead_T7GCs3oXrjITbBsJP0f6hQT95fq9Q4RL6t0r6o0FuR6"
+      },
+      {
+        "id": "acti_MHviUffizH4IoiwW1ifGP3CBDFgLQqB99NJRVAE0s2N",
+        "duration": 0,
+        "disposition": "no-answer",
+        "outcome": "",
+        "outcome_id": null,
+        "leadName": "vericlock.com",
+        "leadId": "lead_7WoKQEtjeT50ztmSI1nmPsgok37jxvZ4itAksg5137b"
+      },
+      {
+        "id": "acti_uva6WBHa3oZv1D4CipVh5QD1OzWKemSGSGWnGesGXZ5",
+        "duration": 0,
+        "disposition": "no-answer",
+        "outcome": "",
+        "outcome_id": null,
+        "leadName": "vericlock.com",
+        "leadId": "lead_7WoKQEtjeT50ztmSI1nmPsgok37jxvZ4itAksg5137b"
+      },
+      {
+        "id": "acti_SlRUlIXst45NuEyTGTPXDGr31PuULPo55XmmvzaBUUE",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "https://kuula.co",
+        "leadId": "lead_PRpTI4fPyypGqI4cIBA6dOhuPgJo495uyV1oZG262iq"
+      },
+      {
+        "id": "acti_twD6VKo2vClQC01Op590DHjNSCmGbRab0n5kZ6P3hmA",
+        "duration": 8,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "https://kuula.co",
+        "leadId": "lead_PRpTI4fPyypGqI4cIBA6dOhuPgJo495uyV1oZG262iq"
+      },
+      {
+        "id": "acti_f1xe6SUyzHXVGYqp0llAlsJsmmkmkVhhKcY4tqzHhLh",
+        "duration": 0,
+        "disposition": "blocked",
+        "outcome": "",
+        "outcome_id": null,
+        "leadName": "Breakthrough Broker",
+        "leadId": "lead_vASmw4G4TaJ0wANh0bFQ3KTHuSEb0mKezz1Tadl5AKU"
+      },
+      {
+        "id": "acti_hOdQEnCF6paoYOHanhyUQVyy76ZbcTqihuHU0DqMirC",
+        "duration": 0,
+        "disposition": "blocked",
+        "outcome": "",
+        "outcome_id": null,
+        "leadName": "Breakthrough Broker",
+        "leadId": "lead_vASmw4G4TaJ0wANh0bFQ3KTHuSEb0mKezz1Tadl5AKU"
+      },
+      {
+        "id": "acti_nApOi5EcEPQcFwCEsxpS39swIaFPiw4oOxfEATFyBtj",
+        "duration": 62,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtk46ZyzptbVTCgsv",
+        "leadName": "Stay22",
+        "leadId": "lead_HpGRCBfvA6OZqOcxbKT3WZSFaUEM7VeKYGLZM0jTd9Q"
+      },
+      {
+        "id": "acti_GK0WMd88Jjkhmdk7D7lr0n49AZi8JdmZygSbJM8w9Xf",
+        "duration": 43,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Global Blue Tech",
+        "leadId": "lead_OBLiZ60Wwaf4JhMpeulHq484JhLneD0wtywUI4QJaGy"
+      },
+      {
+        "id": "acti_t0X6H0Wy7PmuG4PJiBgE6T37TB1mUT7DPzCv8hOnNvF",
+        "duration": 43,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Global Blue Tech",
+        "leadId": "lead_OBLiZ60Wwaf4JhMpeulHq484JhLneD0wtywUI4QJaGy"
+      },
+      {
+        "id": "acti_r55qexM9aCywxy4AgzBFqONDVSuF4PLdk56fW5CwjS5",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "axisrms.com",
+        "leadId": "lead_r5K8vi8MFIJAE4jUTuDWhzDYF9VLu0ppLopnmi2esFW"
+      },
+      {
+        "id": "acti_3eMezp707awJKx4DAj1xPWsbMvxqmeRMThoNcMWbXIy",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "axisrms.com",
+        "leadId": "lead_r5K8vi8MFIJAE4jUTuDWhzDYF9VLu0ppLopnmi2esFW"
+      },
+      {
+        "id": "acti_i0JYuLJSTIvIEdUFGR7TS4a5PubdkBlNtUFp2ZMTkPc",
+        "duration": 14,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": null,
+        "leadName": "ShowMgr.com Inc",
+        "leadId": "lead_elbKORlZHZvG7KO5VUEn33HE7gRjLsms9V9mGSXXL0W"
+      },
+      {
+        "id": "acti_mhv5VYsRCLxZ7XNw2pIvY0iIAZUkIStRLUR2XavAfQ0",
+        "duration": 4,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Chattr",
+        "leadId": "lead_xmuLHvdIzOQWN4v5kObbfh2ykVap44etOH0iyoFQ7Lf"
+      },
+      {
+        "id": "acti_RseAWpksaexP7vUUNPK7jA3xisIYSL8cn6xd4FpLrDA",
+        "duration": 7,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Chattr",
+        "leadId": "lead_xmuLHvdIzOQWN4v5kObbfh2ykVap44etOH0iyoFQ7Lf"
+      },
+      {
+        "id": "acti_kcVzLW9p34JuCZ8hYM9IRyNXSD6Mr5DB1lrhDjQRPcU",
+        "duration": 6,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Pbmr.org",
+        "leadId": "lead_LAD7qe7iwUiwt8AGCO9NocjHhu1evkiLkiqGVaMUbwP"
+      },
+      {
+        "id": "acti_Q2k0GvqPCqnIMcQVYNckCbmYTj9wWaxGfkYRwJHmPlC",
+        "duration": 5,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Pbmr.org",
+        "leadId": "lead_LAD7qe7iwUiwt8AGCO9NocjHhu1evkiLkiqGVaMUbwP"
+      },
+      {
+        "id": "acti_jq6xniYGAGyOLHYy6J2vylUWE31mfb4H61x17XRiTWl",
+        "duration": 8,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Alpha Paving",
+        "leadId": "lead_q6PU3uVa6mS2Td26Ywwb2vSr3cSFIfJJptd8Vl9sX2N"
+      },
+      {
+        "id": "acti_D788BjdKXoaSzGUJmJFudHSNcslloLzLOQPlQQvRL7R",
+        "duration": 3,
+        "disposition": "answered",
+        "outcome": "",
+        "outcome_id": "outcome_030fNTtjfuVUsRNZFT8nXf",
+        "leadName": "Alpha Paving",
+        "leadId": "lead_q6PU3uVa6mS2Td26Ywwb2vSr3cSFIfJJptd8Vl9sX2N"
+      }
+    ],
+    "opportunities": [
+      {
+        "id": "oppo_6YwjrgFJAeZBtwHP3RBrXqfqF2pP7ovzxsu0MGj10Ij",
+        "value": 24000,
+        "contact": "TrustClarity",
+        "company": "TrustClarity",
+        "leadId": "lead_kj3DMn0sfAwPvnt9vvppt62JWsSldbXccatZnTNvcs3"
+      },
+      {
+        "id": "oppo_YpAKoyLXorqyFo4rsuzfzx9AzU2RYS9sUQXvmqQBBmM",
+        "value": 12000,
+        "contact": "Creditfixrr",
+        "company": "Creditfixrr",
+        "leadId": "lead_tz1nP2VqjioB41qFELTMUghHEKtxcDC5BhRA2iPsoUz"
+      }
+    ]
+  },
+  "yesterday": {
+    "date": "2026-03-31",
+    "dials": 104,
+    "sets": 0,
+    "closes": 4,
+    "revenue": 72000
+  },
+  "month": {
+    "label": "April 2026",
+    "month": "2026-04",
+    "revenue": 36000,
+    "deals": 2,
+    "sets": 0,
+    "callsScored": 5,
+    "avgScore": 38,
+    "daysElapsed": 1,
+    "daysInMonth": 30,
+    "projectedRevenue": 1080000
+  },
+  "records": {
+    "bestDayRevenue": {
+      "amount": 36000,
+      "rep": "Joe Meyers",
+      "date": "2026-03-26"
+    },
+    "bestDaySets": {
+      "amount": 3,
+      "rep": "JC Ruiz",
+      "date": "2026-03-30"
+    },
+    "bestMonthRevenue": {
+      "amount": 48000,
+      "rep": "Joe Meyers",
+      "month": "2026-03"
+    },
+    "bestMonthSets": {
+      "amount": 5,
+      "rep": "JC Ruiz",
+      "month": "2026-03"
+    }
+  }
+}

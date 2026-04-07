@@ -1,0 +1,19 @@
+{
+  "date": "2026-04-01",
+  "dials": 93,
+  "sets": 0,
+  "closes": 2,
+  "revenue": 36000,
+  "deals": [
+    {
+      "prospect": "TrustClarity",
+      "company": "",
+      "arr": 24000
+    },
+    {
+      "prospect": "Creditfixrr",
+      "company": "",
+      "arr": 12000
+    }
+  ]
+}

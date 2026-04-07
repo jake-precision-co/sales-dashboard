@@ -31,14 +31,14 @@ export default function LiveStats({ role }: { role: string }) {
   return (
     <div className="bg-[#141414] border border-gray-800 rounded-xl p-6">
       <div className="flex items-center justify-between mb-1">
-        <p className="text-gray-500 text-sm">Joe — Closed ARR</p>
-        <span className="text-xs text-gray-600 bg-gray-800 px-2 py-0.5 rounded-full">Live · {data.month}</span>
+        <p className="text-gray-400 text-sm">Joe — Closed ARR</p>
+        <span className="text-xs text-gray-400 bg-gray-800 px-2 py-0.5 rounded-full">Live · {data.month}</span>
       </div>
       <p className="text-4xl font-bold text-green-400">
         ${data.joeAnnualRevenue.toLocaleString()}
-        <span className="text-lg text-gray-500">/yr</span>
+        <span className="text-lg text-gray-400">/yr</span>
       </p>
-      <p className="text-gray-600 text-xs mt-2">{data.joeDealsCount} deal{data.joeDealsCount !== 1 ? 's' : ''} closed this month</p>
+      <p className="text-gray-400 text-xs mt-2">{data.joeDealsCount} deal{data.joeDealsCount !== 1 ? 's' : ''} closed this month</p>
     </div>
   )
 }

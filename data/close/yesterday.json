@@ -1,0 +1,29 @@
+{
+  "date": "2026-03-31",
+  "dials": 104,
+  "sets": 0,
+  "closes": 4,
+  "revenue": 72000,
+  "deals": [
+    {
+      "prospect": "TrustClarity",
+      "company": "",
+      "arr": 24000
+    },
+    {
+      "prospect": "Eric Margheim",
+      "company": "Be There Immersive",
+      "arr": 24000
+    },
+    {
+      "prospect": "Creditfixrr",
+      "company": "",
+      "arr": 12000
+    },
+    {
+      "prospect": "Inline Communications Inc.",
+      "company": "",
+      "arr": 12000
+    }
+  ]
+}

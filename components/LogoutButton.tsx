@@ -7,15 +7,15 @@ export default function LogoutButton() {
 
   async function logout() {
     await fetch('/api/auth/logout', { method: 'POST' })
-    router.push('/')
+    router.push('/login')
   }
 
   return (
     <button
       onClick={logout}
-      className="text-sm text-gray-500 hover:text-gray-300 transition"
+      className="text-sm text-gray-300 hover:text-white transition px-2 py-1 rounded"
     >
-      Logout
+      logout
     </button>
   )
 }
