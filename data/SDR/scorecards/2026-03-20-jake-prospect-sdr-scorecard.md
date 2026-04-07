@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-20
+Scored: 2026-03-23
 Prospect:        Jake (unknown company — old SaaS Academy lead, agency owner)
 Call Type:       [x] Outbound Cold
 Duration:        2:47 (167s)

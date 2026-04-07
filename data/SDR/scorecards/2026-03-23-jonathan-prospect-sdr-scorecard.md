@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-23
+Scored: 2026-03-24
 Prospect:        Jonathan — Unknown Company
 Call Type:       [ ] Inbound MQL  [x] Follow-Up  [ ] Outbound Cold
 Duration:        ~3:00

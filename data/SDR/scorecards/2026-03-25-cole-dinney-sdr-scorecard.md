@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-25
+Scored: 2026-03-26
 Prospect:        Cole Dinney (dinneyclean.com)
 Call Type:       [x] Outbound Cold  (download follow-up)
 Duration:        1:28 (88s)

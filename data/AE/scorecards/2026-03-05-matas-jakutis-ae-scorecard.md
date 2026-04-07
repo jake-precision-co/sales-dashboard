@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-05
+Scored: 2026-03-23
 Prospect:        Matas Jakutis — BM Digital — $1M/mo (B2B arm)
 Lead Source:     [x] Inbound MQL  [ ] SDR Set  [ ] Marketing  [ ] Referral
 Duration:        30:00

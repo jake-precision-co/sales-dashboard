@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-24
+Scored: 2026-03-25
 Prospect:        Rob — Aquanomix
 Call Type:       [ ] Inbound MQL  [ ] Outbound Cold  [x] Follow-Up
 Duration:        ~1:17 (77s)

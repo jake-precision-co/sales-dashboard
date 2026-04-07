@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-11
+Scored: 2026-03-23
 Prospect:        Jaan Apajalahti — Romify — ~$1.5M ARR (3x YoY, pacing to 3x again)
 Lead Source:     [x] SDR Set
 Duration:        30:00

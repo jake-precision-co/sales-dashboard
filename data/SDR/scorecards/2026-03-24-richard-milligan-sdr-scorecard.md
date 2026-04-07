@@ -8,6 +8,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-24
+Scored: 2026-04-06
 Prospect:        Richard Milligan — 4C Recruiting Consulting
 Call Type:       [x] Outbound Cold  [ ] Inbound MQL  [ ] Callback  [ ] Rebook  [ ] Referral
 Lead Status:     [x] Lead  [ ] MQL  [ ] SQL

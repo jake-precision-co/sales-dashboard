@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-26
+Scored: 2026-03-27
 Prospect:        Einar Saevarsson — Activity Stream
 Call Type:       [x] Outbound Cold  [ ] Inbound MQL  [ ] Follow-Up
 Duration:        02:24

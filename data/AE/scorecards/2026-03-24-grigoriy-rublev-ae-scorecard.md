@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-24
+Scored: 2026-03-27
 Prospect:        Grigoriy (Greg) Rublev — Runzy — $250K ARR
 Lead Source:     [ ] Inbound MQL  [x] SDR Set  [ ] Marketing  [ ] Referral
 Duration:        ~33:00

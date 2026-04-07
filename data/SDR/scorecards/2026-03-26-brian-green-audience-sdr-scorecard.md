@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-26
+Scored: 2026-03-27
 Prospect:        Brian Green — Audience
 Call Type:       [x] Outbound Cold  [ ] Inbound MQL  [ ] Follow-Up
 Duration:        06:15

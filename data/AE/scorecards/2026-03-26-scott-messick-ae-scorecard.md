@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-26
+Scored: 2026-03-27
 Prospect:        Scott Messick — Analyst1 — $11.5M ARR
 Lead Source:     [x] Inbound MQL  [ ] SDR Set  [ ] Marketing  [ ] Referral
 Duration:        ~30:00

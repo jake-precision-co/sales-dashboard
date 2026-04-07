@@ -1,6 +1,7 @@
 # SDR CALL SCORECARD
 **Rep:** JC Ruiz
 **Date:** 2026-04-03
+Scored: 2026-04-06
 **Prospect:** Blake Reifschneider — Bow wow labs
 **Activity ID:** acti_PlWb3M8cGLgBG7pTcdEruk8Qq3fh0acM3ZBOHW90O8t
 **Call Type:** Inbound MQL

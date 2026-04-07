@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-02-26
+Scored: 2026-03-30
 Prospect:        Craig Nordstrom — Hue & Stripe
 Call Type:       [X] Inbound MQL  [ ] Outbound Cold  [ ] Follow-Up
 Duration:        08:38

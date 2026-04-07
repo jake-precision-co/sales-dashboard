@@ -1,5 +1,6 @@
 # Dan Huck — Growth Session Demo
 **Date:** 2026-03-20
+Scored: 2026-03-20
 **Rep:** Joe Meyers (AE)
 **Lead:** Dan Huck — Painting company
 **Duration:** 42 min

@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-25
+Scored: 2026-03-26
 Prospect:        Piotr Gawlik — GAVBIZ — UK B2B Chemicals/Refinish
 Lead Source:     [ ] Inbound MQL  [x] Marketing (Don Martel referral)
 Duration:        ~62 min

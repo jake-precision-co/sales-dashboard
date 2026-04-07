@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-24
+Scored: 2026-03-25
 Prospect:        Jonathan Cardenas — Andicar (Construction, Quebec)
 Call Type:       [x] Inbound MQL  [ ] Outbound Cold  [ ] Follow-Up
 Duration:        ~14:00 (828s)

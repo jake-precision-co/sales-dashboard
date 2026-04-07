@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-30
+Scored: 2026-04-02
 Prospect:        Jacob McKinney & Jordan — Studio SWEAT onDemand
 Lead Source:     [X] Referral (Dan's elite program event)
 Call Stage:      [X] Follow-Up Close (Part 2)

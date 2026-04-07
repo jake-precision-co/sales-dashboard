@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-30
+Scored: 2026-03-30
 Prospect:        Daniel Segurola — AI Scaling
 Call Type:       [X] Outbound Cold  [ ] Inbound MQL  [ ] Follow-Up
 Duration:        14:03

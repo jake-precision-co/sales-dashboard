@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-20
+Scored: 2026-03-22
 Prospect:        Grigoriy Rublev — Runzy (running events platform)
 Call Type:       [x] Outbound Cold (old SaaS Academy lead)
 Duration:        8:21

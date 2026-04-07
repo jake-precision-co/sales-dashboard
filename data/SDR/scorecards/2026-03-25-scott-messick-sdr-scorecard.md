@@ -4,6 +4,7 @@
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-25
+Scored: 2026-03-25
 Prospect:        Scott Messick — Analyst1
 Call Type:       [x] Outbound Cold  [ ] Inbound MQL  [ ] Follow-Up
 Duration:        12:15

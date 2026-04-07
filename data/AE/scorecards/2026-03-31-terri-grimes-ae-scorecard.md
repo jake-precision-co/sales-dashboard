@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-31
+Scored: 2026-04-01
 Prospect:        Terri Grimes (Scouting for Caleb) — Dave's Tree Service — Est. <$100K
 Lead Source:     [X] Marketing (Dan Martini YouTube)
 Duration:        13:17

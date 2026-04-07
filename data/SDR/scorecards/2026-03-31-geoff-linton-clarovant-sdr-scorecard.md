@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-31
+Scored: 2026-04-01
 Prospect:        Geoff Linton — Clarovant Digital
 Call Type:       [X] Outbound Cold
 Duration:        ~0:41

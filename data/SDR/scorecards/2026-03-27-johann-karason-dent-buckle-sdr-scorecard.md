@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-27
+Scored: 2026-03-30
 Prospect:        Johann Karason — dent & buckle
 Call Type:       [x] Outbound Cold  [ ] Inbound MQL  [ ] Follow-Up
 Duration:        01:46

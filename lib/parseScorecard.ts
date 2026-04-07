@@ -12,6 +12,7 @@ export type Scorecard = {
   id: string
   rep: string
   date: string
+  callDate: string       // when the call happened (from Date: field), YYYY-MM-DD
   prospect: string       // full prospect line
   prospectName: string   // just the person's name
   company: string        // extracted company
@@ -27,7 +28,7 @@ export type Scorecard = {
   magicMoment: string
   filmReviewTactic: string
   rawContent: string
-  scoredDate: string   // date the scorecard was created (file ctime), YYYY-MM-DD
+  scoredDate: string   // date Phil scored it (from Scored: field), YYYY-MM-DD
 }
 
 const AE_DIR = path.join(process.cwd(), 'data/AE/scorecards')
@@ -109,6 +110,10 @@ function parseMarkdown(content: string, filePath: string, type: 'AE' | 'SDR'): S
 
     const { prospectName, company } = extractNames(prospect)
 
+    // Parse Scored: field (when Phil scored it)
+    const scoredMatch = content.match(/\*?\*?Scored:\*?\*?\s+(\d{4}-\d{2}-\d{2})/i)
+    const scoredDateFromContent = scoredMatch ? scoredMatch[1] : null
+
     // Parse section scores from the SECTION BREAKDOWN block
     const sections: SectionScore[] = []
     const sectionRegex = /^\s{2}(.+?)\s*\.+\s*(\d+)\/(\d+)/gm
@@ -138,6 +143,7 @@ function parseMarkdown(content: string, filePath: string, type: 'AE' | 'SDR'): S
       id,
       rep,
       date,
+      callDate: date,   // when the call happened (from Date: field)
       prospect,
       prospectName,
       company,
@@ -153,7 +159,7 @@ function parseMarkdown(content: string, filePath: string, type: 'AE' | 'SDR'): S
       magicMoment,
       filmReviewTactic,
       rawContent: content,
-      scoredDate: date,  // default to call date, overridden by file ctime in getAllScorecards
+      scoredDate: scoredDateFromContent ?? date,  // from Scored: field; fallback to call date
     }
   } catch {
     return null
@@ -174,7 +180,10 @@ export function getAllScorecards(): Scorecard[] {
           const stat = fs.statSync(filePath)
           const card = parseMarkdown(content, filePath, type)
           if (card) {
-            card.scoredDate = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit' }).format(stat.birthtime)
+            // If Scored: field was parsed from content, keep it; otherwise fall back to file birthtime
+            if (!content.match(/\*?\*?Scored:\*?\*?\s+\d{4}-\d{2}-\d{2}/i)) {
+              card.scoredDate = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit' }).format(stat.birthtime)
+            }
             cards.push(card)
           }
         } catch (err) {

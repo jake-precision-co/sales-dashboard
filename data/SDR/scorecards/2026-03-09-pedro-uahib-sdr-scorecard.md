@@ -5,6 +5,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-09
+Scored: 2026-03-23
 Prospect:        Pedro Uahib — Shack Shine
 Call Type:       [x] Outbound Cold  [ ] Inbound MQL  [ ] Follow-Up
 Duration:        10:33

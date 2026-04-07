@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-01-13
+Scored: 2026-04-06
 Prospect:        Angelo Patsilivas — LDC Strategies — $100K (4 months in)
 Lead Source:     [x] JC Set  [ ] Inbound MQL  [ ] Marketing  [ ] Referral  [ ] Self-Scheduled
 Call Stage:      [x] Discovery (Part 1)  [ ] Follow-Up Close (Part 2)  [ ] Proposal  [ ] Rescue

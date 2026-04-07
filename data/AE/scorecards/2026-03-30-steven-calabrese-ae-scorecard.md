@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-30
+Scored: 2026-04-02
 Prospect:        Steven Calabrese — CRM-U — (MRR unknown)
 Lead Source:     [X] Self-Scheduled (via Joe Perry internal handoff)
 Call Stage:      [X] Follow-Up Close (Part 2) — Existing SaaS Academy customer transitioning to Precision

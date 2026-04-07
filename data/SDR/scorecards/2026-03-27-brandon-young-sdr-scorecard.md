@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-27
+Scored: 2026-03-27
 Prospect:        Brandon Young — Data Dive Tools
 Call Type:       [X] Outbound Cold  [ ] Inbound MQL  [ ] Follow-Up
 Duration:        7:57

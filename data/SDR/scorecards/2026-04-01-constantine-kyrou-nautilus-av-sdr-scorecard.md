@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-01
+Scored: 2026-04-02
 Prospect:        Constantine Kyrou — Nautilus AV
 Call Type:       [X] Callback
 Lead Status:     [ ] Lead  [X] MQL  [ ] SQL

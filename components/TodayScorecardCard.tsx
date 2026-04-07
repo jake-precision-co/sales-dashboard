@@ -29,8 +29,9 @@ export default function TodayScorecardCard({ card, featured }: Props) {
               >
                 {card.type}
               </span>
-              <span className="text-gray-400 text-xs tabular-nums">{card.date}</span>
+              <span className="text-gray-400 text-xs tabular-nums">Scored {card.scoredDate}</span>
             </div>
+            <div className="text-gray-500 text-xs tabular-nums mb-0.5">Call: {card.callDate}</div>
             <h2 className="text-white font-bold text-xl leading-snug truncate">{card.prospectName}</h2>
             <p className="text-gray-400 text-sm truncate mt-0.5">{card.company || card.rep}</p>
           </div>

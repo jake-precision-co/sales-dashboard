@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-23
+Scored: 2026-03-24
 Prospect:        Alex Le — Cloud Contractor (gocallio.com) — $1.5K MRR + Picture It $5K MRR
 Lead Source:     [x] Inbound MQL  [ ] SDR Set  [ ] Marketing  [ ] Referral
 Duration:        30:00

@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-23
+Scored: 2026-03-24
 Prospect:        Therrance Corrothers — Thurr Solutions — Pre-revenue (AI consulting startup)
 Lead Source:     [x] Inbound MQL  [ ] SDR Set  [ ] Marketing  [ ] Referral
 Duration:        30:00

@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-30
+Scored: 2026-03-31
 Prospect:        Haley Brasher — Batbox — Early Stage SaaS
 Lead Source:     [X] Inbound MQL
 Duration:        30:00

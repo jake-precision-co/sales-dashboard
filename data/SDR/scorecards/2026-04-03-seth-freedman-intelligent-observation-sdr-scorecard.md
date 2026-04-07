@@ -1,6 +1,7 @@
 # SDR CALL SCORECARD
 **Rep:** JC Ruiz
 **Date:** 2026-04-03
+Scored: 2026-04-06
 **Prospect:** Seth Freedman — Intelligent Observation
 **Activity ID:** acti_tNeAZoDU5o2ur0ypWXmqPfgW61Bnj8uQPivXJ27g2rW
 **Call Type:** Outbound Cold (re-engagement attempt / stale lead)

@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-13
+Scored: 2026-03-23
 Prospect:        Garrett Campbell — Objectionly — ~$12K MRR
 Lead Source:     [x] Inbound MQL  [ ] SDR Set  [ ] Marketing  [ ] Referral
 Duration:        30:00

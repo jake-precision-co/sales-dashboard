@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-23
+Scored: 2026-03-24
 Prospect:        Sarah — Unknown Company (~10 employees, fast-growing)
 Call Type:       [x] Inbound MQL  [ ] Outbound Cold  [ ] Follow-Up
 Duration:        ~1:30

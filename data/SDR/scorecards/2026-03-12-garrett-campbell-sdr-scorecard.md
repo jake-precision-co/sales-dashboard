@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-12
+Scored: 2026-03-23
 Prospect:        Garrett Campbell — Objectionly
 Call Type:       [x] Inbound MQL  [ ] Outbound Cold  [ ] Follow-Up
 Duration:        06:31

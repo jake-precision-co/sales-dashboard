@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-20
+Scored: 2026-03-23
 Prospect:        Dan Huck — Painting Company (Solana Beach, CA)
 Lead Source:     Inbound (returned lead, reached out months ago)
 Duration:        42 min

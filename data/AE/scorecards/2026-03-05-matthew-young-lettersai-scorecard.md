@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-05
+Scored: 2026-03-23
 Prospect:        Matthew Young — MovingLetters.ai — ~$80K MRR ($70-80K range)
 Lead Source:     [x] Inbound MQL (SDR-set from book list)
 Duration:        61:29

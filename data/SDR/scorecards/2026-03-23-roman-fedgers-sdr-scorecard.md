@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-23
+Scored: 2026-03-24
 Prospect:        Roman Fedgers — Inline Con (Voice Solutions)
 Call Type:       [x] Follow-Up  [ ] Outbound Cold  [ ] Inbound MQL
 Duration:        ~8:00

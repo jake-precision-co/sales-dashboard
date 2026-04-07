@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-01
+Scored: 2026-04-02
 Prospect:        Nick Schafer — Pbmr.org
 Call Type:       [x] Inbound MQL
 Lead Status:     [ ] Lead  [x] MQL  [ ] SQL

@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-31
+Scored: 2026-03-31
 Prospect:        Roman Seges — Inline Communications — $36K MRR
 Lead Source:     [X] Inbound MQL  [ ] SDR Set  [ ] Marketing  [ ] Referral
 Duration:        30:12

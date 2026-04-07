@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-25
+Scored: 2026-03-26
 Prospect:        Graham Walker (ATS / atsspec.com)
 Call Type:       [x] Outbound Cold  (old inbound follow-up)
 Duration:        0:46 (46s)

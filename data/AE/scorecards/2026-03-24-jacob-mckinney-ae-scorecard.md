@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-24
+Scored: 2026-03-25
 Prospect:        Jacob McKinney — Studio Sweat (Online Fitness Platform)
 Lead Source:     [ ] Inbound MQL  [x] SDR Set  [ ] Marketing  [ ] Referral
 Duration:        30:00

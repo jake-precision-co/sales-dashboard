@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-10
+Scored: 2026-03-23
 Prospect:        Jaan Apajalahti — Romify
 Call Type:       [x] Outbound Cold  (SaaS Academy re-engagement)
 Duration:        7:34

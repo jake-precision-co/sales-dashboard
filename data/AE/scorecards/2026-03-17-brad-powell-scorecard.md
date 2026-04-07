@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-03-17
+Scored: 2026-03-22
 Prospect:        Brad Powell — Red Board (Credit Union Audit SaaS)
 Lead Source:     Referral (Joe Perry)
 Duration:        33 min

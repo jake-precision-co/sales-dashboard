@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-02-25
+Scored: 2026-03-23
 Prospect:        Marc Buddensiek — Buddensiek Performance — ~€600K/yr (~€50-55K MRR)
 Lead Source:     [x] Inbound MQL  [ ] SDR Set  [ ] Marketing  [ ] Referral
 Duration:        30:00

@@ -2,6 +2,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-03-31
+Scored: 2026-04-01
 Prospect:        Vikas Kaushal — Foyr
 Call Type:       [X] Outbound Cold
 Duration:        ~2:00
