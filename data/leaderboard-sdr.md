@@ -1,6 +1,6 @@
 # SDR Cold Call Leaderboard 🏆
 
-_Last updated: 2026-04-06_
+_Last updated: 2026-04-07_
 
 | Rank | Rep | Prospect | Company | Score | Outcome | Date |
 |------|-----|----------|---------|-------|---------|------|
@@ -27,7 +27,7 @@ _Last updated: 2026-04-06_
 
 ---
 
-_Note: Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100) did not rank in top 20._
+_Note: Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100), Dylan Hume (33/100), Kaleb Walker (23/100) did not rank in top 20._
 
 ## Notes
 - 🥇🥈🥉 denote top 3 positions
@@ -35,4 +35,4 @@ _Note: Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Cla
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-06_
+_Last updated: 2026-04-07_
