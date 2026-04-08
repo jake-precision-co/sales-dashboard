@@ -1,6 +1,6 @@
 # AE Growth Session Leaderboard 🏆
 
-_Last updated: 2026-04-06_
+_Last updated: 2026-04-08_
 
 | Rank | Rep | Prospect | Company | Score | Tier | Date | Outcome |
 |------|-----|----------|---------|-------|------|------|---------|
@@ -23,8 +23,7 @@ _Last updated: 2026-04-06_
 | 17 | Joe Meyers | Marc Buddensiek | Buddensiek Performance | 43/100 🔴 | Core | 2026-02-25 | BAMFAM'd |
 | 18 | Joe Meyers | Angelo Patsilivas | LDC Strategies | 50/100 🔴 | Growth | 2026-01-13 | Weak BAMFAM |
 | 18 | Joe Meyers | Steven Calabrese | CRM-U | 27/100 🔴 | Core/Growth | 2026-03-30 | Weak BAMFAM |
-| 20 | Joe Meyers | Angelo Patsilivas | LDC Strategies | 33/100 🔴 | Growth (Partnership) | 2026-01-19 | Timing Stall |
-| 21 | Joe Meyers | Terri Grimes | Dave's Tree Service | 15/100 🔴 | N/A | 2026-03-31 | Vague BAMFAM (Loom) |
+| 20 | Joe Meyers | Drew Williams | Sales Playbook Builder | 48/100 🔴 | Core | 2026-04-07 | Weak BAMFAM (LinkedIn ping) |
 
 ---
 
@@ -34,4 +33,4 @@ _Last updated: 2026-04-06_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-06_
+_Last updated: 2026-04-08_
