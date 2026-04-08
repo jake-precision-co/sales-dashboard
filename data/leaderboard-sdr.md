@@ -7,23 +7,23 @@ _Last updated: 2026-04-07_
 | 🥇 1 | JC Ruiz | Jaan Apajalahti | Romify | 72/100 🟠 | Booked | 2026-03-10 |
 | 🥈 2 | JC Ruiz | Fresnel Verna | Unknown | 70/100 🟠 | Callback Set | 2026-03-25 |
 | 🥉 3 | JC Ruiz | Daniel Segurola | AI Scaling | 67/100 🟠 | Booked | 2026-03-30 |
-| 4 | JC Ruiz | Blake Reifschneider | Bow wow labs | 64/100 🟠 | DQ'd (appropriate) | 2026-04-03 |
-| 5 | JC Ruiz | Jonathan Cardenas | Andicar | 64/100 🟠 | Booked | 2026-03-24 |
-| 6 | JC Ruiz | Roman Fedgers | Inline Con | 62/100 🟠 | Booked | 2026-03-23 |
-| 7 | JC Ruiz | Graham Walker | ATS | 61/100 🟠 | DQ'd | 2026-03-25 |
-| 8 | JC Ruiz | Nick Schafer | Pbmr.org | 58/100 🔴 | DQ'd | 2026-04-01 |
-| 9 | JC Ruiz | Casey Zeman | EasyWebinar | 58/100 🔴 | No Meeting | 2026-03-30 |
-| 10 | JC Ruiz | Zhiwen Tan | CareConnect | 58/100 🔴 | Callback Set | 2026-03-25 |
-| 11 | JC Ruiz | Brian Green | Audience | 55/100 🔴 | Callback Set | 2026-03-26 |
-| 12 | JC Ruiz | Nancy Lewis | Alpha Paving | 54/100 🔴 | DQ'd (appropriate) | 2026-04-02 |
-| 13 | JC Ruiz | Richard Milligan | 4C Recruiting Consulting | 54/100 🔴 | Booked | 2026-03-24 |
-| 14 | JC Ruiz | Khabir Muhammad | Creditfixrr | 53/100 🔴 (v2) | Booked | 2026-03-30 |
-| 15 | JC Ruiz | Pedro Uahib | Shack Shine | 53/100 🔴 | Booked | 2026-03-09 |
-| 16 | JC Ruiz | Einar Saevarsson | Activity Stream | 52/100 🔴 | Callback Set | 2026-03-26 |
-| 17 | JC Ruiz | Cole Dinney | dinneyclean.com | 50/100 🔴 | No Next Step | 2026-03-25 |
-| 18 | JC Ruiz | Grigoriy Rublev | Runzy | 49/100 🔴 | Booked | 2026-03-20 |
-| 19 | JC Ruiz | Sarah | Unknown (10 employees) | 48/100 🔴 | Calendar Link | 2026-03-23 |
-| 20 | JC Ruiz | Garrett Campbell | Objectionly | 48/100 🔴 | Booked | 2026-03-12 |
+| 4 | JC Ruiz | Richard May | ECHOS Consulting | 64/100 🟠 | Booked ⚠️ | 2026-04-07 |
+| 5 | JC Ruiz | Blake Reifschneider | Bow wow labs | 64/100 🟠 | DQ'd (appropriate) | 2026-04-03 |
+| 6 | JC Ruiz | Jonathan Cardenas | Andicar | 64/100 🟠 | Booked | 2026-03-24 |
+| 7 | JC Ruiz | Roman Fedgers | Inline Con | 62/100 🟠 | Booked | 2026-03-23 |
+| 8 | JC Ruiz | Graham Walker | ATS | 61/100 🟠 | DQ'd | 2026-03-25 |
+| 9 | JC Ruiz | Nick Schafer | Pbmr.org | 58/100 🔴 | DQ'd | 2026-04-01 |
+| 10 | JC Ruiz | Casey Zeman | EasyWebinar | 58/100 🔴 | No Meeting | 2026-03-30 |
+| 11 | JC Ruiz | Zhiwen Tan | CareConnect | 58/100 🔴 | Callback Set | 2026-03-25 |
+| 12 | JC Ruiz | Brian Green | Audience | 55/100 🔴 | Callback Set | 2026-03-26 |
+| 13 | JC Ruiz | Nancy Lewis | Alpha Paving | 54/100 🔴 | DQ'd (appropriate) | 2026-04-02 |
+| 14 | JC Ruiz | Richard Milligan | 4C Recruiting Consulting | 54/100 🔴 | Booked | 2026-03-24 |
+| 15 | JC Ruiz | Khabir Muhammad | Creditfixrr | 53/100 🔴 (v2) | Booked | 2026-03-30 |
+| 16 | JC Ruiz | Pedro Uahib | Shack Shine | 53/100 🔴 | Booked | 2026-03-09 |
+| 17 | JC Ruiz | Einar Saevarsson | Activity Stream | 52/100 🔴 | Callback Set | 2026-03-26 |
+| 18 | JC Ruiz | Cole Dinney | dinneyclean.com | 50/100 🔴 | No Next Step | 2026-03-25 |
+| 19 | JC Ruiz | Grigoriy Rublev | Runzy | 49/100 🔴 | Booked | 2026-03-20 |
+| 20 | JC Ruiz | Sarah | Unknown (10 employees) | 48/100 🔴 | Calendar Link | 2026-03-23 |
 
 ---
 
