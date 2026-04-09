@@ -24,6 +24,7 @@ _Last updated: 2026-04-08_
 | 18 | Joe Meyers | Angelo Patsilivas | LDC Strategies | 50/100 🔴 | Growth | 2026-01-13 | Weak BAMFAM |
 | 18 | Joe Meyers | Steven Calabrese | CRM-U | 27/100 🔴 | Core/Growth | 2026-03-30 | Weak BAMFAM |
 | 20 | Joe Meyers | Drew Williams | Sales Playbook Builder | 48/100 🔴 | Core | 2026-04-07 | Weak BAMFAM (LinkedIn ping) |
+| 21 | Joe Meyers | Jim Pitcher | CRC Builders Inc | 37/100 🔴 | Core | 2026-04-02 | Weak BAMFAM (send video + link) |
 
 ---
 
