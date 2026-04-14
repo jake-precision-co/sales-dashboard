@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import Nav from '@/components/Nav'
+import IClosedWidget from '@/components/IClosedWidget'
 import StatCard from '@/components/StatCard'
 import TodayScorecardCard from '@/components/TodayScorecardCard'
 import { getAllScorecards, scoreColorClass, typeBadgeStyle } from '@/lib/parseScorecard'
@@ -48,6 +49,7 @@ export default async function TodayPage() {
   return (
     <div className="min-h-screen bg-[#0a0a0a]">
       <Nav />
+      <IClosedWidget />
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 py-8 space-y-8">
 

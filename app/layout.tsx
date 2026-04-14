@@ -11,8 +11,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body className="min-h-screen bg-[#0a0a0a] text-gray-100 antialiased leading-relaxed">
         {children}
-        {/* iClosed popup widget */}
-        <script type="text/javascript" src="https://app.iclosed.io/assets/widget.js" async></script>
       </body>
     </html>
   )
