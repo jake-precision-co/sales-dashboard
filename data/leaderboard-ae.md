@@ -7,7 +7,8 @@ _Last updated: 2026-04-10_
 | 🥇 1 | Joe Meyers | Jacob McKinney | Studio Sweat | 79/100 🟡 | Core/Growth | 2026-03-24 | BAMFAM'd |
 | 🥈 2 | Joe Meyers | Khabir Muhammad | Creditfixrr | 78/100 🟡 | Core | 2026-04-01 | Closed Won |
 | 🥉 3 | Joe Meyers | Piotr Gawlik | GAVBIZ | 74/100 🟡 | Growth | 2026-03-25 | BAMFAM'd |
-| 4 | Joe Meyers | Alex Le | Cloud Contractor | 71/100 🟡 | Growth | 2026-03-23 | Closed Won |
+| 4 | Joe Meyers | Lekan Oganla | Settla Inc | 72/100 🟠 | Core | 2026-04-10 | Closed Won |
+| 5 | Joe Meyers | Alex Le | Cloud Contractor | 71/100 🟡 | Growth | 2026-03-23 | Closed Won |
 | 4 | Joe Meyers | Roman Seges | Inline Communications | 68/100 🟠 | Core | 2026-03-31 | Closed Won |
 | 6 | Joe Meyers | Grigoriy Rublev | Runzy | 68/100 🟠 | Core | 2026-03-24 | BAMFAM'd |
 | 7 | Joe Meyers | Therrance Corrothers | Thurr Solutions | 68/100 🟠 | Core | 2026-03-23 | BAMFAM'd |

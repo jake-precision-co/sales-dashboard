@@ -1,6 +1,6 @@
 # SDR Cold Call Leaderboard 🏆
 
-_Last updated: 2026-04-10_
+_Last updated: 2026-04-13_
 
 | Rank | Rep | Prospect | Company | Score | Outcome | Date |
 |------|-----|----------|---------|-------|---------|------|
@@ -26,7 +26,7 @@ _Last updated: 2026-04-10_
 | 20 | JC Ruiz | Einar Saevarsson | Activity Stream | 52/100 🔴 | Callback Set | 2026-03-26 |
 ---
 
-_Note: Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100), Dylan Hume (33/100), Kaleb Walker (23/100), Josh Miller/GoForClose (28/100), Grigoriy Rublev/Runzy (49/100), Helen Okobokekeimei (28/100) did not rank in top 20._
+_Note: Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100), Dylan Hume (33/100), Kaleb Walker (23/100), Josh Miller/GoForClose (28/100), Grigoriy Rublev/Runzy (49/100), Helen Okobokekeimei (28/100), Dex Rempel (38/100), Simon Mushailov (41/100) did not rank in top 20._
 
 ## Notes
 - 🥇🥈🥉 denote top 3 positions
@@ -34,4 +34,4 @@ _Note: Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Cla
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-10_
+_Last updated: 2026-04-13_
