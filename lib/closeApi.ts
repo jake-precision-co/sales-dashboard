@@ -2,7 +2,7 @@
  * closeApi.ts — Film Room data layer
  *
  * ⚡ NO LIVE API CALLS. Reads from data/close-stats.json.
- * That file is populated by scripts/close-data-scraper.py (run on a schedule).
+ * That file is populated by skills/close-sync/scripts/close-sync-pull.py (via LaunchAgents 12 PM / 4:30 PM / 7 PM ET).
  *
  * Betty overnight build — 2026-04-01
  */
