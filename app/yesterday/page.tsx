@@ -95,8 +95,9 @@ export default async function YesterdayPage() {
                         >
                           {callOfTheDay.type}
                         </span>
-                        <span className="text-gray-400 text-xs">{callOfTheDay.date}</span>
+                        <span className="text-gray-400 text-xs">Scored {callOfTheDay.scoredDate}</span>
                       </div>
+                      <div className="text-gray-500 text-xs tabular-nums mb-0.5">Call: {callOfTheDay.date}</div>
                       <h2 className="text-white font-bold text-xl truncate">
                         {callOfTheDay.prospectName}
                       </h2>
@@ -214,6 +215,7 @@ export default async function YesterdayPage() {
                         </div>
                         <p className="text-white font-semibold truncate">{card.prospectName}</p>
                         <p className="text-gray-400 text-sm truncate">{card.company}</p>
+                        <p className="text-gray-500 text-xs tabular-nums">Call: {card.date}</p>
                       </div>
                       <div className="text-right shrink-0">
                         <div className={`text-3xl font-black tabular-nums ${scoreColorClass(card.score)}`}>
