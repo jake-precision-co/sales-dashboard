@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-04-13T19:00:01.353679-04:00",
+  "lastUpdated": "2026-04-14T19:00:01.885890-04:00",
   "today": {
+    "date": "2026-04-14",
+    "dials": 68,
+    "sets": 6,
+    "closes": 0,
+    "revenue": 0
+  },
+  "yesterday": {
     "date": "2026-04-13",
     "dials": 92,
     "sets": 2,
     "closes": 0,
     "revenue": 0
   },
-  "yesterday": {
-    "date": "2026-04-10",
-    "dials": 119,
-    "sets": 0,
-    "closes": 1,
-    "revenue": 12000
-  },
   "monthly": {
     "month": "2026-04",
     "revenue": 48000,
     "deals": 3,
-    "sets": 6,
-    "callsScored": 24,
-    "avgScore": 48
+    "sets": 12,
+    "callsScored": 27,
+    "avgScore": 50
   },
   "records": {
     "bestDayRevenue": {
@@ -29,9 +29,9 @@
       "date": "2026-03-26"
     },
     "bestDaySets": {
-      "amount": 3,
+      "amount": 6,
       "rep": "JC Ruiz",
-      "date": "2026-03-30"
+      "date": "2026-04-14"
     },
     "bestMonthRevenue": {
       "amount": 156000,
