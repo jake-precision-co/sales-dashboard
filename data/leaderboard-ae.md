@@ -1,6 +1,6 @@
 # AE Growth Session Leaderboard 🏆
 
-_Last updated: 2026-04-10_
+_Last updated: 2026-04-14_
 
 | Rank | Rep | Prospect | Company | Score | Tier | Date | Outcome |
 |------|-----|----------|---------|-------|------|------|---------|
@@ -19,6 +19,7 @@ _Last updated: 2026-04-10_
 | 12 | Joe Meyers | Jacob McKinney | Studio Sweat | 58/100 🔴 | Core | 2026-03-30 | Closed Won (Part 2) |
 | 13 | Joe Meyers | Austin Brummer | Requidex | 57/100 🔴 | Growth | 2026-04-09 | Weak BAMFAM (April 20 — founder sign-off needed) |
 | 14 | Joe Meyers | Scott Messick | Analyst1 | 55/100 🔴 | Growth | 2026-03-26 | No Next Step |
+| 14 | Joe Meyers | Pulkit Agarwal | EverTest | 55/100 🔴 | Core | 2026-04-13 | Weak BAMFAM (Wednesday reconnect) |
 | 15 | Joe Meyers | Dan Huck | Painting Company | 55/100 🔴 | Core | 2026-03-20 | No Next Step |
 | 15 | Joe Meyers | Matas Jakutis | BM Digital | 54/100 🔴 | Growth | 2026-03-05 | BAMFAM'd |
 | 16 | Joe Meyers | Garrett Campbell | Objectionly | 51/100 🔴 | Growth | 2026-03-13 | BAMFAM'd |
@@ -36,4 +37,4 @@ _Last updated: 2026-04-10_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-10_
+_Last updated: 2026-04-14_
