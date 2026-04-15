@@ -2,6 +2,7 @@
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-06
+Scored:          2026-04-07
 Prospect:        Kaleb Walker
 Call Type:       [x] Inbound MQL / Resource Download Callback  [ ] Outbound Cold  [ ] Rebook  [ ] Referral
 Lead Status:     [x] Lead  [ ] MQL  [ ] SQL

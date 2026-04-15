@@ -2,6 +2,7 @@
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-04-09
+Scored:          2026-04-10
 Prospect:        Austin Brummer — Requidex — ~$300K ARR (3x target year)
 Lead Source:     [x] Inbound MQL / Self-Scheduled (booked via Precision form)
 Call Stage:      [x] Discovery (Part 1)

@@ -1,7 +1,8 @@
 SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
-Date:            March 25, 2026
+Date:            
+Scored:          2026-03-30March 25, 2026
 Prospect:        Peter Christensen — CLDigital
 Call Type:       [X] Inbound MQL  [ ] Outbound Cold  [ ] Follow-Up
 Duration:        01:37

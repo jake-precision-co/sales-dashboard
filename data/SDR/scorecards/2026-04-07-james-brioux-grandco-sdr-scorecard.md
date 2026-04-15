@@ -11,6 +11,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-07
+Scored:          2026-04-08
 Prospect:        James Brioux — Grandco
 Call Type:       [x] Callback / Follow-up  (SaaS Academy lead — JC referencing prior touchpoint)
 Lead Status:     [x] Lead

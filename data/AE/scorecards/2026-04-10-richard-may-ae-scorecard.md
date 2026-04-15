@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-04-10
+Scored:          2026-04-13
 Prospect:        Richard May — ECHOS Consulting / ECHOS Group — Business Optimization & Tourism Consulting (Jamaica)
 Lead Source:     [x] JC Set (SDR) — Richard explicitly referenced "JC called me" [14:19]
 Call Stage:      [x] Discovery (Part 1)  [ ] Follow-Up Close (Part 2)  [ ] Proposal  [ ] Rescue

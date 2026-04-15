@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-04-10
+Scored:          2026-04-13
 Prospect:        Chloe Dubois — Ocean Legacy — Nonprofit (Revenue: Unknown / Not applicable)
 Lead Source:     [ ] JC Set  [x] Self-Scheduled (appears inbound/self-scheduled — no SDR reference)
 Call Stage:      [ ] Discovery (Part 1)  [x] Follow-Up Close (Part 2 / Next Steps)  [ ] Proposal  [ ] Rescue

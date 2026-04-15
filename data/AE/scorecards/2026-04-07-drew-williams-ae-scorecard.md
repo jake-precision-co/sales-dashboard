@@ -2,6 +2,7 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-04-07
+Scored:          2026-04-08
 Prospect:        Drew Williams — Sales Playbook Builder — Pre-revenue (SaaS launched 2 months ago; channel partner revenue approx $50–100K ARR equiv)
 Lead Source:     [ ] JC Set  [x] Self-Scheduled
 Call Stage:      [ ] Discovery (Part 1)  [x] Follow-Up Close (Part 2)  [ ] Proposal  [ ] Rescue

@@ -2,6 +2,7 @@
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-13
+Scored:          2026-04-15
 Prospect:        George Kwiecinski — Global Key Solutions
 Call Type:       [x] Callback / Follow-up (prior SaaS Academy inquiry — not interested)
 Lead Status:     Lead

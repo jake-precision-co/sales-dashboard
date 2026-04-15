@@ -11,6 +11,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-07
+Scored:          2026-04-08
 Prospect:        Josh Miller — GoForClose
 Call Type:       [x] Callback / Follow-up  (old Growth Session app from July 2025 + SaaS Academy touch)
 Lead Status:     [x] Lead

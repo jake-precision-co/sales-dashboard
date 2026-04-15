@@ -1,7 +1,8 @@
 SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
-Date:            March 30, 2026
+Date:            
+Scored:          2026-03-31March 30, 2026
 Prospect:        Khabir Muhammad — Creditfixrr
 Call Type:       ☑ Follow-Up (Rebook)
 Duration:        5:28
