@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-15T11:00:05.231282-04:00",
+  "lastUpdated": "2026-04-15T11:42:51.398083-04:00",
   "today": {
     "date": "2026-04-15",
-    "dials": 14,
+    "dials": 26,
     "sets": 0,
     "closes": 0,
     "revenue": 0
@@ -19,7 +19,7 @@
     "revenue": 48000,
     "deals": 3,
     "sets": 12,
-    "callsScored": 29,
+    "callsScored": 32,
     "avgScore": 51
   },
   "records": {

@@ -1,7 +1,7 @@
 AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
-Date:            2026-04-14
+Date:            2026-02-06
 Scored:          2026-04-15
 Prospect:        Ross Reed — Director of Revenue (company name not stated, B2B payments/fintech)
 Lead Source:     [x] Inbound MQL (Instagram ad)
