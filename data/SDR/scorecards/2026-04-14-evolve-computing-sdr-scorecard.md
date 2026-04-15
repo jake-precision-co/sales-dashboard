@@ -2,7 +2,6 @@
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-14
-Scored:          2026-04-15
 Prospect:        Chuck — Evolve Computing (CyberHoot)
 Call Type:       [x] Inbound MQL (follow-up on SaaS Academy / Software as a Science referral)
 Lead Status:     [x] Lead (status in Close)

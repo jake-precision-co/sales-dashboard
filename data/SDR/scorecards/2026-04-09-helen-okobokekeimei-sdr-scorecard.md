@@ -2,7 +2,6 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-09
-Scored:          2026-04-10
 Prospect:        Helen Okobokekeimei — [Company Unknown]
 Call Type:       [x] Inbound MQL
 Lead Status:     [ ] Lead (no upgrade)

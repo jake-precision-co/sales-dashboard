@@ -2,7 +2,6 @@
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-13
-Scored:          2026-04-14
 Prospect:        Paul Boudreau — Everbreed LLC
 Call Type:       [x] Callback / Follow-up (inbound warm lead — previous SaaS Academy inquiry)
 Lead Status:     [x] MQL

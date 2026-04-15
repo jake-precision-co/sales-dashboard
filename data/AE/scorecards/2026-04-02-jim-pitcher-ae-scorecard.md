@@ -2,7 +2,6 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-04-02
-Scored:          2026-04-08
 Prospect:        Jim Pitcher — CRC Builders Inc — Construction (rebuilding; team of 8, previously 50 before personal tragedy)
 Lead Source:     [x] Self-Scheduled (returning prospect — spoken with Joe ~6 months prior)
 Call Stage:      [ ] Discovery (Part 1)  [x] Follow-Up Close (Part 2)  [ ] Proposal  [ ] Rescue

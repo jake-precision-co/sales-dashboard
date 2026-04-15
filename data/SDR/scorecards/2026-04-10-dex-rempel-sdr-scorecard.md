@@ -9,7 +9,6 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-10
-Scored:          2026-04-13
 Prospect:        Dex Rempel — [Retail Coffee / Cafes — Winnipeg, Manitoba, Canada]
 Call Type:       [X] Inbound MQL (downloaded weekly sync template → triggered outbound call)
 Lead Status:     [X] Lead

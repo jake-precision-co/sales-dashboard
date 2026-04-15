@@ -6,7 +6,6 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-08
-Scored:          2026-04-09
 Prospect:        Noah — Baseworks Consulting
 Call Type:       [x] Inbound MQL (prospect reached out after Dan Martell YouTube; JC was calling back)
 Lead Status:     [x] Lead (not SQL)

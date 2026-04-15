@@ -14,7 +14,6 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-08
-Scored:          2026-04-09
 Prospect:        Daniel Segurola — AI Scaling (AIscaling.ai)
 Call Type:       [X] Rebook
 Lead Status:     [X] MQL (previously qualified; SQL confirmed 2026-03-30)

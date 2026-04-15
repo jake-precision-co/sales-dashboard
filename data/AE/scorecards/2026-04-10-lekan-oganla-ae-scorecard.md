@@ -2,7 +2,6 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-04-10
-Scored:          2026-04-10
 Prospect:        Lekan Oganla — Settla Inc — ~$100K ARR
 Lead Source:     [ ] JC Set  [ ] Inbound MQL  [ ] Marketing  [ ] Referral  [X] Self-Scheduled / Reactivation
 Call Stage:      [ ] Discovery (Part 1)  [ ] Follow-Up Close (Part 2)  [ ] Proposal  [X] Rescue (Reactivation)

@@ -2,7 +2,6 @@ AE GROWTH SESSION SCORECARD
 ═══════════════════════════════════════════
 Rep:             Joe Meyers
 Date:            2026-04-13
-Scored:          2026-04-14
 Prospect:        Pulkit Agarwal — EverTest (AI-powered QA automation SaaS) — ~$0 MRR (bootstrapped, 3 clients)
 Activity ID:     acti_7MUSyONsjWsndlTEJNwFUkVAkQL3XILx4xIvNpgDxiZ
 Lead Source:     [X] Self-Scheduled
