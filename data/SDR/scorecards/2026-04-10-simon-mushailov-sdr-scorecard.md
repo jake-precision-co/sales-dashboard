@@ -9,6 +9,7 @@ SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-10
+Scored:          2026-04-13
 Prospect:        Simon Mushailov — [Electrical Contractor / Commercial Electrical]
 Call Type:       [X] Callback/Follow-up  (Prior Growth Session in December, re-engaged)
 Lead Status:     [X] Lead

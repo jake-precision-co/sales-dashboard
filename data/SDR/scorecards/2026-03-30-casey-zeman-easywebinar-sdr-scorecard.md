@@ -1,7 +1,8 @@
 SDR CALL SCORECARD
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
-Date:            March 30, 2026
+Date:            
+Scored:          2026-03-31March 30, 2026
 Prospect:        Casey Zeman — EasyWebinar  
 Call Type:       ☑ Outbound (Former SAS Academy Member)
 Duration:        9:54

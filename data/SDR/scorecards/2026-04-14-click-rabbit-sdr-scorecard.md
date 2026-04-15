@@ -2,6 +2,7 @@
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-14
+Scored:          2026-04-15
 Prospect:        Noah (CEO) — Click Rabbit / ArkData.io
 Call Type:       [x] Inbound MQL (follow-up on prior SaaS Academy application)
 Lead Status:     [x] MQL

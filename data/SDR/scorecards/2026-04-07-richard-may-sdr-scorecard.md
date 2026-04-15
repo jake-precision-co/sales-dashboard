@@ -5,6 +5,7 @@
 ═══════════════════════════════════════════
 Rep:             JC Ruiz
 Date:            2026-04-07
+Scored:          2026-04-07
 Prospect:        Richard May — ECHOS Consulting
 Call Type:       [x] Rebook (Missed Growth Session recovery)
 Lead Status:     MQL → ⚠️ Should be DQ'd (see Qualification)
