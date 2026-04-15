@@ -17,7 +17,11 @@ export default async function LogPage({
 }) {
   const { rep, type, score, from, to } = await searchParams
 
-  let cards = getAllScorecards()
+  let cards = getAllScorecards().sort((a, b) => {
+    const byScored = b.scoredDate.localeCompare(a.scoredDate)
+    if (byScored !== 0) return byScored
+    return b.date.localeCompare(a.date)
+  })
 
   // Apply filters
   if (rep) {
@@ -84,7 +88,8 @@ export default async function LogPage({
             <table className="w-full text-sm">
               <thead>
                 <tr className="border-b border-[#1a1a1a]">
-                  <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-5 py-3">Date</th>
+                  <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-5 py-3">Scored</th>
+                  <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-3 py-3 hidden sm:table-cell">Call Date</th>
                   <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-3 py-3">Prospect</th>
                   <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-3 py-3 hidden sm:table-cell">Rep</th>
                   <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-3 py-3 hidden md:table-cell">Type</th>
@@ -99,6 +104,9 @@ export default async function LogPage({
                     className={`border-b border-[#141414] hover:bg-[#141414] transition-colors ${i === cards.length - 1 ? 'border-b-0' : ''}`}
                   >
                     <td className="px-5 py-3.5 text-gray-400 text-xs tabular-nums whitespace-nowrap">
+                      {card.scoredDate}
+                    </td>
+                    <td className="px-3 py-3.5 text-gray-500 text-xs tabular-nums whitespace-nowrap hidden sm:table-cell">
                       {card.date}
                     </td>
                     <td className="px-3 py-3.5">
