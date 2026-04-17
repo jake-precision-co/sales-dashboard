@@ -9,6 +9,7 @@ const NAV_ITEMS = [
   { href: '/leaderboard', label: 'Leaderboard' },
   { href: '/monthly', label: 'Monthly' },
   { href: '/log', label: 'Log' },
+  { href: '/customer-voice', label: 'Voice' },
 ]
 
 export default function NavLinks() {
