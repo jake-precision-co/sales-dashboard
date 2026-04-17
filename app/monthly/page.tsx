@@ -8,7 +8,9 @@ const CURRENT_MONTH = '2026-04'
 const CURRENT_MONTH_LABEL = 'April 2026'
 const PREV_MONTH = '2026-03'
 const PREV_MONTH_LABEL = 'March 2026'
-const GOAL_ARR = 240_000  // $240K ARR monthly goal
+const GOAL_ARR = 170_000
+const GOAL_SETS = 30
+const GOAL_DEALS = 10
 
 function formatRevenue(n: number) {
   if (n >= 1_000_000) return `$${(n / 1_000_000).toFixed(1)}M`
@@ -25,12 +27,11 @@ export default async function MonthlyPage() {
   const prevCards = allCards.filter(c => c.date.startsWith(PREV_MONTH))
 
   // Current month stats — all from local JSON (scraper pulls live Close data + scorecard file counts)
-  // These are current-month only, no all-time bleed
   const currentRevenue = liveMonthly.revenue
   const currentDeals = liveMonthly.deals
   const currentSets = liveMonthly.sets        // JC's booked meetings this month (Close API)
-  const callsScored = liveMonthly.callsScored // Scorecard files with this-month ET birthtime
-  const avgScore = liveMonthly.avgScore       // Avg score of those files
+  const callsScored = liveMonthly.callsScored
+  const avgScore = liveMonthly.avgScore
 
   // Prev month stats from monthly-summary.json
   const prevRevenue = prevSummary?.joe?.closedAnnualRevenue ?? 0
@@ -39,6 +40,12 @@ export default async function MonthlyPage() {
   const prevCalls = prevSummary?.totalCallsScored ?? prevCards.length
   const prevAvgAE = prevSummary?.avgAEScore ?? 0
   const prevAvgSDR = prevSummary?.avgSDRScore ?? 0
+
+  // AE vs SDR avg scores for current month
+  const aeCards = currentCards.filter(c => c.type === 'AE' || c.filePath?.includes('-ae-'))
+  const sdrCards = currentCards.filter(c => c.type === 'SDR' || c.filePath?.includes('-sdr-'))
+  const aeAvgScore = aeCards.length > 0 ? Math.round(aeCards.reduce((s, c) => s + c.score, 0) / aeCards.length) : 0
+  const sdrAvgScore = sdrCards.length > 0 ? Math.round(sdrCards.reduce((s, c) => s + c.score, 0) / sdrCards.length) : 0
 
   // Days elapsed in current month
   const etDateStr = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date())
@@ -71,12 +78,12 @@ export default async function MonthlyPage() {
   const dailyData = Object.values(byDate)
     .sort((a, b) => a.date.localeCompare(b.date))
     .map(d => ({
-      date: d.date.slice(5).replace('-', '/'),  // "04/01"
+      date: d.date.slice(5).replace('-', '/'),
       calls: d.calls,
       avgScore: Math.round(d.totalScore / d.calls),
     }))
 
-  // Also get previous month chart data
+  // Previous month chart data
   const byDatePrev: Record<string, { date: string; calls: number; totalScore: number }> = {}
   for (const card of prevCards) {
     if (!byDatePrev[card.date]) {
@@ -120,7 +127,7 @@ export default async function MonthlyPage() {
               <div>
                 <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">Revenue Closed</p>
                 <div className="flex items-end gap-3">
-                  <span className="text-5xl font-black text-green-400 tabular-nums">
+                  <span className="text-5xl font-black text-white tabular-nums">
                     {formatRevenue(currentRevenue)}
                   </span>
                   <span className="text-gray-400 mb-1 text-sm">ARR</span>
@@ -139,8 +146,8 @@ export default async function MonthlyPage() {
             </div>
             <div className="h-3 bg-[#1a1a1a] rounded-full overflow-hidden">
               <div
-                className="h-full bg-green-500 rounded-full bar-fill transition-all"
-                style={{ width: `${goalProgress}%` }}
+                className="h-full rounded-full bar-fill transition-all"
+                style={{ width: `${goalProgress}%`, backgroundColor: '#0098CE' }}
               />
             </div>
           </div>
@@ -154,6 +161,7 @@ export default async function MonthlyPage() {
               projected={projectedSets}
               prev={prevSets}
               pacePct={setsPacePct}
+              goal={GOAL_SETS}
             />
             <StatBox
               label="Deals Won"
@@ -162,35 +170,36 @@ export default async function MonthlyPage() {
               projected={projectedDeals}
               prev={prevDeals}
               pacePct={dealsPacePct}
-            />
-            <StatBox
-              label="Calls Scored"
-              sublabel="All reps"
-              value={callsScored}
-              projected={projectedCalls}
-              prev={prevCalls}
-              pacePct={callsPacePct}
+              goal={GOAL_DEALS}
             />
             <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
-              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-3">Avg Score</p>
-              <p className={`text-4xl font-black tabular-nums ${
-                avgScore >= 80 ? 'text-green-400' : avgScore >= 60 ? 'text-amber-400' : 'text-red-400'
-              }`}>
-                {avgScore || '—'}
-              </p>
+              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">AE Avg Score</p>
+              <p className="text-gray-400 text-xs mb-3">{aeCards.length} call{aeCards.length !== 1 ? 's' : ''}</p>
+              <p className="text-4xl font-black text-white tabular-nums">{aeAvgScore || '—'}</p>
               {prevSummary && (
-                <div className="mt-2">
-                  <p className="text-gray-400 text-xs">
-                    AE: <span className="text-gray-400">{prevSummary.avgAEScore} last mo</span>
-                  </p>
-                  <p className="text-gray-400 text-xs">
-                    SDR: <span className="text-gray-400">{prevSummary.avgSDRScore} last mo</span>
-                  </p>
-                </div>
+                <p className="text-gray-400 text-xs mt-2">Last mo: {prevAvgAE}</p>
+              )}
+            </div>
+            <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
+              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">SDR Avg Score</p>
+              <p className="text-gray-400 text-xs mb-3">{sdrCards.length} call{sdrCards.length !== 1 ? 's' : ''}</p>
+              <p className="text-4xl font-black text-white tabular-nums">{sdrAvgScore || '—'}</p>
+              {prevSummary && (
+                <p className="text-gray-400 text-xs mt-2">Last mo: {prevAvgSDR}</p>
               )}
             </div>
           </div>
         </section>
+
+        {/* ── PROJECTION CHART ───────────────────────────────── */}
+        <ProjectionChart
+          currentRevenue={currentRevenue}
+          projectedRevenue={projectedRevenue}
+          currentSets={currentSets}
+          projectedSets={projectedSets}
+          currentDeals={currentDeals}
+          projectedDeals={projectedDeals}
+        />
 
         {/* ── PACE VS LAST MONTH ─────────────────────────────── */}
         <section>
@@ -238,12 +247,12 @@ export default async function MonthlyPage() {
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-4">
             <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
               <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-2">Revenue</p>
-              <p className="text-3xl font-black text-green-400 tabular-nums">{formatRevenue(prevRevenue)}</p>
+              <p className="text-3xl font-black text-white tabular-nums">{formatRevenue(prevRevenue)}</p>
               <p className="text-gray-400 text-xs mt-1">{prevDeals} deals closed</p>
             </div>
             <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
               <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-2">Growth Sessions Set</p>
-              <p className="text-3xl font-black text-blue-400 tabular-nums">{prevSets}</p>
+              <p className="text-3xl font-black text-white tabular-nums">{prevSets}</p>
               <p className="text-gray-400 text-xs mt-1">JC Ruiz · March</p>
             </div>
             <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
@@ -262,6 +271,83 @@ export default async function MonthlyPage() {
   )
 }
 
+function ProjectionChart({
+  currentRevenue, projectedRevenue,
+  currentSets, projectedSets,
+  currentDeals, projectedDeals,
+}: {
+  currentRevenue: number; projectedRevenue: number
+  currentSets: number; projectedSets: number
+  currentDeals: number; projectedDeals: number
+}) {
+  const rows = [
+    {
+      label: 'Revenue',
+      current: currentRevenue,
+      projected: projectedRevenue,
+      goal: GOAL_ARR,
+      fmt: (n: number) => formatRevenue(n),
+    },
+    {
+      label: 'Sets',
+      current: currentSets,
+      projected: projectedSets,
+      goal: GOAL_SETS,
+      fmt: (n: number) => String(n),
+    },
+    {
+      label: 'Deals',
+      current: currentDeals,
+      projected: projectedDeals,
+      goal: GOAL_DEALS,
+      fmt: (n: number) => String(n),
+    },
+  ]
+
+  return (
+    <section>
+      <p className="text-gray-400 text-sm tracking-[0.3em] uppercase font-semibold mb-4">
+        Goal Projection
+      </p>
+      <div className="bg-[#111] border border-[#1a1a1a] rounded-2xl p-6 space-y-6">
+        {rows.map(row => {
+          const mtdPct = row.goal > 0 ? Math.min((row.current / row.goal) * 100, 100) : 0
+          const projPct = row.goal > 0 ? Math.min((row.projected / row.goal) * 100, 100) : 0
+          const projOver = row.projected > row.goal
+          return (
+            <div key={row.label}>
+              <div className="flex items-center justify-between mb-2">
+                <span className="text-sm text-gray-400 uppercase tracking-widest font-semibold">{row.label}</span>
+                <span className="text-xs text-gray-400">
+                  {row.fmt(row.current)} / Goal {row.fmt(row.goal)}
+                  <span className={`ml-2 ${projOver ? 'text-amber-400' : 'text-gray-400'}`}>
+                    · Proj {row.fmt(row.projected)}
+                  </span>
+                </span>
+              </div>
+              <div className="relative h-4 bg-[#1a1a1a] rounded-full overflow-hidden">
+                {/* MTD fill */}
+                <div
+                  className="absolute inset-y-0 left-0 rounded-full"
+                  style={{ width: `${mtdPct}%`, backgroundColor: '#0098CE' }}
+                />
+                {/* Projected marker */}
+                <div
+                  className="absolute inset-y-0 w-0.5"
+                  style={{
+                    left: `${projPct}%`,
+                    backgroundColor: projOver ? '#F59E0B' : '#6b7280',
+                  }}
+                />
+              </div>
+            </div>
+          )
+        })}
+      </div>
+    </section>
+  )
+}
+
 function StatBox({
   label,
   sublabel,
@@ -269,6 +355,7 @@ function StatBox({
   projected,
   prev,
   pacePct,
+  goal,
 }: {
   label: string
   sublabel: string
@@ -276,7 +363,9 @@ function StatBox({
   projected: number
   prev: number
   pacePct: number
+  goal?: number
 }) {
+  const goalPct = goal && goal > 0 ? Math.min((value / goal) * 100, 100) : 0
   return (
     <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
       <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold">{label}</p>
@@ -287,6 +376,20 @@ function StatBox({
         <span className="text-gray-400 text-xs">proj {projected}</span>
       </div>
       <p className="text-gray-400 text-xs mt-0.5">March: {prev}</p>
+      {goal && goal > 0 && (
+        <div className="mt-3">
+          <div className="flex justify-between text-xs text-gray-400 mb-1">
+            <span>Goal {goal}</span>
+            <span>{Math.round(goalPct)}%</span>
+          </div>
+          <div className="h-1.5 bg-[#1a1a1a] rounded-full overflow-hidden">
+            <div
+              className="h-full rounded-full"
+              style={{ width: `${goalPct}%`, backgroundColor: '#0098CE' }}
+            />
+          </div>
+        </div>
+      )}
     </div>
   )
 }
