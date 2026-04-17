@@ -13,9 +13,10 @@ export default async function LogPage({
     score?: string
     from?: string
     to?: string
+    sort?: string
   }>
 }) {
-  const { rep, type, score, from, to } = await searchParams
+  const { rep, type, score, from, to, sort } = await searchParams
 
   let cards = getAllScorecards().sort((a, b) => {
     const byScored = b.scoredDate.localeCompare(a.scoredDate)
@@ -46,7 +47,14 @@ export default async function LogPage({
     cards = cards.filter(c => c.date <= to)
   }
 
-  const hasFilters = !!(rep || type || score || from || to)
+  // Apply sort
+  if (sort === 'score-desc') {
+    cards = [...cards].sort((a, b) => b.score - a.score)
+  } else if (sort === 'score-asc') {
+    cards = [...cards].sort((a, b) => a.score - b.score)
+  }
+
+  const hasFilters = !!(rep || type || score || from || to || sort)
 
   return (
     <div className="min-h-screen bg-[#0a0a0a]">

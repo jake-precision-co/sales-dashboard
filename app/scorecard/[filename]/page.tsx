@@ -2,6 +2,7 @@ import Nav from '@/components/Nav'
 import { getAllScorecards, getScorecardById, scoreColorClass, typeBadgeStyle } from '@/lib/parseScorecard'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
+import React from 'react'
 
 export default async function ScorecardPage({
   params,
@@ -231,165 +232,278 @@ export default async function ScorecardPage({
   )
 }
 
-// ── Content renderer ─────────────────────────────────────────
-function ContentRenderer({ content }: { content: string }) {
-  const lines = content.split('\n')
+// ── Inline bold renderer ──────────────────────────────────────
+function renderInline(text: string): React.ReactNode {
+  const parts = text.split(/(\*\*[^*]+\*\*)/)
+  return parts.map((part, i) =>
+    /^\*\*[^*]+\*\*$/.test(part)
+      ? <strong key={i} className="text-gray-200 font-semibold">{part.slice(2, -2)}</strong>
+      : part
+  )
+}
+
+// ── Scoring table (Criteria | Max | Score | Notes) ───────────
+function ScoringTable({ rows }: { rows: string[][] }) {
+  const isHeader = (r: string[]) =>
+    r[0].toLowerCase().includes('criteria') || r[0].toLowerCase().includes('section')
+  const dataRows = rows.filter(r => !isHeader(r))
 
   return (
-    <div className="text-sm space-y-0">
-      {lines.map((line, i) => {
-        const trimmed = line.trim()
+    <div className="space-y-2 my-3">
+      {dataRows.map((cols, i) => {
+        const criteria = cols[0] ?? ''
+        const max = cols[1] ?? ''
+        const score = cols[2] ?? ''
+        const notes = cols[3] ?? ''
+        const scoreNum = parseInt(score)
+        const maxNum = parseInt(max.replace('/', ''))
+        const pct = maxNum ? (scoreNum / maxNum) * 100 : 0
+        const scoreColor = pct >= 80 ? 'text-green-400' : pct >= 60 ? 'text-amber-400' : 'text-red-400'
+        const barColor = pct >= 80 ? 'bg-green-500' : pct >= 60 ? 'bg-amber-500' : 'bg-red-500'
 
-        // Skip code fences
-        if (trimmed === '```') return null
-
-        // Horizontal separators
-        if (/^═{3,}$/.test(trimmed)) {
-          return <div key={i} className="border-t border-[#1e1e1e] my-4" />
-        }
-        if (/^-{3,}$/.test(trimmed)) {
-          return <div key={i} className="border-t border-[#1a1a1a] my-3" />
-        }
-
-        // H3 headers (### text)
-        if (/^###\s/.test(line)) {
-          return (
-            <h4 key={i} className="text-amber-400 font-bold text-base mt-7 mb-2">
-              {line.replace(/^###\s*/, '').replace(/\*\*/g, '')}
-            </h4>
-          )
-        }
-
-        // H2 headers (## text)
-        if (/^##\s/.test(line)) {
-          return (
-            <h3 key={i} className="text-blue-400 font-bold text-lg mt-8 mb-2">
-              {line.replace(/^##\s*/, '').replace(/\*\*/g, '')}
-            </h3>
-          )
-        }
-
-        // H1 headers (# text)
-        if (/^#\s/.test(line)) {
-          return (
-            <h2 key={i} className="text-white font-black text-xl mt-6 mb-2">
-              {line.replace(/^#\s*/, '')}
-            </h2>
-          )
-        }
-
-        // SCORE line
-        if (/^SCORE:\s/.test(trimmed)) {
-          return (
-            <div key={i} className="text-white font-black text-lg my-3 py-2 border-y border-[#1e1e1e]">
-              {trimmed}
-            </div>
-          )
-        }
-
-        // All-caps section headers (e.g. WHAT WENT WELL:, TOP COACHING PRIORITY:)
-        if (
-          /^[A-Z][A-Z\s&'():—–\-]{4,}[:\s]/.test(trimmed) &&
-          trimmed.length < 80 &&
-          !trimmed.startsWith('|')
-        ) {
-          return (
-            <p key={i} className="text-gray-400 uppercase tracking-widest text-xs font-bold mt-6 mb-2">
-              {trimmed.replace(/\*\*/g, '')}
-            </p>
-          )
-        }
-
-        // Arrow lines (coaching / key points)
-        if (/^\s*→/.test(line)) {
-          return (
-            <div key={i} className="text-emerald-400 pl-4 border-l-2 border-emerald-500/30 py-0.5 my-1 leading-relaxed">
-              {line.replace(/^\s*→\s*/, '')}
-            </div>
-          )
-        }
-
-        // Table separator row — skip
-        if (/^\|[-\s|]+\|$/.test(trimmed)) return null
-
-        // Table row
-        if (/^\|/.test(trimmed)) {
-          const cols = trimmed.split('|').filter(Boolean).map(c => c.trim())
-          const isHeader =
-            i > 0 &&
-            (lines[i - 1].toLowerCase().includes('criteria') ||
-              lines[i - 1].toLowerCase().includes('section') ||
-              lines[i - 1].toLowerCase().includes('---'))
-          return (
-            <div
-              key={i}
-              className={`grid text-xs py-1.5 border-b border-[#161616] gap-x-4 ${
-                isHeader ? 'text-gray-400' : 'text-gray-400'
-              }`}
-              style={{ gridTemplateColumns: `1fr ${cols.slice(1).map(() => 'auto').join(' ')}` }}
-            >
-              {cols.map((col, j) => (
-                <span
-                  key={j}
-                  className={j === 0 ? '' : 'text-right tabular-nums text-gray-400'}
-                >
-                  {col.replace(/\*\*/g, '')}
-                </span>
-              ))}
-            </div>
-          )
-        }
-
-        // Markdown bold section headers (**TEXT:**)
-        if (/^\*\*[A-Z].*\*\*$/.test(trimmed)) {
-          return (
-            <p key={i} className="text-gray-400 font-semibold mt-4 mb-1">
-              {trimmed.replace(/\*\*/g, '')}
-            </p>
-          )
-        }
-
-        // Bullet points (•, -, *)
-        if (/^\s*[-•*](?!\s*[-*])/.test(line)) {
-          const text = line.replace(/^\s*[-•*]\s*/, '').replace(/\*\*/g, '')
-          return (
-            <div key={i} className="flex gap-2 text-gray-400 py-0.5 pl-2">
-              <span className="text-gray-400 shrink-0 mt-0.5">·</span>
-              <span className="leading-relaxed">{text}</span>
-            </div>
-          )
-        }
-
-        // Numbered list items
-        if (/^\s*\d+\./.test(line)) {
-          return (
-            <div key={i} className="text-gray-400 py-0.5 pl-2 leading-relaxed">
-              {line.replace(/\*\*/g, '')}
-            </div>
-          )
-        }
-
-        // Empty line
-        if (!trimmed) {
-          return <div key={i} className="h-1.5" />
-        }
-
-        // Indented metadata lines (e.g. "  Rep: Joe Meyers")
-        if (/^\s{2,}[A-Za-z]/.test(line)) {
-          return (
-            <div key={i} className="text-gray-400 pl-4 py-0.5 font-mono text-xs leading-relaxed">
-              {trimmed}
-            </div>
-          )
-        }
-
-        // Default paragraph
         return (
-          <p key={i} className="text-gray-400 py-0.5 leading-relaxed">
-            {line.replace(/\*\*/g, '')}
-          </p>
+          <div key={i} className="bg-[#0d0d0d] border border-[#1a1a1a] rounded-xl overflow-hidden">
+            {/* Standard / criteria row */}
+            <div className="flex items-center justify-between gap-4 px-4 py-2.5 border-b border-[#1a1a1a]">
+              <span className="text-gray-500 text-xs uppercase tracking-wide font-semibold flex-1">
+                {criteria}
+              </span>
+              <div className="flex items-center gap-2 shrink-0">
+                <div className="w-16 h-1 bg-[#222] rounded-full overflow-hidden">
+                  <div className={`h-full rounded-full ${barColor}`} style={{ width: `${pct}%` }} />
+                </div>
+                <span className={`font-black text-sm tabular-nums ${scoreColor}`}>{score}</span>
+                <span className="text-gray-600 text-xs">/{maxNum || max.replace('/', '')}</span>
+              </div>
+            </div>
+            {/* Feedback / notes row */}
+            {notes && (
+              <div className="px-4 py-2.5">
+                <p className="text-gray-300 text-sm leading-relaxed">{notes}</p>
+              </div>
+            )}
+          </div>
         )
       })}
     </div>
   )
+}
+
+// ── Content renderer ─────────────────────────────────────────
+function ContentRenderer({ content }: { content: string }) {
+  const lines = content.split('\n')
+  const elements: React.ReactNode[] = []
+  let i = 0
+
+  while (i < lines.length) {
+    const line = lines[i]
+    const trimmed = line.trim()
+
+    // Skip code fences
+    if (trimmed === '```') { i++; continue }
+
+    // Horizontal separators
+    if (/^═{3,}$/.test(trimmed)) {
+      elements.push(<div key={i} className="border-t border-[#1e1e1e] my-5" />)
+      i++; continue
+    }
+    if (/^-{3,}$/.test(trimmed)) {
+      elements.push(<div key={i} className="border-t border-[#1a1a1a] my-4" />)
+      i++; continue
+    }
+
+    // Table — collect all consecutive table rows
+    if (/^\|/.test(trimmed)) {
+      const tableRows: string[][] = []
+      while (i < lines.length && /^\|/.test(lines[i].trim())) {
+        const row = lines[i].trim()
+        if (!/^\|[-\s|]+\|$/.test(row)) { // skip separator rows
+          tableRows.push(row.split('|').filter(Boolean).map(c => c.trim()))
+        }
+        i++
+      }
+      if (tableRows.length > 0) {
+        // Detect scoring table: has Max/Score columns
+        const isScoringTable = tableRows[0]?.some(c =>
+          /max|score|\/\d/i.test(c)
+        ) || tableRows.some(r => /^\/\d/.test(r[1] ?? ''))
+        if (isScoringTable) {
+          elements.push(<ScoringTable key={`table-${i}`} rows={tableRows} />)
+        } else {
+          // Generic table — simple grid
+          elements.push(
+            <div key={`table-${i}`} className="overflow-x-auto my-3">
+              <table className="w-full text-sm border border-[#1e1e1e] rounded-xl overflow-hidden">
+                <tbody>
+                  {tableRows.map((cols, ri) => (
+                    <tr key={ri} className="border-b border-[#161616] last:border-b-0">
+                      {cols.map((col, ci) => (
+                        <td key={ci} className="px-4 py-2.5 text-gray-400 text-sm">{col}</td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )
+        }
+      }
+      continue
+    }
+
+    // H3 headers (### text)
+    if (/^###\s/.test(line)) {
+      elements.push(
+        <h4 key={i} className="text-amber-400 font-bold text-base mt-8 mb-3 pb-1 border-b border-amber-500/20">
+          {line.replace(/^###\s*/, '').replace(/\*\*/g, '')}
+        </h4>
+      )
+      i++; continue
+    }
+
+    // H2 headers (## text)
+    if (/^##\s/.test(line)) {
+      elements.push(
+        <h3 key={i} className="text-blue-400 font-bold text-lg mt-10 mb-3 pb-1 border-b border-blue-500/20">
+          {line.replace(/^##\s*/, '').replace(/\*\*/g, '')}
+        </h3>
+      )
+      i++; continue
+    }
+
+    // H1 headers (# text)
+    if (/^#\s/.test(line)) {
+      elements.push(
+        <h2 key={i} className="text-white font-black text-xl mt-6 mb-2">
+          {line.replace(/^#\s*/, '')}
+        </h2>
+      )
+      i++; continue
+    }
+
+    // SCORE line
+    if (/^SCORE:\s/.test(trimmed)) {
+      elements.push(
+        <div key={i} className="text-white font-black text-xl my-4 py-3 px-4 bg-[#0f0f0f] border border-[#2a2a2a] rounded-xl">
+          {trimmed}
+        </div>
+      )
+      i++; continue
+    }
+
+    // SECTION BREAKDOWN dotted lines (e.g. "  Opener & Energy .... 11/15")
+    if (/^\s{2,}.+\.{3,}\s*\d+\/\d+/.test(line)) {
+      const match = line.match(/^\s{2,}(.+?)\s*\.{3,}\s*(\d+)\/(\d+)/)
+      if (match) {
+        const label = match[1].trim()
+        const score = parseInt(match[2])
+        const max = parseInt(match[3])
+        const pct = Math.round((score / max) * 100)
+        const color = pct >= 80 ? 'text-green-400' : pct >= 60 ? 'text-amber-400' : 'text-red-400'
+        const bar = pct >= 80 ? 'bg-green-500' : pct >= 60 ? 'bg-amber-500' : 'bg-red-500'
+        elements.push(
+          <div key={i} className="flex items-center gap-3 py-1.5">
+            <span className="text-gray-300 text-sm flex-1">{label}</span>
+            <div className="w-24 h-1.5 bg-[#1a1a1a] rounded-full overflow-hidden">
+              <div className={`h-full rounded-full ${bar}`} style={{ width: `${pct}%` }} />
+            </div>
+            <span className={`text-sm font-black tabular-nums w-12 text-right ${color}`}>{score}/{max}</span>
+          </div>
+        )
+        i++; continue
+      }
+    }
+
+    // All-caps section headers (e.g. WHAT WENT WELL:, TOP COACHING PRIORITY:)
+    if (
+      /^[A-Z][A-Z\s&'():—–\-]{4,}[:\s]/.test(trimmed) &&
+      trimmed.length < 80 &&
+      !trimmed.startsWith('|')
+    ) {
+      elements.push(
+        <p key={i} className="text-gray-500 uppercase tracking-widest text-xs font-bold mt-8 mb-3">
+          {trimmed.replace(/\*\*/g, '')}
+        </p>
+      )
+      i++; continue
+    }
+
+    // Arrow lines (coaching / key points)
+    if (/^\s*→/.test(line)) {
+      elements.push(
+        <div key={i} className="text-emerald-300 pl-4 border-l-2 border-emerald-500/40 py-1 my-1.5 leading-relaxed text-sm font-medium">
+          {renderInline(line.replace(/^\s*→\s*/, ''))}
+        </div>
+      )
+      i++; continue
+    }
+
+    // Markdown bold standalone lines (**TEXT:**)
+    if (/^\*\*[A-Z]/.test(trimmed) && trimmed.endsWith('**')) {
+      elements.push(
+        <p key={i} className="text-gray-200 font-semibold mt-5 mb-1.5 text-sm">
+          {trimmed.replace(/\*\*/g, '')}
+        </p>
+      )
+      i++; continue
+    }
+
+    // Bold line with content after (**Text:** rest)
+    if (/^\*\*/.test(trimmed)) {
+      elements.push(
+        <p key={i} className="text-gray-300 py-0.5 leading-relaxed text-sm">
+          {renderInline(trimmed)}
+        </p>
+      )
+      i++; continue
+    }
+
+    // Bullet points (•, -, *)
+    if (/^\s*[-•*](?!\s*[-*])/.test(line)) {
+      const text = line.replace(/^\s*[-•*]\s*/, '')
+      elements.push(
+        <div key={i} className="flex gap-2.5 text-gray-300 py-1 pl-2">
+          <span className="text-gray-500 shrink-0 mt-1 text-xs">▸</span>
+          <span className="leading-relaxed text-sm">{renderInline(text)}</span>
+        </div>
+      )
+      i++; continue
+    }
+
+    // Numbered list items
+    if (/^\s*\d+\./.test(line)) {
+      elements.push(
+        <div key={i} className="text-gray-300 py-0.5 pl-2 leading-relaxed text-sm">
+          {renderInline(line)}
+        </div>
+      )
+      i++; continue
+    }
+
+    // Empty line
+    if (!trimmed) {
+      elements.push(<div key={i} className="h-2" />)
+      i++; continue
+    }
+
+    // Indented metadata lines (e.g. "  Rep: Joe Meyers")
+    if (/^\s{2,}[A-Za-z]/.test(line) && !line.includes('....')) {
+      elements.push(
+        <div key={i} className="text-gray-400 pl-4 py-0.5 font-mono text-xs leading-relaxed">
+          {trimmed}
+        </div>
+      )
+      i++; continue
+    }
+
+    // Default paragraph
+    elements.push(
+      <p key={i} className="text-gray-300 py-0.5 leading-relaxed text-sm">
+        {renderInline(line)}
+      </p>
+    )
+    i++
+  }
+
+  return <div className="space-y-0">{elements}</div>
 }

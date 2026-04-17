@@ -25,6 +25,7 @@ export default function LogFilters() {
   const score  = params.get('score')  ?? ''
   const from   = params.get('from')   ?? ''
   const to     = params.get('to')     ?? ''
+  const sort   = params.get('sort')   ?? ''
 
   return (
     <div className="flex flex-wrap gap-3 items-center">
@@ -78,8 +79,19 @@ export default function LogFilters() {
         title="To date"
       />
 
+      {/* Sort */}
+      <select
+        value={sort}
+        onChange={e => update('sort', e.target.value)}
+        className="bg-[#111] border border-[#222] rounded-xl px-3 py-2 text-sm text-gray-300 focus:outline-none focus:border-[#333] cursor-pointer"
+      >
+        <option value="">Newest First</option>
+        <option value="score-desc">Score: High → Low</option>
+        <option value="score-asc">Score: Low → High</option>
+      </select>
+
       {/* Clear */}
-      {(rep || type || score || from || to) && (
+      {(rep || type || score || from || to || sort) && (
         <button
           onClick={() => router.push('/log')}
           className="text-sm text-gray-300 hover:text-white transition px-2 py-1"

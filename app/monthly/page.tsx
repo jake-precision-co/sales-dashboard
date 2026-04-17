@@ -1,5 +1,7 @@
 import Nav from '@/components/Nav'
-import DailyChart from '@/components/DailyChart'
+import MonthCompareChart from '@/components/MonthCompareChart'
+import GoalPaceChart from '@/components/GoalPaceChart'
+import CollapsibleMonth from '@/components/CollapsibleMonth'
 import { getAllScorecards } from '@/lib/parseScorecard'
 import { getMonthlySummary } from '@/lib/parseMonthlySummary'
 import { getMonthlyStats } from '@/lib/closeApi'
@@ -8,9 +10,9 @@ const CURRENT_MONTH = '2026-04'
 const CURRENT_MONTH_LABEL = 'April 2026'
 const PREV_MONTH = '2026-03'
 const PREV_MONTH_LABEL = 'March 2026'
-const GOAL_ARR = 170_000
-const GOAL_SETS = 30
-const GOAL_DEALS = 10
+const GOAL_ARR = 170_000    // $170K ARR monthly goal
+const GOAL_SETS = 30        // JC sets goal
+const GOAL_DEALS = 10       // Joe deals closed goal
 
 function formatRevenue(n: number) {
   if (n >= 1_000_000) return `$${(n / 1_000_000).toFixed(1)}M`
@@ -27,11 +29,22 @@ export default async function MonthlyPage() {
   const prevCards = allCards.filter(c => c.date.startsWith(PREV_MONTH))
 
   // Current month stats — all from local JSON (scraper pulls live Close data + scorecard file counts)
+  // These are current-month only, no all-time bleed
   const currentRevenue = liveMonthly.revenue
   const currentDeals = liveMonthly.deals
   const currentSets = liveMonthly.sets        // JC's booked meetings this month (Close API)
-  const callsScored = liveMonthly.callsScored
-  const avgScore = liveMonthly.avgScore
+  const callsScored = liveMonthly.callsScored // Scorecard files with this-month ET birthtime
+  const avgScore = liveMonthly.avgScore       // Avg score of those files
+
+  // AE + SDR avg scores from scorecard files this month
+  const currentAECards = currentCards.filter(c => c.type === 'AE')
+  const currentSDRCards = currentCards.filter(c => c.type === 'SDR')
+  const currentAvgAE = currentAECards.length
+    ? Math.round(currentAECards.reduce((s, c) => s + c.score, 0) / currentAECards.length)
+    : 0
+  const currentAvgSDR = currentSDRCards.length
+    ? Math.round(currentSDRCards.reduce((s, c) => s + c.score, 0) / currentSDRCards.length)
+    : 0
 
   // Prev month stats from monthly-summary.json
   const prevRevenue = prevSummary?.joe?.closedAnnualRevenue ?? 0
@@ -40,12 +53,6 @@ export default async function MonthlyPage() {
   const prevCalls = prevSummary?.totalCallsScored ?? prevCards.length
   const prevAvgAE = prevSummary?.avgAEScore ?? 0
   const prevAvgSDR = prevSummary?.avgSDRScore ?? 0
-
-  // AE vs SDR avg scores for current month
-  const aeCards = currentCards.filter(c => c.type === 'AE' || c.filePath?.includes('-ae-'))
-  const sdrCards = currentCards.filter(c => c.type === 'SDR' || c.filePath?.includes('-sdr-'))
-  const aeAvgScore = aeCards.length > 0 ? Math.round(aeCards.reduce((s, c) => s + c.score, 0) / aeCards.length) : 0
-  const sdrAvgScore = sdrCards.length > 0 ? Math.round(sdrCards.reduce((s, c) => s + c.score, 0) / sdrCards.length) : 0
 
   // Days elapsed in current month
   const etDateStr = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/New_York', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date())
@@ -78,27 +85,33 @@ export default async function MonthlyPage() {
   const dailyData = Object.values(byDate)
     .sort((a, b) => a.date.localeCompare(b.date))
     .map(d => ({
-      date: d.date.slice(5).replace('-', '/'),
+      date: d.date.slice(5).replace('-', '/'),  // "04/01"
       calls: d.calls,
       avgScore: Math.round(d.totalScore / d.calls),
     }))
 
-  // Previous month chart data
-  const byDatePrev: Record<string, { date: string; calls: number; totalScore: number }> = {}
-  for (const card of prevCards) {
-    if (!byDatePrev[card.date]) {
-      byDatePrev[card.date] = { date: card.date, calls: 0, totalScore: 0 }
+  // Build comparison chart data — avg score by day-of-month
+  const scoreByDay = (cards: typeof allCards) => {
+    const byDay: Record<number, { total: number; count: number }> = {}
+    for (const card of cards) {
+      const day = parseInt(card.date.slice(8))
+      if (!byDay[day]) byDay[day] = { total: 0, count: 0 }
+      byDay[day].total += card.score
+      byDay[day].count++
     }
-    byDatePrev[card.date].calls++
-    byDatePrev[card.date].totalScore += card.score
+    return byDay
   }
-  const dailyDataPrev = Object.values(byDatePrev)
-    .sort((a, b) => a.date.localeCompare(b.date))
-    .map(d => ({
-      date: d.date.slice(5).replace('-', '/'),
-      calls: d.calls,
-      avgScore: Math.round(d.totalScore / d.calls),
-    }))
+  const currentByDay = scoreByDay(currentCards)
+  const prevByDay = scoreByDay(prevCards)
+  const allDays = Array.from(new Set([
+    ...Object.keys(currentByDay).map(Number),
+    ...Object.keys(prevByDay).map(Number),
+  ])).sort((a, b) => a - b)
+  const compareData = allDays.map(day => ({
+    day,
+    current: currentByDay[day] ? Math.round(currentByDay[day].total / currentByDay[day].count) : undefined,
+    prev: prevByDay[day] ? Math.round(prevByDay[day].total / prevByDay[day].count) : undefined,
+  }))
 
   const goalProgress = GOAL_ARR > 0 ? Math.min((currentRevenue / GOAL_ARR) * 100, 100) : 0
 
@@ -146,8 +159,8 @@ export default async function MonthlyPage() {
             </div>
             <div className="h-3 bg-[#1a1a1a] rounded-full overflow-hidden">
               <div
-                className="h-full rounded-full bar-fill transition-all"
-                style={{ width: `${goalProgress}%`, backgroundColor: '#0098CE' }}
+                className="h-full bg-green-500 rounded-full bar-fill transition-all"
+                style={{ width: `${goalProgress}%` }}
               />
             </div>
           </div>
@@ -161,7 +174,6 @@ export default async function MonthlyPage() {
               projected={projectedSets}
               prev={prevSets}
               pacePct={setsPacePct}
-              goal={GOAL_SETS}
             />
             <StatBox
               label="Deals Won"
@@ -170,36 +182,66 @@ export default async function MonthlyPage() {
               projected={projectedDeals}
               prev={prevDeals}
               pacePct={dealsPacePct}
-              goal={GOAL_DEALS}
             />
             <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
-              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">AE Avg Score</p>
-              <p className="text-gray-400 text-xs mb-3">{aeCards.length} call{aeCards.length !== 1 ? 's' : ''}</p>
-              <p className="text-4xl font-black text-white tabular-nums">{aeAvgScore || '—'}</p>
-              {prevSummary && (
-                <p className="text-gray-400 text-xs mt-2">Last mo: {prevAvgAE}</p>
-              )}
+              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">Avg Score · AE</p>
+              <p className="text-gray-400 text-xs mb-3">Joe Meyers</p>
+              <p className="text-4xl font-black tabular-nums text-white">
+                {currentAvgAE || '—'}
+              </p>
+
             </div>
             <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
-              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">SDR Avg Score</p>
-              <p className="text-gray-400 text-xs mb-3">{sdrCards.length} call{sdrCards.length !== 1 ? 's' : ''}</p>
-              <p className="text-4xl font-black text-white tabular-nums">{sdrAvgScore || '—'}</p>
-              {prevSummary && (
-                <p className="text-gray-400 text-xs mt-2">Last mo: {prevAvgSDR}</p>
-              )}
+              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">Avg Score · SDR</p>
+              <p className="text-gray-400 text-xs mb-3">JC Ruiz</p>
+              <p className="text-4xl font-black tabular-nums text-white">
+                {currentAvgSDR || '—'}
+              </p>
+
             </div>
           </div>
         </section>
 
-        {/* ── PROJECTION CHART ───────────────────────────────── */}
-        <ProjectionChart
-          currentRevenue={currentRevenue}
-          projectedRevenue={projectedRevenue}
-          currentSets={currentSets}
-          projectedSets={projectedSets}
-          currentDeals={currentDeals}
-          projectedDeals={projectedDeals}
-        />
+        {/* ── GOAL PACE CHART ────────────────────────────────── */}
+        <section>
+          <p className="text-gray-400 text-sm tracking-[0.3em] uppercase font-semibold mb-4">
+            {CURRENT_MONTH_LABEL} · Pace to Goal
+          </p>
+          <div className="bg-[#111] border border-[#1a1a1a] rounded-2xl p-6">
+            <GoalPaceChart
+              pacePct={(daysElapsed / daysInMonth) * 100}
+              daysElapsed={daysElapsed}
+              daysInMonth={daysInMonth}
+              metrics={[
+                {
+                  label: 'Revenue',
+                  sublabel: 'Joe Meyers',
+                  current: currentRevenue,
+                  goal: GOAL_ARR,
+                  format: 'currency',
+                  color: 'bg-green-500',
+                  alwaysColor: true,
+                },
+                {
+                  label: 'Sets',
+                  sublabel: 'JC Ruiz',
+                  current: currentSets,
+                  goal: GOAL_SETS,
+                  format: 'number',
+                  color: 'bg-blue-500',
+                },
+                {
+                  label: 'Deals Won',
+                  sublabel: 'Joe Meyers',
+                  current: currentDeals,
+                  goal: GOAL_DEALS,
+                  format: 'number',
+                  color: 'bg-amber-500',
+                },
+              ]}
+            />
+          </div>
+        </section>
 
         {/* ── PACE VS LAST MONTH ─────────────────────────────── */}
         <section>
@@ -219,8 +261,7 @@ export default async function MonthlyPage() {
               <tbody>
                 <PaceRow label="Revenue (ARR)" prev={formatRevenue(prevRevenue)} current={formatRevenue(currentRevenue)} projected={formatRevenue(projectedRevenue)} pct={revPacePct} />
                 <PaceRow label="Sets (JC)" prev={String(prevSets)} current={String(currentSets)} projected={String(projectedSets)} pct={setsPacePct} />
-                <PaceRow label="Deals Won (Joe)" prev={String(prevDeals)} current={String(currentDeals)} projected={String(projectedDeals)} pct={dealsPacePct} />
-                <PaceRow label="Calls Scored" prev={String(prevCalls)} current={String(callsScored)} projected={String(projectedCalls)} pct={callsPacePct} last />
+                <PaceRow label="Deals Won (Joe)" prev={String(prevDeals)} current={String(currentDeals)} projected={String(projectedDeals)} pct={dealsPacePct} last />
               </tbody>
             </table>
           </div>
@@ -229,122 +270,52 @@ export default async function MonthlyPage() {
           </p>
         </section>
 
-        {/* ── DAILY CHART ────────────────────────────────────── */}
-        <section>
-          <p className="text-gray-400 text-sm tracking-[0.3em] uppercase font-semibold mb-4">
-            Daily Breakdown · {CURRENT_MONTH_LABEL}
-          </p>
-          <div className="bg-[#111] border border-[#1a1a1a] rounded-2xl p-5">
-            <DailyChart data={dailyData} />
+        {/* ── MARCH (collapsible) ────────────────────────────── */}
+        <CollapsibleMonth label="March 2026">
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-4">
+            <div className="bg-[#0d0d0d] border border-[#1e1e1e] rounded-2xl p-5">
+              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">Revenue</p>
+              <p className="text-gray-400 text-xs mb-3">Joe Meyers</p>
+              <p className="text-4xl font-black text-white tabular-nums">{formatRevenue(prevRevenue)}</p>
+              <p className="text-gray-400 text-xs mt-2">{prevDeals} deals closed</p>
+            </div>
+            <div className="bg-[#0d0d0d] border border-[#1e1e1e] rounded-2xl p-5">
+              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">Sets</p>
+              <p className="text-gray-400 text-xs mb-3">JC Ruiz</p>
+              <p className="text-4xl font-black text-white tabular-nums">{prevSets}</p>
+              <p className="text-gray-400 text-xs mt-2">Growth Sessions booked</p>
+            </div>
+            <div className="bg-[#0d0d0d] border border-[#1e1e1e] rounded-2xl p-5">
+              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">Avg Score · AE</p>
+              <p className="text-gray-400 text-xs mb-3">Joe Meyers</p>
+              <p className="text-4xl font-black tabular-nums text-white">
+                {prevAvgAE || '—'}
+              </p>
+            </div>
+            <div className="bg-[#0d0d0d] border border-[#1e1e1e] rounded-2xl p-5">
+              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-1">Avg Score · SDR</p>
+              <p className="text-gray-400 text-xs mb-3">JC Ruiz</p>
+              <p className="text-4xl font-black tabular-nums text-white">
+                {prevAvgSDR || '—'}
+              </p>
+            </div>
           </div>
-        </section>
+          <GoalPaceChart
+            pacePct={100}
+            daysElapsed={31}
+            daysInMonth={31}
+            metrics={[
+              { label: 'Revenue', sublabel: 'Joe Meyers', current: prevRevenue, goal: prevRevenue, format: 'currency', color: 'bg-green-500' },
+              { label: 'Sets', sublabel: 'JC Ruiz', current: prevSets, goal: prevSets, format: 'number', color: 'bg-blue-500' },
+              { label: 'Deals Won', sublabel: 'Joe Meyers', current: prevDeals, goal: prevDeals, format: 'number', color: 'bg-amber-500' },
+            ]}
+          />
+        </CollapsibleMonth>
 
-        {/* ── PREVIOUS MONTH (March) ─────────────────────────── */}
-        <section>
-          <p className="text-gray-400 text-sm tracking-[0.3em] uppercase font-semibold mb-4">
-            Previous Month · {PREV_MONTH_LABEL}
-          </p>
-          <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-4">
-            <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
-              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-2">Revenue</p>
-              <p className="text-3xl font-black text-white tabular-nums">{formatRevenue(prevRevenue)}</p>
-              <p className="text-gray-400 text-xs mt-1">{prevDeals} deals closed</p>
-            </div>
-            <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
-              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-2">Growth Sessions Set</p>
-              <p className="text-3xl font-black text-white tabular-nums">{prevSets}</p>
-              <p className="text-gray-400 text-xs mt-1">JC Ruiz · March</p>
-            </div>
-            <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
-              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-2">Calls Scored</p>
-              <p className="text-3xl font-black text-white tabular-nums">{prevCalls}</p>
-              <p className="text-gray-400 text-xs mt-1">AE avg: {prevAvgAE} · SDR avg: {prevAvgSDR}</p>
-            </div>
-          </div>
-          <div className="bg-[#111] border border-[#1a1a1a] rounded-2xl p-5">
-            <DailyChart data={dailyDataPrev} />
-          </div>
-        </section>
+
 
       </div>
     </div>
-  )
-}
-
-function ProjectionChart({
-  currentRevenue, projectedRevenue,
-  currentSets, projectedSets,
-  currentDeals, projectedDeals,
-}: {
-  currentRevenue: number; projectedRevenue: number
-  currentSets: number; projectedSets: number
-  currentDeals: number; projectedDeals: number
-}) {
-  const rows = [
-    {
-      label: 'Revenue',
-      current: currentRevenue,
-      projected: projectedRevenue,
-      goal: GOAL_ARR,
-      fmt: (n: number) => formatRevenue(n),
-    },
-    {
-      label: 'Sets',
-      current: currentSets,
-      projected: projectedSets,
-      goal: GOAL_SETS,
-      fmt: (n: number) => String(n),
-    },
-    {
-      label: 'Deals',
-      current: currentDeals,
-      projected: projectedDeals,
-      goal: GOAL_DEALS,
-      fmt: (n: number) => String(n),
-    },
-  ]
-
-  return (
-    <section>
-      <p className="text-gray-400 text-sm tracking-[0.3em] uppercase font-semibold mb-4">
-        Goal Projection
-      </p>
-      <div className="bg-[#111] border border-[#1a1a1a] rounded-2xl p-6 space-y-6">
-        {rows.map(row => {
-          const mtdPct = row.goal > 0 ? Math.min((row.current / row.goal) * 100, 100) : 0
-          const projPct = row.goal > 0 ? Math.min((row.projected / row.goal) * 100, 100) : 0
-          const projOver = row.projected > row.goal
-          return (
-            <div key={row.label}>
-              <div className="flex items-center justify-between mb-2">
-                <span className="text-sm text-gray-400 uppercase tracking-widest font-semibold">{row.label}</span>
-                <span className="text-xs text-gray-400">
-                  {row.fmt(row.current)} / Goal {row.fmt(row.goal)}
-                  <span className={`ml-2 ${projOver ? 'text-amber-400' : 'text-gray-400'}`}>
-                    · Proj {row.fmt(row.projected)}
-                  </span>
-                </span>
-              </div>
-              <div className="relative h-4 bg-[#1a1a1a] rounded-full overflow-hidden">
-                {/* MTD fill */}
-                <div
-                  className="absolute inset-y-0 left-0 rounded-full"
-                  style={{ width: `${mtdPct}%`, backgroundColor: '#0098CE' }}
-                />
-                {/* Projected marker */}
-                <div
-                  className="absolute inset-y-0 w-0.5"
-                  style={{
-                    left: `${projPct}%`,
-                    backgroundColor: projOver ? '#F59E0B' : '#6b7280',
-                  }}
-                />
-              </div>
-            </div>
-          )
-        })}
-      </div>
-    </section>
   )
 }
 
@@ -355,7 +326,6 @@ function StatBox({
   projected,
   prev,
   pacePct,
-  goal,
 }: {
   label: string
   sublabel: string
@@ -363,33 +333,12 @@ function StatBox({
   projected: number
   prev: number
   pacePct: number
-  goal?: number
 }) {
-  const goalPct = goal && goal > 0 ? Math.min((value / goal) * 100, 100) : 0
   return (
     <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-5">
       <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold">{label}</p>
       <p className="text-gray-400 text-xs mb-3">{sublabel}</p>
       <p className="text-4xl font-black text-white tabular-nums">{value}</p>
-      <div className="mt-2 flex items-center gap-2">
-        <PaceArrow pct={pacePct} />
-        <span className="text-gray-400 text-xs">proj {projected}</span>
-      </div>
-      <p className="text-gray-400 text-xs mt-0.5">March: {prev}</p>
-      {goal && goal > 0 && (
-        <div className="mt-3">
-          <div className="flex justify-between text-xs text-gray-400 mb-1">
-            <span>Goal {goal}</span>
-            <span>{Math.round(goalPct)}%</span>
-          </div>
-          <div className="h-1.5 bg-[#1a1a1a] rounded-full overflow-hidden">
-            <div
-              className="h-full rounded-full"
-              style={{ width: `${goalPct}%`, backgroundColor: '#0098CE' }}
-            />
-          </div>
-        </div>
-      )}
     </div>
   )
 }

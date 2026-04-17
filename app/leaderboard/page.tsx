@@ -24,7 +24,6 @@ export default async function LeaderboardPage({
   const aeBoard = getAELeaderboard()
   const sdrBoard = getSDRLeaderboard()
   const board = activeTab === 'ae' ? aeBoard : sdrBoard
-  const top5 = board.slice(0, 5)
 
   // Revenue records from local JSON
   const records = await getRecords()
@@ -33,6 +32,13 @@ export default async function LeaderboardPage({
   const allCards = getAllScorecards()
   const aeCards = allCards.filter(c => c.type === 'AE')
   const sdrCards = allCards.filter(c => c.type === 'SDR')
+
+  // Dynamic top 5 — sorted from scorecard files directly, always current
+  const activeCards = activeTab === 'ae' ? aeCards : sdrCards
+  const top5 = [...activeCards]
+    .sort((a, b) => b.score - a.score || b.date.localeCompare(a.date))
+    .slice(0, 5)
+    .map((c, i) => ({ ...c, rank: i + 1 }))
 
   function avgScore(cards: typeof allCards) {
     if (!cards.length) return 0
@@ -115,35 +121,69 @@ export default async function LeaderboardPage({
           <LeaderboardToggle activeTab={activeTab} />
         </div>
 
-        {/* ── REVENUE RECORDS ────────────────────────────────── */}
+        {/* ── TOP-LEVEL RECORDS ──────────────────────────────── */}
         <section>
-          <p className="text-gray-400 text-sm tracking-[0.3em] uppercase font-semibold mb-4">
-            Revenue Records · Joe Meyers
-          </p>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
-            <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-6">
-              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-3">
-                💰 Best Day Revenue
+          {activeTab === 'ae' ? (
+            <>
+              <p className="text-gray-400 text-sm tracking-[0.3em] uppercase font-semibold mb-4">
+                Revenue Records · Joe Meyers
               </p>
-              <p className="text-4xl font-black text-green-400 tabular-nums">
-                {formatRevenue(records.bestDayRevenue.amount)}
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+                <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-6">
+                  <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-3">
+                    💰 Best Day Revenue
+                  </p>
+                  <p className="text-4xl font-black text-green-400 tabular-nums">
+                    {formatRevenue(records.bestDayRevenue.amount)}
+                  </p>
+                  <p className="text-gray-400 text-xs mt-2">
+                    {records.bestDayRevenue.rep} · {records.bestDayRevenue.date || '—'}
+                  </p>
+                </div>
+                <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-6">
+                  <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-3">
+                    📅 Best Month Revenue
+                  </p>
+                  <p className="text-4xl font-black text-green-400 tabular-nums">
+                    {formatRevenue(records.bestMonthRevenue.amount)}
+                  </p>
+                  <p className="text-gray-400 text-xs mt-2">
+                    {records.bestMonthRevenue.rep} · {records.bestMonthRevenue.month || '—'}
+                  </p>
+                </div>
+              </div>
+            </>
+          ) : (
+            <>
+              <p className="text-gray-400 text-sm tracking-[0.3em] uppercase font-semibold mb-4">
+                Sets Records · JC Ruiz
               </p>
-              <p className="text-gray-400 text-xs mt-2">
-                {records.bestDayRevenue.rep} · {records.bestDayRevenue.date || '—'}
-              </p>
-            </div>
-            <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-6">
-              <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-3">
-                📅 Best Month Revenue
-              </p>
-              <p className="text-4xl font-black text-green-400 tabular-nums">
-                {formatRevenue(records.bestMonthRevenue.amount)}
-              </p>
-              <p className="text-gray-400 text-xs mt-2">
-                {records.bestMonthRevenue.rep} · {records.bestMonthRevenue.month || '—'}
-              </p>
-            </div>
-          </div>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+                <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-6">
+                  <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-3">
+                    📞 Best Day Sets
+                  </p>
+                  <p className="text-4xl font-black text-emerald-400 tabular-nums">
+                    {records.bestDaySets.amount}
+                  </p>
+                  <p className="text-gray-400 text-xs mt-2">
+                    {records.bestDaySets.rep} · {records.bestDaySets.date || '—'}
+                  </p>
+                </div>
+                <div className="bg-[#111] border border-[#1e1e1e] rounded-2xl p-6">
+                  <p className="text-sm text-gray-400 uppercase tracking-widest font-semibold mb-3">
+                    📅 Best Month Sets
+                  </p>
+                  <p className="text-4xl font-black text-emerald-400 tabular-nums">
+                    {records.bestMonthSets.amount}
+                  </p>
+                  <p className="text-gray-400 text-xs mt-2">
+                    {records.bestMonthSets.rep} · {records.bestMonthSets.month || '—'}
+                  </p>
+                </div>
+              </div>
+            </>
+          )}
         </section>
 
         {/* ── TOP 5 RANKED CALLS ─────────────────────────────── */}
@@ -162,37 +202,36 @@ export default async function LeaderboardPage({
                     <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-5 py-3 w-12">#</th>
                     <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-3 py-3">Rep</th>
                     <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-3 py-3">Prospect</th>
-                    <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-3 py-3 hidden md:table-cell">Company</th>
                     <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-3 py-3 hidden sm:table-cell">Outcome</th>
                     <th className="text-left text-sm text-gray-400 uppercase tracking-widest font-semibold px-3 py-3 hidden lg:table-cell">Date</th>
                     <th className="text-right text-sm text-gray-400 uppercase tracking-widest font-semibold px-5 py-3">Score</th>
                   </tr>
                 </thead>
                 <tbody>
-                  {top5.map((entry, i) => {
-                    const rank = entry.rank
-                    const scoreVal = entry.score
-                    return (
-                      <tr
-                        key={i}
-                        className={`border-b border-[#141414] hover:bg-[#141414] transition-colors ${i === top5.length - 1 ? 'border-b-0' : ''}`}
-                      >
-                        <td className="px-5 py-4">
-                          <span className="text-xl">{RANK_ICONS[rank] ?? rank}</span>
-                        </td>
-                        <td className="px-3 py-4 text-gray-400 text-sm">{entry.rep}</td>
-                        <td className="px-3 py-4 text-white font-medium">{entry.prospect}</td>
-                        <td className="px-3 py-4 text-gray-400 text-sm hidden md:table-cell">{entry.company}</td>
-                        <td className="px-3 py-4 text-gray-400 text-sm hidden sm:table-cell">{entry.outcome}</td>
-                        <td className="px-3 py-4 text-gray-400 text-xs tabular-nums hidden lg:table-cell">{entry.date}</td>
-                        <td className="px-5 py-4 text-right">
-                          <span className={`text-2xl font-black tabular-nums ${scoreColorClass(scoreVal)}`}>
-                            {scoreVal}
-                          </span>
-                        </td>
-                      </tr>
-                    )
-                  })}
+                  {top5.map((entry, i) => (
+                    <tr
+                      key={entry.id}
+                      className={`border-b border-[#141414] hover:bg-[#141414] transition-colors ${i === top5.length - 1 ? 'border-b-0' : ''}`}
+                    >
+                      <td className="px-5 py-4">
+                        <span className="text-xl">{RANK_ICONS[entry.rank] ?? entry.rank}</span>
+                      </td>
+                      <td className="px-3 py-4 text-gray-400 text-sm">{entry.rep.split(' ')[0]}</td>
+                      <td className="px-3 py-4 font-medium">
+                        <Link href={`/scorecard/${entry.id}`} className="text-white hover:text-amber-300 transition">
+                          {entry.prospectName} →
+                        </Link>
+                        {entry.company && <p className="text-gray-500 text-xs mt-0.5">{entry.company}</p>}
+                      </td>
+                      <td className="px-3 py-4 text-gray-400 text-sm hidden sm:table-cell">{entry.outcome}</td>
+                      <td className="px-3 py-4 text-gray-400 text-xs tabular-nums hidden lg:table-cell">{entry.date}</td>
+                      <td className="px-5 py-4 text-right">
+                        <span className={`text-2xl font-black tabular-nums ${scoreColorClass(entry.score)}`}>
+                          {entry.score}
+                        </span>
+                      </td>
+                    </tr>
+                  ))}
                 </tbody>
               </table>
             )}

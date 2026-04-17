@@ -147,26 +147,26 @@ export default async function YesterdayPage() {
               label="Dials"
               sublabel="JC Ruiz"
               value={stats.dials}
-              accent="text-blue-400"
+              accent="text-white"
             />
             <StatCard
               label="Sets"
               sublabel="JC Ruiz"
               value={stats.sets}
-              accent="text-emerald-400"
+              accent="text-white"
             />
             <StatCard
               label="Closes"
               sublabel="Joe Meyers"
               value={stats.closes}
-              accent="text-amber-400"
+              accent="text-white"
             />
             <StatCard
               label="Revenue"
               sublabel="Joe Meyers"
               value={stats.revenue}
               format="currency"
-              accent="text-green-400"
+              accent="text-white"
             />
           </div>
         </section>

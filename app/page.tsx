@@ -34,6 +34,28 @@ function formatScorecardDay(ymd: string) {
   })
 }
 
+/** Returns the next Close sync time label in ET (12 PM, 4:30 PM, 7 PM Mon-Fri) */
+function nextSyncLabel(): string {
+  const now = new Date()
+  const etStr = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'America/New_York',
+    year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', hour12: false,
+  }).format(now)
+  // Parse ET hour/minute
+  const [, time] = etStr.split(', ')
+  const [h, m] = (time ?? '').split(':').map(Number)
+  const minutesNow = (h ?? 0) * 60 + (m ?? 0)
+  const dow = new Date(now.toLocaleString('en-US', { timeZone: 'America/New_York' })).getDay() // 0=Sun
+
+  const isWeekday = dow >= 1 && dow <= 5
+  if (!isWeekday) return 'Monday at 12:00 PM ET'
+
+  const syncs = [{ label: '12:00 PM ET', mins: 12 * 60 }, { label: '4:30 PM ET', mins: 16 * 60 + 30 }, { label: '7:00 PM ET', mins: 19 * 60 }]
+  const next = syncs.find(s => s.mins > minutesNow)
+  return next ? next.label : 'Monday at 12:00 PM ET'
+}
+
 export default async function TodayPage() {
   const TODAY = todayEtYmd()
   const allCards = getAllScorecards()
@@ -99,7 +121,7 @@ export default async function TodayPage() {
               Live Today — Close CRM
             </p>
             <p className="text-gray-300 text-sm">
-              Next sync at 4:30 PM EST — hustle until then.
+              Next sync at {nextSyncLabel()} — hustle until then.
             </p>
           </div>
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
@@ -107,26 +129,26 @@ export default async function TodayPage() {
               label="Dials"
               sublabel="JC Ruiz"
               value={stats.dials}
-              accent="text-blue-400"
+              accent="text-white"
             />
             <StatCard
               label="Sets"
               sublabel="JC Ruiz"
               value={stats.sets}
-              accent="text-emerald-400"
+              accent="text-white"
             />
             <StatCard
               label="Closes"
               sublabel="Joe Meyers"
               value={stats.closes}
-              accent="text-amber-400"
+              accent="text-white"
             />
             <StatCard
               label="Revenue"
               sublabel="Joe Meyers"
               value={stats.revenue}
               format="currency"
-              accent="text-green-400"
+              accent="text-white"
             />
           </div>
         </section>

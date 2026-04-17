@@ -8,6 +8,7 @@ const USERS: Record<string, User> = {
   jake: { username: 'jake', role: 'admin', repName: null },
   joe: { username: 'joe', role: 'ae', repName: 'Joe Meyers' },
   jc: { username: 'jc', role: 'sdr', repName: 'JC Ruiz' },
+  precision: { username: 'precision', role: 'admin', repName: null },
 }
 
 const PASSWORD = 'precision2026'
