@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-04-17T13:55:50.694844-04:00",
+  "lastUpdated": "2026-04-17T16:30:02.319227-04:00",
   "today": {
     "date": "2026-04-17",
-    "dials": 22,
-    "sets": 4,
+    "dials": 36,
+    "sets": 5,
     "closes": 1,
     "revenue": 12000
   },
@@ -18,7 +18,7 @@
     "month": "2026-04",
     "revenue": 60000,
     "deals": 4,
-    "sets": 22,
+    "sets": 23,
     "callsScored": 39,
     "avgScore": 52
   },
@@ -39,7 +39,7 @@
       "month": "2026-03"
     },
     "bestMonthSets": {
-      "amount": 22,
+      "amount": 23,
       "rep": "JC Ruiz",
       "month": "2026-04"
     }
