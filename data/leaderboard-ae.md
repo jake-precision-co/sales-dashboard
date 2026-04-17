@@ -1,6 +1,6 @@
 # AE Growth Session Leaderboard 🏆
 
-_Last updated: 2026-04-16_
+_Last updated: 2026-04-17_
 
 | Rank | Rep | Prospect | Company | Score | Tier | Date | Outcome |
 |------|-----|----------|---------|-------|------|------|---------|
@@ -13,7 +13,8 @@ _Last updated: 2026-04-16_
 | 7 | Joe Meyers | Roman Seges | Inline Communications | 68/100 🟠 | Core | 2026-03-31 | Closed Won |
 | 6 | Joe Meyers | Grigoriy Rublev | Runzy | 68/100 🟠 | Core | 2026-03-24 | BAMFAM'd |
 | 7 | Joe Meyers | Therrance Corrothers | Thurr Solutions | 68/100 🟠 | Core | 2026-03-23 | BAMFAM'd |
-| 8 | Joe Meyers | Chris Rios | Outdoor Lighting / SaaS | 67/100 🟠 | Core | 2026-04-14 | Strong BAMFAM (99.9% yes, 10am tomorrow) |
+| 8 | Joe Meyers | Omar Laythi | Pre-Launch SaaS | 64/100 🟠 | Core | 2026-04-16 | Weak BAMFAM — deferred ("reach out when ready") |
+| 9 | Joe Meyers | Chris Rios | Outdoor Lighting / SaaS | 67/100 🟠 | Core | 2026-04-14 | Strong BAMFAM (99.9% yes, 10am tomorrow) |
 | 9 | Joe Meyers | Matthew Young | MovingLetters.ai | 67/100 🟠 | Growth | 2026-03-05 | Closed Won |
 | 9 | Joe Meyers | Brad Powell | Red Board | 63/100 🟠 | Growth | 2026-03-17 | BAMFAM'd |
 | 10 | Joe Meyers | Jaan Apajalahti | Romify | 62/100 🟠 | Growth | 2026-03-11 | BAMFAM'd |
@@ -31,6 +32,7 @@ _Last updated: 2026-04-16_
 | 18 | Joe Meyers | Angelo Patsilivas | LDC Strategies | 50/100 🔴 | Growth | 2026-01-13 | Weak BAMFAM |
 | 18 | Joe Meyers | Steven Calabrese | CRM-U | 27/100 🔴 | Core/Growth | 2026-03-30 | Weak BAMFAM |
 | 20 | Joe Meyers | Ross Reed | B2B Fintech/Payments | 42/100 🔴 | None | 2026-04-14 | Lost (tabled — budget/cash flow) |
+| — | Joe Meyers | Alex Irvine | Irvine BnB Experience | 37/100 🔴 | None | 2026-04-16 | DQ'd — appropriate (needs developer) |
 
 ---
 
@@ -40,4 +42,4 @@ _Last updated: 2026-04-16_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-16_
+_Last updated: 2026-04-17_
