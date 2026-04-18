@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-04-17T19:00:02.483822-04:00",
+  "lastUpdated": "2026-04-18T12:00:05.959559-04:00",
   "today": {
+    "date": "2026-04-18",
+    "dials": 0,
+    "sets": 0,
+    "closes": 0,
+    "revenue": 0
+  },
+  "yesterday": {
     "date": "2026-04-17",
     "dials": 42,
     "sets": 5,
     "closes": 1,
     "revenue": 12000
-  },
-  "yesterday": {
-    "date": "2026-04-16",
-    "dials": 125,
-    "sets": 3,
-    "closes": 0,
-    "revenue": 0
   },
   "monthly": {
     "month": "2026-04",
