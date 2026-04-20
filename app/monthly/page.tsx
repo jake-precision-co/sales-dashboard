@@ -67,11 +67,14 @@ export default async function MonthlyPage() {
   const projectedDeals = Math.round(currentDeals * paceMultiplier)
   const projectedCalls = Math.round(callsScored * paceMultiplier)
 
-  // Pace vs last month
+  // Pace vs last month (used in comparison table)
   const revPacePct = prevRevenue > 0 ? ((projectedRevenue - prevRevenue) / prevRevenue) * 100 : 0
   const setsPacePct = prevSets > 0 ? ((projectedSets - prevSets) / prevSets) * 100 : 0
   const dealsPacePct = prevDeals > 0 ? ((projectedDeals - prevDeals) / prevDeals) * 100 : 0
   const callsPacePct = prevCalls > 0 ? ((projectedCalls - prevCalls) / prevCalls) * 100 : 0
+
+  // Pace vs this month's goal (used in Revenue card header)
+  const revGoalPct = GOAL_ARR > 0 ? ((projectedRevenue - GOAL_ARR) / GOAL_ARR) * 100 : 0
 
   // Daily chart data for current month
   const byDate: Record<string, { date: string; calls: number; totalScore: number }> = {}
@@ -152,8 +155,8 @@ export default async function MonthlyPage() {
                 )}
               </div>
               <div className="text-right">
-                <p className="text-xs text-gray-400 mb-1">vs {PREV_MONTH_LABEL} pace</p>
-                <PaceArrow pct={revPacePct} />
+                <p className="text-xs text-gray-400 mb-1">vs {CURRENT_MONTH_LABEL} goal</p>
+                <PaceArrow pct={revGoalPct} />
                 <p className="text-gray-400 text-xs mt-1">Proj: {formatRevenue(projectedRevenue)}</p>
               </div>
             </div>
