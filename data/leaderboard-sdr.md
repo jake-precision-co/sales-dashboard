@@ -26,7 +26,7 @@ _Last updated: 2026-04-15_
 | 20 | JC Ruiz | Chuck | Evolve Computing (CyberHoot) | 54/100 🔴 | No Next Step | 2026-04-14 |
 ---
 
-_Note: Fred Pollnitz (49/100), Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100), Dylan Hume (33/100), Kaleb Walker (23/100), Josh Miller/GoForClose (28/100), Grigoriy Rublev/Runzy (49/100), Helen Okobokekeimei (28/100), Dex Rempel (38/100), Simon Mushailov (41/100), Pedro Uahib (53/100), Einar Saevarsson (52/100), Khabir Muhammad (53/100), Richard Milligan (54/100), Nancy Lewis (54/100) did not rank in top 20._
+_Note: Fred Pollnitz (49/100), Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100), Dylan Hume (33/100), Kaleb Walker (23/100), Josh Miller/GoForClose (28/100), Grigoriy Rublev/Runzy (49/100), Helen Okobokekeimei (28/100), Dex Rempel (38/100), Simon Mushailov (41/100), Pedro Uahib (53/100), Einar Saevarsson (52/100), Khabir Muhammad (53/100), Richard Milligan (54/100), Nancy Lewis (54/100), Paul McMillan/ROLM (48/100, DQ'd appropriate), Czarina Catambing (42/100, No Next Step) did not rank in top 20._
 
 ## Notes
 - 🥇🥈🥉 denote top 3 positions
@@ -34,4 +34,4 @@ _Note: Fred Pollnitz (49/100), Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/10
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-16_
+_Last updated: 2026-04-17_
