@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import Link from 'next/link'
 import Nav from '@/components/Nav'
 import StatCard from '@/components/StatCard'

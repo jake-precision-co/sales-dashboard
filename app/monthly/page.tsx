@@ -1,3 +1,5 @@
+export const dynamic = 'force-dynamic'
+
 import Nav from '@/components/Nav'
 import MonthCompareChart from '@/components/MonthCompareChart'
 import GoalPaceChart from '@/components/GoalPaceChart'
