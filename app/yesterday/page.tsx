@@ -14,11 +14,13 @@ function todayEtYmd(date: Date = new Date()) {
   }).format(date)
 }
 
-/** Previous calendar day in ET (matches Today tab logic; do not use Close JSON date — it lags after midnight). */
+/** Previous business day in ET — on Monday, returns Friday (skips weekend). */
 function yesterdayEtYmd(date: Date = new Date()): string {
   const ymd = todayEtYmd(date)
   const ref = new Date(`${ymd}T12:00:00.000Z`)
   ref.setUTCDate(ref.getUTCDate() - 1)
+  // If we landed on Sunday (0), step back to Friday
+  if (ref.getUTCDay() === 0) ref.setUTCDate(ref.getUTCDate() - 2)
   return ref.toISOString().slice(0, 10)
 }
 
