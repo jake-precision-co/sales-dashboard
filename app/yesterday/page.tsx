@@ -40,7 +40,7 @@ export default async function YesterdayPage() {
   const YESTERDAY = yesterdayEtYmd()
 
   const allCards = getAllScorecards()
-  const yesterdayCards = allCards.filter(c => c.scoredDate === YESTERDAY)
+  const yesterdayCards = allCards.filter(c => c.date === YESTERDAY)
   const callOfTheDay = yesterdayCards.length
     ? yesterdayCards.reduce((best, c) => (c.score > best.score ? c : best), yesterdayCards[0])
     : null
