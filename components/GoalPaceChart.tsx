@@ -4,6 +4,7 @@ type GoalMetric = {
   label: string
   sublabel: string
   current: number
+  projected?: number   // end-of-month projection (optional; falls back to current)
   goal: number
   format?: 'number' | 'currency'
   color: string
@@ -30,8 +31,9 @@ export default function GoalPaceChart({ metrics, pacePct, daysElapsed, daysInMon
   return (
     <div className="space-y-6">
       {metrics.map((m) => {
-        const pct = Math.min((m.current / m.goal) * 100, 100)
-        const ahead = pct >= pacePct
+        const displayValue = m.projected ?? m.current
+        const pct = Math.min((displayValue / m.goal) * 100, 100)
+        const ahead = pct >= 100
         const barColor = m.color
         const textColor = m.color.replace('bg-', 'text-')
 
@@ -44,12 +46,15 @@ export default function GoalPaceChart({ metrics, pacePct, daysElapsed, daysInMon
               </div>
               <div className="text-right">
                 <span className={`font-black text-lg tabular-nums ${textColor}`}>
-                  {fmt(m.current, m.format)}
+                  {fmt(displayValue, m.format)}
                 </span>
                 <span className="text-gray-500 text-xs ml-1">/ {fmt(m.goal, m.format)}</span>
                 <span className={`text-xs font-bold ml-2 ${textColor}`}>
                   {Math.round(pct)}%
                 </span>
+                {m.projected && (
+                  <div className="text-gray-500 text-xs">MTD: {fmt(m.current, m.format)}</div>
+                )}
               </div>
             </div>
 
@@ -69,17 +74,16 @@ export default function GoalPaceChart({ metrics, pacePct, daysElapsed, daysInMon
             </div>
 
             {(() => {
-              const onPaceTarget = Math.round((m.goal * pacePct) / 100)
-              const gap = onPaceTarget - m.current
+              const gap = displayValue - m.goal
               return (
                 <div className="flex items-center justify-between mt-1.5">
                   <span className={`text-xs ${ahead ? 'text-green-400' : 'text-red-400'} font-semibold`}>
                     {ahead
-                      ? `↑ ${fmt(Math.abs(gap), m.format)} ahead of pace`
-                      : `↓ ${fmt(Math.abs(gap), m.format)} behind pace — on pace target: ${fmt(onPaceTarget, m.format)}`}
+                      ? `↑ ${fmt(Math.abs(gap), m.format)} above goal`
+                      : `↓ ${fmt(Math.abs(gap), m.format)} below goal`}
                   </span>
                   <span className="text-gray-500 text-xs">
-                    {fmt(Math.max(0, m.goal - m.current), m.format)} left to goal
+                    {fmt(Math.max(0, m.goal - displayValue), m.format)} left to goal
                   </span>
                 </div>
               )
