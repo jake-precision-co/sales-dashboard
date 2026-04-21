@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-04-20T19:00:01.922009-04:00",
+  "lastUpdated": "2026-04-21T12:00:01.501798-04:00",
   "today": {
-    "date": "2026-04-20",
-    "dials": 76,
-    "sets": 5,
-    "closes": 1,
-    "revenue": 12000
+    "date": "2026-04-21",
+    "dials": 7,
+    "sets": 1,
+    "closes": 0,
+    "revenue": 0
   },
   "yesterday": {
-    "date": "2026-04-17",
-    "dials": 42,
-    "sets": 10,
+    "date": "2026-04-20",
+    "dials": 76,
+    "sets": 6,
     "closes": 1,
     "revenue": 12000
   },
@@ -18,8 +18,8 @@
     "month": "2026-04",
     "revenue": 72000,
     "deals": 5,
-    "sets": 75,
-    "callsScored": 43,
+    "sets": 77,
+    "callsScored": 46,
     "avgScore": 51
   },
   "records": {
