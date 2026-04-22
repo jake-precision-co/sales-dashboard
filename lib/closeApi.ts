@@ -16,6 +16,8 @@ export type DayStats = {
   date: string
   dials: number
   sets: number
+  iclosed_sets?: number
+  jc_sets?: number
   closes: number
   revenue: number
 }
@@ -27,6 +29,7 @@ export type MonthlyStats = {
   revenue: number
   deals: number
   sets: number
+  iclosed_sets?: number
   callsScored: number
   avgScore: number
 }
