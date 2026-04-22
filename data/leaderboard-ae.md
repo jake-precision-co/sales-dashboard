@@ -31,6 +31,7 @@ _Last updated: 2026-04-17_
 | 19 | Joe Meyers | Marc Buddensiek | Buddensiek Performance | 43/100 🔴 | Core | 2026-02-25 | BAMFAM'd |
 | 18 | Joe Meyers | Angelo Patsilivas | LDC Strategies | 50/100 🔴 | Growth | 2026-01-13 | Weak BAMFAM |
 | 18 | Joe Meyers | Steven Calabrese | CRM-U | 27/100 🔴 | Core/Growth | 2026-03-30 | Weak BAMFAM |
+| 19 | Joe Meyers | Etienne Bernard | NORA Strategy | 46/100 🔴 | Core/$2K | 2026-04-20 | No Next Step (deferred — 1-2 months) |
 | 20 | Joe Meyers | Caleb Wickers | Sign With Bind | 42/100 🔴 | Core | 2026-04-17 | Weak BAMFAM (text next Friday) |
 | 20 | Joe Meyers | Ross Reed | B2B Fintech/Payments | 42/100 🔴 | None | 2026-04-14 | Lost (tabled — budget/cash flow) |
 | — | Joe Meyers | Luis Amparo | ShiftPlay | 22/100 🔴 | None | 2026-04-17 | No Next Step (not ready — pre-revenue) |
@@ -44,4 +45,4 @@ _Last updated: 2026-04-17_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-20_
+_Last updated: 2026-04-21_

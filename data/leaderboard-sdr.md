@@ -10,23 +10,23 @@ _Last updated: 2026-04-15_
 | 4 | JC Ruiz | Fresnel Verna | Unknown | 70/100 🟠 | Callback Set | 2026-03-25 |
 | 5 | JC Ruiz | Daniel Segurola | AI Scaling | 67/100 🟠 | Booked | 2026-03-30 |
 | 6 | JC Ruiz | Malik Brand | Malik Brand Media | 66/100 🟠 | Booked | 2026-04-09 |
-| 7 | JC Ruiz | Richard May | ECHOS Consulting | 64/100 🟠 | Booked ⚠️ | 2026-04-07 |
-| 7 | JC Ruiz | Blake Reifschneider | Bow wow labs | 64/100 🟠 | DQ'd (appropriate) | 2026-04-03 |
-| 7 | JC Ruiz | Jonathan Cardenas | Andicar | 64/100 🟠 | Booked | 2026-03-24 |
-| 10 | JC Ruiz | Darnell John | Perpetual Assistance (AI) | 63/100 🟠 | Booked | 2026-04-15 |
-| 11 | JC Ruiz | Roman Fedgers | Inline Con | 62/100 🟠 | Booked | 2026-03-23 |
-| 12 | JC Ruiz | Daniel Segurola | AI Scaling | 61/100 🟠 | Booked (Rebook) | 2026-04-08 |
-| 12 | JC Ruiz | Graham Walker | ATS | 61/100 🟠 | DQ'd | 2026-03-25 |
-| 14 | JC Ruiz | Nick Schafer | Pbmr.org | 58/100 🔴 | DQ'd | 2026-04-01 |
-| 14 | JC Ruiz | Casey Zeman | EasyWebinar | 58/100 🔴 | No Meeting | 2026-03-30 |
-| 14 | JC Ruiz | Zhiwen Tan | CareConnect | 58/100 🔴 | Callback Set | 2026-03-25 |
-| 17 | JC Ruiz | James Brioux | Grandco | 57/100 🔴 | Callback (vague) | 2026-04-07 |
-| 18 | JC Ruiz | Joey Lutes | Bean Zoom | 56/100 🔴 | Booked | 2026-04-17 |
-| 18 | JC Ruiz | George Kwiecinski | Global Key Solutions | 56/100 🔴 | No Next Step | 2026-04-13 |
-| 20 | JC Ruiz | Brian Green | Audience | 55/100 🔴 | Callback Set | 2026-03-26 |
+| 7 | JC Ruiz | Haroon Naseer | Protego AI | 65/100 🟠 | Booked | 2026-04-20 |
+| 8 | JC Ruiz | Richard May | ECHOS Consulting | 64/100 🟠 | Booked ⚠️ | 2026-04-07 |
+| 8 | JC Ruiz | Blake Reifschneider | Bow wow labs | 64/100 🟠 | DQ'd (appropriate) | 2026-04-03 |
+| 8 | JC Ruiz | Jonathan Cardenas | Andicar | 64/100 🟠 | Booked | 2026-03-24 |
+| 11 | JC Ruiz | Darnell John | Perpetual Assistance (AI) | 63/100 🟠 | Booked | 2026-04-15 |
+| 12 | JC Ruiz | Roman Fedgers | Inline Con | 62/100 🟠 | Booked | 2026-03-23 |
+| 13 | JC Ruiz | Daniel Segurola | AI Scaling | 61/100 🟠 | Booked (Rebook) | 2026-04-08 |
+| 13 | JC Ruiz | Graham Walker | ATS | 61/100 🟠 | DQ'd | 2026-03-25 |
+| 15 | JC Ruiz | Nick Schafer | Pbmr.org | 58/100 🔴 | DQ'd | 2026-04-01 |
+| 15 | JC Ruiz | Casey Zeman | EasyWebinar | 58/100 🔴 | No Meeting | 2026-03-30 |
+| 15 | JC Ruiz | Zhiwen Tan | CareConnect | 58/100 🔴 | Callback Set | 2026-03-25 |
+| 18 | JC Ruiz | James Brioux | Grandco | 57/100 🔴 | Callback (vague) | 2026-04-07 |
+| 19 | JC Ruiz | Joey Lutes | Bean Zoom | 56/100 🔴 | Booked | 2026-04-17 |
+| 19 | JC Ruiz | George Kwiecinski | Global Key Solutions | 56/100 🔴 | No Next Step | 2026-04-13 |
 ---
 
-_Note: Fred Pollnitz (49/100), Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100), Dylan Hume (33/100), Kaleb Walker (23/100), Josh Miller/GoForClose (28/100), Grigoriy Rublev/Runzy (49/100), Helen Okobokekeimei (28/100), Dex Rempel (38/100), Simon Mushailov (41/100), Pedro Uahib (53/100), Einar Saevarsson (52/100), Khabir Muhammad (53/100), Richard Milligan (54/100), Nancy Lewis (54/100), Paul McMillan/ROLM (48/100, DQ'd appropriate), Czarina Catambing (42/100, No Next Step), Vincent Broomfield/StewardPro (45/100, DQ'd appropriate), Chuck/Evolve Computing (54/100, No Next Step) did not rank in top 20._
+_Note: Marcelo Jo/SolutionsPlex (52/100, BAMFAM vague), Fred Pollnitz (49/100), Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100), Dylan Hume (33/100), Kaleb Walker (23/100), Josh Miller/GoForClose (28/100), Grigoriy Rublev/Runzy (49/100), Helen Okobokekeimei (28/100), Dex Rempel (38/100), Simon Mushailov (41/100), Pedro Uahib (53/100), Einar Saevarsson (52/100), Khabir Muhammad (53/100), Richard Milligan (54/100), Nancy Lewis (54/100), Brian Green/Audience (55/100, Callback Set), Paul McMillan/ROLM (48/100, DQ'd appropriate), Czarina Catambing (42/100, No Next Step), Vincent Broomfield/StewardPro (45/100, DQ'd appropriate), Chuck/Evolve Computing (54/100, No Next Step) did not rank in top 20._
 
 ## Notes
 - 🥇🥈🥉 denote top 3 positions
@@ -34,4 +34,4 @@ _Note: Fred Pollnitz (49/100), Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/10
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-20_
+_Last updated: 2026-04-21_
