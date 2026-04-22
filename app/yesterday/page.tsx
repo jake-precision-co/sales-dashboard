@@ -155,7 +155,7 @@ export default async function YesterdayPage() {
             />
             <StatCard
               label="Sets"
-              sublabel="JC Ruiz"
+              sublabel={stats.jc_sets != null ? `${stats.jc_sets} cold · ${stats.iclosed_sets ?? 0} inbound` : "JC Ruiz"}
               value={stats.sets}
               accent="text-white"
             />

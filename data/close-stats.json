@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T19:00:01.494045-04:00",
+  "lastUpdated": "2026-04-21T20:23:04.581696-04:00",
   "today": {
     "date": "2026-04-21",
     "dials": 76,
@@ -9,8 +9,10 @@
   },
   "yesterday": {
     "date": "2026-04-20",
-    "dials": 76,
+    "dials": 74,
     "sets": 6,
+    "jc_sets": 2,
+    "iclosed_sets": 4,
     "closes": 1,
     "revenue": 12000
   },
