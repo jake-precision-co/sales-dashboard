@@ -36,6 +36,7 @@ _Last updated: 2026-04-17_
 | 20 | Joe Meyers | Ross Reed | B2B Fintech/Payments | 42/100 🔴 | None | 2026-04-14 | Lost (tabled — budget/cash flow) |
 | — | Joe Meyers | Luis Amparo | ShiftPlay | 22/100 🔴 | None | 2026-04-17 | No Next Step (not ready — pre-revenue) |
 | — | Joe Meyers | Alex Irvine | Irvine BnB Experience | 37/100 🔴 | None | 2026-04-16 | DQ'd — appropriate (needs developer) |
+| — | Joe Meyers | Joe Garrity | Luminary Ideas | 33/100 🔴 | None | 2026-04-20 | DQ'd — appropriate (pre-launch, no data) |
 
 ---
 
@@ -45,4 +46,4 @@ _Last updated: 2026-04-17_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-21_
+_Last updated: 2026-04-22_
