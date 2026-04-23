@@ -882,3 +882,124 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Tags:** #pre-product #jc-set #airbnb #dream-missing #tier-none
 
+
+---
+
+### Luis Amparo — ShiftPlay — 2026-04-17
+
+**Dream:** "I want to replace my income." — Lewis (2026-04-17) [A2]
+
+**Context:** Dominican-born founder building a B2B gamification app (ShiftPlay) for corporate training. Main goal is income replacement with this product; has a separate AI app he believes will generate significant wealth longer-term. Personal dream NOT further explored on call.
+
+**Tags:** #b2b-saas #pre-revenue #income-replacement #founder
+
+(MISSING: personal dream never uncovered — Lewis hinted at a bigger vision with his AI app but Joe never explored what "winning" looks like for him personally)
+
+---
+
+### Caleb Wickers — Sign With Bind — 2026-04-17
+
+**Dream:** "I move to Florida to chase the dream." — Caleb (2026-04-17) [A3]
+
+**Context:** 19-year-old founder/SDR who left car sales, moved to Tampa, built a DocuSign+AI competitor. Running it alongside a full-time SDR job. Has a real entrepreneurial drive but no articulated 12-month vision for Sign With Bind. Personal dream visible but never formally surfaced by rep.
+
+**Tags:** #b2b-saas #pre-revenue #young-founder #entrepreneurial-drive
+
+(MISSING: personal dream never uncovered — "chase the dream" was volunteered but Joe never asked what winning looks like in 12 months)
+
+
+---
+
+### Etienne Bernard — NORA Strategy — 2026-04-20
+
+**Dream:** "I like to have a business that allows me to not have a job... creative autonomy... working exclusively on passion-driven work rather than just showing up." — Etienne (2026-04-20) [A3]
+
+**Context:** First-time founder, currently employed full-time. Explicit goal: leave corporate job by landing 2 enterprise clients ($50-100K each). Personal dream is creative freedom — building something meaningful, not "fast grow, fast exit."
+
+**Tags:** #b2b-saas #enterprise #solo-founder #founder-freedom
+
+---
+
+**Dream:** "Ten clients in a year doesn't seem unrealistic if I have the volume to essentially feed the pipeline. $2-5 million ARR within two years." — Etienne (2026-04-20) [A3]
+
+**Context:** Business vision is clear and ambitious. Using enterprise pricing model ($50-100K/client/year). Category: AI agent replacing consulting dependencies (McKinsey/Bain/BCG displacement). Solo attacking large enterprise mid-market.
+
+**Tags:** #b2b-saas #enterprise #arr-target #category-creation
+
+
+### Haroon Naseer — Protego AI — 2026-04-20
+
+**Dream:** "I want to see which areas you guys help. Is it for customer acquisition? Ways to promote? Advertising? Based on the successful SaaS companies you've seen in these industries — I want to replicate those." — Haroon (2026-04-20) [A2]
+
+**Context:** Pre-launch AI product founder. Wants a proven playbook — he knows he's building into a market, he just needs the framework to execute and replicate what worked for others.
+
+**Tags:** #ai-saas #pre-revenue #replication #playbook #go-to-market
+
+---
+
+### Marcelo Jo — SolutionsPlex — 2026-04-20
+
+**Dream:** "I know that depending on the three variables I will reach the maximum we can earn per month. So I have to work on that." — Marcelo (2026-04-20) [A2]
+
+**Context:** Founder who read the SaaS Academy book and is already thinking about growth ceilings and constraints. He knows theoretically what he needs — he's looking for someone to help him operationalize it.
+
+**Tags:** #saas #pre-revenue #growth-ceiling #revenue-ceiling #go-to-market
+
+
+### Joe Garrity — Luminary Ideas — 2026-04-20
+
+**Dream:** "I wanted to kind of be more of not selling something for somebody... is there any value there?" — Joe Garrity (2026-04-20) [A2]
+
+**Context:** Career transition dream — leaving high-ticket sales to build something he believed in. Motivated by meaning/value alignment over compensation. Personal entrepreneurial identity desire.
+
+**Tags:** #agency-SaaS #pre-launch #mrr-0 #autonomy-dream #meaning-over-money #tier-not-ready
+
+**(MISSING: personal dream never fully uncovered — rep never explicitly asked "what does having your own company unlock for you personally?")**
+
+---
+
+**Dream:** "Show them where they're losing money, where their bottlenecks are, where they're losing revenue" — Joe Garrity (2026-04-20) [A2]
+
+**Context:** Business vision for Luminary Ideas — giving roofers visibility into their lead leakage. An operational intelligence dream for his future clients, not yet internalized as a need for himself.
+
+**Tags:** #agency-SaaS #pre-launch #mrr-0 #client-intelligence #revenue-recovery #tier-not-ready
+
+---
+
+### Jahbari McLennan — Legacy Real Estate — 2026-04-22
+
+**Dream:** "I want to increase my cash inversion cycle... I want to improve upon every part of my sales process." — Jahbari McLennan (2026-04-22) [A2]
+
+**Context:** Real estate agent with a 30-day minimum turnaround on leads from ads. Wants to speed up the cycle from ad click to commission. Operational efficiency dream — clear growth orientation. Anti-ICP due to offline business model, but the underlying aspiration is ICP-adjacent.
+
+**Tags:** #real-estate #anti-ICP #sales-process #cash-cycle #growth-orientation #tier-DQ
+
+---
+
+### Brittney Reeve — All About Events (Event Rental) — 2026-04-22
+
+**Dream:** "I want to see our conversion rates go up. I want to see like our girls being able to have more interaction and get out of the office and be able to have more face to face time with clients." — Brittney (2026-04-22) [A3]
+
+**Context:** Team currently buried in manual tasks; dream is to give account managers capacity to do high-value relationship work.
+
+**Tags:** #events #event-rental #smb #team-culture #conversion #automation
+
+---
+
+**Dream:** "Success for me would be 8% growth overall, each of my team members feeling like they're growing, stepping out, being able to have free space and just really just being out of the whirlwind." — Brittney (2026-04-22) [A3]
+
+**Context:** Personal mission is healthy team culture + growth; her core value is "seek continuous improvement." Personal dream NOT fully uncovered — Joe didn't ask what this means for HER specifically.
+
+**Tags:** #events #event-rental #smb #team-culture #growth #leadership
+
+---
+
+### Jay Temaat — Temaat Ventures (State Farm SaaS) — 2026-04-22
+
+**Dream (Part 2 / Close Call):** "If you know what the hundred does really well, I might not have to go to the other [businesses]. This is the one." — Jay T (2026-04-22) [A4]
+
+**Context:** Jay's personal dream is finally tipping the domino — after 7 businesses that didn't fully launch. The SaaS product is his big bet. Personal dream still not deeply uncovered by Joe.
+
+**Tags:** #saas #pre-revenue #founder #legacy #success #domino-tip
+
+---

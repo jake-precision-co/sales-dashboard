@@ -460,3 +460,83 @@ By source:
 
 **Type:** Authority — "I'm not the right person"
 
+
+---
+
+### 2026-04-17 Entries
+
+**Prior Call / Prior No (Callback Objection)**
+
+**"We both agreed that, yeah, this is what you offer and what I do just don't align."**
+— Joey Lutes / Bean Zoom (2026-04-17) [A2] | JC acknowledged ("I appreciate the transparency"), reframed via Precision acquisition/rebrand ("SaaS Academy was actually acquired..."), asked for a two-minute conversation — overcame successfully | Outcome: Booked (Growth Session May 5 @ 1:30 PM CT)
+
+**Type:** Trust/Need — "We already decided it wasn't a fit"
+
+---
+
+**Price / Budget**
+
+**"Financially, I don't have any funds right now... I was looking for someone that could come alongside and maybe market and for a certain amount of time and take percentage of the monthly recurring until we get to a certain place."**
+— Vincent Broomfield / StewardPro (2026-04-17) [A2] | JC delivered price transparently ($1K–$2K/month), confirmed the DQ, gave a warm exit — no AAA on the price, no timing anchor extracted | Outcome: DQ'd (appropriate — pre-revenue, no investment readiness)
+
+**Type:** Price/Budget — "No money" + performance-based model request
+
+
+---
+
+**"If this is too expensive, I'm just being honest with you, I'm going with that guy [a $300 course]."**
+— Luis Amparo / ShiftPlay (2026-04-17) [A2] | Joe responded "Yeah, it may be — we're a thousand bucks a month, it's not too bad." — No Overrider steps attempted. Agreed with the objection. | No next step — deal dropped
+
+**"I've got to come up front and write you guys a check for five grand or ten grand... without guaranteeing any results for ever seeing that money back."**
+— Caleb Wickers / Sign With Bind (2026-04-17) [A3] | Joe handled price structure well (month-to-month, 90-day opt-out, asked "is that a showstopper?") — Steps 1/4/5 OK, Steps 2/3 skipped. | Weak BAMFAM — text next Friday
+
+
+---
+
+## Etienne Bernard — NORA Strategy — 2026-04-20
+
+**"It's not even the cost. It's more the cost opportunity of my attention going to this versus something else."**
+— Etienne Bernard (2026-04-20) [A3] | Handled partially — Joe pivoted to offering the Growth tier ($2K/month for 1:1) but didn't complete DM Overrider steps. No Review, no Check. | Outcome: Timing stall — "reach out in 1-2 months"
+
+**"I'm not looking for a generic playbook or generic advice... a playbook built even six months ago is probably outdated."**
+— Etienne Bernard (2026-04-20) [A4] | Joe gave partial handle: "70-80% is playbook foundation, your coach contextualizes the other 20-30%." Good reframe but no Review step, no Check, no looping back to discovery pain. | Outcome: Objection not fully overcome — contributed to no-close
+
+**"I think gut instinct right now is it probably be a waste of both of our times."**
+— Etienne Bernard (2026-04-20) [A3] | Joe accepted this and ended the call with "you know where to find me." No BAMFAM attempt. No diagnostic question. No alternative close path. | Outcome: Lost — prospect controls all follow-up
+
+
+---
+
+### Timing (new entries 2026-04-20)
+
+**"Could we do a call later, though? I'm just like at a doctor's appointment, actually."**
+— Haroon Naseer / Protego AI (2026-04-20) [A2] | JC handled well — negotiated a specific time, then capitalized when Haroon offered to chat for a few minutes. Converted to booking. | Outcome: Booked — Growth Session 2026-04-21 4:15 PM ET
+
+**"I think we'll do better to do that after my trip. I will get back here May 10th or later."**
+— Marcelo Jo / SolutionsPlex (2026-04-20) [A2] | JC got a May date but failed to confirm the booking mechanics — no invite sent, no ack obtained. Call ended with vague "talk soon." | Outcome: Vague BAMFAM — no confirmed Growth Session
+
+---
+
+### Trust (new entries 2026-04-20)
+
+**"In the meantime, can you also send me some resources so I can review it on my own as well?"**
+— Haroon Naseer / Protego AI (2026-04-20) [A2] | JC redirected to precision.co and texted the URL — partial handle. He should have bridged the email request to get confirmation of the Growth Session ack instead. | Outcome: Booked despite redirect — Growth Session confirmed
+
+
+### Price/Budget (new entries 2026-04-22)
+
+**"Man, I think it will be a showstopper because I would say I'm putting that in my marketing right now."**
+— Jahbari McLennan / Legacy Real Estate (2026-04-22) [A2] | JC accepted the objection, gave his phone number, and said "call me when you're ready." No AAA attempted. Price was introduced before the ICP mismatch was addressed — wrong sequencing. Should have DQ'd on business fit first. | Outcome: No Next Step (Anti-ICP + price showstopper)
+
+---
+
+## Timing / Budget (AE Growth Sessions — April 2026)
+
+**"I want to look at my budget, make sure I can work that into there and then that fits in. I'm going to hit my bottom line... I can have an answer for you by tomorrow."**
+— Brittney Reeve, All About Events (2026-04-22) [A3] | Joe accepted the stall without questioning or handling — no ROI anchor, no loop back to pain. Booked follow-up. | Outcome: Weak BAMFAM (APR 23 follow-up for budget decision)
+
+## Trust / Risk (AE Growth Sessions — April 2026)
+
+**"What's the likelihood of success of this? How probable is it that the people that hire you guys find themselves with a viable product that goes to market?"**
+— Jay Temaat, Temaat Ventures (2026-04-22) [A4] | Joe gave behavior-based answer (quick to implement, ask for help, share wins). Missed the flip-back opportunity ("What's YOUR commitment level, Jay?"). | Outcome: Closed Won — Jay self-closed: "Let's do business together."
+

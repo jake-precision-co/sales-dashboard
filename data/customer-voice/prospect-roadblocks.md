@@ -1371,3 +1371,185 @@
 
 **Tags:** #pre-product #developer-risk #non-technical #jc-set #airbnb #tier-none
 
+
+---
+
+### Joey Lutes — Bean Zoom — 2026-04-17
+
+**Roadblock:** "How do you market to that specific? How do you define the vertical and what do you chase there?" — Joey (2026-04-17) [A2]
+
+**Context:** Joey builds fully custom ERP systems for SMBs ($500K–$10M range), wrapping software around each client's specific workflow. His technical side is solved (pushed 22 features in one week, zero technical debt). The constraint is customer acquisition: he can't define a vertical to pursue at scale because each client is genuinely different. The pitch is better than competitors but can't be systematized without ICP clarity.
+
+**Tags:** #erp #custom-software #b2b #customer-acquisition #icp-unclear #callback #mrr-unconfirmed
+
+---
+
+### Vincent Broomfield — StewardPro — 2026-04-17
+
+**Roadblock:** "Financially, I don't have any funds right now. I was looking for someone that could come alongside and maybe market and for a certain amount of time and take percentage of the monthly recurring until we get to a certain place." — Vincent (2026-04-17) [A2]
+
+**Context:** Pre-revenue SaaS founder (7-8 months building) who left real estate to go full-time on StewardPro. Has no runway, no funds, and is seeking a performance-based marketing partnership rather than a paid coaching relationship. Self-aware about his constraint but unable to invest.
+
+**Tags:** #pre-revenue #saas #founder #no-funds #performance-model #callback #dq
+
+
+---
+
+### Luis Amparo — ShiftPlay — 2026-04-17
+
+**Roadblock:** "I'm posting on LinkedIn and nothing is really kicking. And my videos are amazing." — Lewis (2026-04-17) [A2]
+
+**Context:** Pre-revenue B2B gamification app (ShiftPlay) targeting L&D/corporate training teams. Lewis is active on LinkedIn but getting zero engagement/traction despite what he believes is quality content.
+
+**Tags:** #b2b-saas #pre-revenue #marketing #linkedin-traction
+
+---
+
+**Roadblock:** "I'm having a hard time explaining this to you, which perhaps is partially part of the problem." — Lewis (2026-04-17) [A2]
+
+**Context:** Founder struggling to articulate the value prop of a corporate training gamification app to someone outside the L&D space. Messaging/positioning is still unsolved.
+
+**Tags:** #b2b-saas #pre-revenue #positioning #messaging
+
+---
+
+### Caleb Wickers — Sign With Bind — 2026-04-17
+
+**Roadblock:** "I've just had a lot going on in my personal life. Don't really have anyone working on it with me. I'm kind of a one man team right now." — Caleb (2026-04-17) [A3]
+
+**Context:** 19-year-old founder building a DocuSign+AI competitor while working full-time as SDR at a tech company. No co-founder, no team, bandwidth is the #1 constraint.
+
+**Tags:** #b2b-saas #pre-revenue #solo-founder #bandwidth
+
+---
+
+**Roadblock:** "I threw 6 or 700 at Google Ads and I suck at marketing." — Caleb (2026-04-17) [A3]
+
+**Context:** Tried Google Ads without dialing in messaging/positioning first. Got no results. Has one paying customer after 3-4 months. Knows his gap but hasn't found a solution.
+
+**Tags:** #b2b-saas #pre-revenue #marketing #paid-ads #google-ads
+
+
+---
+
+### Etienne Bernard — NORA Strategy — 2026-04-20
+
+**Roadblock:** "To go beyond my current network to scale faster is kind of the challenge." — Etienne (2026-04-20) [A3]
+
+**Context:** Solo founder with 2 large enterprise pilots (crown corp + insurance), exclusively from warm network. Needs cold outreach but has no system.
+
+**Tags:** #b2b-saas #enterprise #pre-revenue #solo-founder
+
+---
+
+**Roadblock:** "Geographically, I mean, I'm constrained to mostly my Quebec and Ontario network." — Etienne (2026-04-20) [A3]
+
+**Context:** Warm network is geo-limited to Canada; needs distribution channels beyond personal relationships to reach US market.
+
+**Tags:** #b2b-saas #enterprise #pre-revenue #solo-founder
+
+---
+
+**Roadblock:** "Right now I'm doing this part time, which is nights, weekends, lunch breaks, whatever, whenever I can." — Etienne (2026-04-20) [A2]
+
+**Context:** Still in full-time job. Building solo. Every hour is borrowed time — no leverage, no team, no systems.
+
+**Tags:** #b2b-saas #solo-founder #founder-is-ceiling
+
+---
+
+**Roadblock:** "I'm not looking for a generic playbook or generic advice... a playbook built even six months ago is probably outdated." — Etienne (2026-04-20) [A4]
+
+**Context:** Sophisticated, AI-aware founder who is skeptical of standard frameworks. Has done competitive research. Specific concern: category creation for an entirely new product type competing with McKinsey/BCG.
+
+**Tags:** #b2b-saas #enterprise #category-creation #ai-native
+
+
+### Haroon Naseer — Protego AI — 2026-04-20
+
+**Roadblock:** "Don't you guys cater to established SaaS owners rather than startups?" — Haroon (2026-04-20) [A2]
+
+**Context:** Pre-launch AI product, self-funded, solo founder. Had submitted a SaaS Academy application but worried Precision was only for more mature companies. JC dispelled this on the call.
+
+**Tags:** #ai-saas #pre-revenue #startup #solo-founder
+
+---
+
+### Marcelo Jo — SolutionsPlex — 2026-04-20
+
+**Roadblock:** "I know that I had to go see the market much earlier than I thought." — Marcelo (2026-04-20) [A2]
+
+**Context:** Building a niche rental SaaS for Quebec landlords, 4 months into development, worried about hitting a growth ceiling before launch. Key tension: ship fast with a half-finished product vs. go all-in and launch right.
+
+**Tags:** #saas #pre-revenue #growth-ceiling #quebec #real-estate-adjacent
+
+**Roadblock:** "I had to take a decision like either I could release something quick and do half the job or go quite all in." — Marcelo (2026-04-20) [A2]
+
+**Context:** Classic pre-launch founder paralysis — speed to market vs. product completeness. No framework for making the call.
+
+**Tags:** #saas #pre-revenue #founder-paralysis #go-to-market
+
+
+### Joe Garrity — Luminary Ideas — 2026-04-20
+
+**Roadblock:** "I'm not really very techy, so some of that was like..." — Joe Garrity (2026-04-20) [A2]
+
+**Context:** Pre-launch founder building a lead-recovery platform for roofers. Technical execution was a barrier to standing up his GoHighLevel/Atlas/Zapier stack.
+
+**Tags:** #agency-SaaS #pre-launch #mrr-0 #technical-founder-gap #tier-not-ready
+
+---
+
+**Roadblock:** "I'm just trying to put together all these pieces" — Joe Garrity (2026-04-20) [A2]
+
+**Context:** Pre-launch overwhelm — building product, target list, and go-to-market simultaneously as a solo founder with no team. Classic founder-is-the-ceiling bottleneck at formation stage.
+
+**Tags:** #agency-SaaS #pre-launch #mrr-0 #founder-overwhelm #solo-founder #tier-not-ready
+
+---
+
+### Jahbari McLennan — Legacy Real Estate — 2026-04-22
+
+**Roadblock:** "I've really struggled with getting very... having a visual KPI to see, hey, what's working, what needs to be improved." — Jahbari McLennan (2026-04-22) [A2]
+
+**Context:** Real estate agent running Meta ads and using Go High Level as a white-label CRM. Wants data visibility to connect ad performance to conversions, but can't correlate his workflows. Pain is real — but prospect is Anti-ICP (offline non-tech business).
+
+**Tags:** #real-estate #offline-business #anti-ICP #meta-ads #data-visibility #tier-DQ
+
+---
+
+**Roadblock:** "I get super busy now. Let's up on my what crap. How can I make this better?" — Jahbari McLennan (2026-04-22) [A2]
+
+**Context:** Self-described "too busy to optimize" — knows his process has gaps, hasn't fixed them. Classic founder-is-the-bottleneck signal, but in real estate (Anti-ICP).
+
+**Tags:** #real-estate #anti-ICP #founder-overwhelm #no-process #tier-DQ
+
+---
+
+### Brittney Reeve — All About Events (Event Rental) — 2026-04-22
+
+**Roadblock:** "There's just never enough time to do anything. My account managers, they're very like buried in basically, let's say the whirlwind just stuck in it and just kind of can't free up anytime no matter how hard I try." — Brittney (2026-04-22) [A3]
+
+**Context:** VP running operations solo while founder is hands-off with 6 other businesses. Team capacity ceiling is preventing scaling into corporate events.
+
+**Tags:** #events #event-rental #smb #operations #capacity #time-poverty
+
+---
+
+**Roadblock:** "Our point of rental system doesn't have a great CRM system. So basically we're taking exporting things out of our point of rental into a spreadsheet and kind of going through that way." — Brittney (2026-04-22) [A3]
+
+**Context:** Manual sales tracking limiting ability to improve conversion rates from 65% to target of 70%. No integrated CRM.
+
+**Tags:** #events #event-rental #smb #sales-process #crm #manual-work
+
+---
+
+### Jay Temaat — Temaat Ventures (State Farm SaaS) — 2026-04-22
+
+**Roadblock:** "It's hard to run my office and then try to do this. Actually quite challenging to do both." — Jay T (2026-04-22) [A4]
+
+**Context:** State Farm agent running 7+ businesses while trying to launch SaaS product. Capacity divided between practice and startup.
+
+**Tags:** #saas #pre-revenue #founder #capacity #bandwidth #operator
+
+---
