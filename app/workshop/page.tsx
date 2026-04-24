@@ -151,9 +151,9 @@ export default function WorkshopPage() {
 
       {/* ── What You Walk Away With ── */}
       <section className="max-w-2xl mx-auto px-4 pb-16">
-        <h2 className="text-3xl font-bold text-white mb-4">What You Walk Away With</h2>
-        <p className="text-gray-400 mb-8">
-          This isn&apos;t a lecture. You&apos;re building something live on this call.
+        <h2 className="text-3xl font-bold text-white mb-4">What You Ship on This Call</h2>
+        <p className="text-gray-400 mb-4">
+          This isn&apos;t a lecture. You run through the Magnetic Microsite Generator live — a 5-stage AI interview that scores your idea, picks the strongest problem, and outputs a complete build spec. You paste it into Manus. You ship before the call ends.
         </p>
         <p className="text-gray-300 mb-8">By the end of 90 minutes you&apos;ll have:</p>
 
