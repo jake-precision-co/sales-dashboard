@@ -26,7 +26,7 @@ _Last updated: 2026-04-15_
 | 19 | JC Ruiz | George Kwiecinski | Global Key Solutions | 56/100 🔴 | No Next Step | 2026-04-13 |
 ---
 
-_Note: Marcelo Jo/SolutionsPlex (52/100, BAMFAM vague), Fred Pollnitz (49/100), Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100), Dylan Hume (33/100), Kaleb Walker (23/100), Josh Miller/GoForClose (28/100), Grigoriy Rublev/Runzy (49/100), Helen Okobokekeimei (28/100), Dex Rempel (38/100), Simon Mushailov (41/100), Pedro Uahib (53/100), Einar Saevarsson (52/100), Khabir Muhammad (53/100), Richard Milligan (54/100), Nancy Lewis (54/100), Brian Green/Audience (55/100, Callback Set), Paul McMillan/ROLM (48/100, DQ'd appropriate), Czarina Catambing (42/100, No Next Step), Vincent Broomfield/StewardPro (45/100, DQ'd appropriate), Chuck/Evolve Computing (54/100, No Next Step), Jahbari McLennan/Legacy Real Estate (49/100, No Next Step — Anti-ICP), Matthew Thornhill (31/100, No Next Step — Anti-ICP) did not rank in top 20._
+_Note: Marcelo Jo/SolutionsPlex (52/100, BAMFAM vague), Fred Pollnitz (49/100), Jake (Agency, 19/100), Vikas Kaushal (Foyr, 25/100) and Geoff Linton (Clarovant Digital, 17/100), Dylan Hume (33/100), Kaleb Walker (23/100), Josh Miller/GoForClose (28/100), Grigoriy Rublev/Runzy (49/100), Helen Okobokekeimei (28/100), Dex Rempel (38/100), Simon Mushailov (41/100), Pedro Uahib (53/100), Einar Saevarsson (52/100), Khabir Muhammad (53/100), Richard Milligan (54/100), Nancy Lewis (54/100), Brian Green/Audience (55/100, Callback Set), Paul McMillan/ROLM (48/100, DQ'd appropriate), Czarina Catambing (42/100, No Next Step), Vincent Broomfield/StewardPro (45/100, DQ'd appropriate), Chuck/Evolve Computing (54/100, No Next Step), Jahbari McLennan/Legacy Real Estate (49/100, No Next Step — Anti-ICP), Matthew Thornhill (31/100, No Next Step — Anti-ICP), Tyler Madden/Brand Builders Group (59/100, Booked — Rebook), Matt Saunders/Local Marketing Agency SLC (45/100, No Next Step — Anti-ICP) did not rank in top 20._
 
 ## Notes
 - 🥇🥈🥉 denote top 3 positions
@@ -34,4 +34,4 @@ _Note: Marcelo Jo/SolutionsPlex (52/100, BAMFAM vague), Fred Pollnitz (49/100), 
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-23_
+_Last updated: 2026-04-24_
