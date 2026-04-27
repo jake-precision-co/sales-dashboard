@@ -13,7 +13,8 @@ _Last updated: 2026-04-17_
 | 7 | Joe Meyers | Roman Seges | Inline Communications | 68/100 🟠 | Core | 2026-03-31 | Closed Won |
 | 6 | Joe Meyers | Grigoriy Rublev | Runzy | 68/100 🟠 | Core | 2026-03-24 | BAMFAM'd |
 | 7 | Joe Meyers | Therrance Corrothers | Thurr Solutions | 68/100 🟠 | Core | 2026-03-23 | BAMFAM'd |
-| 8 | Joe Meyers | Omar Laythi | Pre-Launch SaaS | 64/100 🟠 | Core | 2026-04-16 | Weak BAMFAM — deferred ("reach out when ready") |
+| 8 | Joe Meyers | Eli Brunner | Adscope | 69/100 🟠 | Core | 2026-04-24 | Closed Won |
+| 9 | Joe Meyers | Omar Laythi | Pre-Launch SaaS | 64/100 🟠 | Core | 2026-04-16 | Weak BAMFAM — deferred ("reach out when ready") |
 | 9 | Joe Meyers | Chris Rios | Outdoor Lighting / SaaS | 67/100 🟠 | Core | 2026-04-14 | Strong BAMFAM (99.9% yes, 10am tomorrow) |
 | 9 | Joe Meyers | Matthew Young | MovingLetters.ai | 67/100 🟠 | Growth | 2026-03-05 | Closed Won |
 | 9 | Joe Meyers | Brad Powell | Red Board | 63/100 🟠 | Growth | 2026-03-17 | BAMFAM'd |
@@ -35,6 +36,7 @@ _Last updated: 2026-04-17_
 | 19 | Joe Meyers | Etienne Bernard | NORA Strategy | 46/100 🔴 | Core/$2K | 2026-04-20 | No Next Step (deferred — 1-2 months) |
 | 20 | Joe Meyers | Caleb Wickers | Sign With Bind | 42/100 🔴 | Core | 2026-04-17 | Weak BAMFAM (text next Friday) |
 | 20 | Joe Meyers | Ross Reed | B2B Fintech/Payments | 42/100 🔴 | None | 2026-04-14 | Lost (tabled — budget/cash flow) |
+| — | Joe Meyers | Yuli Azarch | Seedbox.io | 47/100 🔴 | Growth ($2K) | 2026-04-24 | No Next Step (left ball in prospect's court) |
 | — | Joe Meyers | Brittney Reeve | All About Events | 47/100 🔴 | Growth ($2K) | 2026-04-22 | Weak BAMFAM (Apr 23 budget check) |
 | — | Joe Meyers | Luis Amparo | ShiftPlay | 22/100 🔴 | None | 2026-04-17 | No Next Step (not ready — pre-revenue) |
 | — | Joe Meyers | Alex Irvine | Irvine BnB Experience | 37/100 🔴 | None | 2026-04-16 | DQ'd — appropriate (needs developer) |
@@ -48,4 +50,4 @@ _Last updated: 2026-04-17_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-23_
+_Last updated: 2026-04-27_
