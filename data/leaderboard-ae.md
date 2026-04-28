@@ -25,11 +25,13 @@ _Last updated: 2026-04-17_
 | 13 | Joe Meyers | Austin Brummer | Requidex | 57/100 🔴 | Growth | 2026-04-09 | Weak BAMFAM (April 20 — founder sign-off needed) |
 | 14 | Joe Meyers | Scott Messick | Analyst1 | 55/100 🔴 | Growth | 2026-03-26 | No Next Step |
 | 14 | Joe Meyers | Pulkit Agarwal | EverTest | 55/100 🔴 | Core | 2026-04-13 | Weak BAMFAM (Wednesday reconnect) |
+| 14 | Joe Meyers | Matthew Myers | DRE Central | 55/100 🔴 | Core | 2026-04-27 | Weak BAMFAM (Thursday follow-up) |
 | 15 | Joe Meyers | Dan Huck | Painting Company | 55/100 🔴 | Core | 2026-03-20 | No Next Step |
 | 15 | Joe Meyers | Matas Jakutis | BM Digital | 54/100 🔴 | Growth | 2026-03-05 | BAMFAM'd |
 | 16 | Joe Meyers | Garrett Campbell | Objectionly | 51/100 🔴 | Growth | 2026-03-13 | BAMFAM'd |
 | 19 | Joe Meyers | Jay Temaat (Pt 2) | Temaat Ventures (State Farm SaaS) | 49/100 🔴 | Growth ($2K) | 2026-04-22 | Closed Won 🎉 |
 | 19 | Joe Meyers | Jay Temaat | Temaat Ventures (State Farm SaaS) | 48/100 🔴 | Core/$2K | 2026-04-15 | Weak BAMFAM (April 22 — shopping coaches) |
+| 19 | Joe Meyers | Kam Lal | Notetracks | 48/100 🔴 | Core | 2026-04-27 | No Next Step — "Ball in your court" |
 | 19 | Joe Meyers | Marc Buddensiek | Buddensiek Performance | 43/100 🔴 | Core | 2026-02-25 | BAMFAM'd |
 | 18 | Joe Meyers | Angelo Patsilivas | LDC Strategies | 50/100 🔴 | Growth | 2026-01-13 | Weak BAMFAM |
 | 18 | Joe Meyers | Steven Calabrese | CRM-U | 27/100 🔴 | Core/Growth | 2026-03-30 | Weak BAMFAM |
@@ -50,4 +52,4 @@ _Last updated: 2026-04-17_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-27_
+_Last updated: 2026-04-28_
