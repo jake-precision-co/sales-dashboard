@@ -55,7 +55,7 @@ export default function CountdownTimer({ targetDate }: CountdownTimerProps) {
         { label: 'SECONDS', value: timeLeft.seconds },
       ].map(({ label, value }) => (
         <div key={label} className="flex flex-col items-center">
-          <span className="text-4xl sm:text-5xl font-bold text-white tabular-nums">
+          <span className="text-4xl sm:text-5xl font-bold text-[#0098CE] tabular-nums">
             {pad(value)}
           </span>
           <span className="text-xs text-gray-500 mt-1 tracking-widest">{label}</span>
