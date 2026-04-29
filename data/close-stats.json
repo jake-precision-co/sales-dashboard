@@ -1,30 +1,30 @@
 {
-  "lastUpdated": "2026-04-28T19:00:02.024428-04:00",
+  "lastUpdated": "2026-04-29T12:00:03.331938-04:00",
   "today": {
-    "date": "2026-04-28",
-    "dials": 98,
-    "sets": 1,
-    "iclosed_sets": 1,
-    "closes": 0,
-    "revenue": 0
+    "date": "2026-04-29",
+    "dials": 0,
+    "sets": 0,
+    "iclosed_sets": 0,
+    "closes": 1,
+    "revenue": 24000
   },
   "yesterday": {
-    "date": "2026-04-27",
-    "dials": 75,
-    "sets": 2,
-    "jc_sets": 2,
-    "iclosed_sets": 3,
+    "date": "2026-04-28",
+    "dials": 96,
+    "sets": 1,
+    "jc_sets": 1,
+    "iclosed_sets": 1,
     "closes": 0,
     "revenue": 0
   },
   "monthly": {
     "month": "2026-04",
-    "revenue": 144000,
-    "deals": 8,
+    "revenue": 168000,
+    "deals": 9,
     "sets": 33,
     "iclosed_sets": 61,
-    "callsScored": 60,
-    "avgScore": 51
+    "callsScored": 64,
+    "avgScore": 52
   },
   "records": {
     "bestDayRevenue": {
@@ -38,9 +38,9 @@
       "date": "2026-04-14"
     },
     "bestMonthRevenue": {
-      "amount": 156000,
+      "amount": 168000,
       "rep": "Joe Meyers",
-      "month": "2026-03"
+      "month": "2026-04"
     },
     "bestMonthSets": {
       "amount": 33,
