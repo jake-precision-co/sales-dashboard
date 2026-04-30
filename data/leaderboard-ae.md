@@ -5,6 +5,7 @@ _Last updated: 2026-04-17_
 | Rank | Rep | Prospect | Company | Score | Tier | Date | Outcome |
 |------|-----|----------|---------|-------|------|------|---------|
 | 🥇 1 | Joe Meyers | Jacob McKinney | Studio Sweat | 79/100 🟡 | Core/Growth | 2026-03-24 | BAMFAM'd |
+| 2 | Joe Meyers | Kim Renker | 24 Hours Agency | 77/100 🟡 | Core ($1K) | 2026-04-28 | Closed Won (verbal — payment pending) |
 | 🥈 2 | Joe Meyers | Khabir Muhammad | Creditfixrr | 78/100 🟡 | Core | 2026-04-01 | Closed Won |
 | 🥉 3 | Joe Meyers | Piotr Gawlik | GAVBIZ | 74/100 🟡 | Growth | 2026-03-25 | BAMFAM'd |
 | 4 | Joe Meyers | Lekan Oganla | Settla Inc | 72/100 🟠 | Core | 2026-04-10 | Closed Won |
@@ -15,6 +16,7 @@ _Last updated: 2026-04-17_
 | 7 | Joe Meyers | Therrance Corrothers | Thurr Solutions | 68/100 🟠 | Core | 2026-03-23 | BAMFAM'd |
 | 8 | Joe Meyers | Eli Brunner | Adscope | 69/100 🟠 | Core | 2026-04-24 | Closed Won |
 | 9 | Joe Meyers | Omar Laythi | Pre-Launch SaaS | 64/100 🟠 | Core | 2026-04-16 | Weak BAMFAM — deferred ("reach out when ready") |
+| 10 | Joe Meyers | Antonis Politis | SE&C IKE | 65/100 🟠 | Growth ($2K) | 2026-04-28 | Weak BAMFAM (May 5 — co-founder review, price concern) |
 | 9 | Joe Meyers | Chris Rios | Outdoor Lighting / SaaS | 67/100 🟠 | Core | 2026-04-14 | Strong BAMFAM (99.9% yes, 10am tomorrow) |
 | 9 | Joe Meyers | Matthew Young | MovingLetters.ai | 67/100 🟠 | Growth | 2026-03-05 | Closed Won |
 | 9 | Joe Meyers | Brad Powell | Red Board | 63/100 🟠 | Growth | 2026-03-17 | BAMFAM'd |
@@ -52,4 +54,4 @@ _Last updated: 2026-04-17_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-28_
+_Last updated: 2026-04-29_
