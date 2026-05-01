@@ -12,7 +12,7 @@ const CURRENT_MONTH = '2026-04'
 const CURRENT_MONTH_LABEL = 'April 2026'
 const PREV_MONTH = '2026-03'
 const PREV_MONTH_LABEL = 'March 2026'
-const GOAL_ARR = 170_000    // $170K ARR monthly goal
+const GOAL_ARR = 180_000    // $180K ARR monthly goal
 const GOAL_SETS = 30        // JC sets goal
 const GOAL_DEALS = 10       // Joe deals closed goal
 
