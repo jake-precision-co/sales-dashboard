@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-03T19:00:02.279816-04:00",
+  "lastUpdated": "2026-05-04T12:00:00.831681-04:00",
   "today": {
-    "date": "2026-05-03",
-    "dials": 0,
+    "date": "2026-05-04",
+    "dials": 17,
     "sets": 0,
     "iclosed_sets": 0,
     "closes": 0,
@@ -23,8 +23,8 @@
     "deals": 0,
     "sets": 3,
     "iclosed_sets": 6,
-    "callsScored": 0,
-    "avgScore": 0
+    "callsScored": 2,
+    "avgScore": 62
   },
   "records": {
     "bestDayRevenue": {
