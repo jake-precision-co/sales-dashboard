@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-05-05T12:00:01.420608-04:00",
+  "lastUpdated": "2026-05-05T16:30:02.502695-04:00",
   "today": {
     "date": "2026-05-05",
-    "dials": 18,
-    "sets": 1,
-    "iclosed_sets": 2,
+    "dials": 90,
+    "sets": 2,
+    "iclosed_sets": 3,
     "closes": 0,
     "revenue": 0
   },
@@ -21,8 +21,8 @@
     "month": "2026-05",
     "revenue": 12000,
     "deals": 1,
-    "sets": 5,
-    "iclosed_sets": 9,
+    "sets": 6,
+    "iclosed_sets": 10,
     "callsScored": 6,
     "avgScore": 54
   },
