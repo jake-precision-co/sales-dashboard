@@ -24,7 +24,10 @@
 
 **Context:** Pre-emptive budget/readiness objection thrown in the first 90 seconds. Noah is pre-revenue, ~4 clients, launching in May. Former co-CEO of $5M services firm (Good Roots), now starting Baseworks Consulting. He reached out after seeing Dan Martell's YouTube but is unsure if the timing and cost make sense. The roadblock is financial readiness + early stage, not skepticism about the product.
 
-**Tags:** #consulting #agency #pre-revenue #no-next-step #tier-unknown
+**Industry:** Consulting, Agency  
+**MRR:** Pre-Revenue  
+**Outcome:** No Next Step  
+**Tier:** Unknown
 
 ---
 
@@ -34,7 +37,10 @@
 
 **Context:** Timing/readiness roadblock — Noah sees potential fit (agency/professional services) but believes he needs to be more established first. Launching in May. This is a classic "not ready yet" stall from a pre-PMF founder who is actually interested but feels early. Discovery was never deep enough to surface urgency or create a reason to move now.
 
-**Tags:** #consulting #agency #pre-revenue #no-next-step #tier-unknown
+**Industry:** Consulting, Agency  
+**MRR:** Pre-Revenue  
+**Outcome:** No Next Step  
+**Tier:** Unknown
 
 ### Terri Grimes — Dave's Tree Service — 2026-03-31
 
@@ -42,7 +48,10 @@
 
 **Context:** Office manager scouting for Caleb (owner), who is stretched thin doing estimates, tree jobs, and admin. Running Color Notes for lead intake + manual spreadsheet for tracking. No CRM.
 
-**Tags:** #tree-service #field-services #mrr-unknown #pipeline #tier-unknown
+**Industry:** Tree Service, Field Services  
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Unknown
 
 ---
 
@@ -52,7 +61,10 @@
 
 **Context:** Caleb is "doing it all" — estimating, on job sites, zero time to manage metrics. Classic owner-trapped-in-the-business scenario.
 
-**Tags:** #tree-service #field-services #mrr-unknown #pipeline #tier-unknown
+**Industry:** Tree Service, Field Services  
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Unknown
 
 ---
 
@@ -62,7 +74,10 @@
 
 **Context:** SDR follow-up call (5:28, rebook from no-show). Khabir is tremendously busy and overwhelmed. Needs to build a team but cost-conscious — wants the right people without breaking the bank. Also mentioned needing to "hold them accountable" and "hit goals" while ensuring positive ROI on any investment.
 
-**Tags:** #fintech #creditfixrr #mrr-unknown #booked #tier-unknown
+**Industry:** FinTech  
+**MRR:** Unknown  
+**Tier:** Unknown  
+**Other:** Creditfixrr, Booked
 
 ---
 
@@ -72,7 +87,9 @@
 
 **Context:** SDR outbound call (9:54, former SAS Academy member). Casey runs EasyWebinar (SaaS webinar platform). They've built an AI webinar builder but struggling with customer acquisition. Currently hiring ad team and SEO team. Previously relied on webinars for acquisition but hasn't executed that strategy in a while. Interested in partnerships/collaborations as leverage vs. traditional tactics.
 
-**Tags:** #saas #webinar-platform #customer-acquisition #no-meeting #tier-unknown
+**Industry:** SaaS  
+**Tier:** Unknown  
+**Other:** Webinar Platform, Customer Acquisition, No Meeting
 
 ---
 
@@ -82,7 +99,10 @@
 
 **Context:** SDR cold call (14 min). Daniel runs two existing 8-figure businesses (one is fantasybabesagency.com). AI Scaling is his new business — very sales-heavy, looking to build a robust sales department with setter/closer model. Wants something specific for sales coaching/frameworks, not generic or basic. Currently doing a "pretty significant sales restructure."
 
-**Tags:** #ai #saas #8-figure-entrepreneur #pipeline #growth-2k
+**Industry:** AI, SaaS  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** 8 Figure Entrepreneur
 
 ### Zhiwen Tan — CareConnect — 2026-03-25 (SDR Call)
 
@@ -90,7 +110,10 @@
 
 **Context:** SDR cold call (12 min). Zhiwen is transitioning 15-year-old SaaS company to AI-first operations. Everyone $85K+ salary will create AI agents; everyone under will manage them. Not VC-backed so can afford to slow growth short-term to build infrastructure. Challenge: can't put "crappy people" on AI buildout because "junk in junk out" — needs best people, which means pulling them off revenue-generating work.
 
-**Tags:** #saas #ai #15-years-old #non-vc #pipeline #growth-2k
+**Industry:** SaaS, AI  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** 15 Years Old, Non Vc
 
 ---
 
@@ -100,7 +123,11 @@
 
 **Context:** SDR cold call. Jaan volunteered that Romify is at $1.5M ARR with 12 people and internal disagreement on how to scale. No clear plan or playbooks in place. JC didn't probe deeper into what the debates are about.
 
-**Tags:** #events #saas #100k-500k #pipeline #growth-2k
+**Industry:** SaaS  
+**MRR:** $100K–$500K  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Events
 
 ---
 
@@ -110,7 +137,11 @@
 
 **Context:** Co-founder of event revenue SaaS platform ($1.5M ARR, 3x growth, 150 customers). Jaan is "catch-all" for customer-facing overflow that leaks through the team. Founders are stuck in operations instead of strategic growth and fundraising prep.
 
-**Tags:** #events #saas #100k-500k #pipeline #growth-2k
+**Industry:** SaaS  
+**MRR:** $100K–$500K  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Events
 
 ---
 
@@ -120,7 +151,11 @@
 
 **Context:** Enterprise customers like Home Depot overwhelming delivery capacity. No professional services team or partner model. $5K-$260K ACV range means wildly different service needs treated identically. Need tiered service model but product backlog is also "busting at the seams."
 
-**Tags:** #events #saas #100k-500k #pipeline #growth-2k
+**Industry:** SaaS  
+**MRR:** $100K–$500K  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Events
 
 ---
 
@@ -130,7 +165,11 @@
 
 **Context:** SaaS and financial metrics trapped in proprietary spreadsheets with 80+ columns. European accounting software (Netwiser), mixed EUR/USD, one-third business in Europe. Needs investor-ready standardized reporting for next funding round.
 
-**Tags:** #events #saas #100k-500k #pipeline #growth-2k
+**Industry:** SaaS  
+**MRR:** $100K–$500K  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Events
 
 ---
 
@@ -140,7 +179,10 @@
 
 **Context:** $80K MRR SaaS founder trying to scale handwritten direct mail platform with no real-time metrics, visibility into show rates, or automation. Burning $14K/mo on dev but only pulling $4K MRR from the SaaS product.
 
-**Tags:** #direct-mail #saas #80k-mrr #closed-won #growth-2k
+**Industry:** Direct Mail, SaaS  
+**Outcome:** Closed Won  
+**Tier:** Growth $2K  
+**Other:** 80K Mrr
 
 ---
 
@@ -150,7 +192,10 @@
 
 **Context:** Sales process relies on manual outreach with no measurement. Leads book calls then no-show. No follow-up system to recover them.
 
-**Tags:** #direct-mail #saas #80k-mrr #closed-won #growth-2k
+**Industry:** Direct Mail, SaaS  
+**Outcome:** Closed Won  
+**Tier:** Growth $2K  
+**Other:** 80K Mrr
 
 ---
 
@@ -160,7 +205,10 @@
 
 **Context:** Solo sales hire with no performance visibility and no competitive pressure. Founder has no way to know if the rep is underperforming or if the process is broken.
 
-**Tags:** #direct-mail #saas #80k-mrr #closed-won #growth-2k
+**Industry:** Direct Mail, SaaS  
+**Outcome:** Closed Won  
+**Tier:** Growth $2K  
+**Other:** 80K Mrr
 
 ---
 
@@ -170,7 +218,10 @@
 
 **Context:** Monetization model creates churn and unpredictability. Entrenched competitor has better pricing structure and market dominance.
 
-**Tags:** #direct-mail #saas #80k-mrr #closed-won #growth-2k
+**Industry:** Direct Mail, SaaS  
+**Outcome:** Closed Won  
+**Tier:** Growth $2K  
+**Other:** 80K Mrr
 
 ---
 
@@ -180,7 +231,10 @@
 
 **Context:** Founder-led sales with no repeatable process. Tried outbound, never committed, wasn't successful. No muscle built to scale.
 
-**Tags:** #credit-unions #audit-saas #46k-mrr #pipeline #growth-2k
+**Industry:** Credit Unions  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Audit Saas, 46K Mrr
 
 ---
 
@@ -190,7 +244,10 @@
 
 **Context:** Niche vertical with complex procurement, relationship-driven sales, and pricing compression. Market awareness is the bottleneck.
 
-**Tags:** #credit-unions #audit-saas #46k-mrr #pipeline #growth-2k
+**Industry:** Credit Unions  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Audit Saas, 46K Mrr
 
 ---
 
@@ -200,7 +257,10 @@
 
 **Context:** Profitable but not scaling. Every dollar invested needs to show immediate ROI. Risk-averse on new systems or hires.
 
-**Tags:** #credit-unions #audit-saas #46k-mrr #pipeline #growth-2k
+**Industry:** Credit Unions  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Audit Saas, 46K Mrr
 
 ---
 
@@ -210,7 +270,10 @@
 
 **Context:** 80% bid conversion rate, $5M revenue, zero marketing spend, but bottlenecked by talent acquisition. Leaving revenue on the table every month.
 
-**Tags:** #painting #offline-service #5m-revenue #no-decision #core-1k
+**Industry:** Painting  
+**Outcome:** No Decision  
+**Tier:** Core $1K  
+**Other:** Offline Service, 5M Revenue
 
 ---
 
@@ -220,7 +283,10 @@
 
 **Context:** 37 employees, custom home builder relationships, tracking on Google Sheets + QuickBooks. Founder is the single point of failure.
 
-**Tags:** #painting #offline-service #5m-revenue #no-decision #core-1k
+**Industry:** Painting  
+**Outcome:** No Decision  
+**Tier:** Core $1K  
+**Other:** Offline Service, 5M Revenue
 
 ---
 
@@ -230,7 +296,10 @@
 
 **Context:** High-intent inbound demand from referral network but no speed-to-lead system, no CRM, no follow-up automation.
 
-**Tags:** #painting #offline-service #5m-revenue #no-decision #core-1k
+**Industry:** Painting  
+**Outcome:** No Decision  
+**Tier:** Core $1K  
+**Other:** Offline Service, 5M Revenue
 
 ---
 
@@ -240,7 +309,11 @@
 
 **Context:** Old SaaS Academy lead, running events platform. No qualification performed on the call. Growth Session booked for 3/24 but AE will walk in blind.
 
-**Tags:** #running-events #saas #industry-unknown #mrr-unknown #pipeline #growth-2k
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Running Events, Industry Unknown
 
 ---
 
@@ -250,7 +323,11 @@
 
 **Context:** Old SaaS Academy lead. Ran an agency in the past. SDR pitched features instead of asking questions. No roadblock surfaced.
 
-**Tags:** #agency #industry-unknown #mrr-unknown #closed-lost #tier-unknown
+**Industry:** Agency  
+**MRR:** Unknown  
+**Outcome:** Closed Lost  
+**Tier:** Unknown  
+**Other:** Industry Unknown
 
 ---
 
@@ -260,7 +337,10 @@
 
 **Context:** Ecommerce operator ($1M/mo B2B arm, several hundred million ecomm) running EOS framework manually. Data quality is garbage because humans are entering it. Metrics they're tracking are unreliable.
 
-**Tags:** #ecommerce #b2b-services #1m-mrr #pipeline #growth-2k
+**Industry:** eCommerce  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** B2B Services, 1M Mrr
 
 ---
 
@@ -270,7 +350,10 @@
 
 **Context:** 8-10 closers on the team, multiple ad channels (Meta, Google, cold calling), multiple payment processors (Stripe, Easy Pay Direct, bank transfers). Every metric has to be manually compiled. The operational tax is enormous.
 
-**Tags:** #ecommerce #b2b-services #1m-mrr #pipeline #growth-2k
+**Industry:** eCommerce  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** B2B Services, 1M Mrr
 
 ---
 
@@ -280,7 +363,10 @@
 
 **Context:** Already running EOS, knows they need help, but balking at the cost of a dedicated EOS implementer. Precision positioned as the automated + coached alternative. This is a classic "build vs buy" tension.
 
-**Tags:** #ecommerce #b2b-services #1m-mrr #pipeline #growth-2k
+**Industry:** eCommerce  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** B2B Services, 1M Mrr
 
 ---
 
@@ -290,7 +376,10 @@
 
 **Context:** Multiple brands, multiple channels, but no single pane of glass. Leadership is making decisions on stale or inaccurate data. Growth target ($1M → $2.5M/mo) requires operational precision they don't have.
 
-**Tags:** #ecommerce #b2b-services #1m-mrr #pipeline #growth-2k
+**Industry:** eCommerce  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** B2B Services, 1M Mrr
 
 ---
 
@@ -300,7 +389,9 @@
 
 **Context:** Franchise owner (4 locations) running cleaning, power washing, Christmas lights. Tool fatigue - signing up for solutions but can't keep track of what they do. Active buyer but overwhelmed by options.
 
-**Tags:** #franchise #cleaning-services #1m-target #pipeline #tier-unknown
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** Franchise, Cleaning Services, 1M Target
 
 ---
 
@@ -310,7 +401,9 @@
 
 **Context:** Has Salesforce + Tableau with massive data but relies on a VA to manually pull key stats into spreadsheets. The tools exist but the insight layer is manual and fragile. Classic "data rich, insight poor" situation.
 
-**Tags:** #franchise #cleaning-services #1m-target #pipeline #tier-unknown
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** Franchise, Cleaning Services, 1M Target
 
 ---
 
@@ -320,7 +413,9 @@
 
 **Context:** Service business with constant turnover. Hiring and training is a perpetual drain that competes with growth initiatives for attention and resources.
 
-**Tags:** #franchise #cleaning-services #1m-target #pipeline #tier-unknown
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** Franchise, Cleaning Services, 1M Target
 
 ---
 
@@ -330,7 +425,9 @@
 
 **Context:** Performance coaching company in German market, €50-55K MRR, ~€600K last year. Founder has scaled entirely on gut instinct with zero data infrastructure. Now hitting the classic 50K plateau where intuition stops working.
 
-**Tags:** #coaching #performance #german-market #50k-mrr #pipeline #core-1k
+**Outcome:** In Pipeline  
+**Tier:** Core $1K  
+**Other:** Coaching, Performance, German Market, 50K Mrr
 
 ---
 
@@ -340,7 +437,9 @@
 
 **Context:** Marc flagged a sales problem but Joe never drilled into specifics - what's the sales problem exactly? Low show rates? Close rates? Pipeline volume? Lead quality? This was left completely unexplored. The vagueness is itself a tell: Marc doesn't even know what's broken because he has no data.
 
-**Tags:** #coaching #performance #german-market #50k-mrr #pipeline #core-1k
+**Outcome:** In Pipeline  
+**Tier:** Core $1K  
+**Other:** Coaching, Performance, German Market, 50K Mrr
 
 ---
 
@@ -350,7 +449,9 @@
 
 **Context:** Classic founder-dependent business. Marc is the bottleneck - everything runs through him. Wants to build systems that operate independently. Building an Airtable ecosystem for fulfillment, sales, marketing, and financial data but it's still fragmented.
 
-**Tags:** #coaching #performance #german-market #50k-mrr #pipeline #core-1k
+**Outcome:** In Pipeline  
+**Tier:** Core $1K  
+**Other:** Coaching, Performance, German Market, 50K Mrr
 
 ---
 
@@ -360,7 +461,10 @@
 
 **Context:** B2B SaaS founder (~$12K MRR, 30-35 clients) with data in 7-8 different tools (Meta, Google Ads, Close CRM, Stripe, PostHog, Clerk, ClickFunnels, Framer). Tried building a master spreadsheet in Google Sheets but hit the classic maintenance nightmare. Saw Precision ads and thought "this might make sense instead of trying to make this sheet work with the VA."
 
-**Tags:** #saas #b2b #objection-handling #12k-mrr #pipeline #growth-2k
+**Industry:** SaaS  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** B2B, Objection Handling, 12K Mrr
 
 ---
 
@@ -370,7 +474,10 @@
 
 **Context:** Churn spiked from 11% → 29% after hiring founding head of CS in January. Now ~20% after some fixes. Garrett is "pretty heavily contemplating firing" him. The math: 20% monthly churn = turning over your entire client base every 5 months. For a $12K MRR company growing fast, this is an existential threat.
 
-**Tags:** #saas #b2b #objection-handling #12k-mrr #pipeline #growth-2k
+**Industry:** SaaS  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** B2B, Objection Handling, 12K Mrr
 
 ---
 
@@ -380,7 +487,10 @@
 
 **Context:** PLG self-serve motion across all pricing tiers ($23-$938/mo). Getting clicks/traffic but only 2% convert to account creation. Higher tiers ($588+/mo) see even lower self-serve conversion. Now pivoting to ads for demo booking + annual selling to make unit economics work.
 
-**Tags:** #saas #b2b #objection-handling #12k-mrr #pipeline #growth-2k
+**Industry:** SaaS  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** B2B, Objection Handling, 12K Mrr
 
 ---
 
@@ -390,7 +500,11 @@
 
 **Context:** SDR cold call. Garrett mentioned data scattered across PostHog, Clerk, HighRise, Cortana, Google Ads, and Meta - too many platforms, can't trust any of them. JC paraphrased as "single source of truth" but didn't probe deeper into the impact on decision-making or business outcomes. This was the richest moment on the call and it was left completely unexplored.
 
-**Tags:** #saas #b2b #objection-handling #under-50k #pipeline #tier-unknown
+**Industry:** SaaS  
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** B2B, Objection Handling
 
 ---
 
@@ -400,7 +514,11 @@
 
 **Context:** Garrett self-reported being under the Precision revenue threshold. Sold previous company and raised money for Objectionly - early-stage startup. JC brushed this off ("things are changing constantly, sometimes our form can't keep up") instead of properly qualifying or DQ'ing. Growth Session booked without revenue qualification.
 
-**Tags:** #saas #b2b #objection-handling #under-50k #pipeline #tier-unknown
+**Industry:** SaaS  
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** B2B, Objection Handling
 
 ---
 
@@ -410,7 +528,10 @@
 
 **Context:** Pre-revenue AI consulting startup. Therrance is transitioning from employed sales rep to founder. Knows how to close but doesn't know how to fill the funnel. Building funnels, Google Ads, landing pages from scratch.
 
-**Tags:** #ai-consulting #under-50k #pipeline #core-1k
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Core $1K  
+**Other:** Ai Consulting
 
 ---
 
@@ -420,7 +541,10 @@
 
 **Context:** Just invested in a Mac Mini, learning tech tools, building out his service offering. Still in the "spending money before making money" phase. Budget-conscious - "the thousand would hurt right now."
 
-**Tags:** #ai-consulting #under-50k #pipeline #core-1k
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Core $1K  
+**Other:** Ai Consulting
 
 ---
 
@@ -430,7 +554,10 @@
 
 **Context:** Therrance has the sales skills but is teaching himself the tech stack from zero. This is classic "founder doing everything" friction.
 
-**Tags:** #ai-consulting #under-50k #pipeline #core-1k
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Core $1K  
+**Other:** Ai Consulting
 
 ---
 
@@ -440,7 +567,10 @@
 
 **Context:** Voice solutions company trying to sell more. Roman knows the offer isn't differentiated enough. Looking for what separates them from every other voice solutions provider.
 
-**Tags:** #voice-solutions #mrr-unknown #pipeline #tier-unknown
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** Voice Solutions
 
 ---
 
@@ -450,7 +580,10 @@
 
 **Context:** 10-person company growing fast with no systems. Downloaded weekly sync template. Classic scaling pain - revenue growing but ops can't keep up.
 
-**Tags:** #industry-unknown #mrr-unknown #pipeline #tier-unknown
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** Industry Unknown
 
 ---
 
@@ -460,7 +593,11 @@
 
 **Context:** Product engineer by trade, acquired Cloud Contractor ($1.5K MRR) and Picture It ($5K MRR). Cloud Contractor requires outbound sales - a completely new skill set for Alex. Has a cold lead list but no system, no scripts, no experience running a full sales cycle.
 
-**Tags:** #saas #marketplace #under-50k #closed-won #growth-2k
+**Industry:** SaaS  
+**MRR:** Under $50K  
+**Outcome:** Closed Won  
+**Tier:** Growth $2K  
+**Other:** Marketplace
 
 ---
 
@@ -470,7 +607,11 @@
 
 **Context:** Lost biggest customer ($1K/mo) due to cost concerns. Now restructuring pricing from monthly subscription to pay-per-lead model (copying competitor/Angie's List model). Has been in build mode for 2 months instead of selling.
 
-**Tags:** #saas #marketplace #under-50k #closed-won #growth-2k
+**Industry:** SaaS  
+**MRR:** Under $50K  
+**Outcome:** Closed Won  
+**Tier:** Growth $2K  
+**Other:** Marketplace
 
 ---
 
@@ -480,7 +621,11 @@
 
 **Context:** Zero inbound motion. Only has a cold list scraped manually. No outbound system, no lead magnets, no automation. Home service business marketplace - needs contractors to adopt the platform but has no way to get them on demos.
 
-**Tags:** #saas #marketplace #under-50k #closed-won #growth-2k
+**Industry:** SaaS  
+**MRR:** Under $50K  
+**Outcome:** Closed Won  
+**Tier:** Growth $2K  
+**Other:** Marketplace
 
 ---
 
@@ -490,7 +635,10 @@
 
 **Context:** Online fitness platform, 4,700 subscribers. Hired BI vendor a year ago that still hasn't delivered. Can't attribute marketing spend to results.
 
-**Tags:** #fitness #d2c #50k-100k #pipeline #core-1k
+**MRR:** $50K–$100K  
+**Outcome:** In Pipeline  
+**Tier:** Core $1K  
+**Other:** Fitness, D2C
 
 ---
 
@@ -500,7 +648,10 @@
 
 **Context:** Construction startup in Quebec, $200K forecast, first year. Jonathan handles everything alone.
 
-**Tags:** #construction #under-50k #pipeline #core-1k
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Core $1K  
+**Other:** Construction
 
 ---
 
@@ -510,7 +661,8 @@
 
 **Context:** Unknown industry, unknown revenue, unknown challenges. Previous outreach via SAS Academy. Complete information gap.
 
-**Tags:** #unknown #unknown-mrr #no-next-step #unknown-tier
+**Outcome:** No Next Step  
+**Other:** Unknown, Unknown Mrr, Unknown Tier
 
 ---
 
@@ -520,7 +672,7 @@
 
 **Context:** Briq. No information gathered beyond callback commitment.
 
-**Tags:** #unknown #unknown-mrr #callback #unknown-tier
+**Other:** Unknown, Unknown Mrr, Callback, Unknown Tier
 
 ---
 
@@ -530,7 +682,11 @@
 
 **Context:** SDR cold call. Scott runs Analyst1 (insider security SaaS) out of Northern Virginia. Previously tried a founder group but had a terrible experience — "there was clearly somebody who was a plant, and everybody else was gone." Also was a Gartner customer and felt bait-and-switched. Trust is low. Wants proof any advisory relationship delivers real value before investing.
 
-**Tags:** #cybersecurity #saas #mrr-unknown #pipeline #tier-unknown
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** Cybersecurity
 
 ---
 
@@ -540,7 +696,11 @@
 
 **Context:** JC quoted $12K/year investment. Scott's response was immediate resistance based on past negative experiences. He's been burned before and needs evidence this is different. JC didn't probe deeper into what "worth it" would look like.
 
-**Tags:** #cybersecurity #saas #mrr-unknown #pipeline #tier-unknown
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** Cybersecurity
 
 ---
 
@@ -550,7 +710,10 @@
 
 **Context:** SDR cold call. Brian is a department leader (not founder) at Audience, a SaaS company. They did a full process overhaul — new head of product, new head of sales, weekly/monthly meetings revamped. Still struggling with KPI alignment and cross-department silos. Brian also mentioned "company hat vs. department hat" problem. Has existing mentors and coaches.
 
-**Tags:** #saas #mrr-unknown #pipeline #tier-unknown
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Unknown
 
 ---
 
@@ -560,7 +723,10 @@
 
 **Context:** Classic scaling pain — teams optimizing locally instead of globally. Brian recognizes it but hasn't solved it despite the org overhaul. Multiple new leaders brought in, some pushed out, but cultural alignment still lagging.
 
-**Tags:** #saas #mrr-unknown #pipeline #tier-unknown
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Unknown
 
 ---
 
@@ -570,7 +736,10 @@
 
 **Context:** SDR callback. Einar is a SaaS founder launching a new product that "replaces some existing products" — described it as a "rebirth." Launching in ~2 weeks. Too overwhelmed to engage on advisory services. The transition itself IS the roadblock — rebuilding while running the existing business.
 
-**Tags:** #saas #mrr-unknown #callback #tier-unknown
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Tier:** Unknown  
+**Other:** Callback
 
 ---
 
@@ -580,7 +749,10 @@
 
 **Context:** Einar is feeling the pressure of AI/market shifts forcing a complete product rethink. Not just iterating — launching a "whole separate different company." This suggests the existing product may be losing relevance and Einar is racing to reinvent before the market moves past him.
 
-**Tags:** #saas #mrr-unknown #callback #tier-unknown
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Tier:** Unknown  
+**Other:** Callback
 
 ---
 
@@ -596,7 +768,10 @@
 
 **Context:** UK B2B chemicals/refinish distributor. 10 years of stagnant growth; market declined 20%, GAVBIZ at -9%. Owner wants to double business in 3 years but team capacity is maxed out, systems are fragmented, and marketing is insufficient.
 
-**Tags:** #chemicals #b2b-distribution #500k-plus #pipeline #growth-2k
+**MRR:** $500K+  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Chemicals, B2B Distribution
 
 ---
 
@@ -606,7 +781,10 @@
 
 **Context:** Data is fragmented across multiple systems with manual exports required. Piotr wants AI-driven real-time visibility but can't get it with current setup. He's even building his own BI tools as a stopgap.
 
-**Tags:** #chemicals #b2b-distribution #500k-plus #pipeline #growth-2k
+**MRR:** $500K+  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Chemicals, B2B Distribution
 
 ---
 
@@ -616,7 +794,10 @@
 
 **Context:** UK field sales team has no route optimization system. Reps travel inefficiently across the country. Piotr identified this as a key bottleneck to scaling without adding headcount.
 
-**Tags:** #chemicals #b2b-distribution #500k-plus #pipeline #growth-2k
+**MRR:** $500K+  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Chemicals, B2B Distribution
 
 ### Scott Messick — Analyst1 — 2026-03-26 (AE Growth Session)
 **Context:** $11.5M ARR cybersecurity SaaS, bootstrapped, co-founded by software engineers. No board, no advisors.
@@ -637,7 +818,11 @@
 
 **Context:** $11.5M ARR cybersecurity SaaS. Bootstrap, no investors, no board. Team of 4 AEs, 2 SEs, 2 BDRs, marketing team. Recently hired new CRO but not yet at predictable pipeline. Joe didn't BAMFAM — call ended without a calendared next step.
 
-**Tags:** #cybersecurity #saas #500k-plus #pipeline #growth-2k
+**Industry:** SaaS  
+**MRR:** $500K+  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Cybersecurity
 
 ---
 
@@ -652,7 +837,11 @@
 
 **Context:** $250K ARR event advertising platform for marathons. 1 closer + 1 SDR. Month-to-month on payroll. Joe surfaced the wait list idea as expansion revenue which Greg loved. BAMFAM'd for Fri 3/28 at 3:30 PM.
 
-**Tags:** #events #saas #under-50k #pipeline #core-1k
+**Industry:** SaaS  
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Core $1K  
+**Other:** Events
 
 ---
 
@@ -662,7 +851,10 @@
 
 **Context:** SaaS founder/CTO wearing too many hats — running product, engineering, AND operations with no dedicated operator. Sales and marketing exist but no one connecting the dots operationally.
 
-**Tags:** #saas #mrr-unknown #pipeline #tier-unknown
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Unknown
 
 ---
 
@@ -681,7 +873,9 @@
 
 **Missed Opportunity:** JC should have broken the loop by reframing: "Peter, you just told me the reason your budget is tight is because your sales and marketing aren't producing. That's EXACTLY what we fix. If we solve that problem, does the budget constraint solve itself?" Instead, JC folded: "No worries, I understand."
 
-**Tags:** #saas #agency #under-100k-revenue #no-meeting #tier-unknown #budget-objection #sales-team-struggle
+**Industry:** SaaS, Agency  
+**Tier:** Unknown  
+**Other:** Under 100K Revenue, No Meeting, Budget Objection, Sales Team Struggle
 
 ---
 
@@ -691,7 +885,11 @@
 
 **Context:** Haley is a founding CSM in her second week at an early-stage SaaS company transitioning from venue operator to software business. No existing CRM or customer success infrastructure. Data scattered across multiple disconnected tools.
 
-**Tags:** #saas #sports-tech #under-50k #pipeline #growth-2k
+**Industry:** SaaS  
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Sports Tech
 
 ---
 
@@ -701,7 +899,11 @@
 
 **Context:** Second week as founding CSM, still discovering data sources and customer success needs. Company is transitioning business model from venue operator to SaaS. Needs stabilization before proactive customer success can happen.
 
-**Tags:** #saas #sports-tech #under-50k #pipeline #growth-2k
+**Industry:** SaaS  
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Sports Tech
 
 ---
 
@@ -711,7 +913,11 @@
 
 **Context:** Company is in transition from physical venue operator to SaaS company. Founding CSM recognizes the organization needs cultural and operational realignment to support a SaaS model, but there's no clear roadmap.
 
-**Tags:** #saas #sports-tech #under-50k #pipeline #growth-2k
+**Industry:** SaaS  
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Sports Tech
 
 ---
 
@@ -721,7 +927,11 @@
 
 **Context:** Haley is outcomes-driven but has no infrastructure to actually track or prove outcomes to clients. She wants to be proactive and metrics-driven but is currently firefighting without visibility.
 
-**Tags:** #saas #sports-tech #under-50k #pipeline #growth-2k
+**Industry:** SaaS  
+**MRR:** Under $50K  
+**Outcome:** In Pipeline  
+**Tier:** Growth $2K  
+**Other:** Sports Tech
 
 
 ---
@@ -732,7 +942,10 @@
 
 **Context:** Roman has been in business 30 years (10 in MRR model), currently at $36K MRR. Hiring mistakes have been a recurring pattern that slows scaling.
 
-**Tags:** #voip #telecom #under-50k #closed-won #core-1k
+**MRR:** Under $50K  
+**Outcome:** Closed Won  
+**Tier:** Core $1K  
+**Other:** Voip, Telecom
 
 ---
 
@@ -740,7 +953,10 @@
 
 **Context:** Classic founder bottleneck. Roman is the business — every function runs through him, leaving zero capacity for strategic work or scaling.
 
-**Tags:** #voip #telecom #under-50k #closed-won #core-1k
+**MRR:** Under $50K  
+**Outcome:** Closed Won  
+**Tier:** Core $1K  
+**Other:** Voip, Telecom
 
 ---
 
@@ -748,7 +964,10 @@
 
 **Context:** Roman knows what needs to happen (pipeline, sales process, hiring, project management) but can't prioritize across all fronts simultaneously. Too many things competing for attention.
 
-**Tags:** #voip #telecom #under-50k #closed-won #core-1k
+**MRR:** Under $50K  
+**Outcome:** Closed Won  
+**Tier:** Core $1K  
+**Other:** Voip, Telecom
 
 ---
 
@@ -765,7 +984,10 @@
 
 **Roadblock 4:** "Shiny object syndrome" risk — tendency to deviate from strategies before they compound.
 
-**Tags:** #credit-repair #saas #25k-mrr #closed-won #core-1k #wrong-hires #no-process
+**Industry:** SaaS  
+**Outcome:** Closed Won  
+**Tier:** Core $1K  
+**Other:** Credit Repair, 25K Mrr, Wrong Hires, No Process
 
 ### Khabir Muhammad — Creditfixrr — 2026-03-30
 
@@ -773,7 +995,10 @@
 
 **Context:** CEO/Founder of credit repair SaaS. Rebook call. Voluntarily flagged operational overload as the main bottleneck to growth.
 
-**Tags:** #credit-repair #financial-services #mrr-unknown #pipeline #tier-unknown
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** Credit Repair, Financial Services
 
 ---
 
@@ -781,7 +1006,9 @@
 
 **Context:** Khabir is trying to scale but lacks the hiring/team systems to do it. Not an execution problem — a team-building problem.
 
-**Tags:** #credit-repair #financial-services #mrr-unknown #pipeline
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Other:** Credit Repair, Financial Services
 
 ---
 
@@ -789,7 +1016,9 @@
 
 **Context:** Cost sensitivity is the #1 flagged concern. He didn't say "I can't afford it" — he said he wants ROI clarity before investing. Classic cost-consciousness from a bootstrapped founder. This was NOT probed by the SDR — Joe needs to address it cold in the growth session.
 
-**Tags:** #credit-repair #financial-services #mrr-unknown #pipeline #cost-sensitive
+**MRR:** Unknown  
+**Outcome:** In Pipeline  
+**Other:** Credit Repair, Financial Services, Cost Sensitive
 
 
 ---
@@ -800,7 +1029,9 @@
 
 **Context:** Jordan had previously invested in another dashboard/data company but it failed to deliver ROI. They were trying to replicate database copies instead of native integrations, leading to stale data. This pushed Studio SWEAT to switch to Precision.
 
-**Tags:** #fitness #subscription #mrr-unknown #closed-won #failed-previous-solution
+**MRR:** Unknown  
+**Outcome:** Closed Won  
+**Other:** Fitness, Subscription, Failed Previous Solution
 
 ---
 
@@ -808,7 +1039,9 @@
 
 **Context:** Studio SWEAT is entering a profit-sharing partnership where another company handles sales and coaching for leads Studio SWEAT generates. Jordan has zero visibility into lead progression, close rates, or deal sizes once leads are handed off.
 
-**Tags:** #fitness #subscription #mrr-unknown #closed-won #outsourced-sales #partner-visibility
+**MRR:** Unknown  
+**Outcome:** Closed Won  
+**Other:** Fitness, Subscription, Outsourced Sales, Partner Visibility
 
 ---
 
@@ -816,7 +1049,9 @@
 
 **Context:** Previous dashboard vendor couldn't integrate properly — replicated database copies meant data was never current, automation couldn't work, and the whole system was unreliable. This was the technical breaking point.
 
-**Tags:** #fitness #subscription #mrr-unknown #closed-won #tech-integration-failure
+**MRR:** Unknown  
+**Outcome:** Closed Won  
+**Other:** Fitness, Subscription, Tech Integration Failure
 
 ---
 
@@ -826,7 +1061,9 @@
 
 **Context:** Existing SaaS Academy customer (Growth Accelerator tier) frustrated with the course-based model. Wants direct coaching, not pre-recorded content. Transitioned to Precision Core during this period.
 
-**Tags:** #saas #coaching-model #mrr-unknown #existing-customer #dissatisfied
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Other:** Coaching Model, Existing Customer, Dissatisfied
 
 ---
 
@@ -834,7 +1071,9 @@
 
 **Context:** Clear preference for direct, candid, 1:1 coaching over course content. Self-described "different personality" that wants blunt feedback. This is exactly Precision's 1:1 coaching product.
 
-**Tags:** #saas #coaching-model #mrr-unknown #existing-customer #1to1-coaching-desire
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Other:** Coaching Model, Existing Customer, 1To1 Coaching Desire
 
 ---
 
@@ -842,7 +1081,9 @@
 
 **Context:** Felt misled by SaaS Academy's marketing — Dan Martell's face was on everything but customers never interacted with him directly. Trust issue around leadership access. Contrast: Steve specifically said "I really like Matt" about Matt Verlach and asked if he'd get exposure to Matt at Precision.
 
-**Tags:** #saas #trust-gap #leadership-access #mrr-unknown #existing-customer
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Other:** Trust Gap, Leadership Access, Existing Customer
 
 ---
 
@@ -852,7 +1093,7 @@
 
 **Context:** Nonprofit COO running 23 programs with 30 staff. They know they're leaving funding on the table because they can't translate ground-level impact into metrics that donors and grant-makers care about. Revenue: $4.2-4.8M, 167% growth in 4.5 years. DQ'd — nonprofit, not sales-led.
 
-**Tags:** #nonprofit #data-reporting #mrr-4M+ #dq #under-reporting
+**Other:** Nonprofit, Data Reporting, Mrr 4M, Dq, Under Reporting
 
 ---
 
@@ -860,7 +1101,7 @@
 
 **Context:** Fundamental tension between community impact work and funder expectations. Nick is keenly aware that the people with funding don't understand the work, and the reporting gap means less philanthropic investment.
 
-**Tags:** #nonprofit #funder-translation #mrr-4M+ #dq #impact-metrics
+**Other:** Nonprofit, Funder Translation, Mrr 4M, Dq, Impact Metrics
 
 ---
 
@@ -868,7 +1109,7 @@
 
 **Context:** On their current tech stack (Microsoft 365 + Asana). Knows tools are there but doubts they're optimized. Looking for something that can unify all departments.
 
-**Tags:** #nonprofit #tool-utilization #mrr-4M+ #dq #asana #microsoft-365
+**Other:** Nonprofit, Tool Utilization, Mrr 4M, Dq, Asana, Microsoft 365
 
 ### Constantine Kyrou — Nautilus AV — 2026-04-01
 
@@ -876,7 +1117,9 @@
 
 **Context:** AV installation founder in buildup phase. Paid $15K out of pocket for Bedros Kulian's Syndicate Scale program to structure offers and company positioning before investing in visibility/marketing. Feels he needs "the foundation" before "putting up the drapes."
 
-**Tags:** #av-installation #pre-revenue #timing-stall #tier-unknown
+**MRR:** Pre-Revenue  
+**Tier:** Unknown  
+**Other:** Av Installation, Timing Stall
 
 ---
 
@@ -884,7 +1127,9 @@
 
 **Context:** Already committed $15K personal funds to business coaching. Budget is a real constraint — money is coming from personal savings, not company revenue. Wants Precision but capital is tight.
 
-**Tags:** #av-installation #budget-constraint #pre-revenue #tier-unknown
+**MRR:** Pre-Revenue  
+**Tier:** Unknown  
+**Other:** Av Installation, Budget Constraint
 
 ### Todd Dawson — IdealTraits Inc — 2026-04-02
 
@@ -892,7 +1137,9 @@
 
 **Context:** Prospect had a prior SaaS Academy inquiry. Had a meeting with SaaS Academy the same day JC called. Shopping for marketing help, not a coaching/operating system. Not yet aware of Precision's expanded offering.
 
-**Tags:** #saas #hrtech #marketing-need #callback-lead #tier-unknown
+**Industry:** SaaS  
+**Tier:** Unknown  
+**Other:** Hrtech, Marketing Need, Callback Lead
 
 ---
 
@@ -900,7 +1147,8 @@
 
 **Context:** Actively evaluating SaaS Academy on the same day. Decision process requires business partner alignment. Timing was genuinely premature — JC called mid-evaluation cycle.
 
-**Tags:** #saas #hrtech #decision-committee #timing-objection #callback-lead
+**Industry:** SaaS  
+**Other:** Hrtech, Decision Committee, Timing Objection, Callback Lead
 
 ---
 
@@ -910,7 +1158,8 @@
 
 **Context:** Self-built GHL dashboard tracking funnel conversions by acquisition channel — missing AI analysis layer and ad spend metrics.
 
-**Tags:** #ai-consulting #mrr-100k #data-visibility #agency
+**Industry:** Agency  
+**Other:** Ai Consulting, Mrr 100K, Data Visibility
 
 ---
 
@@ -918,7 +1167,8 @@
 
 **Context:** Non-technical founding team forced one partner to become their accidental dashboard dev — creating maintenance burden and development bottleneck.
 
-**Tags:** #ai-consulting #non-technical-team #dev-bottleneck #agency
+**Industry:** Agency  
+**Other:** Ai Consulting, Non Technical Team, Dev Bottleneck
 
 ---
 
@@ -926,7 +1176,8 @@
 
 **Context:** AI consulting firm trying to sell business intelligence to clients who don't yet track metrics — needs Precision to be the proof-of-concept and their own tool first.
 
-**Tags:** #ai-consulting #client-readiness #mrr-100k #agency
+**Industry:** Agency  
+**Other:** Ai Consulting, Client Readiness, Mrr 100K
 
 ---
 
@@ -936,7 +1187,8 @@
 
 **Context:** eCommerce pet brand spending $1M+ in ad spend with no attribution clarity. Laid off 8 of 13 employees. Trying to refocus on data-driven channel strategy. Anti-ICP (eCommerce) — DQ'd.
 
-**Tags:** #ecommerce #data-visibility #no-attribution #mrr-3-10M
+**Industry:** eCommerce  
+**Other:** Data Visibility, No Attribution, Mrr 3 10M
 
 ---
 
@@ -944,7 +1196,8 @@
 
 **Context:** Post-restructuring pivot from 13 to 5 employees, looking for metrics frameworks to rebuild with. DQ'd (eCommerce).
 
-**Tags:** #ecommerce #metrics #kpis #mrr-3-10M
+**Industry:** eCommerce  
+**Other:** Metrics, Kpis, Mrr 3 10M
 
 
 ---
@@ -955,7 +1208,10 @@
 
 **Context:** Founder of 16-year SaaS company, 20-30% annual growth, on a 2-year exit sprint. Pitched before discovery was done — abstract objection was a direct result of no golden question. SDR booked the meeting anyway but this is a coaching note.
 
-**Tags:** #recruiting-saas #500k-plus #pipeline #tier-unknown
+**MRR:** $500K+  
+**Outcome:** In Pipeline  
+**Tier:** Unknown  
+**Other:** Recruiting Saas
 
 ---
 
@@ -965,7 +1221,8 @@
 
 **Context:** Consulting firm founder frustrated that clients treat strategy as a static document rather than a living, evolving process.
 
-**Tags:** #consulting #services #sub-700k #post-hurricane
+**Industry:** Consulting  
+**Other:** Services, Sub 700K, Post Hurricane
 
 ---
 
@@ -973,7 +1230,8 @@
 
 **Context:** Hurricane Melissa wiped out 50% of monthly revenue in Q4 2025. Clients in renovation/restructuring and don't come back online until June.
 
-**Tags:** #consulting #services #sub-700k #external-disruption #jamaica
+**Industry:** Consulting  
+**Other:** Services, Sub 700K, External Disruption, Jamaica
 
 
 ---
@@ -984,7 +1242,7 @@
 
 **Context:** Founder building a POS + CRM product for the merchant industry. Primary business is Grand Commercial Services (merchant services — offline). Product is pre-launch; in soft launch phase with internal team. Biggest constraint is the technical complexity of designing for a paper-based industry that hasn't been digitized.
 
-**Tags:** #merchant-services #pre-launch #saas-build #offline-to-online #complexity
+**Other:** Merchant Services, Pre Launch, Saas Build, Offline To Online, Complexity
 
 ---
 
@@ -994,7 +1252,9 @@
 
 **Context:** Pre-revenue SaaS (2 months old). Has tried other tools but none gave centralized visibility without a full-time operator to manage them.
 
-**Tags:** #saas #pre-revenue #dashboards #metrics-blind #founder-led
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Dashboards, Metrics Blind, Founder Led
 
 ---
 
@@ -1002,7 +1262,9 @@
 
 **Context:** Team of 5, responsible for their livelihoods. No PNLs, no runway model, no financial clarity. Emotional weight — family/kids dependency mentioned.
 
-**Tags:** #saas #pre-revenue #financial-visibility #runway #team-responsibility
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Financial Visibility, Runway, Team Responsibility
 
 ---
 
@@ -1010,7 +1272,9 @@
 
 **Context:** Knows AI is an opportunity gap but hasn't invested the time. Execution bandwidth is the bottleneck — transitioning out of agency work simultaneously.
 
-**Tags:** #saas #pre-revenue #ai-adoption #bandwidth #execution-gap
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Ai Adoption, Bandwidth, Execution Gap
 
 ---
 
@@ -1020,7 +1284,7 @@
 
 **Context:** Returning prospect (6-month follow-up). Danny (operations) and finance guy need to see the platform before Jim pulls the trigger. Classic authority stall in a post-trauma rebuild context.
 
-**Tags:** #construction #sub-500k-rebuilding #authority #team-buy-in
+**Other:** Construction, Sub 500K Rebuilding, Authority, Team Buy In
 
 ---
 
@@ -1028,7 +1292,7 @@
 
 **Context:** WIP (Work In Progress) billing tracking unresolved for 3+ months. No visibility into project over/under billing. Core operational gap that directly costs revenue.
 
-**Tags:** #construction #sub-500k-rebuilding #data-blind #wip-billing #operations
+**Other:** Construction, Sub 500K Rebuilding, Data Blind, Wip Billing, Operations
 
 ---
 
@@ -1036,7 +1300,7 @@
 
 **Context:** Personal tragedy triggered massive business contraction. Rebuilding from near-shutdown. Team of 8 now, was 50. "Chasing after work" to get back to prior level. Enormous personal resilience — decided not to shut down.
 
-**Tags:** #construction #sub-500k-rebuilding #personal-tragedy #rebuild #resilience
+**Other:** Construction, Sub 500K Rebuilding, Personal Tragedy, Rebuild, Resilience
 
 ---
 
@@ -1046,7 +1310,9 @@
 
 **Context:** Daniel had previously spoken with a different company named "Precision" about AI installation (OpenClaw-type services). Caused brief confusion on the rebook call about whether JC's Precision was sales/coaching or AI tech. JC clarified successfully.
 
-**Tags:** #ai #saas #pipeline #brand-confusion #identity-objection
+**Industry:** AI, SaaS  
+**Outcome:** In Pipeline  
+**Other:** Brand Confusion, Identity Objection
 
 ---
 
@@ -1056,7 +1322,8 @@
 
 **Context:** 3-year-old vendor management SaaS serving UK construction sector via MSP partners. Four-person team. Founders still involved in parent company (Index). Austin is effectively the sole ops/commercial person at Requidex. No defined ICP, vision, or roadmap — causing decision paralysis and slow GTM.
 
-**Tags:** #construction #saas #vendor-management #positioning #icp-clarity #sub-500k
+**Industry:** SaaS  
+**Other:** Construction, Vendor Management, Positioning, Icp Clarity, Sub 500K
 
 ---
 
@@ -1064,7 +1331,8 @@
 
 **Context:** Austin is a single-person bottleneck across all go-to-market and operational functions. Self-rated sales process a 3/10. Company is at early post-product-market-fit but pre-team stage. Classic operator-as-founder-substitute scenario.
 
-**Tags:** #construction #saas #single-person-bottleneck #sales-3-out-of-10 #team-building #sub-500k
+**Industry:** SaaS  
+**Other:** Construction, Single Person Bottleneck, Sales 3 Out Of 10, Team Building, Sub 500K
 
 ---
 
@@ -1072,7 +1340,8 @@
 
 **Context:** Requidex's go-to-market depends on MSP partners who use the platform as a competitive differentiator — meaning Requidex can't leverage client logos or social proof publicly. Creates invisible ceiling on inbound marketing. Also creates channel conflict risk when end-clients want to bypass the MSP.
 
-**Tags:** #construction #saas #channel-conflict #partner-led-gtm #no-social-proof #sub-500k
+**Industry:** SaaS  
+**Other:** Construction, Channel Conflict, Partner Led Gtm, No Social Proof, Sub 500K
 
 ---
 
@@ -1082,7 +1351,7 @@
 
 **Context:** Malik is a photographer/videographer for fitness clients. His main blocker isn't finding clients — it's getting existing clients to show up and create content consistently. Client fatigue with video is killing his output and making delivery inconsistent.
 
-**Tags:** #digital-agency #creative-services #fitness-vertical #sub-500k #delivery-bottleneck
+**Other:** Digital Agency, Creative Services, Fitness Vertical, Sub 500K, Delivery Bottleneck
 
 ---
 
@@ -1090,7 +1359,7 @@
 
 **Context:** Solo operator can't take on more clients without burning out. Has done it before ("I made that mistake"). Intentionally limiting growth because he's the single point of failure in the business.
 
-**Tags:** #digital-agency #solo-operator #capacity-ceiling #sub-500k #lifestyle-risk
+**Other:** Digital Agency, Solo Operator, Capacity Ceiling, Sub 500K, Lifestyle Risk
 
 
 ### Lekan Oganla — Settla Inc — 2026-04-10
@@ -1099,7 +1368,8 @@
 
 **Context:** B2B forex payments company, ~$100K ARR, reactivation call. Despite tools (Clay, Zoho, Just Call), SDRs hitting walls. No data visibility into what's breaking.
 
-**Tags:** #fintech #forex #0-100k-arr #gtm-fix #tier-1
+**Industry:** FinTech  
+**Other:** Forex, 0 100K Arr, Gtm Fix, Tier 1
 
 ---
 
@@ -1107,7 +1377,8 @@
 
 **Context:** Using Clay for lead gen → Zoho import → Just Call for outreach. Zero to very few responses. Stuck in ICP iteration loop, unsure if it's ICP or messaging.
 
-**Tags:** #fintech #outbound #icp-confusion #0-100k-arr #tier-1
+**Industry:** FinTech  
+**Other:** Outbound, Icp Confusion, 0 100K Arr, Tier 1
 
 ---
 
@@ -1115,7 +1386,8 @@
 
 **Context:** CRM (Zoho) not properly set up for cadences. No sales motion framework. Spending more time building infrastructure than selling.
 
-**Tags:** #fintech #crm #no-blueprint #0-100k-arr #tier-1
+**Industry:** FinTech  
+**Other:** Crm, No Blueprint, 0 100K Arr, Tier 1
 
 ---
 
@@ -1125,7 +1397,8 @@
 
 **Context:** Re-engagement call. Had a prior Precision Growth Session in December. Believes Precision = sales tool only. Misses the 360 operational framing. Anti-ICP (commercial electrical contractor) — needs graceful DQ.
 
-**Tags:** #trades #b2b-services #anti-icp #offline-business #product-positioning #500k-plus
+**MRR:** $500K+  
+**Other:** Trades, B2B Services, Anti Icp, Offline Business, Product Positioning
 
 ---
 
@@ -1135,7 +1408,7 @@
 
 **Context:** Inbound content download (weekly sync template). Runs cafes + commercial coffee sales in Winnipeg. Real operational pain around team ownership/accountability but never qualified or closed — call ended with no next step. Possible Anti-ICP (retail cafes = offline) but commercial sales arm unclear.
 
-**Tags:** #retail #coffee #canada #team-accountability #offline-possible #inbound #0-500k
+**Other:** Retail, Coffee, Canada, Team Accountability, Offline Possible, Inbound, 0 500K
 
 ---
 
@@ -1145,7 +1418,7 @@
 
 **Context:** 13-year nonprofit founder restructuring to for-profit to attract investment. West coast facility proven; needs capital to replicate. Depots: 13-17 (Maritimes) + 7 (BC).
 
-**Tags:** #nonprofit #impact #capital-raise #scaling #not-icp
+**Other:** Nonprofit, Impact, Capital Raise, Scaling, Not Icp
 
 ---
 
@@ -1153,7 +1426,7 @@
 
 **Context:** Ocean Legacy's recycled plastic costs 10-15% above virgin plastic pricing. Finding brands willing to pay premium is the core sales challenge. Dozens of brands in pipeline but qualification/capital friction.
 
-**Tags:** #nonprofit #b2b-sales #premium-price #brand-qualification #not-icp
+**Other:** Nonprofit, B2B Sales, Premium Price, Brand Qualification, Not Icp
 
 ---
 
@@ -1163,7 +1436,8 @@
 
 **Context:** ECHOS serves Caribbean hospitality sector. Client SOP compliance is reactive, not proactive. The entire market culture defaults back to old habits post-incident.
 
-**Tags:** #consulting #hospitality #caribbean #sop-accountability #kpi-driven #tier-2
+**Industry:** Consulting  
+**Other:** Hospitality, Caribbean, Sop Accountability, Kpi Driven, Tier 2
 
 ---
 
@@ -1171,7 +1445,8 @@
 
 **Context:** Caribbean hospitality sector is heavily lagging-adopter culture. Hotels compare to larger chains irrelevant to their size. This creates a systemic "wait and see" sales objection ECHOS faces with every client.
 
-**Tags:** #consulting #hospitality #caribbean #lagging-adopter #cultural-resistance #tier-2
+**Industry:** Consulting  
+**Other:** Hospitality, Caribbean, Lagging Adopter, Cultural Resistance, Tier 2
 
 ---
 
@@ -1179,7 +1454,8 @@
 
 **Context:** ECHOS' service ($2-6K/month consulting) requires complex consultative sales to individual hotels. Not a transactional lead gen problem — it's a qualified outreach and discovery problem.
 
-**Tags:** #consulting #hospitality #complex-sales #consultative #lead-qualification #tier-2
+**Industry:** Consulting  
+**Other:** Hospitality, Complex Sales, Consultative, Lead Qualification, Tier 2
 
 ---
 
@@ -1189,7 +1465,8 @@
 
 **Context:** One-species rabbit herd management SaaS. Trial-to-pay conversion improving, churn down, but pricing model is broken as they attempt to expand into a second species. Mid-process with a designer on the UI — strategic/GTM layer is the missing piece.
 
-**Tags:** #saas #pre-scale #pricing #species-expansion #founder-ceo
+**Industry:** SaaS  
+**Other:** Pre Scale, Pricing, Species Expansion, Founder Ceo
 
 ---
 
@@ -1199,7 +1476,8 @@
 
 **Context:** Prior SaaS Academy lead who opted for accelerators instead. Objected to pricing structure and "ownership" of the company. Went to programs that "paid us to do the same thing virtually." Trust/belief objection — not price sensitivity.
 
-**Tags:** #saas #prior-lead #trust-objection #competitor-accelerator
+**Industry:** SaaS  
+**Other:** Prior Lead, Trust Objection, Competitor Accelerator
 
 
 ---
@@ -1210,7 +1488,8 @@
 
 **Context:** AI SaaS co-founder, bootstrapped, 3 clients. Strong product but zero GTM muscle. Tried warm network, ran out of warm leads.
 
-**Tags:** #b2b-saas #pre-revenue #gtm-gap #bootstrapped
+**MRR:** Pre-Revenue  
+**Other:** B2B Saas, Gtm Gap, Bootstrapped
 
 ---
 
@@ -1218,7 +1497,8 @@
 
 **Context:** Warm network exhausted after ~1 year. No cold outbound motion built yet.
 
-**Tags:** #b2b-saas #pre-revenue #lead-gen #warm-network-exhausted
+**MRR:** Pre-Revenue  
+**Other:** B2B Saas, Lead Gen, Warm Network Exhausted
 
 ---
 
@@ -1226,7 +1506,7 @@
 
 **Context:** Self-described medium execution confidence. Works better with accountability and structured frameworks vs figuring things out in a vacuum.
 
-**Tags:** #b2b-saas #accountability #execution-bottleneck #solo-founder-fatigue
+**Other:** B2B Saas, Accountability, Execution Bottleneck, Solo Founder Fatigue
 
 ---
 
@@ -1234,7 +1514,7 @@
 
 **Context:** Skeptical of group coaching model's ability to address specific challenges. Expressed preference for one-on-one but pushed toward group.
 
-**Tags:** #b2b-saas #program-fit #coaching-model-concern
+**Other:** B2B Saas, Program Fit, Coaching Model Concern
 
 ---
 
@@ -1244,13 +1524,13 @@
 
 **Context:** 30-60 days from launch, no GTM plan in place. Two products coming to market simultaneously.
 
-**Tags:** #b2b-saas #pre-launch #gtm #0-to-1
+**Other:** B2B Saas, Pre Launch, Gtm, 0 To 1
 
 **Roadblock:** "The best way to charge for it — we have thrown ideas around but we haven't sat down and set a firm this is how we're going to do it." — Chris (2026-04-14) [A3]
 
 **Context:** Building outdoor lighting CRM + solar measurement app. Pricing models under debate with co-founder. Meeting that weekend to decide.
 
-**Tags:** #b2b-saas #pricing-packaging #pre-launch
+**Other:** B2B Saas, Pricing Packaging, Pre Launch
 
 ---
 
@@ -1260,7 +1540,7 @@
 
 **Context:** Managing inside sales, outside sales, and customer success. Data lives in HubSpot, Elavon (banking partner), and an in-house CRM. No unified dashboard.
 
-**Tags:** #b2b-fintech #payments #revenue-ops #manual-reporting #data-silos
+**Other:** B2B Fintech, Payments, Revenue Ops, Manual Reporting, Data Silos
 
 
 ---
@@ -1271,7 +1551,8 @@
 
 **Context:** Pre-revenue cannabis processing SaaS founder, no SaaS background, launching beta next week. Feels isolated on GTM decisions.
 
-**Tags:** #cannabis-tech #vertical-saas #pre-revenue #founder-led
+**MRR:** Pre-Revenue  
+**Other:** Cannabis Tech, Vertical Saas, Founder Led
 
 ---
 
@@ -1279,7 +1560,8 @@
 
 **Context:** Construction/cannabis operator turned SaaS founder. Has CTO with SaaS background but team lacks GTM/sales expertise entirely.
 
-**Tags:** #cannabis-tech #vertical-saas #pre-revenue #blind-spots
+**MRR:** Pre-Revenue  
+**Other:** Cannabis Tech, Vertical Saas, Blind Spots
 
 ---
 
@@ -1289,7 +1571,8 @@
 
 **Context:** Serial entrepreneur (tried 100 businesses, got to 7). Has pattern of building to launch readiness then losing momentum. Hired bad developer for 2 years before switching to AI approach.
 
-**Tags:** #insurance-saas #state-farm #pre-revenue #zero-to-one-gap
+**MRR:** Pre-Revenue  
+**Other:** Insurance Saas, State Farm, Zero To One Gap
 
 ---
 
@@ -1297,7 +1580,8 @@
 
 **Context:** Has a general business coach but recognizes that SaaS-specific accountability and expertise gap is the specific thing holding him back. Consciously shopping for that specific thing.
 
-**Tags:** #insurance-saas #state-farm #pre-revenue #accountability
+**MRR:** Pre-Revenue  
+**Other:** Insurance Saas, State Farm, Accountability
 
 
 ---
@@ -1308,7 +1592,10 @@
 
 **Context:** Vibe Coder with multiple AI projects, including a dental reception SaaS and a "big one." All work is on a single machine he doesn't currently have access to. Roadblock is operational constraint (single machine, dependent setup), not lack of vision or desire. He "just got past some very big roadblocks" and is ready to start implementing. Pre-market, no active revenue yet.
 
-**Tags:** #ai #vibe-coder #pre-revenue #booked #tier-unknown
+**Industry:** AI  
+**MRR:** Pre-Revenue  
+**Tier:** Unknown  
+**Other:** Vibe Coder, Booked
 
 ---
 
@@ -1318,7 +1605,10 @@
 
 **Context:** Vague about specifics ("I don't really like to discuss the details of them too much") but clearly has been in a stall period. Now ready to move. First-time founder building AI services without a business entity yet (no business number, no legal structure). Roadblocks cleared — next phase is implementing and getting to market.
 
-**Tags:** #ai #vibe-coder #pre-revenue #booked #tier-unknown
+**Industry:** AI  
+**MRR:** Pre-Revenue  
+**Tier:** Unknown  
+**Other:** Vibe Coder, Booked
 
 ---
 
@@ -1328,7 +1618,10 @@
 
 **Context:** Business consultant (UI/UX architecture) frustrated by cross-platform friction. Has been thinking about this for nearly 10 years. Wants to automate administrative tasks that are "neither creative nor revenue generating" so time can go toward billable, high-value work. Downloaded Precision's master prompt generator as an exploratory step.
 
-**Tags:** #consulting #ui-ux #no-next-step #tier-unknown
+**Industry:** Consulting  
+**Outcome:** No Next Step  
+**Tier:** Unknown  
+**Other:** Ui Ux
 
 ---
 
@@ -1338,7 +1631,10 @@
 
 **Context:** Deep-seated systems frustration from someone with Defense Department background and technical literacy. This isn't a simple "I need a tool" — it's a philosophy-level frustration with how technology serves humans. High propensity to engage with AI solutions, but also high standards and skepticism about AI output quality. "My expectations with AI are not for high quality output."
 
-**Tags:** #consulting #ui-ux #no-next-step #tier-unknown
+**Industry:** Consulting  
+**Outcome:** No Next Step  
+**Tier:** Unknown  
+**Other:** Ui Ux
 
 
 ---
@@ -1349,7 +1645,7 @@
 
 **Context:** 21-year-old non-technical founder with a SaaS idea, zero product, zero revenue. Just secured a developer the morning of the call. Came from sales/info marketing background. Aware of Precision via ChatGPT research. Primary challenge: zero SaaS experience + zero technical background entering a field that requires both.
 
-**Tags:** #pre-launch #non-technical #zero-mrr #inbound #tier-core
+**Other:** Pre Launch, Non Technical, Zero Mrr, Inbound, Tier Core
 
 ---
 
@@ -1359,7 +1655,8 @@
 
 **Context:** Financial constraint. Omar has $10K in available capital but no revenue. His only runway is that $10K — making a $12K annual commitment high-risk. Budget objection surfaced naturally, not as an objection but as honest self-disclosure during pricing discussion. Joe correctly advised against putting his only $10K in.
 
-**Tags:** #pre-revenue #budget #inbound #tier-core #financial-constraint
+**MRR:** Pre-Revenue  
+**Other:** Budget, Inbound, Tier Core, Financial Constraint
 
 ---
 
@@ -1369,7 +1666,7 @@
 
 **Context:** Airbnb property manager building a skip-trace + auto-outreach MVP. Developer went rogue: told to build base feature only, proceeded to merge phase 2, broke the entire app. Non-technical founder with no ability to review or revert the work. Genuine blocker — app is non-functional and the developer relationship may need to end.
 
-**Tags:** #pre-product #developer-risk #non-technical #jc-set #airbnb #tier-none
+**Other:** Pre Product, Developer Risk, Non Technical, Jc Set, Airbnb, Tier None
 
 
 ---
@@ -1380,7 +1677,7 @@
 
 **Context:** Joey builds fully custom ERP systems for SMBs ($500K–$10M range), wrapping software around each client's specific workflow. His technical side is solved (pushed 22 features in one week, zero technical debt). The constraint is customer acquisition: he can't define a vertical to pursue at scale because each client is genuinely different. The pitch is better than competitors but can't be systematized without ICP clarity.
 
-**Tags:** #erp #custom-software #b2b #customer-acquisition #icp-unclear #callback #mrr-unconfirmed
+**Other:** Erp, Custom Software, B2B, Customer Acquisition, Icp Unclear, Callback, Mrr Unconfirmed
 
 ---
 
@@ -1390,7 +1687,9 @@
 
 **Context:** Pre-revenue SaaS founder (7-8 months building) who left real estate to go full-time on StewardPro. Has no runway, no funds, and is seeking a performance-based marketing partnership rather than a paid coaching relationship. Self-aware about his constraint but unable to invest.
 
-**Tags:** #pre-revenue #saas #founder #no-funds #performance-model #callback #dq
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Founder, No Funds, Performance Model, Callback, Dq
 
 
 ---
@@ -1401,7 +1700,8 @@
 
 **Context:** Pre-revenue B2B gamification app (ShiftPlay) targeting L&D/corporate training teams. Lewis is active on LinkedIn but getting zero engagement/traction despite what he believes is quality content.
 
-**Tags:** #b2b-saas #pre-revenue #marketing #linkedin-traction
+**MRR:** Pre-Revenue  
+**Other:** B2B Saas, Marketing, Linkedin Traction
 
 ---
 
@@ -1409,7 +1709,8 @@
 
 **Context:** Founder struggling to articulate the value prop of a corporate training gamification app to someone outside the L&D space. Messaging/positioning is still unsolved.
 
-**Tags:** #b2b-saas #pre-revenue #positioning #messaging
+**MRR:** Pre-Revenue  
+**Other:** B2B Saas, Positioning, Messaging
 
 ---
 
@@ -1419,7 +1720,8 @@
 
 **Context:** 19-year-old founder building a DocuSign+AI competitor while working full-time as SDR at a tech company. No co-founder, no team, bandwidth is the #1 constraint.
 
-**Tags:** #b2b-saas #pre-revenue #solo-founder #bandwidth
+**MRR:** Pre-Revenue  
+**Other:** B2B Saas, Solo Founder, Bandwidth
 
 ---
 
@@ -1427,7 +1729,8 @@
 
 **Context:** Tried Google Ads without dialing in messaging/positioning first. Got no results. Has one paying customer after 3-4 months. Knows his gap but hasn't found a solution.
 
-**Tags:** #b2b-saas #pre-revenue #marketing #paid-ads #google-ads
+**MRR:** Pre-Revenue  
+**Other:** B2B Saas, Marketing, Paid Ads, Google Ads
 
 
 ---
@@ -1438,7 +1741,8 @@
 
 **Context:** Solo founder with 2 large enterprise pilots (crown corp + insurance), exclusively from warm network. Needs cold outreach but has no system.
 
-**Tags:** #b2b-saas #enterprise #pre-revenue #solo-founder
+**MRR:** Pre-Revenue  
+**Other:** B2B Saas, Enterprise, Solo Founder
 
 ---
 
@@ -1446,7 +1750,8 @@
 
 **Context:** Warm network is geo-limited to Canada; needs distribution channels beyond personal relationships to reach US market.
 
-**Tags:** #b2b-saas #enterprise #pre-revenue #solo-founder
+**MRR:** Pre-Revenue  
+**Other:** B2B Saas, Enterprise, Solo Founder
 
 ---
 
@@ -1454,7 +1759,7 @@
 
 **Context:** Still in full-time job. Building solo. Every hour is borrowed time — no leverage, no team, no systems.
 
-**Tags:** #b2b-saas #solo-founder #founder-is-ceiling
+**Other:** B2B Saas, Solo Founder, Founder Is Ceiling
 
 ---
 
@@ -1462,7 +1767,7 @@
 
 **Context:** Sophisticated, AI-aware founder who is skeptical of standard frameworks. Has done competitive research. Specific concern: category creation for an entirely new product type competing with McKinsey/BCG.
 
-**Tags:** #b2b-saas #enterprise #category-creation #ai-native
+**Other:** B2B Saas, Enterprise, Category Creation, Ai Native
 
 
 ### Haroon Naseer — Protego AI — 2026-04-20
@@ -1471,7 +1776,8 @@
 
 **Context:** Pre-launch AI product, self-funded, solo founder. Had submitted a SaaS Academy application but worried Precision was only for more mature companies. JC dispelled this on the call.
 
-**Tags:** #ai-saas #pre-revenue #startup #solo-founder
+**MRR:** Pre-Revenue  
+**Other:** Ai Saas, Startup, Solo Founder
 
 ---
 
@@ -1481,13 +1787,17 @@
 
 **Context:** Building a niche rental SaaS for Quebec landlords, 4 months into development, worried about hitting a growth ceiling before launch. Key tension: ship fast with a half-finished product vs. go all-in and launch right.
 
-**Tags:** #saas #pre-revenue #growth-ceiling #quebec #real-estate-adjacent
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Growth Ceiling, Quebec, Real Estate Adjacent
 
 **Roadblock:** "I had to take a decision like either I could release something quick and do half the job or go quite all in." — Marcelo (2026-04-20) [A2]
 
 **Context:** Classic pre-launch founder paralysis — speed to market vs. product completeness. No framework for making the call.
 
-**Tags:** #saas #pre-revenue #founder-paralysis #go-to-market
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Founder Paralysis, Go To Market
 
 
 ### Joe Garrity — Luminary Ideas — 2026-04-20
@@ -1496,7 +1806,7 @@
 
 **Context:** Pre-launch founder building a lead-recovery platform for roofers. Technical execution was a barrier to standing up his GoHighLevel/Atlas/Zapier stack.
 
-**Tags:** #agency-SaaS #pre-launch #mrr-0 #technical-founder-gap #tier-not-ready
+**Other:** Agency Saas, Pre Launch, Mrr 0, Technical Founder Gap, Tier Not Ready
 
 ---
 
@@ -1504,7 +1814,7 @@
 
 **Context:** Pre-launch overwhelm — building product, target list, and go-to-market simultaneously as a solo founder with no team. Classic founder-is-the-ceiling bottleneck at formation stage.
 
-**Tags:** #agency-SaaS #pre-launch #mrr-0 #founder-overwhelm #solo-founder #tier-not-ready
+**Other:** Agency Saas, Pre Launch, Mrr 0, Founder Overwhelm, Solo Founder, Tier Not Ready
 
 ---
 
@@ -1514,7 +1824,8 @@
 
 **Context:** Real estate agent running Meta ads and using Go High Level as a white-label CRM. Wants data visibility to connect ad performance to conversions, but can't correlate his workflows. Pain is real — but prospect is Anti-ICP (offline non-tech business).
 
-**Tags:** #real-estate #offline-business #anti-ICP #meta-ads #data-visibility #tier-DQ
+**Industry:** Real Estate  
+**Other:** Offline Business, Anti Icp, Meta Ads, Data Visibility, Tier Dq
 
 ---
 
@@ -1522,7 +1833,8 @@
 
 **Context:** Self-described "too busy to optimize" — knows his process has gaps, hasn't fixed them. Classic founder-is-the-bottleneck signal, but in real estate (Anti-ICP).
 
-**Tags:** #real-estate #anti-ICP #founder-overwhelm #no-process #tier-DQ
+**Industry:** Real Estate  
+**Other:** Anti Icp, Founder Overwhelm, No Process, Tier Dq
 
 ---
 
@@ -1532,7 +1844,7 @@
 
 **Context:** VP running operations solo while founder is hands-off with 6 other businesses. Team capacity ceiling is preventing scaling into corporate events.
 
-**Tags:** #events #event-rental #smb #operations #capacity #time-poverty
+**Other:** Events, Event Rental, Smb, Operations, Capacity, Time Poverty
 
 ---
 
@@ -1540,7 +1852,7 @@
 
 **Context:** Manual sales tracking limiting ability to improve conversion rates from 65% to target of 70%. No integrated CRM.
 
-**Tags:** #events #event-rental #smb #sales-process #crm #manual-work
+**Other:** Events, Event Rental, Smb, Sales Process, Crm, Manual Work
 
 ---
 
@@ -1550,7 +1862,9 @@
 
 **Context:** State Farm agent running 7+ businesses while trying to launch SaaS product. Capacity divided between practice and startup.
 
-**Tags:** #saas #pre-revenue #founder #capacity #bandwidth #operator
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Founder, Capacity, Bandwidth, Operator
 
 ---
 
@@ -1560,7 +1874,8 @@
 
 **Context:** Agency at 85% capacity, implementing AI agents to free staff bandwidth. Not urgency to scale — a capacity management problem solved internally.
 
-**Tags:** #agency #local-service #ai #capacity #staff-training #anti-icp
+**Industry:** Agency, AI  
+**Other:** Local Service, Capacity, Staff Training, Anti Icp
 
 ---
 
@@ -1568,7 +1883,8 @@
 
 **Context:** Agency transformation underway — founder led, training-based model. Not a SaaS scaling problem. Staff development is the bottleneck, not operational insight.
 
-**Tags:** #agency #local-service #staff-training #capacity #anti-icp
+**Industry:** Agency  
+**Other:** Local Service, Staff Training, Capacity, Anti Icp
 
 ---
 
@@ -1580,7 +1896,10 @@
 
 **Context:** 15-year bootstrapped hosting/file-sharing B2C SaaS. $150K MRR, profitable, plateau for 2 years. 50% churn on new acquisitions every 3 months. Yuli identified himself as a strategist, not an operator — wants to hire a GM/PM/Tech Lead to run the business autonomously. Came in as an inbound MQL from SaaS Academy brand.
 
-**Tags:** #saas #b2c #hosting #mrr-100k-500k #no-next-step #growth-2k
+**Industry:** SaaS  
+**Outcome:** No Next Step  
+**Tier:** Growth $2K  
+**Other:** B2C, Hosting, Mrr 100K 500K
 
 ---
 
@@ -1590,7 +1909,10 @@
 
 **Context:** Yuli is a strategy-and-leadership founder trapped in day-to-day operations because there's no leadership team. He wants to step back and hire a GM to run the business. Classic founder bottleneck — too small to delegate, not yet big enough to attract senior talent without structured guidance.
 
-**Tags:** #saas #b2c #hosting #mrr-100k-500k #no-next-step #growth-2k
+**Industry:** SaaS  
+**Outcome:** No Next Step  
+**Tier:** Growth $2K  
+**Other:** B2C, Hosting, Mrr 100K 500K
 
 ---
 
@@ -1600,7 +1922,10 @@
 
 **Context:** 50% quarterly churn, no customer interviews, no defined light-bulb moment for new customers. Yuli doesn't know WHY customers churn (cancellation data shows "too expensive" or "not using it" — surface level). Product-led growth with zero human touchpoint. He's outsourcing the discovery work to a future PM hire.
 
-**Tags:** #saas #b2c #hosting #mrr-100k-500k #churn #no-next-step #growth-2k
+**Industry:** SaaS  
+**Outcome:** No Next Step  
+**Tier:** Growth $2K  
+**Other:** B2C, Hosting, Mrr 100K 500K, Churn
 
 ---
 
@@ -1610,7 +1935,11 @@
 
 **Context:** Pre-revenue, pre-launch B2B SaaS for marketing agencies. Eli has the idea and 30 CAB members who've said "yes" but hasn't asked anyone to pay. Built a portion of the MVP with a developer. Burned one month and $2,500 on an ads-only coach that wasn't helpful. Has directional paralysis — doesn't know channel strategy, waitlist building, or launch sequencing.
 
-**Tags:** #saas #b2b #marketing-tech #pre-revenue #pre-launch #closed-won #core-1k
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Outcome:** Closed Won  
+**Tier:** Core $1K  
+**Other:** B2B, Marketing Tech, Pre Launch
 
 ---
 
@@ -1620,7 +1949,11 @@
 
 **Context:** Tried organic social, ran into the same confusion — is it ads, is it social, what's the channel? Previous coach gave bad advice (run ads immediately, pre-MVP). Eli is at the classic pre-launch fork: validate organically vs. paid, and he doesn't have a framework for deciding.
 
-**Tags:** #saas #b2b #marketing-tech #pre-revenue #pre-launch #closed-won #core-1k
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Outcome:** Closed Won  
+**Tier:** Core $1K  
+**Other:** B2B, Marketing Tech, Pre Launch
 
 ### Kam Lal — No Tracks — 2026-04-27
 
@@ -1628,7 +1961,8 @@
 
 **Context:** 5-year-old audio SaaS at sub-$10K MRR; growth has come from uncontrolled channels and he can't reproduce or scale them.
 
-**Tags:** #saas #audio-tech #under-10k-mrr #tier-3
+**Industry:** SaaS  
+**Other:** Audio Tech, Under 10K Mrr, Tier 3
 
 ---
 
@@ -1636,7 +1970,8 @@
 
 **Context:** Founder admits he runs on gut feel, has tools but hasn't done the work to use them for experiment tracking.
 
-**Tags:** #saas #audio-tech #under-10k-mrr #tier-3
+**Industry:** SaaS  
+**Other:** Audio Tech, Under 10K Mrr, Tier 3
 
 ---
 
@@ -1646,7 +1981,7 @@
 
 **Context:** Founder with a few hundred subs, ~5 years in. Testing SEO, ads, outbound simultaneously but has no single analytics layer tying it together. Comes from a self-scheduled book-driven inbound session.
 
-**Tags:** #audio-saas #early-stage-mrr #channel-clarity #no-analytics-visibility
+**Other:** Audio Saas, Early Stage Mrr, Channel Clarity, No Analytics Visibility
 
 ---
 
@@ -1654,7 +1989,7 @@
 
 **Context:** Scattered channel experimentation without mastery. SEO has been best but Kam keeps chasing shiny objects instead of doubling down. The regret about lack of focus is explicitly stated.
 
-**Tags:** #audio-saas #early-stage-mrr #shiny-object-syndrome #channel-mastery
+**Other:** Audio Saas, Early Stage Mrr, Shiny Object Syndrome, Channel Mastery
 
 ---
 
@@ -1662,7 +1997,7 @@
 
 **Context:** The core problem in two sentences: no channel clarity AND no mastery of the channels tested. Five years of scattered experimentation.
 
-**Tags:** #audio-saas #early-stage-mrr #channel-mastery #founder-bottleneck
+**Other:** Audio Saas, Early Stage Mrr, Channel Mastery, Founder Bottleneck
 
 ---
 
@@ -1672,7 +2007,7 @@
 
 **Context:** Police chief building SaaS as side business transitioning to full-time. 1 FT employee as of last week. Can't delegate because everything requires him. Classic founder ceiling pattern.
 
-**Tags:** #niche-b2b-saas #early-revenue #founder-time-trapped #no-metrics-visibility
+**Other:** Niche B2B Saas, Early Revenue, Founder Time Trapped, No Metrics Visibility
 
 ---
 
@@ -1680,7 +2015,7 @@
 
 **Context:** Serial entrepreneur with real experience (software since 1990s, Delta/American Airlines clients) but consistently burned by vendors/contractors. Looking for the "trusted network" component of the program.
 
-**Tags:** #niche-b2b-saas #early-revenue #vendor-risk #trust-building
+**Other:** Niche B2B Saas, Early Revenue, Vendor Risk, Trust Building
 
 ---
 
@@ -1688,7 +2023,7 @@
 
 **Context:** Revenue exists across three streams (consulting, eLearning, DRE RMS) but none connected to a single source of truth. Metrics are tribal knowledge, not systems.
 
-**Tags:** #niche-b2b-saas #multi-stream-revenue #no-metrics-visibility #needs-systems
+**Other:** Niche B2B Saas, Multi Stream Revenue, No Metrics Visibility, Needs Systems
 
 
 ---
@@ -1699,7 +2034,8 @@
 
 **Context:** Two-person SaaS company with payment processor issues and operational overwhelm. Heads-down execution mode, not running the business strategically. Prior SaaS Academy contact who read Software as a Science and raised prices.
 
-**Tags:** #saas #small-team #operator-trap #pre-icp-revenue
+**Industry:** SaaS  
+**Other:** Small Team, Operator Trap, Pre Icp Revenue
 
 ---
 
@@ -1709,7 +2045,8 @@
 
 **Context:** Owner of 120-agent real estate brokerage who recently acquired a SaaS/CRM company. Has operational execution experience but no software sales motion. New to the SaaS business model entirely.
 
-**Tags:** #saas #new-acquisition #no-sales-motion #founder-transition
+**Industry:** SaaS  
+**Other:** New Acquisition, No Sales Motion, Founder Transition
 
 ---
 
@@ -1729,7 +2066,9 @@
 > "Our clients, right? We handle a lot of things for them, but sometimes they'll just be creative... they're like, ooh, I wonder if I can ask AI, you know, how to do this. So then eventually people are now people are thinking like, I can actually optimize my day by using AI instead of actually doing it myself. So then they eventually figure out how they can optimize and drop their assistant as well."
 — Romeo P, Accretion Digital, 2026-04-28 [A3]
 
-**Tags:** #agency #ai-disruption #survival-fear #inbound-mql #no-next-step
+**Industry:** Agency  
+**Outcome:** No Next Step  
+**Other:** Ai Disruption, Survival Fear, Inbound Mql
 
 ---
 
@@ -1764,7 +2103,10 @@
 
 **Context:** Prior SaaS Academy member who cancelled. Biggest barrier is community/peer programs vs. expert-led coaching. Wants proven operators, not other founders figuring it out.
 
-**Tags:** #saas #pre-revenue #pipeline #core-1k #growth-2k
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Outcome:** In Pipeline  
+**Tier:** Core $1K, Growth $2K
 
 ---
 
@@ -1772,7 +2114,9 @@
 
 **Context:** Software engineer and AI developer herself. Technical objection to AI COO product specifically — not a lack of sophistication. Knows the limitations of agentic AI firsthand. Product fit concern, not ignorance.
 
-**Tags:** #saas #ai-skeptic #pipeline #product-barrier
+**Industry:** SaaS  
+**Outcome:** In Pipeline  
+**Other:** Ai Skeptic, Product Barrier
 
 ---
 
@@ -1780,7 +2124,10 @@
 
 **Context:** Interested in human coaching component specifically. AI COO is not compelling to her. The entry point is coaching, not the software.
 
-**Tags:** #saas #pre-revenue #pipeline #coaching-interest
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Outcome:** In Pipeline  
+**Other:** Coaching Interest
 
 ---
 
@@ -1790,7 +2137,10 @@
 
 **Context:** Comparing Precision to an individual consultant he'd previously worked with. Perceived Precision as a cookie-cutter program rather than personalized guidance. Anti-program framing is the key barrier.
 
-**Tags:** #saas #pre-revenue #no-next-step #programmatic-objection
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Outcome:** No Next Step  
+**Other:** Programmatic Objection
 
 ---
 
@@ -1798,7 +2148,10 @@
 
 **Context:** Comparing Precision coaches to a specific high-credential independent consultant. Credibility and credentials are the decision criteria. Wants to see proof that coaches have done it before.
 
-**Tags:** #saas #pre-revenue #no-next-step #credibility
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Outcome:** No Next Step  
+**Other:** Credibility
 
 
 ---
@@ -1809,7 +2162,8 @@
 
 **Context:** SaaS founder at ~$240K ARR with 100+ small-ticket accounts. Explicitly in "thick of operating" mode — awareness that they have a scale problem but not urgency to solve it now.
 
-**Tags:** #saas #small-mrr #timing-objection #operating-overwhelm
+**Industry:** SaaS  
+**Other:** Small Mrr, Timing Objection, Operating Overwhelm
 
 ---
 
@@ -1819,7 +2173,8 @@
 
 **Context:** Callback from December (Trevor/SaaS Academy). Company in product-first mode with sales deprioritized. Founder acknowledges the sales gap — ready to reconnect when the timing works.
 
-**Tags:** #saas #product-first #sales-gap #callback
+**Industry:** SaaS  
+**Other:** Product First, Sales Gap, Callback
 
 ---
 
@@ -1829,7 +2184,8 @@
 
 **Context:** SaaS/dev-shop hybrid founder. Has multiple owned SaaS products in market with clients, but can't allocate resources to growth because every new customer increases the support burden. Revenue from bespoke software fuels R&D, but sales/marketing for owned products is stuck in a resource loop.
 
-**Tags:** #saas #dev-shop #resource-constraint #customer-acquisition #booked
+**Industry:** SaaS  
+**Other:** Dev Shop, Resource Constraint, Customer Acquisition, Booked
 
 ---
 
@@ -1839,7 +2195,10 @@
 
 **Context:** Pre-AR founder who has read SaaS Academy content and downloaded Precision materials. Brand trust is the primary blocker — SaaS Academy's historical reviews. Also surfaced pre-revenue status as a secondary reason for hesitation.
 
-**Tags:** #saas #pre-revenue #brand-trust #sas-academy-reviews #no-next-step
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Outcome:** No Next Step  
+**Other:** Brand Trust, Sas Academy Reviews
 
 
 ---
@@ -1850,7 +2209,8 @@
 
 **Context:** Multi-business founder (owns 2 gyms + Growth Factor AI agency). Lost key employee to sick leave; absorbed all fulfillment. Can't work on systems/strategy because fires consume all capacity. Classic founder trap — indispensable in the business.
 
-**Tags:** #agency #multi-business #operational-entrapment #staffing #ae-growth-session
+**Industry:** Agency  
+**Other:** Multi Business, Operational Entrapment, Staffing, Ae Growth Session
 
 ---
 
@@ -1860,7 +2220,8 @@
 
 **Context:** Agency founder who knows exactly what strategic work would move the needle but cannot access it — reactive cycles crowd out proactive building. Specific and self-aware about the constraint.
 
-**Tags:** #agency #ai-services #strategic-work #reactive-trap #ae-growth-session
+**Industry:** Agency  
+**Other:** Ai Services, Strategic Work, Reactive Trap, Ae Growth Session
 
 ---
 
@@ -1870,7 +2231,8 @@
 
 **Context:** Construction manager turned SaaS founder. No technical background, building construction management SaaS. Knows he needs structure and prioritization — has a mentor as a sounding board but lacks a sequenced plan. Classic non-technical founder direction paralysis.
 
-**Tags:** #saas #construction-tech #non-technical-founder #prioritization #direction-paralysis #ae-closed
+**Industry:** SaaS  
+**Other:** Construction Tech, Non Technical Founder, Prioritization, Direction Paralysis, Ae Closed
 
 ---
 
@@ -1880,7 +2242,9 @@
 
 **Context:** Pre-revenue SaaS, 6 beta users (all personal network). Competing priorities all feel like launch blockers — compliance, bugs, AND wanting to grow simultaneously. The success-is-in-the-sequence problem in its purest form.
 
-**Tags:** #saas #pre-revenue #compliance #product-readiness #prioritization #ae-closed
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Compliance, Product Readiness, Prioritization, Ae Closed
 
 
 ---
@@ -1891,7 +2255,8 @@
 
 **Context:** Restaurant analytics software founder, ~6 figures ARR, built a complete fintech product. Read SaaS Academy book and found it too theoretical — knew the "why" but couldn't extract the "how." Looking for actionable systems, not frameworks.
 
-**Tags:** #fintech #saas #6-figures #theory-vs-execution #sas-academy-referral
+**Industry:** FinTech, SaaS  
+**Other:** 6 Figures, Theory Vs Execution, Sas Academy Referral
 
 ---
 
@@ -1899,7 +2264,8 @@
 
 **Context:** Has AI helping him manage more with a small team. Feels product is built and revenue is growing. Skeptical of adding new tools/programs unless they bring something he can't get elsewhere. Potential lifestyle signal — growth goals somewhat vague.
 
-**Tags:** #fintech #saas #6-figures #not-in-pain #lifestyle-risk #sas-academy-referral
+**Industry:** FinTech, SaaS  
+**Other:** 6 Figures, Not In Pain, Lifestyle Risk, Sas Academy Referral
 
 
 ### Arnaldo Piccinelli — Agency Comp — 2026-05-05
@@ -1908,7 +2274,9 @@
 
 **Context:** Co-founder of SaaS product. Prior SaaS Academy contact. New features just shipped this weekend. Cash-constrained (~$0 revenue, covering server costs). Partner has a focus/execution problem — gets it in the moment but reverts to firefighting by tomorrow. Classic pre-PMF founder trapped in tactical mode.
 
-**Tags:** #saas #pre-revenue #partner-blocker #execution-gap #working-on-wrong-things
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Partner Blocker, Execution Gap, Working On Wrong Things
 
 ---
 
@@ -1916,7 +2284,9 @@
 
 **Context:** Partner co-founder not aligned on the need to change operating approach. Arnaldo is the visionary; partner is heads-down in product minutiae. Classic co-founder misalignment blocking adoption of operating systems.
 
-**Tags:** #saas #pre-revenue #partner-blocker #co-founder-misalignment
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Partner Blocker, Co Founder Misalignment
 
 ---
 
@@ -1926,7 +2296,8 @@
 
 **Context:** Business turnaround consultant, 30 years airline ops background. Built a solid methodology but struggling to package/market it for scale. Rebranded 2 months ago from "infrastructure advisory audits" to "total business turnaround." $100K/year revenue. Wants to train other consultants and go after larger contracts.
 
-**Tags:** #consulting #service-firm #six-figures #scaling #marketing-positioning
+**Industry:** Consulting  
+**Other:** Service Firm, Six Figures, Scaling, Marketing Positioning
 
 ---
 
@@ -1938,7 +2309,8 @@
 
 **Context:** Financial advisor coaching firm ($1M–$3M revenue, 60 advisors in coaching program). Operationally maxed. Director of ops retiring in January. New hire being trained. Team already running multiple programs. Exploring Precision AI platform but implementation bandwidth is the showstopper.
 
-**Tags:** #coaching-business #services #1m-3m-revenue #team-execution #operations #referral #pipeline
+**Outcome:** In Pipeline  
+**Other:** Coaching Business, Services, 1M 3M Revenue, Team Execution, Operations, Referral
 
 ---
 
@@ -1948,7 +2320,8 @@
 
 **Context:** Scott tried to build dashboards himself, brought in other specialists. Has conceptual buy-in on AI/data but is drowning in implementation complexity. Values execution > accountability coaching.
 
-**Tags:** #coaching-business #services #1m-3m-revenue #implementation-gap #referral #pipeline
+**Outcome:** In Pipeline  
+**Other:** Coaching Business, Services, 1M 3M Revenue, Implementation Gap, Referral
 
 ---
 
@@ -1958,7 +2331,7 @@
 
 **Context:** Accidental founder. German-language book club on Instagram, ~€60K/year. Membership + partnerships model. Tracks some metrics but can't connect them to growth outcomes. B2B feels more predictable; B2C feels like guessing. Price showstopper at $1K/month.
 
-**Tags:** #b2c #membership #community #under-100k #data-blind #german-market #inbound #dq-price
+**Other:** B2C, Membership, Community, Under 100K, Data Blind, German Market, Inbound, Dq Price
 
 ---
 
@@ -1968,5 +2341,5 @@
 
 **Context:** Imposter syndrome as active sales blocker. Pre-growth stage, first-time founder. Undervalues herself and her business. May self-select out of good solutions due to confidence gap, not just price.
 
-**Tags:** #b2c #community #under-100k #imposter-syndrome #first-time-founder #german-market #dq-price
+**Other:** B2C, Community, Under 100K, Imposter Syndrome, First Time Founder, German Market, Dq Price
 

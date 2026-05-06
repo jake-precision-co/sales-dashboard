@@ -603,7 +603,7 @@ By source:
 **"I'm meeting Chipotle right now from being fully honest."** 
 — Romeo P / Accretion Digital (2026-04-28) [A1] | Distraction/timing brush-off. JC stayed in the call by engaging with the Chipotle comment ("What meat did you get?") — humanizing but also let the call drift. Should have used the humor to bridge back: "Fair enough — I won't take more than 2 minutes of your chicken time." | Outcome: Handled adequately, call continued
 
-**Tags:** #timing #self-dq #rapport #inbound-mql #callback
+**Other:** Timing, Self Dq, Rapport, Inbound Mql, Callback
 
 ---
 
