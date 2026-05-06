@@ -1,5 +1,5 @@
 # Pain Buckets — Living Document
-Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket: Pain (what they're stuck in) + Dream (what they want) + Objection (what stops them buying). Last updated: 2026-05-05
+Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket: Pain (what they're stuck in) + Dream (what they want) + Objection (what stops them buying). Last updated: 2026-05-06
 
 ---
 
