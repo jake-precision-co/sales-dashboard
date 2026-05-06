@@ -540,3 +540,170 @@ By source:
 **"What's the likelihood of success of this? How probable is it that the people that hire you guys find themselves with a viable product that goes to market?"**
 — Jay Temaat, Temaat Ventures (2026-04-22) [A4] | Joe gave behavior-based answer (quick to implement, ask for help, share wins). Missed the flip-back opportunity ("What's YOUR commitment level, Jay?"). | Outcome: Closed Won — Jay self-closed: "Let's do business together."
 
+
+### Price/Budget (new entries 2026-04-23)
+
+**"I typically go to Udemy and I literally have a standard that I require from anything I get and I pay 12 to $24 for training."**
+— Matt Saunders / Local Marketing Agency SLC (2026-04-23) [A2] | JC acknowledged vaguely then disclosed Precision price range ($1-2K/mo) without framing or gap. No AAA structure — accepted the "training vs training" frame instead of reframing Precision as an operating system. | Outcome: No Next Step (Anti-ICP — Udemy comparison reflects deeper misalignment on what Precision is)
+
+---
+
+### Brush-off (new entries 2026-04-23)
+
+**"It sounds like we do the same thing. I appreciate the call."**
+— Matt Saunders / Local Marketing Agency SLC (2026-04-23) [A2] | Matt self-closed the call. JC accepted the exit gracefully ("Not a problem. I wish you the best of luck") but didn't DQ proactively with Precision's standard DQ language. No control of the ending. | Outcome: No Next Step
+
+---
+
+---
+
+### 2026-04-24 — Yuli Azarch / Seedbox.io
+
+**"I need to think it through. I'm considering it. I see it both ways... maybe I need something else for B2C so I don't know."**
+— Yuli Azarch (2026-04-24) [A3] | Joe said "Yeah, I think that's all good. I'll send it to you." — no BAMFAM, no consequence question, ball left in prospect's court | No next step — prospect floated away
+
+---
+
+### 2026-04-24 — Eli Brunner / Adscope
+
+**"Can I maybe see what I'm getting? Because I went into this with this other guy, he charges $2,500/month... it wasn't what I was expecting at all."**
+— Eli Brunner (2026-04-24) [A3] | Joe immediately pivoted to screen share and walked through all three pillars (coaching/playbooks/community) in detail | Closed Won — skepticism fully resolved by walkthrough
+
+**"Is that billed monthly or a one-time payment of $12K?"**
+— Eli Brunner (2026-04-24) [A3] | Joe explained monthly billing to preserve cash flow ("we finance it with no interest") — landed perfectly | Closed Won — non-issue once explained
+
+**"Budget is tight... I'd rather have gotten the extra MRR first and then joined. If I can take some of the learnings I've been applying and get an extra K a month, then it's a no-brainer. I just want to make sure that works first."**
+— Kam Lal / Notetracks (2026-04-27) [A3] | Joe asked "What is making you do it in reverse order?" — directional but no Validate + no Loop to prior regret ("I could have been much further along"). Joe ultimately surrendered: "if you want to keep going we can reconvene whenever you feel like the time is right." | No next step — ball left in prospect's court
+
+**"I'm gonna mull it over. I'm thinking pretty seriously about it."**
+— Matthew Myers / DRE Central (2026-04-27) [A4] | Joe pivoted to product logistics (how many seats, CRM integration) instead of probing the stall. Never asked "what's the thing that's making you want to sleep on it?" | Weak BAMFAM — Thursday follow-up set but stall never resolved
+
+
+---
+
+**"I remember it was quite expensive. That's why I kind of stepped back from that."**
+— Sean / MRR Tech (2026-04-27) [A2] | JC immediately pivoted to new pricing ($30/month) and acquisition narrative — answered but skipped Acknowledge and Ask in AAA. No bridge back to discovery. | Outcome: no booking — prospect said to send info
+
+**"Not a good time because actually going on vacation on Sunday and I'm trying to wrap up some stuff and it's just a busy week. I don't know if you want to send me some updated information... via email... right now I can't really get into too much."**
+— Sean / MRR Tech (2026-04-27) [A2] | JC offered to text website link instead of email — improvised alternative but didn't use it as a bridge to golden question or booking. Accepted the vague callback. | Outcome: no confirmed next step — ghost risk
+
+**"I don't have my calendar in front of me. So it would be really challenging to book something even tentative."**
+— Brian Hodge / Selling Toolz (2026-04-27) [A2] | JC offered Calendly link and direct line — professional response, but missed the assumptive close: could have proposed a specific time as a placeholder (e.g., "Thursday 10am — move it if you need to"). | Outcome: Calendly link sent, no confirmed booking
+
+---
+
+## 2026-04-28 — JC Ruiz SDR Calls
+
+**"No, it's not even 7 a.m. I'm just getting my day started here."**
+— Brenden Melanson / Blueprint Consulting (2026-04-28) [A3] | Timing brush-off. JC acknowledged, said "no worries my apologies," pivoted to booking ask. Prospect agreed — warm contact (SaaS Academy referral made this work). JC's apology was slightly energy-draining but recovery was solid. | Outcome: Booked — Growth Session Monday May 4, 11 AM Pacific
+
+**"I feel bad. I feel like, you know, I'm a terrible lead because I wasn't even the one that downloaded it."**
+— Romeo P / Accretion Digital (2026-04-28) [A1] | Self-DQ attempt. JC didn't reframe the objection — he accepted it, gave his direct line, and ended the call. Correct move was: "The CEO picking up is better than the downloader — who on your team do you think downloaded it?" | Outcome: No Next Step — gave direct line passively, no booking attempt made
+
+**"I'm meeting Chipotle right now from being fully honest."** 
+— Romeo P / Accretion Digital (2026-04-28) [A1] | Distraction/timing brush-off. JC stayed in the call by engaging with the Chipotle comment ("What meat did you get?") — humanizing but also let the call drift. Should have used the humor to bridge back: "Fair enough — I won't take more than 2 minutes of your chicken time." | Outcome: Handled adequately, call continued
+
+**Tags:** #timing #self-dq #rapport #inbound-mql #callback
+
+---
+
+## 2026-04-28 | Kim Renker | 24 Hours Agency | Joe Meyers | AE Discovery
+
+- "I'm not really into coaching and the whole community stuff." — Kim Renker (2026-04-28) [A3] | Joe let it go, confirmed no upcharge, moved to software only | Outcome: Closed Won (verbal) — correct handle, don't oversell what she doesn't want
+
+- "I mean, depends. Most of the playbooks are the same. Depends on the coach. If the coach is great and has a great reputation or great history, then could be helpful. But I have to be honest, I'm really picky." — Kim Renker (2026-04-28) [A3] | Joe briefly explained ex-founder coaches, didn't push | Outcome: Closed Won — good not to fight the belief
+
+---
+
+## 2026-04-28 | Antonis Politis | SE&C IKE | Joe Meyers | AE Discovery
+
+- "I feel it's a bit on the price issue... I would expect something half-priced for a year commitment. That would be my expectation. I have a benchmark from other programs." — Antonis Politis (2026-04-28) [A2] | Joe offered 90-day opt-out flexibility, did NOT loop back to ROI | Outcome: Weak BAMFAM (May 5) — price concern active, needs AH loop handle on follow-up
+
+- "I need to talk to my co-founder. I don't want to make the decision now." — Antonis Politis (2026-04-28) [A2] | Joe accepted at face value, booked May 5 | Outcome: Co-founder hasn't been qualified — veto power unknown. Need to clarify on May 5.
+
+- "I don't want to drag it a year for me... I want in six months or earlier to have things in place." — Antonis Politis (2026-04-28) [A2] | Joe confirmed 90-day flexibility | Outcome: Reasonable — Joe correctly confirmed flexibility. Follow up: frame May 5 around 90-day trial decision, not full year.
+
+---
+
+### From 2026-04-29 Scored Calls
+
+**"What I'd need is like, I don't know, a brochure, a link to the website or whatever that describes everything so I can kind of read it async. And if it sounds good then I can schedule a call."**
+— Carolyn Oros / Insomniac Digital (2026-04-29) [A3] | JC gave the website URL without using it as a bridge (did not AAA + golden question) | Booked anyway via rapport and later human coaching pivot — but left discovery on the table
+
+**"I at the moment am 100% not interested in attaching my business to anything to do with agents because they're not predictable."**
+— Carolyn Oros / Insomniac Digital (2026-04-29) [A3] | JC acknowledged calmly and pivoted to human coaching component — good handling | Booked (AI COO not the entry point for this prospect — coaching was)
+
+**"I feel like you guys are more like you got a program that I'm going to fall into. So that's not fresh in any ways."**
+— Kenyon Ross / Fortiffi (2026-04-29) [A2] | JC partially addressed by offering one-on-one coaching but didn't fully reframe — didn't land | No next step
+
+**"I don't think so. I appreciate it though, man."**
+— Kenyon Ross / Fortiffi (2026-04-29) [A2] | JC accepted immediately — no AAA, no probe, clean exit | No next step — call ended; underlying objection (program vs. individual consultant) never surfaced or addressed
+
+
+---
+
+## 2026-04-30 Entries
+
+**"probably not this time, mostly because I kind of in the thick of operating right now... I'm probably probably good for now"**
+— Noah Sanches / Rotor (2026-04-30) [A2] | JC launched into unsolicited pitch instead of AAA | Booked anyway (May 26 tentative) — prospect's prior SaaS Academy familiarity saved it, not the handle
+
+**"Quick favor. I've actually just been driving right now. Do you mind if we chat another time?"**
+— Justin Asgarpoour / EyeCareX (2026-04-30) [A2] | JC pivoted to car rapport (Ferrari) — kept prospect on line; no AAA framework used | Calendly link sent — no confirmed booking
+
+## 2026-05-01 Entries
+
+**"Not an immediate showstopper, but yeah, I'd have to determine like what that value, what that expense, you know, what's in return for that expense."**
+— Brian / Tetheree (2026-05-01) [A2] | JC continued into Precision pitch without probing the value concern further | Booked anyway — prospect was engaged enough to proceed despite price concern unresolved
+
+**"Your guys' reviews online just suck. I think it just is so bad. I was just like, I don't want to do this. I'm attracted to the concept, but like yeah, honestly, I'm still a pass for now, but maybe next year."**
+— Marlow Bryant (2026-05-01) [A3] | JC explained SaaS Academy acquisition + total revamp clearly, stayed calm; did NOT follow-up with AAA on the timing/nurture | No next step — passive close (website reference)
+
+**"I'm still pre-AR. So I don't have a lot for you guys to work with yet. Let me figure it out for myself. We'll keep in touch."**
+— Marlow Bryant (2026-05-01) [A3] | JC offered "we do work with pre-AR founders" but gave no discovery question to probe urgency or what "figuring it out" means | No next step — call ended on passive handoff
+
+
+---
+
+## Recent Additions — 2026-05-04
+
+**"Could you send me a follow email so I can look back at everything and give you a response."**
+— Shannelle James-Harris / Koined Digital (2026-05-04) [A2] | JC accepted immediately: "Yeah, absolutely. You have my email on site." — No bridge question, call ended | No next step — email will likely be ignored. Classic email brush-off that should have been a pivot to one discovery question.
+
+**"Oh, do you normally work with businesses located in the Caribbean?"**
+— Shannelle James-Harris / Koined Digital (2026-05-04) [A2] | JC responded: "We mainly work with US and Canada but we do have quite a few businesses internationally" — incorrect framing, should have been a DQ trigger | Call continued but lead is likely outside ICP — should have been DQ'd on Location criterion.
+
+
+## May 5, 2026
+
+**"I'm not even making $1,000 a month from the company — we're barely covering server costs."**
+— Arnaldo Piccinelli, Agency Comp (2026-05-05) [A3] | Price/Budget | JC disclosed pricing ($1K–$2K/month) honestly but built no value bridge ("what would make this an easy yes?") | Outcome: Vague callback ("in a month") — no booking
+
+**"[My partner] gets the stuff until tomorrow comes. If he's not going to listen, I think I need to get him to actually face that."**
+— Arnaldo Piccinelli, Agency Comp (2026-05-05) [A3] | Authority / Partner Blocker | JC suggested partner on joint Growth Session (good instinct) but surrendered when Arnaldo resisted. No follow-up offer (e.g., "what if you came alone first?") | Outcome: Callback, no booking
+
+**"Call me back in a month."**
+— Arnaldo Piccinelli, Agency Comp (2026-05-05) [A3] | Timing | JC: "Yeah, sure, sounds good." Zero AAA. No specific date anchored, no calendar hold, immediate pivot to small talk. | Outcome: Vague callback — high ghost risk
+
+**"Your AI said I don't qualify, so I just dropped it."**
+— Judy McMurtry, JM Excel Consultant LLC (2026-05-05) [A2] | Trust / Credibility | JC: "I think it was a miscommunication — we work with pre-revenue too" → pivoted to discovery. Solid recovery. | Outcome: Booked — Growth Session May 6, 12:45 PM ET
+
+
+
+## May 5-6 AE Calls (Scored 2026-05-06)
+
+### Scott Keffer — Scott Keffer International — 2026-05-05 (AE: Joe Meyers)
+
+**"Somebody to check in with is not, not particularly helpful. I need somebody who can execute."**
+— Scott Keffer, Scott Keffer International (2026-05-05) [A4] | Need / Product Fit | Joe responded: "Can I share 2 things? These coaches are former founders — cutting edge of AI. Your team can join the calls." — Built credibility on coaching quality but didn't probe what "execute" actually meant to Scott. No Feel→Felt→Found. No check-in. | Outcome: Overcame enough to get Friday BAMFAM, but execution concern still active.
+
+**"Let me noodle on it." / "I'll decide by end of the week."**
+— Scott Keffer, Scott Keffer International (2026-05-05) [A4] | Timing / Think-It-Over | Joe: "What is it, Tuesday? Do you want to put something on the calendar for Friday?" → got specific 3PM Friday slot. | Outcome: Strong BAMFAM locked — Friday May 8, 3PM ET
+
+### Helen Daughtrey — Mädels, die lesen. — 2026-05-04 (AE: Joe Meyers)
+
+**"I can't afford it at the moment. I would really... I know this would help me so much, but it's just not possible for me at the moment."**
+— Helen Daughtrey, Mädels, die lesen. (2026-05-04) [A2] | Price/Budget (Hard No) | Joe: Validated cleanly, no pressure. Pivoted to affiliate program ($200/month per referral = $2,400/year per signup). Helen: "I think I could do that." | Outcome: DQ'd (appropriate) — affiliate bridge established, door left open for return.
+
+**"Is there a possibility that if I figured this out, I could return to you in a couple of months?"**
+— Helen Daughtrey, Mädels, die lesen. (2026-05-04) [A2] | Timing | Joe: "Yes, you can sign up at any time. Send me an email." — No BAMFAM attempt, no specific date offered. Left ball in her court. | Outcome: DQ'd, nurture track only.
+

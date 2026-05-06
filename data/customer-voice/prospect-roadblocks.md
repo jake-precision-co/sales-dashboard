@@ -1553,3 +1553,420 @@
 **Tags:** #saas #pre-revenue #founder #capacity #bandwidth #operator
 
 ---
+
+### Matt Saunders — Local Marketing Agency (Salt Lake City) — 2026-04-23
+
+**Roadblock:** "My staff is learning how to use AI. They're learning how to create some agents that will actually take some of our workload and then free them up to do things that are more important." — Matt S (2026-04-23) [A3]
+
+**Context:** Agency at 85% capacity, implementing AI agents to free staff bandwidth. Not urgency to scale — a capacity management problem solved internally.
+
+**Tags:** #agency #local-service #ai #capacity #staff-training #anti-icp
+
+---
+
+**Roadblock:** "We're basically trying to enhance our capabilities of our staff." — Matt S (2026-04-23) [A3]
+
+**Context:** Agency transformation underway — founder led, training-based model. Not a SaaS scaling problem. Staff development is the bottleneck, not operational insight.
+
+**Tags:** #agency #local-service #staff-training #capacity #anti-icp
+
+---
+
+---
+
+### Yuli Azarch — Seedbox.io — 2026-04-24
+
+**Roadblock:** "We're not growing and I'm looking to change it. The last six months we grew very little, like 5% and had a new affiliate come over randomly. Not even our effort. So luck came in a little extra." — Yuli (2026-04-24) [A3]
+
+**Context:** 15-year bootstrapped hosting/file-sharing B2C SaaS. $150K MRR, profitable, plateau for 2 years. 50% churn on new acquisitions every 3 months. Yuli identified himself as a strategist, not an operator — wants to hire a GM/PM/Tech Lead to run the business autonomously. Came in as an inbound MQL from SaaS Academy brand.
+
+**Tags:** #saas #b2c #hosting #mrr-100k-500k #no-next-step #growth-2k
+
+---
+
+### Yuli Azarch — Seedbox.io — 2026-04-24
+
+**Roadblock:** "I don't feel my strengths are being represented in the company. It's too small and I have two junior people under me... I'm not a great operator." — Yuli (2026-04-24) [A3]
+
+**Context:** Yuli is a strategy-and-leadership founder trapped in day-to-day operations because there's no leadership team. He wants to step back and hire a GM to run the business. Classic founder bottleneck — too small to delegate, not yet big enough to attract senior talent without structured guidance.
+
+**Tags:** #saas #b2c #hosting #mrr-100k-500k #no-next-step #growth-2k
+
+---
+
+### Yuli Azarch — Seedbox.io — 2026-04-24
+
+**Roadblock:** "That's where I don't know for sure. And it actually this fundamental still needs to be discovered for data, customer interviews. And that's what I would want. A PM." — Yuli (2026-04-24) [A2]
+
+**Context:** 50% quarterly churn, no customer interviews, no defined light-bulb moment for new customers. Yuli doesn't know WHY customers churn (cancellation data shows "too expensive" or "not using it" — surface level). Product-led growth with zero human touchpoint. He's outsourcing the discovery work to a future PM hire.
+
+**Tags:** #saas #b2c #hosting #mrr-100k-500k #churn #no-next-step #growth-2k
+
+---
+
+### Eli Brunner — Adscope — 2026-04-24
+
+**Roadblock:** "I'm kind of lost in where I should go and how to gain waitlist people on a wait list or just basically get ready for launch so I can have a strong launch and you know, have users and my people in my ICP that are like ready to use the product." — Eli (2026-04-24) [A2]
+
+**Context:** Pre-revenue, pre-launch B2B SaaS for marketing agencies. Eli has the idea and 30 CAB members who've said "yes" but hasn't asked anyone to pay. Built a portion of the MVP with a developer. Burned one month and $2,500 on an ads-only coach that wasn't helpful. Has directional paralysis — doesn't know channel strategy, waitlist building, or launch sequencing.
+
+**Tags:** #saas #b2b #marketing-tech #pre-revenue #pre-launch #closed-won #core-1k
+
+---
+
+### Eli Brunner — Adscope — 2026-04-24
+
+**Roadblock:** "I've gone into social media... I just don't know for sure. Yeah, I just don't know." — Eli (2026-04-24) [A2]
+
+**Context:** Tried organic social, ran into the same confusion — is it ads, is it social, what's the channel? Previous coach gave bad advice (run ads immediately, pre-MVP). Eli is at the classic pre-launch fork: validate organically vs. paid, and he doesn't have a framework for deciding.
+
+**Tags:** #saas #b2b #marketing-tech #pre-revenue #pre-launch #closed-won #core-1k
+
+### Kam Lal — No Tracks — 2026-04-27
+
+**Roadblock:** "channels that have brought me stuff, I don't really have control over" — Kam (2026-04-27) [A3]
+
+**Context:** 5-year-old audio SaaS at sub-$10K MRR; growth has come from uncontrolled channels and he can't reproduce or scale them.
+
+**Tags:** #saas #audio-tech #under-10k-mrr #tier-3
+
+---
+
+**Roadblock:** "I've never been a good measure of things... I kind of find it hard to monitor and track things against experiments" — Kam (2026-04-27) [A2]
+
+**Context:** Founder admits he runs on gut feel, has tools but hasn't done the work to use them for experiment tracking.
+
+**Tags:** #saas #audio-tech #under-10k-mrr #tier-3
+
+---
+
+### Kam Lal — Notetracks — 2026-04-27
+
+**Roadblock:** "I don't think I'm very precise with regards to how I'm monitoring changes and stuff. If I wanted to double down on SEO today, I'd have to dig into Google Analytics or Google Search Console." — Kam Lal (2026-04-27) [A3]
+
+**Context:** Founder with a few hundred subs, ~5 years in. Testing SEO, ads, outbound simultaneously but has no single analytics layer tying it together. Comes from a self-scheduled book-driven inbound session.
+
+**Tags:** #audio-saas #early-stage-mrr #channel-clarity #no-analytics-visibility
+
+---
+
+**Roadblock:** "I've been looking at other channels trying to see if I could get faster growth... Jack of all trades, master of none." — Kam Lal (2026-04-27) [A3]
+
+**Context:** Scattered channel experimentation without mastery. SEO has been best but Kam keeps chasing shiny objects instead of doubling down. The regret about lack of focus is explicitly stated.
+
+**Tags:** #audio-saas #early-stage-mrr #shiny-object-syndrome #channel-mastery
+
+---
+
+**Roadblock:** "I have not really mastered the channel that's the best. I still don't know. I've been looking at other channels trying to expand — jack of all trades, master of none." — Kam Lal (2026-04-27) [A3]
+
+**Context:** The core problem in two sentences: no channel clarity AND no mastery of the channels tested. Five years of scattered experimentation.
+
+**Tags:** #audio-saas #early-stage-mrr #channel-mastery #founder-bottleneck
+
+---
+
+### Matthew Myers — DRE Central / DrugImpairment.com — 2026-04-27
+
+**Roadblock:** "I end up spending too much of my time dealing with things that are just requiring my expertise. I don't end up getting to focus on the growth models and keeping track of metrics I should keep track of." — Matthew Myers (2026-04-27) [A4]
+
+**Context:** Police chief building SaaS as side business transitioning to full-time. 1 FT employee as of last week. Can't delegate because everything requires him. Classic founder ceiling pattern.
+
+**Tags:** #niche-b2b-saas #early-revenue #founder-time-trapped #no-metrics-visibility
+
+---
+
+**Roadblock:** "My number one problem has repeatedly been somehow picking the worst possible vendors to help me with things. Everybody I hire is a nightmare. I don't know what I'm doing wrong." — Matthew Myers (2026-04-27) [A4]
+
+**Context:** Serial entrepreneur with real experience (software since 1990s, Delta/American Airlines clients) but consistently burned by vendors/contractors. Looking for the "trusted network" component of the program.
+
+**Tags:** #niche-b2b-saas #early-revenue #vendor-risk #trust-building
+
+---
+
+**Roadblock:** "I couldn't tell you exactly what my ARR is because I don't have time to sit down and get super scoped in on that. It's just time consuming and I need better systems." — Matthew Myers (2026-04-27) [A4]
+
+**Context:** Revenue exists across three streams (consulting, eLearning, DRE RMS) but none connected to a single source of truth. Metrics are tribal knowledge, not systems.
+
+**Tags:** #niche-b2b-saas #multi-stream-revenue #no-metrics-visibility #needs-systems
+
+
+---
+
+### Sean — MRR Tech — 2026-04-27
+
+**Roadblock:** "Right now, we're just dealing with some problems with our payment processor. Yeah, we're a small business. There's only two of us. Actually, we don't have employees, so. Yeah, we're doing the work instead of running the business. So, my heads are just down doing that." — Sean (2026-04-27) [A2]
+
+**Context:** Two-person SaaS company with payment processor issues and operational overwhelm. Heads-down execution mode, not running the business strategically. Prior SaaS Academy contact who read Software as a Science and raised prices.
+
+**Tags:** #saas #small-team #operator-trap #pre-icp-revenue
+
+---
+
+### Brian Hodge — Selling Toolz — 2026-04-27
+
+**Roadblock:** "Software sales is definitely something new to us. Yeah. We don't have a background in software sales." — Brian Hodge (2026-04-27) [A2]
+
+**Context:** Owner of 120-agent real estate brokerage who recently acquired a SaaS/CRM company. Has operational execution experience but no software sales motion. New to the SaaS business model entirely.
+
+**Tags:** #saas #new-acquisition #no-sales-motion #founder-transition
+
+---
+
+## 2026-04-28 — JC Ruiz SDR Calls
+
+### Romeo P — Accretion Digital (Marketing Agency, Chicago-area) | Inbound MQL | No Next Step
+
+**Roadblock: AI Disruption / Agency Survival Fear [A2]**
+> "A lot of these companies, including you guys are pushing a lot of AI. And then a lot of these like online gurus say, oh, you know, like now they're getting to the point where they're saying like, AI can replace the whole team. So eventually everyone's going to have this impression that you don't even need people."
+— Romeo P, Accretion Digital, 2026-04-28 [A2]
+
+**Roadblock: AI Commoditization of Sales [A2]**
+> "Eventually the guys selling the AI... the AI will eventually be selling itself."
+— Romeo P, Accretion Digital, 2026-04-28 [A2]
+
+**Roadblock: Client AI Adoption Eroding Agency Services [A3]**
+> "Our clients, right? We handle a lot of things for them, but sometimes they'll just be creative... they're like, ooh, I wonder if I can ask AI, you know, how to do this. So then eventually people are now people are thinking like, I can actually optimize my day by using AI instead of actually doing it myself. So then they eventually figure out how they can optimize and drop their assistant as well."
+— Romeo P, Accretion Digital, 2026-04-28 [A3]
+
+**Tags:** #agency #ai-disruption #survival-fear #inbound-mql #no-next-step
+
+---
+
+## 2026-04-28 | Kim Renker | 24 Hours Agency | Joe Meyers | AE Discovery
+
+**Profile:** Influencer management + consulting agency, €1–2M ARR, Germany, inbound (video)
+**Awareness Level:** [A3] — Solution-aware (came in knowing the AI tool concept, not the brand)
+
+- "I have 50 ideas. And I know not all of them can be really important, but I don't know which of them are and which of them aren't, and I don't want to implement all of them because it's also a huge time issue." [A3]
+- "I don't know, how many influencers did we reach out to? How many answered, how many did we close? All the stuff. I don't know." [A3]
+- "I never know where to start. And then I try to do all of them simultaneously, and then I do nothing." [A3]
+- "I don't know a thing about finding the perfect way to grow your business and finding maybe the right people for the right position at the right time." [A3]
+- "With an ADHD brain it's this, this, this and this. And then you try to put it in Claude, but it doesn't get what you exactly mean because it can't see all of your data." [A3]
+
+---
+
+## 2026-04-28 | Antonis Politis | SE&C IKE | Joe Meyers | AE Discovery
+
+**Profile:** EU grants + retainer fee SaaS/consulting, €1M+ ARR, Athens Greece, referral (Dan Martell)
+**Awareness Level:** [A2] — Problem-aware (knows operations is broken, wasn't solution-shopping yet)
+
+- "No CRM, no scorecards, no proper use of communications — scattered in different tunnels. A lot of bottlenecks." [A2]
+- "Me and my co-founder are the nucleus of doing everything. We have grown and we don't have control anymore." [A2]
+- "I cannot be exposed to the outside world — due to legal complications I could not be visible. I could not sell my business to other people." [A2]
+- "We don't have the control of everything. The operations is a huge bottleneck at this point so that we go grow further." [A2]
+- "I am not the COO or anything in my job, but I have been dealing with bits and parts as a line manager... it will take much time and it's not the proper use of my time." [A2]
+- "We want to alter the balance and go more on the business side and on the success fees. But this is work in progress." [A2]
+
+### Carolyn Oros — Insomniac Digital Inc — 2026-04-29
+
+**Roadblock:** "I don't want the blind leading the blind. Right, where a bunch of founders get together and talk to each other. Like, I want experts. If I'm going to spend the time to do something like that, I want to spend time with experts and not us." — Carolyn (2026-04-29) [A3]
+
+**Context:** Prior SaaS Academy member who cancelled. Biggest barrier is community/peer programs vs. expert-led coaching. Wants proven operators, not other founders figuring it out.
+
+**Tags:** #saas #pre-revenue #pipeline #core-1k #growth-2k
+
+---
+
+**Roadblock:** "I'm also very familiar with the existing problems in the AI space with AI agents and kind of they're not consistent. They kind of do their own thing... I at the moment am 100% not interested in attaching my business to anything to do with agents because they're not predictable." — Carolyn (2026-04-29) [A3]
+
+**Context:** Software engineer and AI developer herself. Technical objection to AI COO product specifically — not a lack of sophistication. Knows the limitations of agentic AI firsthand. Product fit concern, not ignorance.
+
+**Tags:** #saas #ai-skeptic #pipeline #product-barrier
+
+---
+
+**Roadblock:** "What I would really prefer is one on one coaching with a human expert. I don't want one on one coaching from AI because I already use AI and I could just ask my AI for advice and tailored." — Carolyn (2026-04-29) [A3]
+
+**Context:** Interested in human coaching component specifically. AI COO is not compelling to her. The entry point is coaching, not the software.
+
+**Tags:** #saas #pre-revenue #pipeline #coaching-interest
+
+---
+
+### Kenyon Ross — Fortiffi — 2026-04-29
+
+**Roadblock:** "I feel like you guys are more like you got a program that I'm going to fall into. So that's not fresh in any ways." — Kenyon (2026-04-29) [A2]
+
+**Context:** Comparing Precision to an individual consultant he'd previously worked with. Perceived Precision as a cookie-cutter program rather than personalized guidance. Anti-program framing is the key barrier.
+
+**Tags:** #saas #pre-revenue #no-next-step #programmatic-objection
+
+---
+
+**Roadblock:** "But what are the coaches' credentials? ... He works for big, big companies like he's got great credentials." — Kenyon (2026-04-29) [A2]
+
+**Context:** Comparing Precision coaches to a specific high-credential independent consultant. Credibility and credentials are the decision criteria. Wants to see proof that coaches have done it before.
+
+**Tags:** #saas #pre-revenue #no-next-step #credibility
+
+
+---
+
+### Noah Sanches — Rotor — 2026-04-30
+
+**Roadblock:** "We're like, just shy of like 20K a month. Couple like that cross like a hundred companies. We're like smaller ticket a little bit. Maybe this month is going to be pretty hectic." — Noah (2026-04-30) [A2]
+
+**Context:** SaaS founder at ~$240K ARR with 100+ small-ticket accounts. Explicitly in "thick of operating" mode — awareness that they have a scale problem but not urgency to solve it now.
+
+**Tags:** #saas #small-mrr #timing-objection #operating-overwhelm
+
+---
+
+### Justin Asgarpoour — EyeCareX — 2026-04-30
+
+**Roadblock:** "We've unfortunately been focusing on the skeleton team on the product development side. But we need to get back to focus on scaling our sales effort to sales emotions." — Justin (2026-04-30) [A2]
+
+**Context:** Callback from December (Trevor/SaaS Academy). Company in product-first mode with sales deprioritized. Founder acknowledges the sales gap — ready to reconnect when the timing works.
+
+**Tags:** #saas #product-first #sales-gap #callback
+
+---
+
+### Brian — Tetheree — 2026-05-01
+
+**Roadblock:** "It's the reselling, the effort, obviously, is customer acquisition... and the support that follows, you need money for both." — Brian (2026-05-01) [A2]
+
+**Context:** SaaS/dev-shop hybrid founder. Has multiple owned SaaS products in market with clients, but can't allocate resources to growth because every new customer increases the support burden. Revenue from bespoke software fuels R&D, but sales/marketing for owned products is stuck in a resource loop.
+
+**Tags:** #saas #dev-shop #resource-constraint #customer-acquisition #booked
+
+---
+
+### Marlow Bryant — 2026-05-01
+
+**Roadblock:** "Your guys' reviews online just suck. I was just like, I don't want to do this. I'm attracted to the concept, but yeah, honestly, I'm still a pass for now, but maybe next year." — Marlow (2026-05-01) [A3]
+
+**Context:** Pre-AR founder who has read SaaS Academy content and downloaded Precision materials. Brand trust is the primary blocker — SaaS Academy's historical reviews. Also surfaced pre-revenue status as a secondary reason for hesitation.
+
+**Tags:** #saas #pre-revenue #brand-trust #sas-academy-reviews #no-next-step
+
+
+---
+
+### Ben Grove — Growth Factor AI — 2026-05-04
+
+**Roadblock:** "I get stuck in the day to day... I lost an employee to sick leave for a few months and I ended up... just stuck doing it all myself." — Ben (2026-05-04) [A3]
+
+**Context:** Multi-business founder (owns 2 gyms + Growth Factor AI agency). Lost key employee to sick leave; absorbed all fulfillment. Can't work on systems/strategy because fires consume all capacity. Classic founder trap — indispensable in the business.
+
+**Tags:** #agency #multi-business #operational-entrapment #staffing #ae-growth-session
+
+---
+
+### Ben Grove — Growth Factor AI — 2026-05-04
+
+**Roadblock:** "I never get to do the programming stuff that makes my business go to the next level." — Ben (2026-05-04) [A3]
+
+**Context:** Agency founder who knows exactly what strategic work would move the needle but cannot access it — reactive cycles crowd out proactive building. Specific and self-aware about the constraint.
+
+**Tags:** #agency #ai-services #strategic-work #reactive-trap #ae-growth-session
+
+---
+
+### Brenden Melanson — BuildBox Pro — 2026-05-04
+
+**Roadblock:** "I'm kind of like zigzagging around and focusing on this and this and this and this. That's the biggest thing that is tough for me for a non-technical person who has never done this before." — Brenden (2026-05-04) [A3]
+
+**Context:** Construction manager turned SaaS founder. No technical background, building construction management SaaS. Knows he needs structure and prioritization — has a mentor as a sounding board but lacks a sequenced plan. Classic non-technical founder direction paralysis.
+
+**Tags:** #saas #construction-tech #non-technical-founder #prioritization #direction-paralysis #ae-closed
+
+---
+
+### Brenden Melanson — BuildBox Pro — 2026-05-04
+
+**Roadblock:** "We still have compliance issues to deal with... we still have some bugs in some of those features so we shouldn't onboard too many clients." — Brenden (2026-05-04) [A3]
+
+**Context:** Pre-revenue SaaS, 6 beta users (all personal network). Competing priorities all feel like launch blockers — compliance, bugs, AND wanting to grow simultaneously. The success-is-in-the-sequence problem in its purest form.
+
+**Tags:** #saas #pre-revenue #compliance #product-readiness #prioritization #ae-closed
+
+
+---
+
+### Jerry Brown — Culinary Analytics — 2026-05-04
+
+**Roadblock:** "The challenge is... it said nothing that nothing else I had already said and it did exactly what they did not give you actually any actionable things you can do. So there's a difference between tell us why do you need to build a funnel and exactly how to build a funnel and then what a good funnel looks like." — Jerry Brown (2026-05-04) [A3]
+
+**Context:** Restaurant analytics software founder, ~6 figures ARR, built a complete fintech product. Read SaaS Academy book and found it too theoretical — knew the "why" but couldn't extract the "how." Looking for actionable systems, not frameworks.
+
+**Tags:** #fintech #saas #6-figures #theory-vs-execution #sas-academy-referral
+
+---
+
+**Roadblock:** "I'm in pretty good shape at the moment" — Jerry Brown (2026-05-04) [A3]
+
+**Context:** Has AI helping him manage more with a small team. Feels product is built and revenue is growing. Skeptical of adding new tools/programs unless they bring something he can't get elsewhere. Potential lifestyle signal — growth goals somewhat vague.
+
+**Tags:** #fintech #saas #6-figures #not-in-pain #lifestyle-risk #sas-academy-referral
+
+
+### Arnaldo Piccinelli — Agency Comp — 2026-05-05
+
+**Roadblock:** "We're working on the wrong things, focused on the wrong things, working the wrong way. We're working the way we know how rather than leveraging things like you guys." — Arnaldo (2026-05-05) [A3]
+
+**Context:** Co-founder of SaaS product. Prior SaaS Academy contact. New features just shipped this weekend. Cash-constrained (~$0 revenue, covering server costs). Partner has a focus/execution problem — gets it in the moment but reverts to firefighting by tomorrow. Classic pre-PMF founder trapped in tactical mode.
+
+**Tags:** #saas #pre-revenue #partner-blocker #execution-gap #working-on-wrong-things
+
+---
+
+**Roadblock:** "If I can't get a focus shift in [my partner's] thinking, we're going to have a great call. I promise you, because he gets the stuff until tomorrow comes." — Arnaldo (2026-05-05) [A3]
+
+**Context:** Partner co-founder not aligned on the need to change operating approach. Arnaldo is the visionary; partner is heads-down in product minutiae. Classic co-founder misalignment blocking adoption of operating systems.
+
+**Tags:** #saas #pre-revenue #partner-blocker #co-founder-misalignment
+
+---
+
+### Judy McMurtry — JM Excel Consultant LLC — 2026-05-05
+
+**Roadblock:** "It hasn't scaled to the point that I wanted to." — Judy (2026-05-05) [A2]
+
+**Context:** Business turnaround consultant, 30 years airline ops background. Built a solid methodology but struggling to package/market it for scale. Rebranded 2 months ago from "infrastructure advisory audits" to "total business turnaround." $100K/year revenue. Wants to train other consultants and go after larger contracts.
+
+**Tags:** #consulting #service-firm #six-figures #scaling #marketing-positioning
+
+---
+
+---
+
+### Scott Keffer — Scott Keffer International — 2026-05-05
+
+**Roadblock:** "My biggest challenge, truthfully Joe, is getting it done and on my team is getting the team up to speed where they can use it." — Scott (2026-05-05) [A4]
+
+**Context:** Financial advisor coaching firm ($1M–$3M revenue, 60 advisors in coaching program). Operationally maxed. Director of ops retiring in January. New hire being trained. Team already running multiple programs. Exploring Precision AI platform but implementation bandwidth is the showstopper.
+
+**Tags:** #coaching-business #services #1m-3m-revenue #team-execution #operations #referral #pipeline
+
+---
+
+### Scott Keffer — Scott Keffer International — 2026-05-05
+
+**Roadblock:** "All of this requiring much more of my time than I hoped for. In order to just get it going, somebody to check in with is not, not particularly helpful." — Scott (2026-05-05) [A4]
+
+**Context:** Scott tried to build dashboards himself, brought in other specialists. Has conceptual buy-in on AI/data but is drowning in implementation complexity. Values execution > accountability coaching.
+
+**Tags:** #coaching-business #services #1m-3m-revenue #implementation-gap #referral #pipeline
+
+---
+
+### Helen Daughtrey — Mädels, die lesen. — 2026-05-04
+
+**Roadblock:** "I just don't really know what it's telling me... I'm diving blind kind of. I don't really know what produces any outcome really." — Helen (2026-05-04) [A2]
+
+**Context:** Accidental founder. German-language book club on Instagram, ~€60K/year. Membership + partnerships model. Tracks some metrics but can't connect them to growth outcomes. B2B feels more predictable; B2C feels like guessing. Price showstopper at $1K/month.
+
+**Tags:** #b2c #membership #community #under-100k #data-blind #german-market #inbound #dq-price
+
+---
+
+### Helen Daughtrey — Mädels, die lesen. — 2026-05-04
+
+**Roadblock:** "I always feel like I'm too small of a fish anywhere really." — Helen (2026-05-04) [A2]
+
+**Context:** Imposter syndrome as active sales blocker. Pre-growth stage, first-time founder. Undervalues herself and her business. May self-select out of good solutions due to confidence gap, not just price.
+
+**Tags:** #b2c #community #under-100k #imposter-syndrome #first-time-founder #german-market #dq-price
+

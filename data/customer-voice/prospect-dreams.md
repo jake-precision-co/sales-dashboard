@@ -1003,3 +1003,287 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Tags:** #saas #pre-revenue #founder #legacy #success #domino-tip
 
 ---
+
+### Matt Saunders — Local Marketing Agency (Salt Lake City) — 2026-04-23
+
+**Dream:** "Instead of just doing all the marketing for that company, we're actually training their staff to be on the front edge of... this whole AI thing. We want that company to actually grow as well, not just rely on somebody else." — Matt S (2026-04-23) [A3]
+
+**Context:** Matt's vision is agency-as-trainer, not agency-as-doer. His dream is client independence through AI education. Soft vision, no personal urgency.
+
+**Tags:** #agency #local-service #ai #training #client-success #anti-icp
+
+---
+
+**Dream:** "There's huge money right now in training companies how to do AI." — Matt S (2026-04-23) [A3]
+
+**Context:** Matt sees the AI training market as a revenue opportunity — but he's building it locally, cheaply. His ceiling is local market saturation, not scale.
+
+**Tags:** #agency #ai-training #local-market #revenue #anti-icp
+
+---
+
+---
+
+### Yuli Azarch — Seedbox.io — 2026-04-24
+
+**Dream (Business):** "I'm looking to hire a mini leadership team so this business could grow and run autonomously without me... I think I'm actually the wrong person being in a business... grow the company 20% year over year in a profitable way." — Yuli (2026-04-24) [A3]
+
+**Context:** 15-year bootstrapped founder who wants to step back from operations. Clear goal: hire GM + PM + Tech Lead and let the team run it. 20% YoY growth target set explicitly. B2C SaaS ($150K MRR), plateau for 2 years. Came in from SaaS Academy inbound.
+
+**(MISSING: Personal dream never uncovered — Joe never asked what autonomous business operation unlocks for Yuli personally. Exit? Next venture? Time freedom? This was the emotional close that was never made.)**
+
+**Tags:** #saas #b2c #hosting #mrr-100k-500k #no-next-step #growth-2k
+
+---
+
+### Eli Brunner — Adscope — 2026-04-24
+
+**Dream (Business):** "Not just go out into the market with a few followers and validation... be able to have the strongest launch. Right. Like be able to, you know, not just go out into the market with a few followers and validation." — Eli (2026-04-24) [A2]
+
+**Context:** Pre-revenue pre-launch B2B SaaS. Eli wants a strong launch, validated demand, and confidence he's building the right thing. Agency prospecting software (helps agencies find who is/isn't running ads). Closed Won at $1K/month.
+
+**(MISSING: Personal dream never uncovered — Joe never asked what Adscope's success changes for Eli personally. Does it let him leave his agency? Financial freedom? First-time founder milestone? Never explored.)**
+
+**Tags:** #saas #b2b #marketing-tech #pre-revenue #pre-launch #closed-won #core-1k
+
+### Kam Lal — No Tracks — 2026-04-27
+
+**Dream:** "full focus on MRR, trying to figure out, you know, what channels and scale that" — Kam (2026-04-27) [A3]
+
+**Context:** After years of funding-mode and one-off revenue injections, founder is pivoting to a proper MRR-growth focus and wants a repeatable engine.
+
+**Tags:** #saas #audio-tech #under-10k-mrr #tier-3
+
+---
+
+### Kam Lal — Notetracks — 2026-04-27
+
+**Dream:** "If I wanted to double down my SEO efforts today, I should be looking at my organic traffic from these 30 days versus the last 30 days on said articles. I should know exactly what's working." — Kam Lal (2026-04-27) [A3]
+
+**Context:** The concrete version of his dream: precision data that tells him where to focus, without having to dig through Google Console manually. He wants clarity, not more tools.
+
+**Tags:** #audio-saas #early-stage-mrr #channel-clarity #data-driven-founder
+
+---
+
+**Dream:** "Just pick one thing, do it well, and let that be the driver. There are companies that have been built on SEO purely, or outbound marketing purely. That's what I want." — Kam Lal (2026-04-27) [A3]
+
+**Context:** The channel mastery dream stated clearly: focus, commitment, and one channel that works reliably. Been too scattered for too long. Wants permission and structure to commit.
+
+**Tags:** #audio-saas #early-stage-mrr #channel-mastery #focus
+
+**Personal:** ❌ MISSING — Personal dream never uncovered despite prospect volunteering significant regret ("I feel bad about the level of growth I've achieved so far. Things could have been much better.") [766s]
+
+---
+
+### Matthew Myers — DRE Central / DrugImpairment.com — 2026-04-27
+
+**Dream:** "I need better systems to support that [growth]. Better organization so I can stop doing things that require only my expertise." — Matthew Myers (2026-04-27) [A4]
+
+**Context:** Operational dream: systems that let him delegate so he can work ON the business. Has a full-time job (police chief) building this on the side. Needs leverage before the retirement transition.
+
+**Tags:** #niche-b2b-saas #founder-time-trapped #systems-for-scale #leverage
+
+**Personal:** ❌ MISSING — Matthew is retiring from law enforcement to build this company as his second act. Never uncovered. "Getting ready to transition out and retire out of law enforcement" [189s] was stated once and never followed up. This is the close — the personal dream of building something of his own that he controls after a 20+ year career in public service.
+
+
+---
+
+### Brian Hodge — Selling Toolz — 2026-04-27
+
+**Dream:** "Looking at potential platform coaching, training, just on how to really take it and scale it to what it's meant to be." — Brian Hodge (2026-04-27) [A2]
+
+**Context:** New SaaS company owner with real estate background. Has a development team revamping the product. Wants to build the sales and growth infrastructure the right way from the start. Motivated by Dan Sullivan's Software as a Science book — reading it actively.
+
+**Tags:** #saas #new-acquisition #build-it-right #scale-from-scratch
+
+---
+
+## 2026-04-28 — JC Ruiz SDR Calls
+
+### Romeo P — Accretion Digital | Inbound MQL | No Next Step
+
+**Dream: Human Touch Preserved in an AI World [A2]**
+> "Our intention is to kind of help people become more efficient at their job by kind of leveraging AI. But we still have that human touch... We have thousands of coaches that we work with to help businesses and agencies grow. So you have that human touch that human connection."
+— Romeo P (as JC described Precision), 2026-04-28 [A2]
+*Note: Romeo's implicit dream is staying relevant and human in an AI-disrupted world. This is the aspiration JC surfaced but didn't fully close on.*
+
+**Tags:** #agency #ai-differentiation #human-touch #inbound-mql
+
+---
+
+### Brenden Melanson — Blueprint Consulting | Callback (SaaS Academy referral) | Booked
+
+**Dream: Getting Back to Growth Conversations [A3]**
+> "Sure, let's do that." [agreeing to a Growth Session]
+— Brenden Melanson, Blueprint Consulting, 2026-04-28 [A3]
+*Note: Warm prospect who remembered SaaS Academy and agreed to reconnect. Had prior coaching context. Dream = recapturing the growth trajectory from SaaS Academy days.*
+
+**Tags:** #callback #saas-academy-referral #warm-prospect #booked
+
+---
+
+## 2026-04-28 | Kim Renker | 24 Hours Agency | Joe Meyers | AE Discovery
+
+**Profile:** Influencer management, €1–2M ARR, Germany, inbound
+**Awareness Level:** [A3]
+
+- "I want the agency to go from like 24 hours agencies — like one management — to a whole media group with like a beauty management, a family management, a sports management, all those kinds of managements." [A3]
+- "The AI takes the decision from me and tells me, hey, this is your biggest bottleneck. Focus on this, do it. And then you can do another thing." [A3]
+- "I can implement it into my CRM. It has all my data. It has a better look at all the data than me, obviously. And then I can ask all the random stuff." [A3]
+- "Exactly what I imagined to be." [A3] (Kim's reaction seeing the platform)
+- "I'm so happy. I imagined you have a really complex product but in the end you have like one or two sentences who break it down." [A3]
+
+---
+
+## 2026-04-28 | Antonis Politis | SE&C IKE | Joe Meyers | AE Discovery
+
+**Profile:** EU grants + retainer, €1M+ ARR, Athens, Dan Martell referral
+**Awareness Level:** [A2]
+
+- "Doubling minimum — €2M+ — with the potential of an amplified picture with one extra model." [A2]
+- "I want to step up the gas when I step out. Set up everything in place so when I step out, everything is ready." [A2]
+- "On a daily basis, can I have a scorecard where I see what is happening on different fronts — execution, project management, sales — and red flags when they come?" [A2]
+- "I have the infrastructure fixed so that I can focus and work on the business while the business is up and running without me having to juggle." [A2]
+- "Opening up now that we have track record — new things that cannot open up as of now without losing focus." [A2]
+
+### Carolyn Oros — Insomniac Digital Inc — 2026-04-29
+
+**Dream:** "I think I would just want, like I mean, I'm not looking for a system that is going to give me 300 leads a month, because I just don't have that bandwidth... I'd rather have five intent leads a month than 300 that I have to sit through." — Carolyn (2026-04-29) [A3]
+
+**Context:** Quality over quantity mindset. Anti-spray-and-pray. Wants high-intent, pre-qualified pipeline — not volume. Resonates with Precision's positioning around coaching and systems, not lead gen blasts.
+
+**Tags:** #saas #pre-revenue #pipeline #coaching-interest
+
+---
+
+**Dream:** "You should be people that already know that they want this work done and they're just looking for the right fit, right? That's the type of funnel that I'm interested in." — Carolyn (2026-04-29) [A3]
+
+**Context:** Describes ideal sales motion as inbound, intent-based, right-fit selection. Wants a qualification machine, not a numbers game. Important framing for AE demo — Joe should lead with this lens.
+
+**Tags:** #saas #pre-revenue #pipeline #core-1k #growth-2k
+
+---
+
+### Kenyon Ross — Fortiffi — 2026-04-29
+
+**Dream:** "What I feel I need is a lot more consulting on the consulting side. What would really prepare me to go to an investor to get the money I need to launch the program, hire the right people, etc." — Kenyon (2026-04-29) [A2]
+
+**Context:** Clear articulation of desired outcome: investor-ready, right team in place, funded launch. Not looking for growth hacking — looking for a business architecture guide who can help him raise and build.
+
+**Tags:** #saas #pre-revenue #no-next-step #investor-ready
+
+
+---
+
+### Noah Sanches — Rotor — 2026-04-30
+
+**Dream:** "We're trying to expand — trying to grow the company." — Noah (2026-04-30) [A2]
+
+**Context:** When JC took a shot at the golden question (growth vs. exit), Noah confirmed growth intent. ~$20K MRR. Wants to scale but "in the thick of operating" — growth desire exists, urgency doesn't yet.
+
+**Tags:** #saas #growth-intent #low-urgency #mrr-20k
+
+---
+
+### Justin Asgarpoour — EyeCareX — 2026-04-30
+
+**Dream:** "We need to get back to focus on scaling our sales effort." — Justin (2026-04-30) [A2]
+
+**Context:** Founder on a callback who acknowledged the sales scaling need unprompted. Was driving, but warm and engaged. Intro'd "Andrew" as the person leading sales efforts internally — a team being assembled around growth.
+
+**Tags:** #saas #sales-scaling #product-pmd #callback
+
+---
+
+### Brian — Tetheree — 2026-05-01
+
+**Dream:** "I hope to be able to, you know, focus on, you know, choose one and build a team around it and really kind of try to accelerate that cycle a bit." — Brian (2026-05-01) [A2]
+
+**Context:** Callback — booked Growth Session. Has multiple SaaS products being used by clients. Wants to pick one, build a team around it, and go into growth mode — currently stuck in bootstrap/service delivery mode funding the R&D.
+
+**Tags:** #saas #dev-shop #team-building #acceleration #booked
+
+
+---
+
+### Ben Grove — Growth Factor AI — 2026-05-04
+
+**Dream:** "I want to be at 25 [K MRR] by the end of the year. I want to get to at least 25 and I want to be at 50 by the year after." — Ben (2026-05-04) [A3]
+
+**Context:** Agency owner (~$7.5K MRR), committed to 1-on-1 coaching tier ($2K/month). Wants to run lean (3-4 people max) and systematize like he did with his gym ($2M/year). Personal vision aligns closely with his gym journey: transition from implementer to visionary, step back from operations, build something that runs without him.
+
+**Tags:** #agency #ai-services #mrr-7-10k #growth-target-25k #lean-team #ae-strong-bamfam
+
+---
+
+### Brenden Melanson — BuildBox Pro — 2026-05-04
+
+**Dream (business):** "I'd like to have three or four [employees max]. I don't want to have 30 employees, I don't want to have 20." (paraphrased from context, not direct quote) — Brenden (2026-05-04) [A3]
+
+**Context:** Non-technical founder building construction management SaaS. In beta with 6 users. Wants a real launch, paying customers, and a lean structure. Enrolled at $1K/month. Personal dream NOT explored on this call — deeper motivation (proving non-technical founder can build real tech company) was visible but not surfaced.
+
+**(MISSING: personal dream never uncovered)**
+
+**Tags:** #saas #construction-tech #pre-revenue #lean-team #ae-closed
+
+
+---
+
+### Jerry Brown — Culinary Analytics — 2026-05-04
+
+**Dream:** "I don't need to be on toast if I can get my 50 to 100 in one geographical area, I can turn it to a 10 to 20 million dollar company by just vertically integrating based on the data that I have and the relationships with me being in the retail grocery space for two dozen years." — Jerry Brown (2026-05-04) [A3]
+
+**Context:** Founder of restaurant analytics/fintech software. 20+ years in retail grocery. Sees a path to $10-20M by leveraging proprietary data and relationships to compete with Cisco/Restaurant Depot at the local level. Very specific, data-driven vision.
+
+**Tags:** #fintech #saas #6-figures #data-monetization #vertical-integration #geographic-expansion
+
+---
+
+**Dream:** "I want the option to exit, but I want to help us ensure like there's a connection that I like." — Jerry Brown (2026-05-04) [A3]
+
+**Context:** Still undecided between building to exit vs. long-term ownership. Values customer relationships and community as much as revenue growth. Drawn to Precision's community/camaraderie angle more than software features.
+
+**Tags:** #fintech #saas #6-figures #exit-optionality #camaraderie #community-buyer
+
+
+### Arnaldo Piccinelli — Agency Comp — 2026-05-05
+
+**Dream:** "We need something tactical — not just think big about your business, but think big about your action... if we're thinking big but still taking small action, we're never going to make it." — Arnaldo (2026-05-05) [A3]
+
+**Context:** Wants a system that closes the gap between strategic vision and daily execution. Not looking for motivational coaching — wants a tactical operating system that drives real action. Resonated with AI COO concept ("That sounds cool").
+
+**Tags:** #saas #pre-revenue #tactical-operator #action-oriented #ai-coo-resonance
+
+---
+
+### Judy McMurtry — JM Excel Consultant LLC — 2026-05-05
+
+**Dream:** "I'm going to train other people to do what I do so that way I can add more people to it and we can go after larger contracts." — Judy (2026-05-05) [A2]
+
+**Context:** Wants to productize her consulting methodology, license/train others, and scale from $100K to significantly more. Just acquired an international client (Sweden). Strong confidence in her framework — knows it works, needs distribution and scale.
+
+**Tags:** #consulting #service-firm #six-figures #productize-framework #train-others #international
+
+---
+
+---
+
+### Scott Keffer — Scott Keffer International — 2026-05-05
+
+**Dream:** "The next decade is the decade of impact. I'm really focused on being on the front of the curve of how to use this, how to use it well." — Scott (2026-05-05) [A4]
+
+**Context:** Has 60+ advisors in coaching program, half-dozen live events per year. Wants to systematize everything with AI while maintaining quality standards. Visionary; execution-constrained. Dan Martell referral. Personal dream NOT fully explored.
+
+**Tags:** #coaching-business #services #1m-3m-revenue #ai-adoption #systematize #referral #pipeline
+
+---
+
+### Helen Daughtrey — Mädels, die lesen. — 2026-05-04
+
+**Dream:** "I would like to travel full time and do this while traveling. I would like it to be less dependent on me." — Helen (2026-05-04) [A2]
+
+**Context:** Accidental founder who wants location independence. Business is Instagram-based book club for German speakers. She's building toward a life, not just a revenue number. Strong emotional resonance — travel and autonomy are her core motivators. Price DQ at $60K ARR, but left door open for affiliate + return.
+
+**Tags:** #b2c #community #under-100k #location-independence #automation #travel #german-market #dq-price
+

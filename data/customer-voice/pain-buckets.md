@@ -1,11 +1,11 @@
 # Pain Buckets — Living Document
-Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket: Pain (what they're stuck in) + Dream (what they want) + Objection (what stops them buying). Last updated: 2026-04-23
+Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket: Pain (what they're stuck in) + Dream (what they want) + Objection (what stops them buying). Last updated: 2026-05-05
 
 ---
 
 ## Bucket: Data You Cannot Trust
 **Priority:** 1
-**Signal strength:** 31 quotes
+**Signal strength:** 32 quotes
 **Emotional intensity:** High
 **Default awareness:** [A2] Problem-Aware
 **Avatar:** SaaS or service business founder at $30K-$500K MRR who has outgrown spreadsheets but hasn't built a real data infrastructure. Running 5-10 tools that don't talk to each other. Makes decisions on gut or stale reports. Knows the problem exists but doesn't know how to fix it without hiring a data team they can't afford.
@@ -40,6 +40,13 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "I'm trying to bake something together that can automate some things... the real challenge has been across different pieces of software. I'm doing something over here. Now I got to get that information over here. That usually means I have to use this multi-gigaflop computer to just do a manual copy and paste operation that I have to do by hand." — Fred Pollnitz / Consulting Firm (2026-04-15) [A2]
 - "I've been frustrated for years, quite a few years, that we have very powerful computers, and yet none of them are built from the ground up to look at patterns of usage by users and anticipate workflows." — Fred Pollnitz / Consulting Firm (2026-04-15) [A2]
 - "Our point of rental system doesn't have a great CRM system. So basically we're taking exporting things out of our point of rental into a spreadsheet and kind of going through that way." — Brittney Reeve / All About Events (2026-04-22) [A3]
+- "That's where I don't know for sure. And it actually this fundamental still needs to be discovered for data, customer interviews. And that's what I would want. A PM." — Yuli Azarch / Seedbox.io (2026-04-24) [A2] *(Context: 50% quarterly churn, no customer interviews, no defined aha moment for new customers. Doesn't know WHY customers churn — outsourcing discovery to a future PM hire)*
+- "I've never been a good measure of things... I kind of find it hard to monitor and track things against experiments" — Kam Lal / Notetracks (2026-04-27) [A2] *(Context: Founder admits he runs on gut feel, has tools but hasn't done the work to use them for experiment tracking)*
+- "I don't think I'm very precise with regards to how I'm monitoring changes and stuff. If I wanted to double down on SEO today, I'd have to dig into Google Analytics or Google Search Console." — Kam Lal / Notetracks (2026-04-27) [A3] *(Context: Testing SEO, ads, outbound simultaneously but has no single analytics layer tying it together)*
+- "I couldn't tell you exactly what my ARR is because I don't have time to sit down and get super scoped in on that. It's just time consuming and I need better systems." — Matthew Myers / DRE Central (2026-04-27) [A4] *(Context: Revenue exists across three streams — consulting, eLearning, DRE RMS — but none connected to a single source of truth. Metrics are tribal knowledge)*
+- "I don't know, how many influencers did we reach out to? How many answered, how many did we close? All the stuff. I don't know." — Kim Renker / 24 Hours Agency (2026-04-28) [A3] *(Context: €1-2M ARR influencer management agency, Germany. No CRM, no pipeline visibility — entire outreach funnel invisible)*
+- "With an ADHD brain it's this, this, this and this. And then you try to put it in Claude, but it doesn't get what you exactly mean because it can't see all of your data." — Kim Renker / 24 Hours Agency (2026-04-28) [A3] *(Context: Using AI tools without connected data — the tools are only as good as the data they see. Kim can't get answers because her data is scattered)*
+- "No CRM, no scorecards, no proper use of communications — scattered in different tunnels. A lot of bottlenecks." — Antonis Politis / SE&C IKE (2026-04-28) [A2] *(Context: €1M+ EU grants/SaaS business, Greece. Referred by Dan Martell. Operations completely unstructured despite significant revenue)*
 
 ### Dream Quotes (what they want instead)
 - "A single source of truth to make decisions based off of accurate data." — Garrett Campbell (2026-03-12) [A3]
@@ -52,6 +59,10 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "I want to expend the least amount of effort to do things that are required, but are neither creative nor revenue generating. So reduce the friction and drag of these processes so that time can be put into things that are more productive." — Fred Pollnitz / Consulting Firm (2026-04-15) [A2]
 - "Show them where they're losing money, where their bottlenecks are, where they're losing revenue" — Joe Garrity / Luminary Ideas (2026-04-20) [A2] *(Context: Business vision for Luminary Ideas — giving roofers visibility into their lead leakage. An operational intelligence dream for his future clients, pointing to the very pain he hasn't yet internalized as a need for himself)*
 - "I want to see our conversion rates go up. I want to see like our girls being able to have more interaction and get out of the office and be able to have more face to face time with clients." — Brittney Reeve / All About Events (2026-04-22) [A3]
+- "If I wanted to double down my SEO efforts today, I should be looking at my organic traffic from these 30 days versus the last 30 days on said articles. I should know exactly what's working." — Kam Lal / Notetracks (2026-04-27) [A3] *(Context: Concrete dream — precision data on demand without manual digging through multiple tools)*
+- "The AI takes the decision from me and tells me, hey, this is your biggest bottleneck. Focus on this, do it. And then you can do another thing." — Kim Renker / 24 Hours Agency (2026-04-28) [A3] *(Context: Kim's exact dream — AI that reads her data and prioritizes for her so she stops doing all priorities simultaneously)*
+- "I can implement it into my CRM. It has all my data. It has a better look at all the data than me, obviously. And then I can ask all the random stuff." — Kim Renker / 24 Hours Agency (2026-04-28) [A3] *(Context: Closed Won — Kim visualized the platform, said "Exactly what I imagined." AI with her real data > AI without it)*
+- "On a daily basis, can I have a scorecard where I see what is happening on different fronts — execution, project management, sales — and red flags when they come?" — Antonis Politis / SE&C IKE (2026-04-28) [A2] *(Context: Concrete operational scorecard dream — single daily view across departments with automated red-flag alerts)*
 
 ### Objection Quotes (what stops them buying)
 - "I just want the software, not coaching." — Garrett Campbell (2026-03-13) [A3] → You don't need more dashboards. You need someone to tell you which number actually matters.
@@ -65,7 +76,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Bucket: Founder Is the Ceiling
 **Priority:** 2
-**Signal strength:** 42 quotes
+**Signal strength:** 78 quotes
 **Emotional intensity:** High
 **Default awareness:** [A2] Problem-Aware
 **Avatar:** $1M-$5M revenue founder who IS the business. Every decision, every customer, every fire flows through them. Scaled to this point on sweat equity and personal heroics. Can't figure out how to extract themselves without everything breaking. Often a technical founder or craftsman who never learned to delegate. Knows they're the bottleneck but doesn't know how to build systems that work without them.
@@ -107,6 +118,17 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "I'm just trying to put together all these pieces" — Joe Garrity / Luminary Ideas (2026-04-20) [A2] *(Context: Solo founder overwhelm — building product, target list, and GTM simultaneously with no team. Classic founder-is-the-ceiling at formation stage)*
 - "There's just never enough time to do anything. My account managers, they're very like buried in basically, let's say the whirlwind just stuck in it and just kind of can't free up anytime no matter how hard I try." — Brittney Reeve / All About Events (2026-04-22) [A3]
 - "It's hard to run my office and then try to do this. Actually quite challenging to do both." — Jay Temaat / Temaat Ventures (2026-04-22) [A4]
+- "I don't feel my strengths are being represented in the company. It's too small and I have two junior people under me... I'm not a great operator." — Yuli Azarch / Seedbox.io (2026-04-24) [A3] *(Context: Strategy-and-leadership founder trapped in day-to-day ops because there's no leadership team. Wants to step back and hire a GM to run the business)*
+- "I end up spending too much of my time dealing with things that are just requiring my expertise. I don't end up getting to focus on the growth models and keeping track of metrics I should keep track of." — Matthew Myers / DRE Central (2026-04-27) [A4] *(Context: Police chief building SaaS as side business. 1 FT employee. Can't delegate because everything requires him)*
+- "Right now, we're just dealing with some problems with our payment processor. Yeah, we're a small business. There's only two of us. Actually, we don't have employees, so. Yeah, we're doing the work instead of running the business. So, my heads are just down doing that." — Sean / MRR Tech (2026-04-27) [A2] *(Context: Two-person SaaS company in operational overwhelm. Prior SaaS Academy contact who raised prices. Heads-down execution mode, not running the business strategically)*
+- "I have 50 ideas. And I know not all of them can be really important, but I don't know which of them are and which of them aren't, and I don't want to implement all of them because it's also a huge time issue." — Kim Renker / 24 Hours Agency (2026-04-28) [A3] *(Context: €1-2M ARR agency. Classic founder ceiling — capacity to see all options, no system to rank and execute them. ADHD amplifies the paralysis)*
+- "I never know where to start. And then I try to do all of them simultaneously, and then I do nothing." — Kim Renker / 24 Hours Agency (2026-04-28) [A3] *(Context: Prioritization breakdown. Kim's doing everything at once and getting zero momentum on any of it. Closed Won after platform demo resolved this specific pain)*
+- "Me and my co-founder are the nucleus of doing everything. We have grown and we don't have control anymore." — Antonis Politis / SE&C IKE (2026-04-28) [A2] *(Context: €1M+ EU SaaS/grants. Classic two-founder ceiling — both are doing everything, growth has outpaced what two people can personally handle)*
+- "We don't have the control of everything. The operations is a huge bottleneck at this point so that we go grow further." — Antonis Politis / SE&C IKE (2026-04-28) [A2] *(Context: Scaled to €1M+ on founder grit. Now stuck at the ceiling because ops can't run without them. Classic transition point from founder-led to systems-led)*
+- "I am not the COO or anything in my job, but I have been dealing with bits and parts as a line manager... it will take much time and it's not the proper use of my time." — Antonis Politis / SE&C IKE (2026-04-28) [A2] *(Context: Co-founder doing ops/line management by default. Neither founder is in their zone of genius. Both dragged into execution)*
+- "I don't want the blind leading the blind. Right, where a bunch of founders get together and talk to each other. Like, I want experts. If I'm going to spend the time to do something like that, I want to spend time with experts and not us." — Carolyn Oros / Insomniac Digital (2026-04-29) [A3] *(Context: Prior SaaS Academy member who cancelled. Biggest barrier is community/peer programs vs. expert-led coaching. Wants proven operators, not other founders figuring it out)*
+- "But what are the coaches' credentials? ... He works for big, big companies like he's got great credentials." — Kenyon Ross / Fortiffi (2026-04-29) [A2] *(Context: Comparing Precision coaches to a high-credential independent consultant. Credibility is the decision criterion. Wants proof coaches have done it before)*
+- "We're like, just shy of like 20K a month. Couple like that cross like a hundred companies. We're like smaller ticket a little bit. Maybe this month is going to be pretty hectic." — Noah Sanches / Rotor (2026-04-30) [A2] *(Context: ~$240K ARR with 100+ small-ticket accounts. Explicitly in "thick of operating" mode — awareness that they have a scale problem but not urgency to solve it now)*
 
 ### Dream Quotes (what they want instead)
 - "I want to build a system-like business driven by KPIs that runs smoother without me." — Marc Buddensiek (2026-02-25) [A2]
@@ -136,6 +158,9 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "I wanted to kind of be more of not selling something for somebody... is there any value there?" — Joe Garrity / Luminary Ideas (2026-04-20) [A2] *(Context: Career transition dream — leaving high-ticket sales to build something he believed in. Motivated by meaning/value alignment over compensation. Personal entrepreneurial identity desire)*
 - "Success for me would be 8% growth overall, each of my team members feeling like they're growing, stepping out, being able to have free space and just really just being out of the whirlwind." — Brittney Reeve / All About Events (2026-04-22) [A3]
 - "If you know what the hundred does really well, I might not have to go to the other [businesses]. This is the one." — Jay Temaat / Temaat Ventures (2026-04-22) [A4] *(Context: Jay's personal dream — tipping the domino after 7 businesses. Closed Won — self-closed.)*
+- "I'm looking to hire a mini leadership team so this business could grow and run autonomously without me... I think I'm actually the wrong person being in a business... grow the company 20% year over year in a profitable way." — Yuli Azarch / Seedbox.io (2026-04-24) [A3] *(Context: 15-year bootstrapped founder. Goal: hire GM + PM + Tech Lead and let team run it. 20% YoY growth target set explicitly. Personal dream never uncovered — Joe never asked what autonomous operation unlocks for Yuli personally)*
+- "I need better systems to support that [growth]. Better organization so I can stop doing things that require only my expertise." — Matthew Myers / DRE Central (2026-04-27) [A4] *(Context: Operational dream — systems that let him delegate so he can work ON the business. Has full-time job as police chief building this on the side. Needs leverage before the retirement transition)*
+- "What I feel I need is a lot more consulting on the consulting side. What would really prepare me to go to an investor to get the money I need to launch the program, hire the right people, etc." — Kenyon Ross / Fortiffi (2026-04-29) [A2] *(Context: Clear articulation of desired outcome: investor-ready, right team in place, funded launch. Not looking for growth hacking — looking for a business architecture guide)*
 
 ### Objection Quotes (what stops them buying)
 - "April travel to Asia — I'm unavailable for 2.5 weeks." — Alex Le (2026-03-23) [A4] → If the business stops when you travel, you don't have a business — you have a job.
@@ -154,7 +179,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Bucket: Wrong Hires Sabotage Growth
 **Priority:** 3
-**Signal strength:** 14 quotes
+**Signal strength:** 15 quotes
 **Emotional intensity:** High
 **Default awareness:** [A3] Solution-Aware
 **Avatar:** Founder who has tried to build a team 2-3 times and failed. Hired a COO, head of sales, or key operator who talked a big game and underdelivered — or worse, created chaos and stole customers. Now gun-shy about investing in people. Trust is broken. Knows they can't scale alone but terrified to try again. Looking for a system to vet, train, and hold people accountable before giving them the keys.
@@ -174,6 +199,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "Team accountability is probably the biggest thing right now... trying to figure out how to help lead the team in understanding what they're accountable for and how they can have ownership in kind of the department." — Dex Rempel / Retail Coffee (2026-04-10) [A2]
 - "There is no structure that's actually being followed... SOPs come into play when you know what hits the fan and somebody needs to be held accountable. And then they go, oh, but the SOP says, and as soon as that issue is fixed, we go back to normal where the SOPs are on a shelf." — Richard May / ECHOS Consulting (2026-04-10) [A3]
 - "My developer just started doing all of phase two and merging it together and then it just blew up the entire app into just bugs." — Alex Irvine (2026-04-16) [A2]
+- "My number one problem has repeatedly been somehow picking the worst possible vendors to help me with things. Everybody I hire is a nightmare. I don't know what I'm doing wrong." — Matthew Myers / DRE Central (2026-04-27) [A4] *(Context: Serial entrepreneur with real experience — Delta/American Airlines clients — but consistently burned by vendors/contractors. Looking for the "trusted network" component of the program)*
 
 ### Dream Quotes (what they want instead)
 - "Build the right team, hold them accountable, hit your goals, and make sure the money you're investing is getting positive ROI to continue scaling." — Khabir Muhammad (2026-03-30) [A3]
@@ -183,6 +209,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ### Objection Quotes (what stops them buying)
 - "My worry is you'll just tell us what we already know" — Jaan Apajalahti (2026-03-11) [A3] → You've been burned by consultants who charged for obvious advice. We're not them.
+- "Can I maybe see what I'm getting? Because I went into this with this other guy, he charges $2,500/month... it wasn't what I was expecting at all." — Eli Brunner / Adscope (2026-04-24) [A3] → Your last coach sold vibes. Ours shows receipts. See the system before you pay a dollar. *(Outcome: Closed Won — skepticism fully resolved by walkthrough)*
 - "I want to see social proof before committing." — Matthew Young MovingLetters.ai (2026-03-05) [A4] → You've been burned before. We have 3,000 founders who weren't.
 - "Is there a catch? Hidden fees? Auto-renewal traps?" — Matthew Young MovingLetters.ai (2026-03-05) [A4] → No contracts. No traps. 90-day opt-out. We earn your business monthly.
 - "I want to see the wow effect." — Piotr Gawlik GAVBIZ (2026-03-25) [A3] → The wow effect is your revenue going up. Everything else is theater.
@@ -195,7 +222,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Bucket: Sales Is a Black Box
 **Priority:** 4
-**Signal strength:** 41 quotes
+**Signal strength:** 54 quotes
 **Emotional intensity:** Medium
 **Default awareness:** [A2] Problem-Aware
 **Avatar:** Technical founder or product-led company that grew on word-of-mouth, referrals, or PLG but now needs outbound or sales-led growth to hit the next level. No playbook, no sales metrics, no idea if their rep is underperforming or if the process is broken. "We're engineers, not salespeople." Founder-led sales that worked to $1M but won't scale to $5M.
@@ -236,6 +263,12 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "I'm having a hard time explaining this to you, which perhaps is partially part of the problem." — Luis Amparo / ShiftPlay (2026-04-17) [A2]
 - "I threw 6 or 700 at Google Ads and I suck at marketing." — Caleb Wickers / Sign With Bind (2026-04-17) [A3]
 - "I know that I had to go see the market much earlier than I thought." — Marcelo Jo / SolutionsPlex (2026-04-20) [A2] *(Context: Building niche rental SaaS for Quebec landlords, 4 months into dev, worried about hitting growth ceiling before launch)*
+- "I'm kind of lost in where I should go and how to gain waitlist people on a wait list or just basically get ready for launch so I can have a strong launch and you know, have users and my people in my ICP that are like ready to use the product." — Eli Brunner / Adscope (2026-04-24) [A2] *(Context: Pre-revenue, pre-launch B2B SaaS for marketing agencies. Has 30 CAB members but hasn't asked anyone to pay. Burned $2,500 on an ads-only coach that wasn't helpful. Directional paralysis on channel strategy, waitlist building, and launch sequencing)*
+- "I've gone into social media... I just don't know for sure. Yeah, I just don't know." — Eli Brunner / Adscope (2026-04-24) [A2] *(Context: Tried organic social, ran into same confusion — is it ads, is it social, what's the channel? Previous coach gave bad advice — run ads immediately, pre-MVP. No framework for deciding)*
+- "channels that have brought me stuff, I don't really have control over" — Kam Lal / Notetracks (2026-04-27) [A3] *(Context: 5-year-old audio SaaS at sub-$10K MRR; growth has come from uncontrolled channels and he can't reproduce or scale them)*
+- "I've been looking at other channels trying to see if I could get faster growth... Jack of all trades, master of none." — Kam Lal / Notetracks (2026-04-27) [A3] *(Context: Scattered channel experimentation without mastery. SEO has been best but Kam keeps chasing shiny objects instead of doubling down)*
+- "I have not really mastered the channel that's the best. I still don't know. I've been looking at other channels trying to expand — jack of all trades, master of none." — Kam Lal / Notetracks (2026-04-27) [A3] *(Context: No channel clarity AND no mastery of the channels tested. Five years of scattered experimentation)*
+- "Software sales is definitely something new to us. Yeah. We don't have a background in software sales." — Brian Hodge / Selling Toolz (2026-04-27) [A2] *(Context: Owner of 120-agent real estate brokerage who recently acquired a SaaS/CRM company. Has operational execution experience but no software sales motion)*
 
 ### Dream Quotes (what they want instead)
 - "Hit $17M ARR. Predictable, repeatable pipeline generation." — Scott Messick (2026-03-26) [A3]
@@ -252,6 +285,10 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "I want to replace my income." — Luis Amparo / ShiftPlay (2026-04-17) [A2] *(Context: B2B gamification; current revenue zero; separate AI app he sees as wealth vehicle)*
 - "Ten clients in a year doesn't seem unrealistic if I have the volume to essentially feed the pipeline. $2-5 million ARR within two years." — Etienne Bernard / NORA Strategy (2026-04-20) [A3] *(Context: Enterprise pricing $50-100K/client/year. AI agent displacing McKinsey/Bain/BCG. Solo attacking large enterprise mid-market)*
 - "I want to see which areas you guys help. Is it for customer acquisition? Ways to promote? Advertising? Based on the successful SaaS companies you've seen in these industries — I want to replicate those." — Haroon Naseer / Protego AI (2026-04-20) [A2] *(Context: Pre-launch AI product founder. Wants a proven playbook — knows he's building into a market, just needs the framework)*
+- "Not just go out into the market with a few followers and validation... be able to have the strongest launch." — Eli Brunner / Adscope (2026-04-24) [A2] *(Context: Pre-revenue pre-launch B2B SaaS. Wants strong launch, validated demand, and confidence he's building the right thing. Closed Won at $1K/month. Personal dream never uncovered — Joe never asked what Adscope's success changes for Eli personally)*
+- "full focus on MRR, trying to figure out, you know, what channels and scale that" — Kam Lal / Notetracks (2026-04-27) [A3] *(Context: After years of funding-mode and one-off revenue injections, pivoting to proper MRR-growth focus. Wants a repeatable channel engine)*
+- "Just pick one thing, do it well, and let that be the driver. There are companies that have been built on SEO purely, or outbound marketing purely. That's what I want." — Kam Lal / Notetracks (2026-04-27) [A3] *(Context: Channel mastery dream — focus, commitment, one channel that works reliably. Been too scattered for too long. Wants permission and structure to commit)*
+- "Looking at potential platform coaching, training, just on how to really take it and scale it to what it's meant to be." — Brian Hodge / Selling Toolz (2026-04-27) [A2] *(Context: New SaaS company owner with real estate background. Development team revamping product. Wants to build sales and growth infrastructure right from the start — motivated by Dan Sullivan's Software as a Science book)*
 
 ### Objection Quotes (what stops them buying)
 - "I need to speak with my sales manager." — Piotr Gawlik GAVBIZ (2026-03-25) [A3] → If you need your sales manager's permission, you don't have visibility into your own pipeline.
@@ -262,7 +299,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Bucket: Revenue Is Bleeding
 **Priority:** 5
-**Signal strength:** 19 quotes
+**Signal strength:** 36 quotes
 **Emotional intensity:** High
 **Default awareness:** [A3] Solution-Aware
 **Avatar:** Company experiencing churn spikes, pricing pressure, or a multi-year plateau. Growth has stalled or reversed despite working harder. Competitor with better model is eating lunch. Pricing doesn't create predictability. Customers leave and they don't know why until the credit card stops working. Feels like running on a treadmill that keeps speeding up.
@@ -283,6 +320,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "The best way to charge for it — we have thrown ideas around but we haven't sat down and set a firm this is how we're going to do it." — Chris Rios / Outdoor Lighting SaaS (2026-04-14) [A3]
 - "Financially, I don't have any funds right now. I was looking for someone that could come alongside and maybe market and for a certain amount of time and take percentage of the monthly recurring until we get to a certain place." — Vincent Broomfield / StewardPro (2026-04-17) [A2]
 - "I want to replace my income." — Luis Amparo / ShiftPlay (2026-04-17) [A2] *(Context: pre-revenue B2B gamification; income replacement is the bar; no runway either)*
+- "We're not growing and I'm looking to change it. The last six months we grew very little, like 5% and had a new affiliate come over randomly. Not even our effort. So luck came in a little extra." — Yuli Azarch / Seedbox.io (2026-04-24) [A3] *(Context: 15-year bootstrapped B2C SaaS. $150K MRR, profitable, plateau for 2 years. 50% churn on new acquisitions every 3 months)*
 
 ### Dream Quotes (what they want instead)
 - "$2 million in recurring revenue within 12 months. Double from $80K MRR to $167K MRR." — Matthew Young (2026-03-05) [A4]
@@ -294,6 +332,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "We have targets — churn targets, growth targets, product launches that we're doing, you know, all of these things are relevant in our business." — Richard Milligan (2026-03-24) [A2]
 - "We would like to scale it to another species." — Paul Boudreau / Everbreed LLC (2026-04-13) [A2]
 - "We want to get to the point where we have 50k plus in MRR at least to be able to run this." — Pulkit Agarwal / EverTest (2026-04-13) [A3]
+- "2x revenue minimum, new products, operations stabilized." — Antonis Politis (2026-04-29)
 
 ### Objection Quotes (what stops them buying)
 - "The thousand would hurt right now." — Therrance Corrothers (2026-03-23) [A3] → If $1K feels impossible, the problem isn't the price — it's the margin.
@@ -311,7 +350,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Bucket: Spend Frozen by Uncertainty
 **Priority:** 6
-**Signal strength:** 49 quotes
+**Signal strength:** 51 quotes
 **Emotional intensity:** Medium
 **Default awareness:** [A3] Solution-Aware
 **Avatar:** Bootstrapped or lean-funded founder who knows they need to invest to grow but is paralyzed by lack of ROI visibility. Every dollar is precious and personally felt. Has been burned by tools, consultants, or coaches that promised the world and delivered a PDF. Needs proof before commitment. Will spend once they trust — but trust has to be earned, not assumed.
@@ -410,6 +449,28 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "I think we'll do better to do that after my trip. I will get back here May 10th or later." — Marcelo Jo / SolutionsPlex (2026-04-20) [A2] → Every week you wait, a competitor with worse product but better GTM closes your prospect.
 - "I want to look at my budget, make sure I can work that into there and then that fits in. I'm going to hit my bottom line... I can have an answer for you by tomorrow." — Brittney Reeve / All About Events (2026-04-22) [A3] → Every month your team burns 40 hours on spreadsheets. That's the real line item. *(Outcome: Weak BAMFAM — APR 23 follow-up for budget decision)*
 - "What's the likelihood of success of this? How probable is it that the people that hire you guys find themselves with a viable product that goes to market?" — Jay Temaat / Temaat Ventures (2026-04-22) [A4] → 7 businesses deep and still asking 'will this work?' — the real cost is another year of maybe. *(Outcome: Closed Won — Jay self-closed)*
+- "I need to think it through. I'm considering it. I see it both ways... maybe I need something else for B2C so I don't know." — Yuli Azarch / Seedbox.io (2026-04-24) [A3] → Founders who 'need to think about it' are still thinking six months later — while their plateau compounds. *(Handling: No BAMFAM, no consequence question — ball left in prospect's court. No close)*
+- "Is that billed monthly or a one-time payment of $12K?" — Eli Brunner / Adscope (2026-04-24) [A3] → Founders who flinch at $1K/month are bleeding $10K/month in opportunity cost they can't see. *(Outcome: Closed Won — non-issue once monthly billing explained)*
+
+
+## Bucket: Feeling Unheard or Misaligned
+**Priority:** 5
+**Signal strength:** 3 quotes
+**Emotional intensity:** Medium
+
+### Supporting Quotes
+
+---
+
+
+## Bucket: Interviewer Probing Questions
+**Priority:** 5
+**Signal strength:** 3 quotes
+**Emotional intensity:** Medium
+
+### Supporting Quotes
+
+---
 
 ## Unassigned (Pending Review)
 - (MISSING: personal dream never uncovered — Austin disclosed he came in "from ground up" and is being allocated shares. He described running the business "full by myself." The personal dream — what does a successful exit mean for Austin specifically — was never asked. Coaching gap for champion development.) — Austin Brummer / Requidex (2026-04-09) [A3]
@@ -453,5 +514,23 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "You could definitely take me off your list. It's probably been six or seven years." — Seth Freedman (2026-04-03) [A1] — *Stale lead, DNC. JC accepted gracefully.*
 
 
+## Unassigned (DQ'd — Anti-ICP: Local Marketing Agency / AI Training)
+
+*Matt Saunders, Local Marketing Agency SLC (2026-04-23) — Agency-as-trainer model, staff development focus. Not a SaaS GTM problem. Local market ceiling. Anti-ICP confirmed.*
+
+### Pain Quotes
+- "My staff is learning how to use AI. They're learning how to create some agents that will actually take some of our workload and then free them up to do things that are more important." — Matt Saunders / Local Marketing Agency SLC (2026-04-23) [A3] — *Anti-ICP: capacity management solved internally via AI training, not a scaling or operational intelligence problem.*
+- "We're basically trying to enhance our capabilities of our staff." — Matt Saunders / Local Marketing Agency SLC (2026-04-23) [A3] — *Anti-ICP: staff development bottleneck, not founder ceiling or data gap. Training-led model, wrong ICP.*
+
+### Dream Quotes
+- "Instead of just doing all the marketing for that company, we're actually training their staff to be on the front edge of... this whole AI thing. We want that company to actually grow as well, not just rely on somebody else." — Matt Saunders / Local Marketing Agency SLC (2026-04-23) [A3] — *Anti-ICP: agency-as-trainer vision, client independence through AI education. No personal urgency or scale ambition.*
+- "There's huge money right now in training companies how to do AI." — Matt Saunders / Local Marketing Agency SLC (2026-04-23) [A3] — *Anti-ICP: local market revenue play. Ceiling is local saturation, not GTM at scale.*
+
+### Objection Quotes
+- "I typically go to Udemy and I literally have a standard that I require from anything I get and I pay 12 to $24 for training." — Matt Saunders / Local Marketing Agency SLC (2026-04-23) [A2] → Your $12 Udemy course isn't why you're stuck at the same revenue for three years. *(Bucket: Spend Frozen by Uncertainty | Anti-ICP — Udemy framing reflects deeper misalignment; JC disclosed price without framing gap. No AAA structure.)*
+- "It sounds like we do the same thing. I appreciate the call." — Matt Saunders / Local Marketing Agency SLC (2026-04-23) [A2] → Teaching AI tricks isn't the same as closing six-figure deals. *(Anti-ICP — Matt self-closed. JC accepted gracefully without DQ language or end-of-call control.)*
+
+
 ## Unassigned (Pending Review)
 <!-- Quotes that don't clearly fit existing buckets. 3+ similar = new bucket candidate. -->
+- "Let's say we do work together — celebrating a fantastic year — what does success look like?" — Antonis Politis (2026-04-29)
