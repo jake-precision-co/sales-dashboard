@@ -1,6 +1,6 @@
 # AE Growth Session Leaderboard 🏆
 
-_Last updated: 2026-04-17_
+_Last updated: 2026-05-05_
 
 | Rank | Rep | Prospect | Company | Score | Tier | Date | Outcome |
 |------|-----|----------|---------|-------|------|------|---------|
@@ -16,7 +16,8 @@ _Last updated: 2026-04-17_
 | 7 | Joe Meyers | Therrance Corrothers | Thurr Solutions | 68/100 🟠 | Core | 2026-03-23 | BAMFAM'd |
 | 8 | Joe Meyers | Eli Brunner | Adscope | 69/100 🟠 | Core | 2026-04-24 | Closed Won |
 | 9 | Joe Meyers | Omar Laythi | Pre-Launch SaaS | 64/100 🟠 | Core | 2026-04-16 | Weak BAMFAM — deferred ("reach out when ready") |
-| 10 | Joe Meyers | Antonis Politis | SE&C IKE | 65/100 🟠 | Growth ($2K) | 2026-04-28 | Weak BAMFAM (May 5 — co-founder review, price concern) |
+| 10 | Joe Meyers | Brenden Melanson | BuildBox Pro | 65/100 🟠 | Core ($1K) | 2026-05-04 | Closed Won |
+| 11 | Joe Meyers | Antonis Politis | SE&C IKE | 65/100 🟠 | Growth ($2K) | 2026-04-28 | Weak BAMFAM (May 5 — co-founder review, price concern) |
 | 9 | Joe Meyers | Chris Rios | Outdoor Lighting / SaaS | 67/100 🟠 | Core | 2026-04-14 | Strong BAMFAM (99.9% yes, 10am tomorrow) |
 | 9 | Joe Meyers | Matthew Young | MovingLetters.ai | 67/100 🟠 | Growth | 2026-03-05 | Closed Won |
 | 9 | Joe Meyers | Brad Powell | Red Board | 63/100 🟠 | Growth | 2026-03-17 | BAMFAM'd |
@@ -30,7 +31,8 @@ _Last updated: 2026-04-17_
 | 14 | Joe Meyers | Matthew Myers | DRE Central | 55/100 🔴 | Core | 2026-04-27 | Weak BAMFAM (Thursday follow-up) |
 | 15 | Joe Meyers | Dan Huck | Painting Company | 55/100 🔴 | Core | 2026-03-20 | No Next Step |
 | 15 | Joe Meyers | Matas Jakutis | BM Digital | 54/100 🔴 | Growth | 2026-03-05 | BAMFAM'd |
-| 16 | Joe Meyers | Garrett Campbell | Objectionly | 51/100 🔴 | Growth | 2026-03-13 | BAMFAM'd |
+| 16 | Joe Meyers | Ben Grove | Growth Factor AI | 51/100 🔴 | Growth ($2K) | 2026-05-04 | Strong BAMFAM (Wednesday follow-up, June 1 start) |
+| 17 | Joe Meyers | Garrett Campbell | Objectionly | 51/100 🔴 | Growth | 2026-03-13 | BAMFAM'd |
 | 19 | Joe Meyers | Jay Temaat (Pt 2) | Temaat Ventures (State Farm SaaS) | 49/100 🔴 | Growth ($2K) | 2026-04-22 | Closed Won 🎉 |
 | 19 | Joe Meyers | Jay Temaat | Temaat Ventures (State Farm SaaS) | 48/100 🔴 | Core/$2K | 2026-04-15 | Weak BAMFAM (April 22 — shopping coaches) |
 | 19 | Joe Meyers | Kam Lal | Notetracks | 48/100 🔴 | Core | 2026-04-27 | No Next Step — "Ball in your court" |
