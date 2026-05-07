@@ -47,6 +47,8 @@ _Last updated: 2026-05-05_
 | — | Joe Meyers | Luis Amparo | ShiftPlay | 22/100 🔴 | None | 2026-04-17 | No Next Step (not ready — pre-revenue) |
 | — | Joe Meyers | Alex Irvine | Irvine BnB Experience | 37/100 🔴 | None | 2026-04-16 | DQ'd — appropriate (needs developer) |
 | — | Joe Meyers | Joe Garrity | Luminary Ideas | 33/100 🔴 | None | 2026-04-20 | DQ'd — appropriate (pre-launch, no data) |
+| — | Joe Meyers | Scott Keffer | Scott Keffer International | 36/100 🔴 | Core/Growth | 2026-05-05 | Strong BAMFAM (Friday May 8, 3PM — decision call) |
+| — | Joe Meyers | Helen Daughtrey | Mädels, die lesen. | 40/100 🔴 | Core | 2026-05-04 | DQ'd (appropriate — price, $60K ARR; affiliate bridge left) |
 
 ---
 
@@ -56,4 +58,4 @@ _Last updated: 2026-05-05_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-04-29_
+_Last updated: 2026-05-06_
