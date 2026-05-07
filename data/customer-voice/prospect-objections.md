@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-06
+Auto-updated after every scored call. Last updated: 2026-05-07
 
 ---
 
@@ -707,3 +707,16 @@ By source:
 **"Is there a possibility that if I figured this out, I could return to you in a couple of months?"**
 — Helen Daughtrey, Mädels, die lesen. (2026-05-04) [A2] | Timing | Joe: "Yes, you can sign up at any time. Send me an email." — No BAMFAM attempt, no specific date offered. Left ball in her court. | Outcome: DQ'd, nurture track only.
 
+
+---
+
+**"I don't think I'm there yet to utilize your company at that point."** (wrong booking intent — misalignment)
+— Judy McMurtry (2026-05-06) [A2] | Joe said "It's perfectly all right" and soft-pivoted to curiosity questions. Did not probe with consequence question. | DQ'd — call ended with loose "reach out when ready" (no calendar)
+
+**"I would love to work with you guys, but not at this moment. Let me get some things in place to be more stable."** (Timing objection)
+— Judy McMurtry (2026-05-06) [A2] | Joe accepted "fair enough" with no consequence question or looping back to pain. | DQ'd — appropriate but consequence question was missed
+
+---
+
+**"Sorry, man. This is not a good time. Do you want to send me an email? I'm happy to write something up."** (Email Redirect + Timing)
+— Andrew Dolan, Supporting Cast (2026-05-06) [A3] | JC: acknowledged ("yes, no worries") → immediately confirmed email → ended call. No AAA attempt. | Outcome: No next step — email sent, no callback scheduled.

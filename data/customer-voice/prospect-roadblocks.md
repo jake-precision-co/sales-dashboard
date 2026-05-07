@@ -2343,3 +2343,35 @@
 
 **Other:** B2C, Community, Under 100K, Imposter Syndrome, First Time Founder, German Market, Dq Price
 
+
+### Judy McMurtry — JM Excel Consultant LLC (Total Business Turnaround) — 2026-05-06
+
+**Roadblock:** "I'm a solopreneur. It's not going to work just being a solopreneur, for sure. I need a team." — Judy McMurtry (2026-05-06) [A2]
+
+**Context:** Consulting/coaching founder, 2 clients, recently formalized framework. Knows she needs to scale but hasn't built the team infrastructure to support growth. This was her stated reason for not engaging Precision.
+
+**Tags:** #consulting #coaching #under-50k #no-decision #none
+
+---
+
+**Roadblock:** "I need other coaches that I have to teach how to do this... I'm looking to find even if I identify five people that I can bring in whether it's 1099 for now to get started but they have to understand my framework." — Judy McMurtry (2026-05-06) [A2]
+
+**Context:** Recognizes the solopreneur bottleneck but is still in planning mode. Believes she needs to solve the team problem BEFORE engaging coaching/scaling support — classic "I'll fix it myself first" stall.
+
+**Tags:** #consulting #coaching #under-50k #no-decision #none
+
+### Jackson — Sigil — 2026-05-06
+
+**Roadblock:** "I don't want to just, it's basically like, hey, I read the book, this is great. This is an upload, we're in the process of implementing it. But then I want to keep this information top of mind and just make sure, you know, learning well." — Jackson (2026-05-06) [A3]
+
+**Context:** Tech-enabled SaaS company (Amazon/Walmart fraud removal). Found Precision via SaaS Academy and "Software as a Science." Roadblock is implementation confidence — has the framework from the book but doesn't trust his own execution. Low-urgency framing hides real fear of not applying things correctly.
+
+**Tags:** #tech-enabled-saas #early-mrr #booked #inbound-mql
+
+### Andrew Dolan — Supporting Cast — 2026-05-06
+
+**Roadblock:** "I was a part of it last year. [Didn't renew]." — Andrew Dolan (2026-05-06) [A3]
+
+**Context:** Former SaaS Academy member, General Manager at Supporting Cast. Did not renew — specific reason not surfaced (call ended at email redirect). Roadblock is prior experience disappointment or implementation failure — exact nature unknown. JC did not probe deeply enough to qualify.
+
+**Tags:** #saas #unknown-mrr #no-next-step #callback

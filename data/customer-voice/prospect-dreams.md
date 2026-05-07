@@ -1287,3 +1287,27 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Tags:** #b2c #community #under-100k #location-independence #automation #travel #german-market #dq-price
 
+
+### Judy McMurtry — JM Excel Consultant LLC (Total Business Turnaround) — 2026-05-06
+
+**Dream:** "I know this is going to take off... I'm ready to start scaling." — Judy McMurtry (2026-05-06) [A2]
+
+**Context:** Strong internal conviction that her framework works and will scale. Not lacking belief — lacking team structure. Dreams of leading a "freedom team" / "dream team" of coaches.
+
+**Tags:** #consulting #coaching #under-50k #no-decision #none
+
+---
+
+**Dream (personal — volunteered as signal):** "Once I get my freedom team, my dream team in place, then I'm ready." — Judy McMurtry (2026-05-06) [A2]
+
+**Context:** ❌ PERSONAL DREAM NOT FULLY UNCOVERED by Joe — but Judy self-revealed language around "freedom team" and readiness. The dream of building a team and not being trapped as a solopreneur is clearly emotionally loaded. Joe never explored what "freedom" would mean for her personally.
+
+**Tags:** #consulting #coaching #under-50k #no-decision #none
+
+### Jackson — Sigil — 2026-05-06
+
+**Dream (business):** "We're trying to focus on execution now... step one, I know we've got to fix our marketing funnel, then we've got to get one channel and turn that green before going on to the other channel." — Jackson (2026-05-06) [A3]
+
+**Context:** Co-founder of Sigil, tech-enabled fraud detection/removal service for Amazon/Walmart brands. Has the SaaS framework from "Software as a Science" — his dream is methodical, step-by-step execution to predictable growth. Wants channel clarity and green-light confidence before scaling.
+
+**Tags:** #tech-enabled-saas #early-mrr #booked #inbound-mql
