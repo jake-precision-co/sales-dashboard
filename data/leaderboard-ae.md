@@ -16,8 +16,9 @@ _Last updated: 2026-05-05_
 | 7 | Joe Meyers | Therrance Corrothers | Thurr Solutions | 68/100 🟠 | Core | 2026-03-23 | BAMFAM'd |
 | 8 | Joe Meyers | Eli Brunner | Adscope | 69/100 🟠 | Core | 2026-04-24 | Closed Won |
 | 9 | Joe Meyers | Omar Laythi | Pre-Launch SaaS | 64/100 🟠 | Core | 2026-04-16 | Weak BAMFAM — deferred ("reach out when ready") |
-| 10 | Joe Meyers | Brenden Melanson | BuildBox Pro | 65/100 🟠 | Core ($1K) | 2026-05-04 | Closed Won |
-| 11 | Joe Meyers | Antonis Politis | SE&C IKE | 65/100 🟠 | Growth ($2K) | 2026-04-28 | Weak BAMFAM (May 5 — co-founder review, price concern) |
+| 10 | Joe Meyers | Brian Sampson | Tether | 65/100 🟠 | Core ($1K) | 2026-05-07 | Closed Won |
+| 11 | Joe Meyers | Brenden Melanson | BuildBox Pro | 65/100 🟠 | Core ($1K) | 2026-05-04 | Closed Won |
+| 12 | Joe Meyers | Antonis Politis | SE&C IKE | 65/100 🟠 | Growth ($2K) | 2026-04-28 | Weak BAMFAM (May 5 — co-founder review, price concern) |
 | 9 | Joe Meyers | Chris Rios | Outdoor Lighting / SaaS | 67/100 🟠 | Core | 2026-04-14 | Strong BAMFAM (99.9% yes, 10am tomorrow) |
 | 9 | Joe Meyers | Matthew Young | MovingLetters.ai | 67/100 🟠 | Growth | 2026-03-05 | Closed Won |
 | 9 | Joe Meyers | Brad Powell | Red Board | 63/100 🟠 | Growth | 2026-03-17 | BAMFAM'd |
@@ -59,4 +60,4 @@ _Last updated: 2026-05-05_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-05-07_
+_Last updated: 2026-05-08_
