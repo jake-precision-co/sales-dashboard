@@ -8,6 +8,17 @@
 - **Close:** When you hear the dream on the call, mirror it back in the offer section
 - **Coaching:** Show reps what great Gap stretching looks like — these are the visions that create urgency
 
+---
+
+### Brian Sampson — Tether (Efficiency Consultants / Custom Software) — 2026-05-07
+
+**Dream:** "I'm ready to start hustling... and basically break out of the operations that I've been stuck in for a long time." — Brian (2026-05-07) [A4]
+
+**Context:** 30-year operator who's been head-down in client work; SaaS product is the vehicle for breaking free — not just a business goal, it's a personal identity transition: from service provider to product company founder.
+
+**Tags:** #tech #services-company #founder-led #freedom #product-launch
+(MISSING: personal dream was never directly uncovered via intentional questioning — surfaced organically at [1449.7s]. Joe never asked "what does this unlock for YOU personally?")
+
 **Tags explained:**
 - **#industry** = Vertical or market (e.g., #saas #credit-unions #painting #direct-mail)
 - **#mrr-range** = Revenue tier (e.g., #under-50k #50k-100k #100k-500k #500k-plus)

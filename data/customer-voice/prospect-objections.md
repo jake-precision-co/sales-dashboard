@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-07
+Auto-updated after every scored call. Last updated: 2026-05-08
 
 ---
 
@@ -13,6 +13,9 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 ---
 
 ### Price / Budget
+
+**"Yeah, I think I do want to do it. I do need to decide when. When that actual start date might be."** (soft timing hesitation at close)
+— Brian Sampson / Tether (2026-05-07) [A4] | Joe responded with logistics (dynamic enrollment, start anytime) — didn't probe the underlying hesitation or loop to urgency | Closed Won — hesitation was surface-level; deal still closed but Joe got lucky, didn't truly handle
 
 **"I'm not ready for it. I don't have the budget for it. But I don't want to waste your time here."**
 — Noah / Baseworks Consulting (2026-04-08) [A2] | JC pivoted to asking for a website — objection completely ignored, no AAA | No next step — objection never resolved, floated through the entire call unaddressed
@@ -720,3 +723,9 @@ By source:
 
 **"Sorry, man. This is not a good time. Do you want to send me an email? I'm happy to write something up."** (Email Redirect + Timing)
 — Andrew Dolan, Supporting Cast (2026-05-06) [A3] | JC: acknowledged ("yes, no worries") → immediately confirmed email → ended call. No AAA attempt. | Outcome: No next step — email sent, no callback scheduled.
+
+**"Maybe I should probably reach market validation first. And then at that stage is really where I'm looking to kind of leave my full-time gig. And that's probably the appropriate timing of when I would engage."**
+— Jonathan Revere / Valisci (2026-05-07) [A2] | JC said "Well, cool. But yeah, no worries." — immediate surrender, no AAA, no probe of what "market validation" means | No next step — timing objection accepted at face value
+
+**"I don't remember, just didn't integrate properly with their stuff and we figured it out on our own."** (Former Customer churn reason)
+— Jason Maxwell / 1Clean Air (2026-05-07) [A3] | JC acknowledged and pivoted to "things have evolved tremendously" — reasonable but didn't probe the current solution for gaps | No next step — Jason self-resolved; JC didn't attempt a meeting ask before the call ended

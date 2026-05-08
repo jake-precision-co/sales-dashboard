@@ -8,6 +8,32 @@
 - **Product:** Surface recurring patterns to inform roadmap priorities
 - **Coaching:** Show reps what great discovery sounds like - these are the quotes that unlock deals
 
+---
+
+### Brian Sampson — Tether (Efficiency Consultants / Custom Software) — 2026-05-07
+
+**Roadblock:** "I am strapped in that way. However, things are changing and I'm finding more time and I'm considering, you know, a product." — Brian (2026-05-07) [A4]
+
+**Context:** Owner-operator time trap — 30 years building custom software for clients, wants to spin off a SaaS product but keeps getting pulled back into consulting operations.
+
+**Tags:** #tech #services-company #founder-led #sub-$1M
+
+---
+
+**Roadblock:** "We both tried to basically put in some amount of time. Yeah, you know, and I did actually get lucky with like, you know, eight. One sale. But it was like a data sale. It wasn't exactly what we were going for." — Brian (2026-05-07) [A4]
+
+**Context:** Prior go-to-market attempt with a co-owned TMS product stalled — lacked dedicated time and team to execute a proper GTM. Revenue came in sideways, not from the intended product.
+
+**Tags:** #tech #services-company #product-gtm-failure #founder-led
+
+---
+
+**Roadblock:** "It's still a grind, you know, and it's like we all still project based too, right? Like every single thing is its own product." — Brian (2026-05-07) [A4]
+
+**Context:** Services company ceiling — revenue and capacity directly tied to individual projects and human time; no path to passive or scalable MRR without productizing.
+
+**Tags:** #tech #services-company #project-based #founder-led
+
 **Tags explained:**
 - **#industry** = Vertical or market (e.g., #saas #credit-unions #painting #direct-mail)
 - **#mrr-range** = Revenue tier (e.g., #under-50k #50k-100k #100k-500k #500k-plus)
@@ -2375,3 +2401,35 @@
 **Context:** Former SaaS Academy member, General Manager at Supporting Cast. Did not renew — specific reason not surfaced (call ended at email redirect). Roadblock is prior experience disappointment or implementation failure — exact nature unknown. JC did not probe deeply enough to qualify.
 
 **Tags:** #saas #unknown-mrr #no-next-step #callback
+
+### Jonathan Revere — Valisci — 2026-05-07
+
+**Roadblock:** "It's really difficult for me during business hours to schedule these meetings, just because right now my work schedule's pretty chaotic." — Jonathan (2026-05-07) [A2]
+
+**Context:** Pre-revenue SaaS founder still employed full-time. Building Valisci on the side. Chaotic schedule is the structural blocker to engagement — not lack of interest. "I'm certainly interested. Things have been in motion with Valacy."
+
+**Tags:** #saas #pre-revenue #vibe-coder #rebook #timing
+
+---
+
+**Roadblock:** "Maybe I should probably reach market validation first. And then at that stage is really where I'm looking to kind of leave my full-time gig." — Jonathan (2026-05-07) [A2]
+
+**Context:** Jonathan is setting a self-imposed milestone ("market validation") before investing in coaching. He's pre-PMF and working a full-time job. He sees Precision as a post-PMF resource, not a get-to-PMF accelerator. Reframe opportunity: coaching compresses the path to market validation.
+
+**Tags:** #saas #pre-revenue #timing-milestone #first-saas-company #rebook
+
+---
+
+### Jason Maxwell — 1Clean Air — 2026-05-07
+
+**Roadblock:** "I don't remember, just didn't integrate properly with their stuff and we figured it out on our own." — Jason (2026-05-07) [A3]
+
+**Context:** Former Customer churn reason. Integration failure + lack of AI tooling at the time. They eventually solved it themselves with AI. Implication: they were with Precision before AI was a core capability — the integration gap that killed the relationship may now be resolved on Precision's end.
+
+**Tags:** #former-customer #integration-failure #canada #win-back #self-resolved
+
+---
+
+**Note:** Business type for 1Clean Air unverified. Company name and .ca domain suggest HVAC/air quality services (potential offline Anti-ICP). Confirm before any future re-engagement: "Is 1Clean Air a software company or a services company?"
+
+**Tags:** #former-customer #anti-icp-risk #canada #unconfirmed-business-type
