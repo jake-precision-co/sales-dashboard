@@ -16,7 +16,9 @@
 
 **Context:** Owner-operator time trap — 30 years building custom software for clients, wants to spin off a SaaS product but keeps getting pulled back into consulting operations.
 
-**Tags:** #tech #services-company #founder-led #sub-$1M
+**Industry:** Tech / Services  
+**MRR:** Under $1M  
+**Other:** Founder-Led
 
 ---
 
@@ -24,7 +26,8 @@
 
 **Context:** Prior go-to-market attempt with a co-owned TMS product stalled — lacked dedicated time and team to execute a proper GTM. Revenue came in sideways, not from the intended product.
 
-**Tags:** #tech #services-company #product-gtm-failure #founder-led
+**Industry:** Tech / Services  
+**Other:** Product GTM Failure, Founder-Led
 
 ---
 
@@ -32,13 +35,15 @@
 
 **Context:** Services company ceiling — revenue and capacity directly tied to individual projects and human time; no path to passive or scalable MRR without productizing.
 
-**Tags:** #tech #services-company #project-based #founder-led
+**Industry:** Tech / Services  
+**Other:** Project-Based, Founder-Led
 
-**Fields:**
-- **Industry** = Vertical or market (e.g., SaaS, Credit Unions, Painting, Direct Mail)
-- **MRR** = Revenue tier (e.g., Under $50K, $50K–$100K, $100K–$500K, $500K+, Pre-Revenue, Unknown)
-- **Outcome** = Deal outcome (Closed Won, Closed Lost, No Decision, In Pipeline, No Next Step)
-- **Tier** = Precision tier discussed (Core $1K, Growth $2K, Scale $5K, Unknown)
+**Field Reference:**
+- **Industry:** Vertical or market (e.g., SaaS, Credit Unions, Painting, Direct Mail)
+- **MRR:** Revenue tier (e.g., Under $50K, $50K–$100K, $100K–$500K, $500K+, Pre-Revenue, Unknown)
+- **Outcome:** Deal outcome (e.g., Closed Won, Closed Lost, No Decision, In Pipeline, No Next Step)
+- **Tier:** Precision tier discussed (e.g., Core $1K, Growth $2K, Scale $5K, Unknown)
+- **Other:** Custom labels for additional context
 
 ---
 
