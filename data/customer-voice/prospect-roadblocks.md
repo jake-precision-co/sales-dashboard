@@ -34,11 +34,11 @@
 
 **Tags:** #tech #services-company #project-based #founder-led
 
-**Tags explained:**
-- **#industry** = Vertical or market (e.g., #saas #credit-unions #painting #direct-mail)
-- **#mrr-range** = Revenue tier (e.g., #under-50k #50k-100k #100k-500k #500k-plus)
-- **#closed-won / #closed-lost / #no-decision / #pipeline** = Deal outcome
-- **#tier** = Precision tier discussed (#core-1k #growth-2k #scale-5k)
+**Fields:**
+- **Industry** = Vertical or market (e.g., SaaS, Credit Unions, Painting, Direct Mail)
+- **MRR** = Revenue tier (e.g., Under $50K, $50K–$100K, $100K–$500K, $500K+, Pre-Revenue, Unknown)
+- **Outcome** = Deal outcome (Closed Won, Closed Lost, No Decision, In Pipeline, No Next Step)
+- **Tier** = Precision tier discussed (Core $1K, Growth $2K, Scale $5K, Unknown)
 
 ---
 
@@ -782,7 +782,7 @@
 
 ---
 
-**Last updated:** 2026-03-27 
+**Last updated:** 2026-05-06 
 **Total entries:** 44 roadblocks across 20 prospects 
 **Auto-populated by:** Betty (call-evaluator skill)
 
@@ -2376,7 +2376,10 @@
 
 **Context:** Consulting/coaching founder, 2 clients, recently formalized framework. Knows she needs to scale but hasn't built the team infrastructure to support growth. This was her stated reason for not engaging Precision.
 
-**Tags:** #consulting #coaching #under-50k #no-decision #none
+**Industry:** Consulting, Coaching  
+**MRR:** Under $50K  
+**Outcome:** No Decision  
+**Tier:** Unknown
 
 ---
 
@@ -2384,7 +2387,10 @@
 
 **Context:** Recognizes the solopreneur bottleneck but is still in planning mode. Believes she needs to solve the team problem BEFORE engaging coaching/scaling support — classic "I'll fix it myself first" stall.
 
-**Tags:** #consulting #coaching #under-50k #no-decision #none
+**Industry:** Consulting, Coaching  
+**MRR:** Under $50K  
+**Outcome:** No Decision  
+**Tier:** Unknown
 
 ### Jackson — Sigil — 2026-05-06
 
@@ -2392,7 +2398,10 @@
 
 **Context:** Tech-enabled SaaS company (Amazon/Walmart fraud removal). Found Precision via SaaS Academy and "Software as a Science." Roadblock is implementation confidence — has the framework from the book but doesn't trust his own execution. Low-urgency framing hides real fear of not applying things correctly.
 
-**Tags:** #tech-enabled-saas #early-mrr #booked #inbound-mql
+**Industry:** Tech-Enabled SaaS  
+**MRR:** Early MRR  
+**Outcome:** In Pipeline  
+**Other:** Booked, Inbound MQL
 
 ### Andrew Dolan — Supporting Cast — 2026-05-06
 
@@ -2400,7 +2409,10 @@
 
 **Context:** Former SaaS Academy member, General Manager at Supporting Cast. Did not renew — specific reason not surfaced (call ended at email redirect). Roadblock is prior experience disappointment or implementation failure — exact nature unknown. JC did not probe deeply enough to qualify.
 
-**Tags:** #saas #unknown-mrr #no-next-step #callback
+**Industry:** SaaS  
+**MRR:** Unknown  
+**Outcome:** No Next Step  
+**Other:** Callback
 
 ### Jonathan Revere — Valisci — 2026-05-07
 
@@ -2408,7 +2420,9 @@
 
 **Context:** Pre-revenue SaaS founder still employed full-time. Building Valisci on the side. Chaotic schedule is the structural blocker to engagement — not lack of interest. "I'm certainly interested. Things have been in motion with Valacy."
 
-**Tags:** #saas #pre-revenue #vibe-coder #rebook #timing
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Vibe Coder, Rebook, Timing
 
 ---
 
@@ -2416,7 +2430,9 @@
 
 **Context:** Jonathan is setting a self-imposed milestone ("market validation") before investing in coaching. He's pre-PMF and working a full-time job. He sees Precision as a post-PMF resource, not a get-to-PMF accelerator. Reframe opportunity: coaching compresses the path to market validation.
 
-**Tags:** #saas #pre-revenue #timing-milestone #first-saas-company #rebook
+**Industry:** SaaS  
+**MRR:** Pre-Revenue  
+**Other:** Timing Milestone, First SaaS Company, Rebook
 
 ---
 
@@ -2426,10 +2442,11 @@
 
 **Context:** Former Customer churn reason. Integration failure + lack of AI tooling at the time. They eventually solved it themselves with AI. Implication: they were with Precision before AI was a core capability — the integration gap that killed the relationship may now be resolved on Precision's end.
 
-**Tags:** #former-customer #integration-failure #canada #win-back #self-resolved
+**Outcome:** Win-Back  
+**Other:** Former Customer, Integration Failure, Canada, Self-Resolved
 
 ---
 
 **Note:** Business type for 1Clean Air unverified. Company name and .ca domain suggest HVAC/air quality services (potential offline Anti-ICP). Confirm before any future re-engagement: "Is 1Clean Air a software company or a services company?"
 
-**Tags:** #former-customer #anti-icp-risk #canada #unconfirmed-business-type
+**Other:** Former Customer, Anti-ICP Risk, Canada, Unconfirmed Business Type

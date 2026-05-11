@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-08
+Auto-updated after every scored call. Last updated: 2026-05-06
 
 ---
 
