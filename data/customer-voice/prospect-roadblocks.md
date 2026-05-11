@@ -2455,3 +2455,25 @@
 **Note:** Business type for 1Clean Air unverified. Company name and .ca domain suggest HVAC/air quality services (potential offline Anti-ICP). Confirm before any future re-engagement: "Is 1Clean Air a software company or a services company?"
 
 **Other:** Former Customer, Anti-ICP Risk, Canada, Unconfirmed Business Type
+
+### Thomas Roberts — Thomas Roberts Group (Solo Realtor, Real Estate) — 2026-04-21
+
+**Roadblock:** "It's a showstopper right now, but it won't be in three months." — Thomas (2026-04-21) [A3]
+
+**Context:** Solo realtor using AI/GHL outreach with 10K contacts. Revenue projected $300K but in rebuilding phase (came off a rough 2023-2024). Has AI systems in place but can't invest at $1-2K/month yet. Expects to close 2 deals in next 90 days that will unlock budget.
+
+**Industry:** Real Estate  
+**MRR:** Under $300K  
+**Other:** Pre-Investment Ready, Callback 90 Days
+
+---
+
+### Jose Nunez — JN Routes (Vibe Coder, AI Trading Journal) — 2026-04-21
+
+**Roadblock:** "I'm limited on that aspect... I quit my job and started doing some projects... I saved up a bunch of money enough to cover like six months of expenses and then just shoot my shot." — Jose (2026-04-21) [A2]
+
+**Context:** Vibe Coder building AI trading journal SaaS. Pre-revenue. On personal savings runway. Has a product and knows his first target customer but hasn't launched or presold yet. Investment is a blocker until first revenue hits.
+
+**MRR:** Pre-Revenue  
+**Other:** Vibe Coder, Savings Runway, Timing
+

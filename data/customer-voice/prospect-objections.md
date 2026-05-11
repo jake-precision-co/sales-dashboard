@@ -95,6 +95,9 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 
 ### Need ("I'm not sure we need this")
 
+**"It wasn't the fact that you guys are B to C or online business. Just that you guys are purely focused on sales. Whereas the KPIs that we look at are all performance driven — cash flow, profitability on projects."**
+— Simon Mushailov / Commercial Electrical (2026-04-10) [A4] | JC acknowledged and reframed product as AI COO with a "360 approach" — conceptually solid but gave no specific example of what it would mean for a trades company; accepted Simon's lukewarm response without a follow-up question | Partial — got a vague callback (Thu/Fri) but objection was not fully closed; no KV AAA structure
+
 **"My worry is you'll just tell us what we already know"** (experienced team, not first rodeo)
 — Jaan Apajalahti (2026-03-11) [A3] | Social proof: 3,000+ founders coached, 150+ exits, coaching founders at $20-40M ARR | Yes — Jaan shifted to "I like the community part. I'm open."
 
@@ -122,6 +125,9 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 ---
 
 ### Trust ("send me an email," "send me info," comparison/competition)
+
+**"How about we start here? Resend me that document."** (after reframe attempt — deflecting to info-gathering instead of committing to a meeting)
+— Simon Mushailov / Commercial Electrical (2026-04-10) [A4] | JC accepted the stall — "I'll shoot you a text with the resource" — and moved to booking without probing why the doc was needed or what it would take to move forward | Partial — callback date set (Thu/Fri) but trust deflection was absorbed rather than addressed
 
 **"I want to see social proof before committing."** [44:29]
 — Matthew Young MovingLetters.ai (2026-03-05) [A4] | "Hundreds of testimonials. Happy to send those over to you." | Partial — accepted without a targeted case study (Wise Pelican would have been perfect)
@@ -729,3 +735,13 @@ By source:
 
 **"I don't remember, just didn't integrate properly with their stuff and we figured it out on our own."** (Former Customer churn reason)
 — Jason Maxwell / 1Clean Air (2026-05-07) [A3] | JC acknowledged and pivoted to "things have evolved tremendously" — reasonable but didn't probe the current solution for gaps | No next step — Jason self-resolved; JC didn't attempt a meeting ask before the call ended
+
+**"It's a showstopper right now, but it won't be in three months."**
+— Thomas Roberts (2026-04-21) [A3] | JC acknowledged and rescheduled a 90-day follow-up for July 21. Professional, no push. | Outcome: Callback (specific date — July 21, 2026). Growth Session canceled.
+
+**"I'm limited on that aspect... I have six months of savings and I'm shooting my shot."**
+— Jose Nunez (2026-04-21) [A2] | JC handled transparently — volunteered price early, acknowledged the stopper, DQ'd cleanly and offered to reconnect once Jose has revenue. | Outcome: Soft DQ, vague follow-up ("a month or so").
+
+**"You wouldn't be able to help me just like on that quick meeting, just like see my offer and just like, yeah, that looks good or just like an honest opinion."**
+— Jose Nunez (2026-04-21) [A2] | JC held the line — explained the Growth Session purpose, didn't agree to a free consult. Clean. | Outcome: DQ maintained. Jose accepted the redirect gracefully.
+
