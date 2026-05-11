@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-06
+Auto-updated after every scored call. Last updated: 2026-04-15
 
 ---
 
@@ -745,3 +745,6 @@ By source:
 **"You wouldn't be able to help me just like on that quick meeting, just like see my offer and just like, yeah, that looks good or just like an honest opinion."**
 — Jose Nunez (2026-04-21) [A2] | JC held the line — explained the Growth Session purpose, didn't agree to a free consult. Clean. | Outcome: DQ maintained. Jose accepted the redirect gracefully.
 
+
+**"What I will do is I will convert the owner again, who's my son, but I love my boss... I'll be able to catch him before the end of the week."**
+— Paul Boudreau / Everbreed LLC (2026-04-14) [A4] | Authority — Paul is NOT the decision-maker; his son owns the business. Joe asked "when do you think you'll talk to him?" but didn't probe the underlying concern, validate, handle, or check. Accepted passively. Scheduled Friday 11:30 follow-up. | Outcome: Weak BAMFAM — Friday 11:30 son-approval check

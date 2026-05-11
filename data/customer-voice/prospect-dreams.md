@@ -1322,3 +1322,42 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Context:** Co-founder of Sigil, tech-enabled fraud detection/removal service for Amazon/Walmart brands. Has the SaaS framework from "Software as a Science" — his dream is methodical, step-by-step execution to predictable growth. Wants channel clarity and green-light confidence before scaling.
 
 **Tags:** #tech-enabled-saas #early-mrr #booked #inbound-mql
+
+### Thomas Roberts — Thomas Roberts Group (Solo Realtor) — 2026-04-21
+
+**Dream:** "I'm always looking for efficiency optimization. How do I be better? How do I operate better?" — Thomas (2026-04-21) [A3]
+
+**Context:** Solo real estate agent leveraging AI across outreach, GHL, and multiple AI models simultaneously. Wants to buy back time so he can be "the only one closing deals" while AI handles everything else. Big on the "more reps per game" philosophy — more contacts per day = natural competitive edge.
+
+**Tags:** #real-estate #efficiency #ai-forward #solo-operator
+
+---
+
+**Dream:** "If I can leverage AI for marketing, automation, this, that the other... I'm going to naturally just beat them because I'm getting more contacts per day. I'm getting more reps per game." — Thomas (2026-04-21) [A3]
+
+**Context:** Thomas frames success in sports metaphors — it's a game of volume + consistency. Wants to outcompete not by outworking but by outsmarting.
+
+**Tags:** #real-estate #volume-mindset #ai-leverage #competitive
+
+---
+
+### Jose Nunez — JN Routes (AI Trading Journal SaaS) — 2026-04-21
+
+**Dream:** "I built product and I have like a presentation. I already know my customer." — Jose (2026-04-21) [A2]
+
+**Context:** Vibe Coder who went from idea to working product without knowing how to code. Wants someone to validate the offer and give honest feedback before he pitches his first customer. Dream is to land that first customer and use the deposit to professionalize the product.
+
+**Tags:** #vibe-coder #pre-revenue #offer-validation #first-customer
+
+
+---
+
+### Paul Boudreau — Everbreed LLC — 2026-04-14
+
+**Dream:** "He'd like to be a couple hundred thousand MRR... is the way he'd really like to be. Right. Because he has some other things he'd like to do." — Paul Boudreau about son/owner (2026-04-14) [A4]
+
+**Context:** Paul runs the business FOR his son (owner). Son bought Everbreed LLC in Nov 2023. Long-term vision is $200K+ MRR, add ecommerce + marketplace to SaaS, bring in more species. No exit plans — building to hold. Paul loves the role but his personal dream was NEVER uncovered.
+
+**Tags:** #b2b-saas #niche-vertical #35k-mrr #hold-not-sell #authority-gap
+
+**(MISSING: personal dream never uncovered)** — Joe never asked Paul what this means for him personally. Paul is an operator managing someone else's business. His own wins, compensation stake, and personal motivation were completely unexplored. This is a critical coaching gap for follow-up.

@@ -2477,3 +2477,29 @@
 **MRR:** Pre-Revenue  
 **Other:** Vibe Coder, Savings Runway, Timing
 
+
+---
+
+### Paul Boudreau — Everbreed LLC — 2026-04-14
+
+**Roadblock:** "Churn is still running... 1% per week. Some weeks it's half a percent, some weeks it's one and a quarter. Do the math, I guess it'd be 4% a month, typically. Just a little too high for us." — Paul Boudreau (2026-04-14) [A4]
+
+**Context:** Rabbit breeding SaaS, $35K MRR, ~3K customers. 4% monthly churn = $1,500/month loss (~$18K/year). Uses ChartMogul to track. Wants to be at 2-2.5%.
+
+**Tags:** #b2b-saas #niche-vertical #35k-mrr #churn #retention
+
+---
+
+**Roadblock:** "The lower, the lower tier feature has been there forever. I mean five months, like you can't even buy a coffee for five bucks a month... It's just we need more, more revenue." — Paul Boudreau (2026-04-14) [A4]
+
+**Context:** 4-tier pricing at $5/$10/$15/$20/month. Knows pricing is wrong but unsure how to change it without breaking conversions. Adding cavies (gerbils) species forces a pricing rework. Classic underpricing trap.
+
+**Tags:** #b2b-saas #niche-vertical #35k-mrr #pricing #packaging
+
+---
+
+**Roadblock:** "I don't want to plateau. We've been slowly growing every month for the last year, but that slow growth is killing me. So we can't continue that way." — Paul Boudreau (2026-04-14) [A4]
+
+**Context:** 1-2% monthly growth. Facebook ads generated tire kickers. Google just starting. Referral program active. Wants 200 trials/week to hit $75K MRR target. Running out of patience with the slow grind.
+
+**Tags:** #b2b-saas #niche-vertical #35k-mrr #lead-gen #growth
