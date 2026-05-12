@@ -31,6 +31,7 @@ _Last updated: 2026-05-05_
 | 14 | Joe Meyers | Pulkit Agarwal | EverTest | 55/100 🔴 | Core | 2026-04-13 | Weak BAMFAM (Wednesday reconnect) |
 | 14 | Joe Meyers | Matthew Myers | DRE Central | 55/100 🔴 | Core | 2026-04-27 | Weak BAMFAM (Thursday follow-up) |
 | 15 | Joe Meyers | Dan Huck | Painting Company | 55/100 🔴 | Core | 2026-03-20 | No Next Step |
+| 15 | Joe Meyers | Paul Boudreau | Everbreed LLC | 54/100 🔴 | Core ($1K) | 2026-04-14 | Weak BAMFAM (Friday — son approval needed) |
 | 15 | Joe Meyers | Matas Jakutis | BM Digital | 54/100 🔴 | Growth | 2026-03-05 | BAMFAM'd |
 | 16 | Joe Meyers | Ben Grove | Growth Factor AI | 51/100 🔴 | Growth ($2K) | 2026-05-04 | Strong BAMFAM (Wednesday follow-up, June 1 start) |
 | 17 | Joe Meyers | Garrett Campbell | Objectionly | 51/100 🔴 | Growth | 2026-03-13 | BAMFAM'd |
@@ -60,4 +61,4 @@ _Last updated: 2026-05-05_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-05-08_
+_Last updated: 2026-04-15_
