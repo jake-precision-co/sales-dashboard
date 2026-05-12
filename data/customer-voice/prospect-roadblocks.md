@@ -2503,3 +2503,27 @@
 **Context:** 1-2% monthly growth. Facebook ads generated tire kickers. Google just starting. Referral program active. Wants 200 trials/week to hit $75K MRR target. Running out of patience with the slow grind.
 
 **Tags:** #b2b-saas #niche-vertical #35k-mrr #lead-gen #growth
+
+### Zac Garthe — Sigil — 2026-05-11
+
+**Roadblock:** "We took our eye off the ball" — Zac (2026-05-11) [A3]
+
+**Context:** SaaS founder hit plateau due to improper sequencing and lack of focus across too many channels. Had to do layoffs as a result.
+
+**Tags:** #ecommerce-protection #$50K-100K-MRR #lead-gen-bottleneck #tier-core
+
+---
+
+**Roadblock:** "I have near zero budget... cash outlay is more painful to me than the overall profitability" — Zac (2026-05-11) [A3]
+
+**Context:** Recent financial restructuring after layoff. Runway less than a year. Looking at lines of credit to extend.
+
+**Tags:** #ecommerce-protection #$50K-100K-MRR #cash-constraints #tier-core
+
+---
+
+**Roadblock:** "We're spraying rather than really honing the system" — Zac (2026-05-11) [A3]
+
+**Context:** Sales cycle unclear (1 day to 6 months). Not measuring effectively. Can't confidently state average close time.
+
+**Tags:** #ecommerce-protection #$50K-100K-MRR #sales-process-gap #tier-core

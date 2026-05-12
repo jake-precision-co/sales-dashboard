@@ -748,3 +748,21 @@ By source:
 
 **"What I will do is I will convert the owner again, who's my son, but I love my boss... I'll be able to catch him before the end of the week."**
 — Paul Boudreau / Everbreed LLC (2026-04-14) [A4] | Authority — Paul is NOT the decision-maker; his son owns the business. Joe asked "when do you think you'll talk to him?" but didn't probe the underlying concern, validate, handle, or check. Accepted passively. Scheduled Friday 11:30 follow-up. | Outcome: Weak BAMFAM — Friday 11:30 son-approval check
+
+---
+
+### Price/Budget
+
+**"Cash outlay is more painful to me than the overall profitability... I have near zero budget"**
+— Zac Garthe (2026-05-11) [A3] | Joe acknowledged constraints, explained month-to-month flexibility, framed as "two clients pays for itself" — but didn't loop back to consequences | Outcome: DQ'd (appropriate — 3-6 month callback)
+
+---
+
+### Timing
+
+**"90% inclined to decline at this time but committed to discussing with co-founders and revisiting in 3-6 months"**
+— Zac Garthe (2026-05-11) [A3] | Joe accepted stall without probing what would need to change | Outcome: DQ'd (appropriate — 3-6 month callback)
+
+---
+
+Auto-updated after every scored call. Last updated: 2026-05-12

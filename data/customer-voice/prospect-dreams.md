@@ -1361,3 +1361,13 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Tags:** #b2b-saas #niche-vertical #35k-mrr #hold-not-sell #authority-gap
 
 **(MISSING: personal dream never uncovered)** — Joe never asked Paul what this means for him personally. Paul is an operator managing someone else's business. His own wins, compensation stake, and personal motivation were completely unexplored. This is a critical coaching gap for follow-up.
+
+### Zac Garthe — Sigil — 2026-05-11
+
+**Dream:** "Playbooks appeal to me... expert guidance, talking to other people in the same area, learning how to implement some of these things" — Zac (2026-05-11) [A3]
+
+**Context:** Wants structured approach to replace "spraying" with systematic lead generation. Has documented sales funnel but marketing funnel is the bottleneck.
+
+**Tags:** #ecommerce-protection #$50K-100K-MRR #playbooks-appeal #tier-core
+
+(MISSING: personal dream never uncovered)
