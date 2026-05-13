@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-04-15
+Auto-updated after every scored call. Last updated: 2026-05-13
 
 ---
 
@@ -16,6 +16,9 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 
 **"Yeah, I think I do want to do it. I do need to decide when. When that actual start date might be."** (soft timing hesitation at close)
 — Brian Sampson / Tether (2026-05-07) [A4] | Joe responded with logistics (dynamic enrollment, start anytime) — didn't probe the underlying hesitation or loop to urgency | Closed Won — hesitation was surface-level; deal still closed but Joe got lucky, didn't truly handle
+
+**"It just the price was just not in our budget for what we needed to do."** (prior budget objection — win-back context)
+— Allison Price / Elevate Marketing via JC (2026-05-12) [A3] | JC mentioned pricing had changed significantly. Didn't probe: "What would the price need to look like for this to make sense?" or "What's the budget you're working with now?" | No next step — conversation ended shortly after
 
 **"I'm not ready for it. I don't have the budget for it. But I don't want to waste your time here."**
 — Noah / Baseworks Consulting (2026-04-08) [A2] | JC pivoted to asking for a website — objection completely ignored, no AAA | No next step — objection never resolved, floated through the entire call unaddressed
@@ -94,6 +97,9 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 ---
 
 ### Need ("I'm not sure we need this")
+
+**"We actually have everything fully automated and we're using our own internal software to track all metrics."** (built internal solution since December — prior prospect)
+— Allison Price / Elevate Marketing via JC (2026-05-12) [A3] | JC pivoted to "pricing has changed drastically" and mentioned new offerings, but never asked what the internal solution was tracking or what gaps remained. The internal build is the competition — JC needed to probe it, not ignore it. | No next step — conversation ended
 
 **"It wasn't the fact that you guys are B to C or online business. Just that you guys are purely focused on sales. Whereas the KPIs that we look at are all performance driven — cash flow, profitability on projects."**
 — Simon Mushailov / Commercial Electrical (2026-04-10) [A4] | JC acknowledged and reframed product as AI COO with a "360 approach" — conceptually solid but gave no specific example of what it would mean for a trades company; accepted Simon's lukewarm response without a follow-up question | Partial — got a vague callback (Thu/Fri) but objection was not fully closed; no KV AAA structure
@@ -178,8 +184,17 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 
 ### Brush-off ("I'm busy," "not interested," "not a good time")
 
+**"I'm about to move my clinic. So I don't know if I have extra time right now."** (timing stall — mid-call)
+— Dr. Jacintha Roemer via JC (2026-05-12) [A1] | JC asked "No, why is that?" — partial AAA start — but then immediately confirmed the stall: "You want to circle back when you have your clinic moved?" Handed her the exit. | Vague callback (mid-June) — no booking
+
+**"I just don't think at this time we're ready to move forward with anything."** (final dismissal — win-back)
+— Allison Price / Elevate Marketing via JC (2026-05-12) [A3] | JC said "Awesome. I appreciate it. Thanks so much." — full surrender, zero AAA | No next step — call dead
+
 **"Not at this time. Thank you."**
 — Rob Aquanomix via JC (2026-03-24) [A2] | "No worries, I understand. Have a great day." — accepted immediately, zero recovery | No — no next step, call dead
+
+**"I'm guessing there's an upsell and then there's a program that you're trying to lead me to."** (trust / skepticism brush-off)
+— Dr. Jacintha Roemer via JC (2026-05-12) [A1] | JC stayed calm: "Not an upsell. We just provided that." — handled the trust concern well, stayed direct, no commission breath. But didn't follow with a question to regain control. | Partial — defused skepticism, but lost momentum
 
 **"I'm not interested at this time."**
 — Jake prospect via JC (2026-03-20) [A1] | Generic feature dump after — "We've helped people in medical practice, service industries..." | No — no next step
