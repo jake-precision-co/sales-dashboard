@@ -1371,3 +1371,13 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Tags:** #ecommerce-protection #$50K-100K-MRR #playbooks-appeal #tier-core
 
 (MISSING: personal dream never uncovered)
+
+### Nick Marteney — MotherBear Security — 2026-05-13
+**Dream:** "I'm trying to be the one that doesn't have to meet every customer [or] close every deal... I want to focus on kind of larger scale topics at hand to continue growing it." — Nick (2026-05-13) [A2]
+**Context:** Founder building a team so he can step out of day-to-day BD. Wants visibility and accountability without micromanaging. Over $10K MRR, launched Jan 2025.
+**Tags:** #security #founder-freedom #delegation #bd-ops #mql
+
+### Paula Bellido — RRCA — 2026-05-13
+**Dream:** "[We want] the bots to do some part of the menial tasks that we are happy to do." — Paula (2026-05-13) [A2]
+**Context:** Financial services firm looking for automation on internal tasks, not just reporting dashboards. Decision maker is Lee Haight (CEO). Paula engaged and booked Demo On Calendar after JC pivoted to AI/bots framing.
+**Tags:** #financial-services #automation #bots #operations #mql

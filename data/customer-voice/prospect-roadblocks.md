@@ -2527,3 +2527,17 @@
 **Context:** Sales cycle unclear (1 day to 6 months). Not measuring effectively. Can't confidently state average close time.
 
 **Tags:** #ecommerce-protection #$50K-100K-MRR #sales-process-gap #tier-core
+
+### Paula Bellido — RRCA — 2026-05-13
+**Roadblock:** "We're looking more towards looking for like bots, you know? Instead of like more reporting, we want the bots to do some part of the menial tasks that we are happy to do." — Paula (2026-05-13) [A2]
+**Context:** Re-engagement call. Previous Precision prospect (lost 2025). Paula revealed the product use case has shifted from reporting to automation — bots replacing menial internal tasks.
+**Tags:** #financial-services #automation #bots-vs-reporting #rebook #mql
+
+### Nick Marteney — MotherBear Security — 2026-05-13
+**Roadblock:** "I'm trying to fire myself, right? Like, I'm working through getting out of founder, building the team. I want to focus on kind of larger scale topics at hand to continue growing it." — Nick (2026-05-13) [A2]
+**Context:** Callback from SaaS Academy prospect. Founder actively trying to remove himself from day-to-day BD operations. Has a BD person, working on a new call structure, over $10K MRR.
+**Tags:** #security #founder-bottleneck #team-building #bd-ops #mql
+
+**Roadblock:** "We're in a spot where if I had to go spend my time and money... it just would just come down to the time. Like, you know, I love the playbooks you guys have... but the price point was too much." — Nick (2026-05-13) [A2]
+**Context:** Price + time objection. Nick is resource-constrained but acknowledges value of playbooks. Revenue at $10K MRR makes $500/mo a stretch psychologically even if ROI math works.
+**Tags:** #security #price-objection #timing #founder #mql

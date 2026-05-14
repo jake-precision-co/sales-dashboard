@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-13
+Auto-updated after every scored call. Last updated: 2026-05-14
 
 ---
 
@@ -781,3 +781,15 @@ By source:
 ---
 
 Auto-updated after every scored call. Last updated: 2026-05-12
+
+## New Entries — 2026-05-13
+
+**"Actually, right now, we're still exploring options. I don't have an answer right away. Could we maybe circle back in 30 days?"**
+— Paula Bellido / RRCA (2026-05-13) [A2] | JC acknowledged, bridged to discovery question: "If you don't mind me asking, just curious — what is it at the moment you're specifically looking for?" | Outcome: Got discovery intel (bots vs reporting), pivoted offer, booked Demo On Calendar ✅
+
+**"I feel like it's more of a... we can apply $1,000 into something different... I've already got enough fires we're attacking. When everything's going smooth, that's when I'd want to plug it in."**
+— Nick Marteney / MotherBear Security (2026-05-13) [A2] | JC used medicine analogy ("do you take medicine when you're sick or to prevent getting sick?"), then asked "what would make it a no-brainer?" | Outcome: Nick revealed $400-500 price floor, JC confirmed Core plan at $500; Nick conditionally agreed to book if playbook list is relevant ❌ booked but conditional callback
+
+**"I think the part of the offer I'm most interested in is the playbooks. The part that I'm really not interested in is the coaching."**
+— Nick Marteney / MotherBear Security (2026-05-13) [A2] | JC pivoted to community model + optional group coaching, confirmed one-on-one is optional | Outcome: Nick softened on coaching objection; opened door to optional community participation ✅
+
