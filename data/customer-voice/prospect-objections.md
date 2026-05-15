@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-14
+Auto-updated after every scored call. Last updated: 2026-05-15
 
 ---
 
@@ -41,6 +41,12 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 ---
 
 ### Timing ("not right now," "call me later," "maybe next month")
+
+**"I'm at my kids' school thing. I'll take a look at the website and we'll talk another time."** (soft exit mid-callback — busy + email redirect combo)
+— Erik Sorenson / Platinum Partners (2026-05-14) [A2] | JC capitulated immediately: "No worries, I'll text you the website." No AAA attempt. No specific callback date secured. | Outcome: Vague callback — no date, no time, likely goes cold
+
+**"Honestly, I'm out of conference. I don't really have a lot of time right now."** (timing objection on rebook call)
+— Jade Fickert (2026-05-14) [A2] | JC responded: "Cool. When would be a good time to chat?" — no AAA, but pivoted to scheduling without breaking stride. Got "later in the week" + text-first agreement. | Outcome: Vague callback — text-first, no specific day or time locked
 
 **"I don't know if it makes sense at this point when we are still finalizing a business plan and getting ready to launch, brand and website and all that stuff. We're pretty early on."**
 — Noah / Baseworks Consulting (2026-04-08) [A2] | JC started pitching product features (AI COO, SaaS Academy) instead of probing what would make timing right | No next step — pitch before booking; timing concern never addressed with a question
@@ -780,7 +786,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-05-12
+Auto-updated after every scored call. Last updated: 2026-05-15
 
 ## New Entries — 2026-05-13
 
@@ -793,3 +799,19 @@ Auto-updated after every scored call. Last updated: 2026-05-12
 **"I think the part of the offer I'm most interested in is the playbooks. The part that I'm really not interested in is the coaching."**
 — Nick Marteney / MotherBear Security (2026-05-13) [A2] | JC pivoted to community model + optional group coaching, confirmed one-on-one is optional | Outcome: Nick softened on coaching objection; opened door to optional community participation ✅
 
+
+---
+<!-- Natalie Michon / Airtight — 2026-05-14 AE Growth Session -->
+
+## Budget / Cash Constraint
+
+**"I don't have that right now that I know I can sustain and maintain."**
+— Natalie Michon / Airtight (2026-05-14) [A4] | Joe acknowledged, immediately offered $1K group tier. No probe into what would change, no looping to dream/consequences. | Outcome: Timing stall — August 1st callback (weak BAMFAM)
+
+**"The company just can't afford it on its own. And so I have. I'd have to supplement it and I just can't personally supplement it."**
+— Natalie Michon / Airtight (2026-05-14) [A4] | Joe moved to callback without attempting a creative close (deferred payment, July start, etc.) or leveraging the VC timeline urgency. | Outcome: Same — August callback, no enrollment
+
+## Timing
+
+**"Is it best for me now to identify first and get my B2B at least in the works before I jump into this? Because I won't. I'll be spinning my wheels for B2C in this program."**
+— Natalie Michon / Airtight (2026-05-14) [A4] | Joe handled WELL — "The marketing and everything else doesn't happen overnight... start getting the messaging out now... prospects want to interact 7-10 times before they trust the brand." Full DM Overrider. | Outcome: Natalie confirmed: "What you're saying is making sense." ✅ Objection resolved mid-call

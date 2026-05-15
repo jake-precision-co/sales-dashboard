@@ -2541,3 +2541,27 @@
 **Roadblock:** "We're in a spot where if I had to go spend my time and money... it just would just come down to the time. Like, you know, I love the playbooks you guys have... but the price point was too much." — Nick (2026-05-13) [A2]
 **Context:** Price + time objection. Nick is resource-constrained but acknowledges value of playbooks. Revenue at $10K MRR makes $500/mo a stretch psychologically even if ROI math works.
 **Tags:** #security #price-objection #timing #founder #mql
+
+### Natalie Michon — Airtight (getairtight.com) — 2026-05-14
+
+**Roadblock:** "People saying, I have my documents, I have my items, that they're all over the place. But not in one secure place. So I'm finding that is an educational curve to say, well, how can I trust it?" — Natalie (2026-05-14) [A3]
+
+**Context:** B2C document vault SaaS; trust and education the core adoption barrier — prospects know they need it but don't make the behavioral leap to a secure digital vault.
+
+**Tags:** #fintech-adjacent #security #b2c-transition #mrr-sub-20k #tier-1-prospect
+
+---
+
+**Roadblock:** "We have to do more development to get to the B2B." — Natalie (2026-05-14) [A3]
+
+**Context:** Platform is B2C only; B2B enterprise version unbuilt; current developer is expensive; actively interviewing AI-assisted devs to reduce cost. B2B pivot is the unlock for VC interest.
+
+**Tags:** #dev-bottleneck #b2c-to-b2b #product-gap #pre-scale #mrr-sub-20k
+
+---
+
+**Roadblock:** "I'm almost at the end of my savings just to kind of keep my household afloat." — Natalie (2026-05-14) [A4]
+
+**Context:** Government consulting contract ended Oct 2025; new contract starts July 2026. Founder is personally subsidizing the company and household on depleted savings. Daughter in college, son graduating. Cash crunch is 45-day problem, not a permanent state.
+
+**Tags:** #cash-constraint #founder-burn #seasonal-revenue #personal-runway #mrr-sub-20k

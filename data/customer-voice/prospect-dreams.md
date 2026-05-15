@@ -1381,3 +1381,19 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Dream:** "[We want] the bots to do some part of the menial tasks that we are happy to do." — Paula (2026-05-13) [A2]
 **Context:** Financial services firm looking for automation on internal tasks, not just reporting dashboards. Decision maker is Lee Haight (CEO). Paula engaged and booked Demo On Calendar after JC pivoted to AI/bots framing.
 **Tags:** #financial-services #automation #bots #operations #mql
+
+### Natalie Michon — Airtight (getairtight.com) — 2026-05-14
+
+**Dream:** "I would like to build this company to exit in the next seven years." — Natalie (2026-05-14) [A3]
+
+**Context:** Long-term builder mindset; VC firms already interested but want to see B2B proof of concept first. Exit-readiness is the north star. B2B is the unlock, not an end in itself.
+
+**Tags:** #exit-planning #vc-ready #7-year-horizon #b2c-to-b2b #saas-founder
+
+---
+
+**Dream (MISSING — not uncovered by Joe):** Natalie volunteered she was "financially tapped," living on savings, with two kids (one in college, one graduating), and dependent on a government contract resuming July 2026. The implicit personal dream: financial independence from contract work; the SaaS company becoming the primary income; freedom from "what this government shutdown" can do to her life. Joe never asked "what does the exit unlock for you personally?" This is the emotional close that wasn't made.
+
+**Note:** "(MISSING: personal dream never uncovered — prospect volunteered financial context at [26:24] but Joe did not anchor it)"
+
+**Tags:** #personal-dream-uncovered #financial-independence #founder-burnout #saas-founder

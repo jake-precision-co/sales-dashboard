@@ -579,4 +579,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Unassigned (Pending Review)
 <!-- Quotes that don't clearly fit existing buckets. 3+ similar = new bucket candidate. -->
+- "what does the exit unlock for you?" — Natalie Michon (2026-05-15)
+- "where do you see the business in 12 months if everything goes right?" — Natalie Michon (2026-05-15)
+- "You want to be exit-ready in 7 years. Right now you have 110 customers at $12/month. That's the gap we're closing together." — Natalie Michon (2026-05-15)
 - "Let's say we do work together — celebrating a fantastic year — what does success look like?" — Antonis Politis (2026-04-29)
