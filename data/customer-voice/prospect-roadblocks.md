@@ -2565,3 +2565,11 @@
 **Context:** Government consulting contract ended Oct 2025; new contract starts July 2026. Founder is personally subsidizing the company and household on depleted savings. Daughter in college, son graduating. Cash crunch is 45-day problem, not a permanent state.
 
 **Tags:** #cash-constraint #founder-burn #seasonal-revenue #personal-runway #mrr-sub-20k
+
+### Brian Barnicle — Content Agency — 2026-05-15
+
+**Roadblock:** "Really just the streamlining the automation. So I have like, you know, I pretty much build out the machine. I'm just trying to tighten everything up so I can drop content in one end and it comes out branded and voice ready in the other end." — Brian (2026-05-15) [A4]
+
+**Context:** 15-year content agency owner (photo/video → social media management). Has 5 recurring clients. Building an AI-powered content pipeline to systematize delivery. Bottleneck is internal workflow automation, not client acquisition (he has "more interest than I'm ready for").
+
+**Tags:** #content-agency #automation #workflow-bottleneck #adjacent-icp #timing-objection

@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-15
+Auto-updated after every scored call. Last updated: 2026-05-18
 
 ---
 
@@ -815,3 +815,8 @@ Auto-updated after every scored call. Last updated: 2026-05-15
 
 **"Is it best for me now to identify first and get my B2B at least in the works before I jump into this? Because I won't. I'll be spinning my wheels for B2C in this program."**
 — Natalie Michon / Airtight (2026-05-14) [A4] | Joe handled WELL — "The marketing and everything else doesn't happen overnight... start getting the messaging out now... prospects want to interact 7-10 times before they trust the brand." Full DM Overrider. | Outcome: Natalie confirmed: "What you're saying is making sense." ✅ Objection resolved mid-call
+
+## Timing
+
+**"I'm kind of good right now. Honestly, like I have more interest than I'm ready for. I'm just in the kind of planning phases. But after I look at your guys' skills and get a little more caught up, I'll definitely reach back out if I feel like I'm ready."**
+— Brian Barnicle / Content Agency (2026-05-15) [A4] | JC accepted at face value with zero AAA — "Yeah, no worries, save my number." No probing question, no follow-up date owned by JC. | Outcome: No next step — passive DQ, lead will likely go cold

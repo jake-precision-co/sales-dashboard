@@ -1397,3 +1397,17 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Note:** "(MISSING: personal dream never uncovered — prospect volunteered financial context at [26:24] but Joe did not anchor it)"
 
 **Tags:** #personal-dream-uncovered #financial-independence #founder-burnout #saas-founder
+
+### Phoenix Gillies — Pre-Product Builder — 2026-05-15
+
+**Dream:** "Long term, I want to see more of a legitimate company on my end." — Phoenix (2026-05-15) [A4]
+
+**Context:** Independent contractor (construction remodeling) building an AI orchestration layer. Primary income is offline/physical but aspirational goal is to launch the software product, get clients, and scale it beyond his local region.
+
+**Tags:** #pre-product #vibe-coder-adjacent #offline-primary #long-term-nurture #construction
+
+**Dream:** "I'd love to build it out as a full product and scale it beyond just my region." — Phoenix (2026-05-15) [A4]
+
+**Context:** Same — product is being built as a side project. Long-term ambition is a SaaS business. Not qualified today (no company, no revenue), but worth nurturing at 6-12 month intervals.
+
+**Tags:** #pre-product #saas-ambition #scale-beyond-region #long-term-nurture
