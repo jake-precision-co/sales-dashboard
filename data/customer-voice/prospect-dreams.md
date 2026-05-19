@@ -1411,3 +1411,34 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Context:** Same — product is being built as a side project. Long-term ambition is a SaaS business. Not qualified today (no company, no revenue), but worth nurturing at 6-12 month intervals.
 
 **Tags:** #pre-product #saas-ambition #scale-beyond-region #long-term-nurture
+
+---
+
+### Chase Arrington — Arrington Media (Marketing Agency) — 2026-05-18
+
+**Dream:** "I want to position us to be more of the likes of Corn Theory or like a larger consulting firm... at some point want to incorporate sales [execution], client success." — Chase (2026-05-18) [A3]
+
+**Context:** Chase sees Arrington Media evolving from marketing-only to a 360 growth consulting firm. Has existing partnership with Dale Carnegie. Wants to compete with established consultancies.
+
+**Tags:** #marketing-agency #consulting-ambition #under-20k-mrr #pipeline #core-1k
+(MISSING: personal dream was never directly uncovered via intentional questioning — volunteered organically. Joe never asked "what does this unlock for YOU personally?")
+
+---
+
+**Dream:** "At the end of the year I want to get a content team. And then we'll be able to finally kind of get back into the artistic move... I started in music and performance. That's what we do. We make films." — Chase (2026-05-18) [A3]
+
+**Context:** Chase left film/creative work to build the agency. His personal dream is to use agency growth to fund a content team so he can return to filmmaking and creative work — "it's all coming back, but in a better position." This is deeply personal and was NEVER surfaced by Joe as a close anchor.
+
+**Tags:** #marketing-agency #creative-freedom #filmmaking #personal-dream #pipeline
+
+
+---
+
+### Beth Woytas — Okaki — 2026-05-18
+
+**Dream:** "Just looking at ways to optimize the business and optimize my time because I'm working crazy hours and something's got to change." — Beth (2026-05-18) [A3]
+
+**Context:** About to step into the CEO seat at Okaki. Her vision is to run the business efficiently from the CEO chair — less firefighting, more leadership leverage. She was already planning to book a Growth Session after the CEO transition, making this a high-intent prospect.
+
+**Tags:** #saas #canada #ceo-transition #time-freedom #operational-efficiency #pipeline
+

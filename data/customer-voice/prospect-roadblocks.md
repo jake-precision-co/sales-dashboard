@@ -2573,3 +2573,49 @@
 **Context:** 15-year content agency owner (photo/video → social media management). Has 5 recurring clients. Building an AI-powered content pipeline to systematize delivery. Bottleneck is internal workflow automation, not client acquisition (he has "more interest than I'm ready for").
 
 **Tags:** #content-agency #automation #workflow-bottleneck #adjacent-icp #timing-objection
+
+---
+
+### Chase Arrington — Arrington Media (Marketing Agency) — 2026-05-18
+
+**Roadblock:** "I just want to master that part of the business where we just have the scorecard going to them every single week and not having to, I don't know, dig around for numbers." — Chase (2026-05-18) [A3]
+
+**Context:** 5-client marketing agency at <$20K MRR. Nico handles most reporting manually. Chase wants fully automated client reporting but hasn't implemented Agency Analytics consistently.
+
+**Tags:** #marketing-agency #under-20k-mrr #reporting-automation #pipeline #core-1k
+
+---
+
+**Roadblock:** "We'll be really tight on reporting one month and then the next week it's just not automated like it needs to be... I wish it was. I think we'd have a lot more intelligent conversations with our customers." — Chase (2026-05-18) [A3]
+
+**Context:** Inconsistent reporting cadence means they can't have data-driven client conversations. Recognizes this limits growth but hasn't forced the fix.
+
+**Tags:** #marketing-agency #under-20k-mrr #inconsistency #reporting #pipeline
+
+---
+
+**Roadblock:** "Operations is something we do not have as strong. I think we could be way better in our operations and then also our execution... our biggest bottleneck is actually people doing the work." — Chase (2026-05-18) [A3]
+
+**Context:** Chase and wife are both visionaries (working genius: wonder + invention + discernment), neither has enablement or tenacity. They know they need an "integrator" but haven't hired one.
+
+**Tags:** #marketing-agency #operations-gap #hiring #integrator-needed #pipeline
+
+---
+
+**Roadblock:** "We neither of us want to say yes to each other's approach or thing... I'm dying. I'm like, where is this person [integrator]?" — Chase (2026-05-18) [A3]
+
+**Context:** Co-founder dynamic (Chase + wife) — both visionaries, both avoiding execution. Actively praying for an integrator to materialize. Real operational ceiling unless this is solved.
+
+**Tags:** #marketing-agency #co-founder-dynamic #hiring #executional-gap #pipeline
+
+
+---
+
+### Beth Woytas — Okaki — 2026-05-18
+
+**Roadblock:** "I'm working crazy hours and something's got to change." — Beth (2026-05-18) [A3]
+
+**Context:** Managing Director of Okaki (SaaS), about to be named CEO in 2 weeks. Described her current state as trying to "optimize the business and optimize my time" but feeling overwhelmed. She's carrying pre-CEO and CEO responsibilities simultaneously during the transition.
+
+**Tags:** #saas #canada #bandwidth-constraint #ceo-transition #time-optimization #pipeline
+

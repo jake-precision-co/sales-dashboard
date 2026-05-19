@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-18
+Auto-updated after every scored call. Last updated: 2026-05-19
 
 ---
 
@@ -786,7 +786,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-05-15
+Auto-updated after every scored call. Last updated: 2026-05-19
 
 ## New Entries — 2026-05-13
 
@@ -820,3 +820,20 @@ Auto-updated after every scored call. Last updated: 2026-05-15
 
 **"I'm kind of good right now. Honestly, like I have more interest than I'm ready for. I'm just in the kind of planning phases. But after I look at your guys' skills and get a little more caught up, I'll definitely reach back out if I feel like I'm ready."**
 — Brian Barnicle / Content Agency (2026-05-15) [A4] | JC accepted at face value with zero AAA — "Yeah, no worries, save my number." No probing question, no follow-up date owned by JC. | Outcome: No next step — passive DQ, lead will likely go cold
+
+---
+
+**"A done-for-you coaching thing sometimes just creates another problem for us... I definitely don't want to be coached. I have enough coaching in my own world."**
+— Chase Arrington / Arrington Media (2026-05-18) [A3] | Joe said "I hear you" and moved on — no probe into WHICH coaching felt like overhead, no reframe of Precision as playbooks/mirror vs. done-for-you, no loop to roadblocks | Weak BAMFAM (ball left in prospect's court)
+
+**"I think we're not quite large enough to have enough problems for this to be enough of a relief."**
+— Chase Arrington / Arrington Media (2026-05-18) [A3] | Joe agreed: "Yeah, I think it's all good" — this was capitulation, not a handle | Weak BAMFAM (ball left in prospect's court)
+
+
+---
+
+### Timing / Authority (new entries 2026-05-19)
+
+**"I'm going to take a look at the resources that are sitting in my inbox at the moment. And then I got to wait two weeks at them. Then I'll have more power and more say and what decisions can be made for the organization overall."**
+— Beth Woytas / Okaki (2026-05-18) [A3] | JC accepted the delay — "Always. No worries" — without attempting to pre-book. Missed opportunity to schedule for June 2nd right now and reduce no-show risk. | Outcome: Vague callback — JC calendared 2-week follow-up; no confirmed meeting
+
