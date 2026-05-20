@@ -43,6 +43,7 @@ _Last updated: 2026-05-05_
 | 18 | Joe Meyers | Steven Calabrese | CRM-U | 27/100 🔴 | Core/Growth | 2026-03-30 | Weak BAMFAM |
 | 19 | Joe Meyers | Etienne Bernard | NORA Strategy | 46/100 🔴 | Core/$2K | 2026-04-20 | No Next Step (deferred — 1-2 months) |
 | 20 | Joe Meyers | Caleb Wickers | Sign With Bind | 42/100 🔴 | Core | 2026-04-17 | Weak BAMFAM (text next Friday) |
+| — | Joe Meyers | Chase Arrington | Arrington Media | 43/100 🔴 | Agency Reseller ($1.5K) | 2026-05-18 | Weak BAMFAM (ball in prospect's court, info sent) |
 | 20 | Joe Meyers | Ross Reed | B2B Fintech/Payments | 42/100 🔴 | None | 2026-04-14 | Lost (tabled — budget/cash flow) |
 | — | Joe Meyers | Natalie Michon | Airtight | 47/100 🔴 | Core/Growth | 2026-05-14 | Timing Stall (August 1st callback — budget/cash gap) |
 | — | Joe Meyers | Yuli Azarch | Seedbox.io | 47/100 🔴 | Growth ($2K) | 2026-04-24 | No Next Step (left ball in prospect's court) |
@@ -62,4 +63,4 @@ _Last updated: 2026-05-05_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-05-15_
+_Last updated: 2026-05-19_
