@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-19
+Auto-updated after every scored call. Last updated: 2026-05-20
 
 ---
 
@@ -786,7 +786,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-05-19
+Auto-updated after every scored call. Last updated: 2026-05-20
 
 ## New Entries — 2026-05-13
 
@@ -836,4 +836,36 @@ Auto-updated after every scored call. Last updated: 2026-05-19
 
 **"I'm going to take a look at the resources that are sitting in my inbox at the moment. And then I got to wait two weeks at them. Then I'll have more power and more say and what decisions can be made for the organization overall."**
 — Beth Woytas / Okaki (2026-05-18) [A3] | JC accepted the delay — "Always. No worries" — without attempting to pre-book. Missed opportunity to schedule for June 2nd right now and reduce no-show risk. | Outcome: Vague callback — JC calendared 2-week follow-up; no confirmed meeting
+
+
+---
+
+### Contract / Commitment Fear (new entries 2026-05-20)
+
+**"Is there any contract in this or...?"**
+— Abhishek Jain / M&A Advisory Firm (2026-05-19) [A3] | Joe handled with "No... you can cancel anytime. We want volunteers, not prisoners. It holds us accountable too." — solid language, but skipped Listen→Question→Review steps of DM Overrider. Emotional root (fear of being locked into a program that doesn't deliver) never surfaced. | Outcome: BAMFAM'd (rescheduled — Part 2 tomorrow)
+
+---
+
+### Trust / Social Proof (new entries 2026-05-20)
+
+**"Have you done or you guys have any similar company? Just M&A and all that... any case studies, specific case studies?"**
+— Abhishek Jain / M&A Advisory Firm (2026-05-19) [A3] | Joe answered with "hundreds of case studies... 3,000 companies over the last decade." Generic but confident. Didn't drill for what would actually build confidence (ROI story from a comparable M&A firm). | Outcome: BAMFAM'd (rescheduled — Part 2 tomorrow)
+
+**"I was hoping that you will present something... I'm surprised there's no presentation in this thing."**
+— Abhishek Jain / M&A Advisory Firm (2026-05-19) [A3] | Joe flipped it well ("aren't they boring as hell?") but let time pressure kill the opportunity to demo the AI software. The underlying need — a visual anchor + something to review/share after the call — was never fully addressed. | Outcome: BAMFAM'd (rescheduled — Part 2 tomorrow)
+
+---
+
+### Need / Timing (new entries 2026-05-20)
+
+**"We probably don't need Precision right now for the services."**
+— Julie Machal / Monjur, Inc. (2026-05-19) [A3] | JC accepted it immediately: "OK, let's cool" — no probe, no AAA. Never asked WHY Rob made that call. Pivoted to Founder Fight Club booking instead (creative, but the objection went unresolved). | Outcome: Warm handoff to Joe for Founder Fight Club meeting (no qualification confirmed)
+
+---
+
+### Brush-off / Timing (new entries 2026-05-20)
+
+**"I'm kind of at work right now. It's not a good time for me."** → escalated to **"I'd say probably like never."**
+— Olivier Delaney (2026-05-19) [A1] | JC lost structure under pressure — response was garbled and unclear. Prospect escalated from timing to "never." JC ended the call. No AAA executed. | Outcome: No next step — call ended at 0:47
 

@@ -496,7 +496,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Bucket: Interviewer Probing Questions
 **Priority:** 5
-**Signal strength:** 3 quotes
+**Signal strength:** 1 quotes
 **Emotional intensity:** Medium
 
 ### Supporting Quotes
@@ -515,8 +515,29 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "A lot of these companies, including you guys are pushing a lot of AI. And then a lot of these like online gurus say, oh, you know, like now they're getting to the point where they're saying like, AI can replace the whole team. So eventually everyone's going to have this impression that you don't even need people." — Romeo P — Accretion Digital (2026-04-28) [A2] *(Agency owner paralyzed by existential fear that AI will make his services—and his clients' need for agencies—obsolete.)*
 
 ### Dream Quotes (what they want instead)
+- "what does that unlock for you?" — Abhishek Jain (2026-05-20)
 
 ### Objection Quotes (what stops them buying)
+
+
+## Bucket: Interviewer Probing Questions
+**Priority:** 5
+**Signal strength:** 1 quotes
+**Emotional intensity:** Medium
+
+### Supporting Quotes
+
+---
+
+
+## Bucket: Interviewer Probing Questions
+**Priority:** 5
+**Signal strength:** 1 quotes
+**Emotional intensity:** Medium
+
+### Supporting Quotes
+
+---
 
 ## Unassigned (Pending Review)
 - (MISSING: personal dream never uncovered — Austin disclosed he came in "from ground up" and is being allocated shares. He described running the business "full by myself." The personal dream — what does a successful exit mean for Austin specifically — was never asked. Coaching gap for champion development.) — Austin Brummer / Requidex (2026-04-09) [A3]
@@ -579,7 +600,4 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Unassigned (Pending Review)
 <!-- Quotes that don't clearly fit existing buckets. 3+ similar = new bucket candidate. -->
-- "what does the exit unlock for you?" — Natalie Michon (2026-05-15)
-- "where do you see the business in 12 months if everything goes right?" — Natalie Michon (2026-05-15)
-- "You want to be exit-ready in 7 years. Right now you have 110 customers at $12/month. That's the gap we're closing together." — Natalie Michon (2026-05-15)
-- "Let's say we do work together — celebrating a fantastic year — what does success look like?" — Antonis Politis (2026-04-29)
+- "Let's say we do work together... what does success look like to you in a year's time?" — Abhishek Jain (2026-05-20)

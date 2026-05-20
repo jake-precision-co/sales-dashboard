@@ -2619,3 +2619,38 @@
 
 **Tags:** #saas #canada #bandwidth-constraint #ceo-transition #time-optimization #pipeline
 
+
+---
+
+### Abhishek Jain — M&A Advisory Firm (UK/Europe MSPs) — 2026-05-19
+
+**Roadblock:** "For some reason [cold email] is not really working out really well for us. It's not generating enough leads." — Abhishek (2026-05-19) [A3]
+
+**Context:** 1.5-year-old M&A advisory firm, LinkedIn working (20-30 leads/month), cold email via Instantly completely flat. Lead gen plateau at ~$130K ARR.
+
+**Tags:** #professional-services #ma-advisory #under-200k-arr #lead-gen #tier-growth
+
+---
+
+**Roadblock:** "The conversion is also low. So that is where the concerns are. Need to kind of fix the whole thing properly... one conversion per month at the moment. Yeah. So out of 30." — Abhishek (2026-05-19) [A3]
+
+**Context:** 3-5% close rate on Growth Sessions. Prospect unsure whether ICP or sales process is the root cause. McKinsey background — analytically aware of the problem, unclear on the lever.
+
+**Tags:** #professional-services #ma-advisory #under-200k-arr #conversion #sales-process #tier-growth
+
+---
+
+**Roadblock:** "To be honest, we don't know. Yeah. Maybe both are broken." — Abhishek (2026-05-19) [A3]
+
+**Context:** Prospect's self-assessment on ICP vs sales process. Classic diagnostic paralysis in founder-led sales — knows something is broken, can't isolate which variable. Strong awareness signal.
+
+**Tags:** #professional-services #ma-advisory #under-200k-arr #icp #diagnosis #tier-growth
+
+---
+
+**Roadblock:** "We are not asking for high price for sure... we might be signaling them that it's an inferior product or inferior service." — Abhishek (2026-05-19) [A3]
+
+**Context:** Charges £3,000 ($4K) for exit audits vs competitors at £20K-£25K. Conscious of pricing positioning risk — afraid of signaling low quality, but hasn't moved the price up. Classic premium-shy founder problem.
+
+**Tags:** #professional-services #ma-advisory #under-200k-arr #pricing #positioning #tier-growth
+

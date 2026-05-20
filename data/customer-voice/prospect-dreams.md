@@ -1442,3 +1442,16 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Tags:** #saas #canada #ceo-transition #time-freedom #operational-efficiency #pipeline
 
+
+---
+
+### Abhishek Jain — M&A Advisory Firm (UK/Europe MSPs) — 2026-05-19
+
+**Dream:** "A million is what we are targeting... five to seven deals which might reach to a million." — Abhishek (2026-05-19) [A3]
+
+**Context:** Company at under £100K ARR (~$130K) targeting $1M. 5-7 M&A deals per year — combination of exit audits + transaction fees. Lofty but specific and measurable target.
+
+**Tags:** #professional-services #ma-advisory #under-200k-arr #revenue-target #tier-growth
+
+(MISSING: personal dream never uncovered — Joe never asked "what does hitting a million unlock for YOU personally?")
+
