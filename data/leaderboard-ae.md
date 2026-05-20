@@ -49,6 +49,7 @@ _Last updated: 2026-05-05_
 | — | Joe Meyers | Yuli Azarch | Seedbox.io | 47/100 🔴 | Growth ($2K) | 2026-04-24 | No Next Step (left ball in prospect's court) |
 | — | Joe Meyers | Brittney Reeve | All About Events | 47/100 🔴 | Growth ($2K) | 2026-04-22 | Weak BAMFAM (Apr 23 budget check) |
 | — | Joe Meyers | Judy McMurtry | JM Excel Consultant LLC | 28/100 🔴 | None (DQ) | 2026-05-06 | DQ'd — appropriate (Anti-ICP, misalignment on booking intent) |
+| — | Joe Meyers | Abhishek Jain | M&A Advisory Firm | 45/100 🔴 | Core/Growth | 2026-05-19 | Weak BAMFAM (rescheduled — Part 2 tomorrow 10 AM ET) |
 | — | Joe Meyers | Luis Amparo | ShiftPlay | 22/100 🔴 | None | 2026-04-17 | No Next Step (not ready — pre-revenue) |
 | — | Joe Meyers | Alex Irvine | Irvine BnB Experience | 37/100 🔴 | None | 2026-04-16 | DQ'd — appropriate (needs developer) |
 | — | Joe Meyers | Joe Garrity | Luminary Ideas | 33/100 🔴 | None | 2026-04-20 | DQ'd — appropriate (pre-launch, no data) |
@@ -63,4 +64,4 @@ _Last updated: 2026-05-05_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-05-19_
+_Last updated: 2026-05-20_
