@@ -2654,3 +2654,20 @@
 
 **Tags:** #professional-services #ma-advisory #under-200k-arr #pricing #positioning #tier-growth
 
+
+### Steven Goldflam — SGA Tax Services — 2026-05-20
+
+**Roadblock:** "I've been doing this thing for 20 years. So it's like you kind of get in a comfort zone. So it's a little tricky to do. Maybe come up with the gentle AI adjustment that there's such a thing." — Steven Goldflam (2026-05-20) [A1]
+
+**Context:** Tax preparer, 800 clients/year, acknowledged AI curiosity but is deeply entrenched in manual workflows. Sees comfort zone as the core blocker to adoption.
+
+**Tags:** #tax-services #small-business #anti-icp #ai-adoption-resistance #manual-business
+
+---
+
+**Roadblock:** "You know, how do you sort between the junk and the regular emails? So that would be your first." — Steven Goldflam (2026-05-20) [A1]
+
+**Context:** Describes AI automation primarily in terms of email management. Very early-stage thinking about AI — email filtering is the entry point, not growth or operational infrastructure.
+
+**Tags:** #tax-services #small-business #anti-icp #early-ai-awareness #email-overload
+

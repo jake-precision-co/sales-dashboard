@@ -1455,3 +1455,20 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 (MISSING: personal dream never uncovered — Joe never asked "what does hitting a million unlock for YOU personally?")
 
+
+### Steven Goldflam — SGA Tax Services — 2026-05-20
+
+**Dream:** "Allow some higher level of efficiency. You know, where there's not so much time required, you know, how quickly can you get that returned on and spend more time with the client on other services." — Steven Goldflam (2026-05-20) [A1]
+
+**Context:** Tax preparer wanting to automate time-consuming work to free up time for higher-value client services. Classic efficiency dream, but driven by lifestyle intent rather than aggressive growth urgency.
+
+**Tags:** #tax-services #small-business #anti-icp #efficiency #lifestyle-business
+
+---
+
+**Dream:** "I guess there's a way to clone myself, to answer the phone — that would be another." — Steven Goldflam (2026-05-20) [A1]
+
+**Context:** Fascinated by the concept of AI-as-clone (voice agents) to handle inbound calls. Entry-level AI vision — hasn't connected this to business growth or revenue.
+
+**Tags:** #tax-services #small-business #anti-icp #voice-ai #ai-curiosity
+

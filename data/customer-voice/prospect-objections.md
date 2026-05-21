@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-20
+Auto-updated after every scored call. Last updated: 2026-05-21
 
 ---
 
@@ -786,7 +786,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-05-20
+Auto-updated after every scored call. Last updated: 2026-05-21
 
 ## New Entries — 2026-05-13
 
@@ -868,4 +868,12 @@ Auto-updated after every scored call. Last updated: 2026-05-20
 
 **"I'm kind of at work right now. It's not a good time for me."** → escalated to **"I'd say probably like never."**
 — Olivier Delaney (2026-05-19) [A1] | JC lost structure under pressure — response was garbled and unclear. Prospect escalated from timing to "never." JC ended the call. No AAA executed. | Outcome: No next step — call ended at 0:47
+
+
+---
+
+### Steven Goldflam (2026-05-20) — Timing / Deferral
+
+**"Give me a chance to at least look at the email, see if there's any space Friday or Monday. Monday is usually not a good day, but like Friday or Tuesday."**
+— Steven Goldflam, SGA Tax Services (2026-05-20) [A1] | JC said "I'll text you our website now, I'll follow up with you tomorrow afternoon" — accepted the defer with no pushback, no specific time proposed, no calendar | Callback (vague — follow up next day, no confirmed invite)
 
