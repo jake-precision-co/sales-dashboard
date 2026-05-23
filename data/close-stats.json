@@ -1,21 +1,21 @@
 {
-  "lastUpdated": "2026-05-22T19:00:00.484929-04:00",
+  "lastUpdated": "2026-05-23T12:00:00.907732-04:00",
   "today": {
-    "date": "2026-05-22",
-    "dials": 78,
-    "sets": 1,
+    "date": "2026-05-23",
+    "dials": 0,
+    "sets": 0,
     "iclosed_sets": 0,
     "closes": 0,
     "revenue": 0
   },
   "yesterday": {
-    "date": "2026-05-21",
-    "dials": 4,
-    "sets": 0,
-    "jc_sets": 0,
+    "date": "2026-05-22",
+    "dials": 78,
+    "sets": 1,
+    "jc_sets": 1,
     "iclosed_sets": 0,
-    "closes": 1,
-    "revenue": 12000
+    "closes": 0,
+    "revenue": 0
   },
   "monthly": {
     "month": "2026-05",
