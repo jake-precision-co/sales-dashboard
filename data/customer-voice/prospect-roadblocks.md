@@ -2671,3 +2671,52 @@
 
 **Tags:** #tax-services #small-business #anti-icp #early-ai-awareness #email-overload
 
+
+---
+
+### Jerry Brown — Culinary Analytics (Restaurant Analytics SaaS) — 2026-05-20
+
+**Roadblock:** "None of it comes from the social media stuff... the real work is getting actual leads who actually have the problems." — Jerry (2026-05-20) [A3]
+
+**Context:** Founder with $200K ARR growing organically through word-of-mouth/relationships. Has been posting on social media for 1.5 years with zero customer acquisition. Knows his lead gen is relationship-only and can't scale it — but doesn't yet see coaching as the solution.
+
+**Tags:** #restaurant-tech #saas #founder-led #lead-gen #outbound-gap #200k-arr
+
+---
+
+### Jerry Brown — Culinary Analytics (Restaurant Analytics SaaS) — 2026-05-20
+
+**Roadblock:** "I still maintain my current job until I get to a number in my mind and then I'll pivot away and do my company full time." — Jerry (2026-05-20) [A3]
+
+**Context:** Classic time-trap founder — employed full-time while running a real SaaS business at $200K ARR. The constraint is time bandwidth, not desire. He has a specific "number in my mind" but hasn't connected the dots that coaching could accelerate reaching it.
+
+**Tags:** #restaurant-tech #saas #founder-led #time-constraint #full-time-job #scale-ceiling
+
+---
+
+### Jerry Brown — Culinary Analytics (Restaurant Analytics SaaS) — 2026-05-20
+
+**Roadblock:** "All these books are just funnel magnets as well. They seek to actually get you to become a further customer, not actually really solve your problem." — Jerry (2026-05-20) [A3]
+
+**Context:** Deeply skeptical of the coaching/consulting industry. Has bought into the framework pattern (problem → solution → pay me) and pre-categorized Precision in that box before Joe could reframe. This is a trust objection masquerading as intellectual insight.
+
+**Tags:** #restaurant-tech #saas #founder-led #trust-gap #coaching-skeptic #industry-cynicism
+
+
+---
+
+### Dane Koonin — Social Adjustment — 2026-05-26
+
+**Roadblock:** "I have a lot of moving parts in my world of personal life and business. And I'm hesitant to bite off more just with everything I've got going on right now." — Dane Koonin (2026-05-26) [A2]
+
+**Context:** SaaS Academy alumni being re-engaged by JC. Already juggling personal and business complexity; the idea of adding another program/resource felt overwhelming. Classic "bandwidth" timing objection — not disqualification, just saturation at this moment.
+
+**Tags:** #saas-adjacent #callback #timing-barrier #bandwidth-overwhelm #saas-academy-alumni
+
+---
+
+**Roadblock:** "We've kind of committed to this coaching program and a big piece of that coaching program is kind of AI implementation. So as part of what I was talking about when I was saying, I've already bit off more than I can chew." — Dane Koonin (2026-05-26) [A3]
+
+**Context:** Has an active competitor engagement — already bought into an AI coaching program with his business partners. Not anti-AI or anti-growth; he's already moved on AI. The barrier is capacity + sunk cost fallacy, not lack of desire.
+
+**Tags:** #saas-adjacent #callback #competing-program #already-invested-elsewhere #capacity-barrier #saas-academy-alumni

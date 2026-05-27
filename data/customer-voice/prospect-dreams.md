@@ -1472,3 +1472,35 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Tags:** #tax-services #small-business #anti-icp #voice-ai #ai-curiosity
 
+
+---
+
+### Jerry Brown — Culinary Analytics (Restaurant Analytics SaaS) — 2026-05-20
+
+**Dream:** "Getting my pie big enough to take care of me and my constituents, and my friends are the people I'm working with." — Jerry (2026-05-20) [A3]
+
+**Context:** Business dream is building a lifestyle-scale SaaS company — not VC-backed unicorn, not competing with Toast. Wants enough MRR to sustain himself and his people. Thinks in terms of loyalty and community, not growth metrics.
+
+**Tags:** #restaurant-tech #saas #founder-led #lifestyle-business #community-builder
+(MISSING: personal dream never directly uncovered via intentional questioning — surfaced organically in defense monologue. Joe never asked "what does this unlock for YOU personally?")
+
+---
+
+### Jerry Brown — Culinary Analytics (Restaurant Analytics SaaS) — 2026-05-20
+
+**Dream:** "I still maintain my current job until I get to a number in my mind and then I'll pivot away and do my company full time." — Jerry (2026-05-20) [A3]
+
+**Context:** Personal dream is clear: quit the day job and go all-in on the SaaS. Has a specific revenue threshold in mind but didn't share the number. The business success is the means to personal freedom — this is the emotional fuel Joe never lit.
+
+**Tags:** #restaurant-tech #saas #founder-led #quit-day-job #personal-freedom #revenue-threshold
+
+
+---
+
+### Dane Koonin — Social Adjustment — 2026-05-26
+
+**Dream:** "Probably using more AI and making so that my team is more efficient with just getting everything cleaned up within my business, getting things more organized, et cetera." — Dane Koonin (2026-05-26) [A2]
+
+**Context:** Callback to SaaS Academy alumni. Dane has a team and is explicitly chasing AI-powered efficiency + organizational clarity. The vision was volunteered unprompted — he wants structure and operational lift. He's already investing in this direction (competitor coaching program) which validates both the desire AND the awareness level. Pain is real, timing is tight.
+
+**Tags:** #saas-adjacent #callback #ai-efficiency #team-efficiency #organizational-clarity #saas-academy-alumni

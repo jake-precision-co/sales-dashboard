@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-21
+Auto-updated after every scored call. Last updated: 2026-05-27
 
 ---
 
@@ -786,7 +786,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-05-21
+Auto-updated after every scored call. Last updated: 2026-05-27
 
 ## New Entries — 2026-05-13
 
@@ -877,3 +877,38 @@ Auto-updated after every scored call. Last updated: 2026-05-21
 **"Give me a chance to at least look at the email, see if there's any space Friday or Monday. Monday is usually not a good day, but like Friday or Tuesday."**
 — Steven Goldflam, SGA Tax Services (2026-05-20) [A1] | JC said "I'll text you our website now, I'll follow up with you tomorrow afternoon" — accepted the defer with no pushback, no specific time proposed, no calendar | Callback (vague — follow up next day, no confirmed invite)
 
+
+---
+
+### Jerry Brown — Culinary Analytics — AE Growth Session (2026-05-20)
+
+**Need / Misalignment**
+
+**"This does not sound like what I was told it would be... I thought it was a networking opportunity versus solving one of my problems that I don't actually think I have right now."**
+— Jerry Brown / Culinary Analytics (2026-05-20) [A3] | Joe accepted the framing: "It may be slightly misaligned" — gave a generic pitch about coaching/playbooks/community with zero tie to Jerry's situation. Never ran DM Overrider. Never asked "What were you told specifically?" Never pivoted to Jerry's actual pain. | Outcome: No next step — call ended
+
+**"I don't think I absolutely need it. The business is growing organically through communication, word of mouth."**
+— Jerry Brown / Culinary Analytics (2026-05-20) [A3] | Joe surrendered: "I apologize for that. Appreciate you man." Never probed the underlying growth ceiling, never asked about the day-job constraint, never framed what growth through a scalable system looks like vs word-of-mouth only. | Outcome: No next step — call aborted
+
+**Trust / Industry Skepticism**
+
+**"All these books are just funnel magnets as well. They seek to actually get you to become a further customer, not actually really solve your problem. So they have effective at saying here's the actual problems... and here's the solutions but pay me to actually do it for you."**
+— Jerry Brown / Culinary Analytics (2026-05-20) [A3] | Joe never addressed this objection directly. It set the tone for the entire call — Jerry arrived pre-loaded with category skepticism — and Joe never ran DM Overrider steps against it (Question → Review → Handle → Check). | Outcome: Call lost
+
+
+---
+
+### Timing
+
+**"I'm probably OK right now. I kind of have a lot of moving parts in my world of personal life and business. And I'm hesitant to bite off more just with everything I've got going on right now."**
+— Dane Koonin / Social Adjustment (2026-05-26) [A2] | JC said "No worries, not a sales call" — weak acknowledgment, defensive, no AAA executed | Outcome: Vague callback ("a month or two") — lost control of next step
+
+**"I'm all good as it stands. You can maybe keep my name on the call list and try me again in like a month or two if you'd like."**
+— Dane Koonin / Social Adjustment (2026-05-26) [A2] | JC accepted immediately — "OK" — no assumptive callback close proposed | Outcome: No specific date; ghost risk high
+
+---
+
+### Already Invested Elsewhere (Competitive)
+
+**"We've kind of committed to this coaching program and a big piece of that coaching program is kind of AI implementation. So as part of what I was talking about when I was saying, I've already bit off more than I can chew."**
+— Dane Koonin / Social Adjustment (2026-05-26) [A3] | JC said "Oh, sure." — full surrender; no probe into what the competing program actually covers vs. Precision's operational layer | Outcome: Opportunity left on the table; Precision could be complementary not competitive but JC never explored it
