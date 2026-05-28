@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-27
+Auto-updated after every scored call. Last updated: 2026-05-28
 
 ---
 
@@ -912,3 +912,40 @@ Auto-updated after every scored call. Last updated: 2026-05-27
 
 **"We've kind of committed to this coaching program and a big piece of that coaching program is kind of AI implementation. So as part of what I was talking about when I was saying, I've already bit off more than I can chew."**
 — Dane Koonin / Social Adjustment (2026-05-26) [A3] | JC said "Oh, sure." — full surrender; no probe into what the competing program actually covers vs. Precision's operational layer | Outcome: Opportunity left on the table; Precision could be complementary not competitive but JC never explored it
+
+---
+
+## 2026-05-28 — JC Ruiz × Connor Slinger (Slinger Solutions) [Callback | Score: 53/100]
+
+**Objection: Skepticism about implementation**
+> "I'm skeptical about how it would implement using my business at this point."
+- Context: Prospect with multiple businesses (4 total), A/V & smart home automation. Heard about Precision via Jake/SaaS Academy connection. Willing to book but openly skeptical.
+- JC's response: "Well, yeah, that's what the growth session would be." — redirected to meeting.
+- Framework gap: No AAA. Didn't probe what specifically drove the skepticism before pivoting to booking.
+
+**Objection: Name/company not recognized**
+> "Precision doesn't really ring a bell."
+- Context: 5+ months since prior contact with Jake. Prospect forgot the brand.
+- JC's response: Referenced Dan Martell + SaaS Academy connection — good bridge. "Dan Martell has spoken about us."
+- This works for warm callbacks with a SaaS Academy/DM connection in the prospect's background.
+
+**Objection: "How come you're not an AI bot?"**
+> "How come you're not an AI bot from Dan's other business Atlas calling you?"
+- Context: Prospect who's tech-savvy testing JC's legitimacy and the human element.
+- JC's response: "AI gets you 90% of the way there — we use humans to get you the last 10%." — Solid. Clean and memorable.
+
+---
+
+## 2026-05-28 — JC Ruiz × Alex Mewshaw (Oasis Pools and Patios) [Callback | Score: 37/100]
+
+**Objection: Not ready yet (Timing)**
+> "I really don't think I'm ready for it yet, although it's probably really cool."
+- Context: Short callback (2 min), prospect had someone on hold. Prior contact Nov 2025, opportunity Lost Dec 2025.
+- JC's response: Pivoted to pitch. Didn't acknowledge or probe.
+- KV AAA: Acknowledge → "Totally hear you" → Answer → "That's actually why I'm calling, just checking in" → Ask → "What would 'ready' look like for you?"
+
+**Objection: Vague defer / soft no**
+> "Well, if I'm interested, I'll give you all a call back."
+- Context: End-of-call wrap. Prospect had somewhere to be.
+- JC's response: Accepted it. Gave number. Ended call.
+- Framework gap: No attempt to secure a specific follow-up time. This is the "walkaway meeting" pattern — no locked next step = no next step.
