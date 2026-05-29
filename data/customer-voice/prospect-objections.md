@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-28
+Auto-updated after every scored call. Last updated: 2026-05-29
 
 ---
 
@@ -786,7 +786,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-05-27
+Auto-updated after every scored call. Last updated: 2026-05-29
 
 ## New Entries — 2026-05-13
 
@@ -949,3 +949,48 @@ Auto-updated after every scored call. Last updated: 2026-05-27
 - Context: End-of-call wrap. Prospect had somewhere to be.
 - JC's response: Accepted it. Gave number. Ended call.
 - Framework gap: No attempt to secure a specific follow-up time. This is the "walkaway meeting" pattern — no locked next step = no next step.
+
+---
+
+## 2026-05-27 — JC Ruiz × Andrew Burress [Callback | Score: 36/100]
+
+**Objection: Interest / We're already covered (Competitor)**
+> "We're good with that AI stuff for now."
+— Andrew Burress (2026-05-27) [A3] | JC probed once ("you already have someone?"), found RevHawk, then soft-pitched and exited | No next step — call ended without next step or callback date
+
+- Context: Prior Growth Session Sept 2025, emailed to go in different direction. Re-engaged 8 months later. Andrew is building in-house AI with a partner at RevHawk.
+- JC's response: Probed once, found RevHawk, delivered generic pitch, accepted polite dismissal.
+- KV AAA: "Oh, totally my fault for calling out of the blue. Last thing I want to do is pitch you something that doesn't fit. Quick question before I let you go — is RevHawk handling the full constraint identification layer, or more the automation execution side? I ask because that distinction matters for whether reaching back out even makes sense."
+- Competitive intel: **RevHawk** — prospect is partnering with them to build an in-house AI solution. Key differentiator: Precision's constraint identification vs. execution-only tools.
+
+---
+
+## 2026-05-27 — JC Ruiz × John Wesley [Callback/Booked | Score: 59/100]
+
+*(No significant objections — John was cooperative and booked. Pre-concession noted as coaching flag, not a handled objection.)*
+
+**Pre-concession flag (technique error, not prospect objection):**
+> "I don't know if you'd be open to a conversation about that. Obviously not right now."
+— JC (not John) pre-surrendered before John raised any objection. John's actual response: "Yes, sure. What would look like?" — he was open.
+- Coaching note: Don't pre-concede. Stay in the frame until they actually push back.
+
+---
+
+### Price / Budget — Paula Bellido (AE Growth Session 2026-05-19)
+
+**"Price right now is very critical for like taking a Precision."**
+— Paula Bellido (2026-05-19) [A3] | Joe pivoted to product features without acknowledging the concern — completely bypassed. No DM Overrider steps used. Price concern never addressed before demo. | Weak BAMFAM — price is still an unresolved object heading into the stakeholder conversation.
+
+---
+
+### Timing / CRM — Paula Bellido (AE Growth Session 2026-05-19)
+
+**"I would love to take your tool right away, but we're in the process of making changes [to CRM]... here in a month we're going to have that ready."**
+— Paula Bellido (2026-05-19) [A3] | Joe listened, questioned, and offered audit as a parallel activity. Decent pivot. Didn't validate or confirm resolution. Timing stall accepted without anchoring urgency. | Weak BAMFAM — "next Friday" with 3 internal approvals needed (Lee, wife, accountant).
+
+---
+
+### Misalignment / Need — Michael Benko (AE Growth Session 2026-05-18)
+
+**"As you said that I was thinking to myself, that's probably not what we're looking for right now."** (after Joe positioned the full executive coaching/vision model)
+— Michael Benko (2026-05-18) [A4] | Joe handled this well — immediately pivoted to the KPI platform view without pressure. Read the room, adjusted the frame. Smooth recovery. | Near-close — Michael self-enrolled on the $1K Core tier after seeing the platform.

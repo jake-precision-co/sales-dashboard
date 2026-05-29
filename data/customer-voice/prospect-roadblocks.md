@@ -2720,3 +2720,47 @@
 **Context:** Has an active competitor engagement — already bought into an AI coaching program with his business partners. Not anti-AI or anti-growth; he's already moved on AI. The barrier is capacity + sunk cost fallacy, not lack of desire.
 
 **Tags:** #saas-adjacent #callback #competing-program #already-invested-elsewhere #capacity-barrier #saas-academy-alumni
+
+---
+
+### Paula Bellido — RRCA (Staffing / Recruiting, $20–30M) — 2026-05-19
+
+**Roadblock:** "I don't know if you have experience trying to overcome that pain — not a lot of people use the system the way they should. Therefore, your reports are not accurate." — Paula (2026-05-19) [A3]
+
+**Context:** ~70-rep sales org with high turnover. CRM adoption and data hygiene is a constant war. Paula knows the tool can help but doubts it will get used — she's been burned by this before with other systems.
+
+**Tags:** #staffing #recruiting #20m-30m-rev #crm-adoption #data-quality #change-management #high-turnover
+
+---
+
+**Roadblock:** "There are a lot of moving parts that made us have to revise our workflows to make it work with everything that we have already with our providers." — Paula (2026-05-19) [A3]
+
+**Context:** QuickBooks API changes, CRM transition from old workflow (Nov 2025) to new, plus Job Nimbus workflow fix in progress. The tech stack is a moving target — multiple parallel changes happening simultaneously. Classic mid-scale ops chaos.
+
+**Tags:** #staffing #recruiting #tech-stack-chaos #workflow-transition #crm-migration #api-dependency
+
+---
+
+**Roadblock:** "We talked to another vendor maybe two months ago and we prepared a plan. We didn't go with that person because of the price." — Paula (2026-05-19) [A3]
+
+**Context:** Had a prior AI implementation vendor who built a detailed roadmap (7+ bots). Didn't close because of price. Paula came to this call with that roadmap in hand — she's solution-aware, already validated the vision, just needs the right price point and vendor trust.
+
+**Tags:** #staffing #recruiting #prior-vendor-comparison #price-sensitive #ai-implementation #solution-aware #a3
+
+---
+
+### Michael Benko — Student Success Agency (EdTech, 24 school district clients) — 2026-05-18
+
+**Roadblock:** "We're in almost complete reactionary mode right now. And so I'd like to take a step back and rethink about our org operating system in general." — Michael (2026-05-18) [A4]
+
+**Context:** SCOO with 15 years in the company. Hired first CEO 9 months ago. Org restructuring underway — pivoting from grant-funded to direct district sales. Michael is stretched across selling, hiring, firing, and operations simultaneously. No bandwidth to build proactively.
+
+**Tags:** #edtech #school-districts #founder-led #reactionary-mode #org-restructure #leadership-vacuum #dan-martell-referral
+
+---
+
+**Roadblock:** "I don't have a leader in any department that I can give an outcome goal to and say go reverse engineer it." — Michael (2026-05-18) [A4]
+
+**Context:** No leadership bench in any department — Sales, CS, Product. Every goal sits with Michael or the CEO. Trying to build a KPI scorecard but there's no one to own the numbers.
+
+**Tags:** #edtech #school-districts #no-leadership-layer #kpi-accountability #scaling-block #org-design

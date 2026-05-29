@@ -1504,3 +1504,25 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Context:** Callback to SaaS Academy alumni. Dane has a team and is explicitly chasing AI-powered efficiency + organizational clarity. The vision was volunteered unprompted — he wants structure and operational lift. He's already investing in this direction (competitor coaching program) which validates both the desire AND the awareness level. Pain is real, timing is tight.
 
 **Tags:** #saas-adjacent #callback #ai-efficiency #team-efficiency #organizational-clarity #saas-academy-alumni
+
+---
+
+### Paula Bellido — RRCA (Staffing / Recruiting, $20–30M) — 2026-05-19
+
+**Dream:** "Onboarding, Sales Management Bot, Invoice Auditor, Recruiting Bot, NRL scorecard bot, Quality Control, SEO bot... we have a vision of where we want to be if we get to find the correct vendor." — Paula (2026-05-19) [A3]
+
+**Context:** Paula brought a pre-built AI vision doc from a prior vendor engagement. 7 specific bots mapped out. She's not dreaming vaguely — she has a blueprint. The business dream is already articulated. The vendor win here is execution, trust, and price — not discovery.
+
+**Tags:** #staffing #recruiting #20m-30m-rev #ai-implementation #pre-built-vision #solution-aware #pipeline
+(MISSING: personal dream never uncovered — Paula is Finance + Accounting + IT, clearly overwhelmed. "Wearing a lot of hats" was stated explicitly. Joe never asked what getting this working unlocks for HER personally.)
+
+---
+
+### Michael Benko — Student Success Agency (EdTech) — 2026-05-18
+
+**Dream:** "I'd like to take a step back and rethink about our org operating system in general. What are the meeting rhythms? How do we display the KPIs... all that jazz, everything A to Z." — Michael (2026-05-18) [A4]
+
+**Context:** Founder-turned-SCOO who's been pulled into reactive mode by the new CEO. Wants structure, predictability, clarity. Not chasing hypergrowth — chasing org operating system sanity so the business can actually scale intentionally.
+
+**Tags:** #edtech #school-districts #founder-led #org-operating-system #kpi-clarity #meeting-cadence #near-close #dan-martell-referral
+(MISSING: personal dream never uncovered — Michael said his SCOO role "has basically taken a complete back seat." What does getting it back look like for him? The question was never asked.)
