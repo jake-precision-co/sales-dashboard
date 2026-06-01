@@ -56,6 +56,8 @@ _Last updated: 2026-05-05_
 | — | Joe Meyers | Scott Keffer | Scott Keffer International | 36/100 🔴 | Core/Growth | 2026-05-05 | Strong BAMFAM (Friday May 8, 3PM — decision call) |
 | — | Joe Meyers | Helen Daughtrey | Mädels, die lesen. | 40/100 🔴 | Core | 2026-05-04 | DQ'd (appropriate — price, $60K ARR; affiliate bridge left) |
 | — | Joe Meyers | Jerry Brown | Culinary Analytics | 29/100 🔴 | None | 2026-05-20 | No Next Step — call aborted (SDR misalignment; no reframe attempted) |
+| — | Joe Meyers | Michael Benko | Student Success Agency | 59/100 🔴 | Core ($1K) | 2026-05-18 | Near-close (self-enrolled, stripe link sent, Monday ping) |
+| — | Joe Meyers | Paula Bellido | RRCA | 46/100 🔴 | Core ($1K) / Audit ($5K) | 2026-05-19 | Weak BAMFAM (next Friday — needs Lee + wife + accountant approval) |
 
 ---
 
@@ -65,4 +67,4 @@ _Last updated: 2026-05-05_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-05-27_
+_Last updated: 2026-05-29_
