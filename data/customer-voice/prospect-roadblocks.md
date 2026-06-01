@@ -2764,3 +2764,22 @@
 **Context:** No leadership bench in any department — Sales, CS, Product. Every goal sits with Michael or the CEO. Trying to build a KPI scorecard but there's no one to own the numbers.
 
 **Tags:** #edtech #school-districts #no-leadership-layer #kpi-accountability #scaling-block #org-design
+
+---
+
+### Greg Gasparini — diametrics.ai (AI/RAS Platform, Pre-Revenue) — 2026-05-29
+
+**Roadblock:** "I need help launching this to go to market, as you say. Whatever you can send me that can break down what it is you're going to help us do, what the costs associated — I've just don't remember more." — Greg Gasparini (2026-05-29) [A2]
+
+**Context:** Pre-launch founder with a patent-pending AI/RAS platform. CTO dispute consuming focus — CTO claims ownership, pushing for independent contractor status rather than employment. Greg is trying to close out the legal situation while simultaneously launching and monetizing a product he can't yet fully share. Classic founder-in-the-weeds scenario — legal chaos + zero GTM = can't move forward.
+
+**Tags:** #ai-saas #pre-revenue #vibe-coder #cto-dispute #gtm-gap #launch-phase #legal-complexity #callback
+
+---
+
+**Roadblock:** "My current CTO is a little bit of a tool. And it's starting to become difficult." — Greg Gasparini (2026-05-29) [A2]
+
+**Context:** CTO sent his employment agreements and responded with ownership claims. Greg is the founder/patent holder but now managing a co-founder dispute mid-launch. Classic early-stage legal landmine. Precision can't fix the CTO situation but it speaks to the operational chaos of trying to launch without a reliable team structure.
+
+**Tags:** #ai-saas #pre-revenue #cto-dispute #co-founder-conflict #operational-chaos #early-stage
+

@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-05-29
+Auto-updated after every scored call. Last updated: 2026-06-01
 
 ---
 
@@ -786,7 +786,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-05-29
+Auto-updated after every scored call. Last updated: 2026-06-01
 
 ## New Entries — 2026-05-13
 
@@ -994,3 +994,25 @@ Auto-updated after every scored call. Last updated: 2026-05-29
 
 **"As you said that I was thinking to myself, that's probably not what we're looking for right now."** (after Joe positioned the full executive coaching/vision model)
 — Michael Benko (2026-05-18) [A4] | Joe handled this well — immediately pivoted to the KPI platform view without pressure. Read the room, adjusted the frame. Smooth recovery. | Near-close — Michael self-enrolled on the $1K Core tier after seeing the platform.
+
+---
+
+### Email Redirect — Greg Gasparini (SDR Callback 2026-05-29)
+
+**"And you want to send me an email maybe just because I got to get my CTO involved. Long story short, there's several things happening at once."**
+— Greg Gasparini (2026-05-29) [A2] | JC responded: "Yeah, I'll put you an email, I'll keep it super simple. Our website is going to be our best source of information." — Full surrender. No AAA. No email bridge. No booking attempt. | No Next Step (email redirect accepted).
+
+---
+
+### Timing — Michael Abramson (SDR Callback 2026-05-29)
+
+**"Yeah, it's still not the right time."**
+— Michael Abramson / The Athletic Clubs (2026-05-29) [A2] | JC: "OK, no worries. Just curious though — I'm assuming you're using AI in your business right now, correct?" — Partial probe but "no worries" conceded the frame. No AAA executed. No callback date secured. | No Next Step (timing brush-off accepted without booking future date). ⚠️ Anti-ICP flag: The Athletic Clubs may be an offline fitness business — screen on next touch.
+
+---
+
+### Authority Deflection — Michael Abramson (SDR Callback 2026-05-29)
+
+**"Yeah, but I'm not reading that up. Somebody else at the company is."** (re: AI usage)
+— Michael Abramson / The Athletic Clubs (2026-05-29) [A2] | JC: "Maybe to put me in contact with them." — creative pivot but Michael declined ("No, I think they've got their own resources"). | No Next Step. JC was right to ask for the connect — but needed to probe further before letting Michael close the call.
+
