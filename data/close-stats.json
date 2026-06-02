@@ -1,30 +1,30 @@
 {
-  "lastUpdated": "2026-06-01T19:00:00.743856-04:00",
+  "lastUpdated": "2026-06-02T12:00:05.071689-04:00",
   "today": {
+    "date": "2026-06-02",
+    "dials": 10,
+    "sets": 0,
+    "iclosed_sets": 2,
+    "closes": 1,
+    "revenue": 36000
+  },
+  "yesterday": {
     "date": "2026-06-01",
     "dials": 31,
     "sets": 2,
-    "iclosed_sets": 4,
+    "jc_sets": 2,
+    "iclosed_sets": 5,
     "closes": 1,
     "revenue": 12000
   },
-  "yesterday": {
-    "date": "2026-05-29",
-    "dials": 17,
-    "sets": 0,
-    "jc_sets": 0,
-    "iclosed_sets": 3,
-    "closes": 0,
-    "revenue": 0
-  },
   "monthly": {
     "month": "2026-06",
-    "revenue": 12000,
-    "deals": 1,
+    "revenue": 48000,
+    "deals": 2,
     "sets": 2,
-    "iclosed_sets": 4,
-    "callsScored": 0,
-    "avgScore": 0
+    "iclosed_sets": 7,
+    "callsScored": 3,
+    "avgScore": 51
   },
   "records": {
     "bestDayRevenue": {
