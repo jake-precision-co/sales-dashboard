@@ -2783,3 +2783,45 @@
 
 **Tags:** #ai-saas #pre-revenue #cto-dispute #co-founder-conflict #operational-chaos #early-stage
 
+
+---
+
+### Brad Rush — Granite South (Cabinet & Countertop Fabrication) — 2026-06-01
+
+**Roadblock:** "Missing parts and pieces of contracts in cabinet deals — there's so many details that it just happens all the time." — Brad Rush (2026-06-01) [A3]
+
+**Context:** CEO of a growing cabinet and countertop fabrication shop (recently expanded into manufacturing cabinets). Current ops stack is Stone App (countertop-only) that's been adapted for cabinets but doesn't automate anything. Every job close requires manual reconciliation of texts, emails, and conversations against the contract — and things constantly fall through the cracks. Brad described the cost as "crazy crazy crazy money." Actively evaluating vendors to replace his ERP and build out AI-powered contract reconciliation.
+
+**Tags:** #fabrication #construction-adjacent #ai-aspirations #manual-ops #contract-reconciliation #erp-gap #anti-icp-business-type
+
+---
+
+**Roadblock:** "The problem is they're small and their time span is just too long." — Brad Rush (2026-06-01) [A3]
+
+**Context:** Brad is in discovery with a small vendor to build a custom CRM/ERP. That vendor's timeline is too long. He's actively comparing vendors. Precision landed in this conversation because JC re-engaged an MQL that had gone dark since late 2024. The urgency is real — Brad is spending money (VA making sales calls, commercial bids pending) and the operational gap is costing him.
+
+**Tags:** #fabrication #vendor-evaluation #erp-replacement #timeline-urgency #re-engagement #anti-icp-flag
+
+### Kobe Shemesh — Infinity Pipeline — 2026-06-01
+
+**Roadblock:** "I see things online that are just so much better than what I'm able to build. And I don't know how they're building it so good." — Kobe Shemesh (2026-06-01) [A3]
+
+**Context:** Marketing agency founder with basic Hermes/Claude/OpenClaw setup already in place. Knows AI exists, can't close the gap between what he sees and what he can build himself.
+
+**Tags:** #marketing-agency #ai-agents #technical-gap #founder-ceiling
+
+---
+
+**Roadblock:** "After already doing it for a month, it still doesn't have the same precision logic that I want it to have." — Kobe Shemesh (2026-06-01) [A3]
+
+**Context:** Spent a month building an AI CSM with Supabase, Obsidian memory, and custom files — it doesn't replicate his communication style or client onboarding logic accurately. DIY AI building hitting a wall.
+
+**Tags:** #marketing-agency #ai-csm #diy-failure #communication-style
+
+---
+
+**Roadblock:** "I'm having to step into the delivery and all that kind of stuff… it's definitely holding us back for sure." — Kobe Shemesh (2026-06-01) [A4]
+
+**Context:** 1-CSM agency, bottleneck already visible. Founder pulling delivery duty, blocking scale. Knows he needs to exit delivery but can't trust or afford another CSM hire.
+
+**Tags:** #marketing-agency #founder-ceiling #csm-bottleneck #churn-risk #delivery-trap

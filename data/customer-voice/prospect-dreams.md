@@ -1537,3 +1537,44 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Tags:** #ai-saas #pre-revenue #gtm #client-acquisition #launch-phase #vibe-coder #a2
 
+
+---
+
+### Brad Rush — Granite South (Cabinet & Countertop Fabrication) — 2026-06-01
+
+**Dream:** "I had my biggest wish... have AI go in and take every conversation, every text, and every email, scan it for what it's hearing could be in the contract and then take it back to the contract, reconcile the two and go, okay, here's what's different. What should be included? What shouldn't be included?" — Brad Rush (2026-06-01) [A3]
+
+**Context:** Brad's vision is AI-powered contract reconciliation that eliminates the manual error-checking that happens post-job-close. His background is contracting and fabrication — he knows exactly what breaks and when. This is a well-articulated dream, not wishful thinking. He also wants an on-site quoting tool that can price jobs at the kitchen table in real-time.
+
+**Tags:** #fabrication #construction-adjacent #ai-vision #contract-reconciliation #on-site-quoting #anti-icp-flag
+
+---
+
+**Dream:** "I'm really good at describing... that's why AI comes so easily for me because I can keep on describing until it finally gets it right." — Brad Rush (2026-06-01) [A3]
+
+**Context:** Brad sees himself as a strong AI prompt engineer — he's excited about the technology and understands it practically. His personal dream is to be at the frontier of AI adoption in his industry. This creates rapport and an entry point for anyone who can speak AI fluently.
+
+**Tags:** #fabrication #ai-enthusiast #early-adopter #technical-affinity #re-engagement
+
+### Kobe Shemesh — Infinity Pipeline — 2026-06-01
+
+**Dream:** "I wanted a clear, like, mission control that people have with all of our data, which I haven't had that. Been able to set that up in a good way yet." — Kobe Shemesh (2026-06-01) [A3]
+
+**Context:** Marketing agency founder wanting unified data visibility across departments — the "single source of truth" that Precision's platform directly addresses.
+
+**Tags:** #marketing-agency #mission-control #data-visibility #operations
+
+---
+
+**Dream:** "Having like incredible CSM that's AI that lowers our churn and we don't need to hire and train more CSMs." — Kobe Shemesh (2026-06-01) [A4]
+
+**Context:** Founder vision is full AI-native CSM — not assisting a human CSM but REPLACING hiring and training overhead entirely. Would keep the existing CSM just for calls/face-time, not actual work.
+
+**Tags:** #marketing-agency #ai-csm #churn-reduction #hiring-elimination #delivery-automation
+
+---
+
+**Personal Dream:** ❌ NOT UNCOVERED (Joe never asked "what does this unlock for YOU personally?")
+
+**Tags:** #marketing-agency #coaching-gap
+

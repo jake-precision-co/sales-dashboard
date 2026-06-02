@@ -516,6 +516,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ### Dream Quotes (what they want instead)
 - "what does that unlock for you?" — Abhishek Jain (2026-05-20)
+- "Say the 5k wasn't there... what would a 10 out of 10 look like for you?" — Kobe Shemesh (2026-06-02)
 
 ### Objection Quotes (what stops them buying)
 

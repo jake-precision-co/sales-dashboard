@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-06-01
+Auto-updated after every scored call. Last updated: 2026-06-02
 
 ---
 
@@ -13,6 +13,10 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 ---
 
 ### Price / Budget
+
+**"I don't think I'm gonna spend five grand for an audit, to be totally honest with you."**
+— Kobe Shemesh, Infinity Pipeline (2026-06-01) [A3] | Joe heard it 3 times, said 'I appreciate the transparency' and moved to discovery questions without running DM Overrider. No probe, no handle, no check. | Lost (no BAMFAM, call ended graciously)
+
 
 **"Yeah, I think I do want to do it. I do need to decide when. When that actual start date might be."** (soft timing hesitation at close)
 — Brian Sampson / Tether (2026-05-07) [A4] | Joe responded with logistics (dynamic enrollment, start anytime) — didn't probe the underlying hesitation or loop to urgency | Closed Won — hesitation was surface-level; deal still closed but Joe got lucky, didn't truly handle
@@ -786,7 +790,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-06-01
+Auto-updated after every scored call. Last updated: 2026-06-02
 
 ## New Entries — 2026-05-13
 
@@ -1016,3 +1020,17 @@ Auto-updated after every scored call. Last updated: 2026-06-01
 **"Yeah, but I'm not reading that up. Somebody else at the company is."** (re: AI usage)
 — Michael Abramson / The Athletic Clubs (2026-05-29) [A2] | JC: "Maybe to put me in contact with them." — creative pivot but Michael declined ("No, I think they've got their own resources"). | No Next Step. JC was right to ask for the connect — but needed to probe further before letting Michael close the call.
 
+
+---
+
+### Need/Scope — Brad Rush (SDR Rebook 2026-06-01)
+
+**"I mean, I want more of the big picture than single items."**
+— Brad Rush / Granite South (2026-06-01) [A3] | After JC disclosed Precision doesn't build CRMs or ERPs. JC responded with a clarifying question ("What do you mean specifically?") — decent AAA Ask — but the Acknowledge-Answer was thin. Pivoted to the "open API" angle. Brad ultimately agreed to meet on rapport, not on a resolved objection. | Booked (Growth Session June 4, 2026).
+
+---
+
+### Trust — Brad Rush (SDR Rebook 2026-06-01)
+
+**"They had a 60-day money-back guarantee... and then all of a sudden he changed it."**
+— Brad Rush / Granite South (2026-06-01) [A3] | Context only — mentioned re: a prior vendor (AI takeoff quoting tool) who changed contract terms after demo. Brad is wary of overpromises. Not directed at JC or Precision. JC noted this internally. Trust baseline is low for new vendors. | Joe should NOT cite guarantees unless he can honor them exactly; Brad will be watching for contract terms that change.
