@@ -34,4 +34,6 @@ _Note: Nick Marteney/MotherBear Security (67/100, 2026-05-13) entered at rank 12
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-05-29_
+_Last updated: 2026-06-01_
+
+**2026-06-01 additions (cron, prev biz day 2026-05-29):** Greg Gasparini/diametrics.ai (46/100 🔴, No Next Step — email redirect surrender, qualification skipped; Callback), Michael Abramson/The Athletic Clubs (28/100 🔴🔴, No Next Step — timing brush-off accepted with no AAA; Callback; ⚠️ Anti-ICP flag: offline fitness business). Neither ranked (current #20: 63/100).
