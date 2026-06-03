@@ -37,6 +37,7 @@ _Last updated: 2026-05-05_
 | 17 | Joe Meyers | Garrett Campbell | Objectionly | 51/100 🔴 | Growth | 2026-03-13 | BAMFAM'd |
 | 19 | Joe Meyers | Jay Temaat (Pt 2) | Temaat Ventures (State Farm SaaS) | 49/100 🔴 | Growth ($2K) | 2026-04-22 | Closed Won 🎉 |
 | 19 | Joe Meyers | Jay Temaat | Temaat Ventures (State Farm SaaS) | 48/100 🔴 | Core/$2K | 2026-04-15 | Weak BAMFAM (April 22 — shopping coaches) |
+| — | Joe Meyers | Jeff Diem | Elkmont / Leveler | 48/100 🔴 | Blueprint ($5K) | 2026-06-02 | Weak BAMFAM — accepted timing stall, circle back July 1 |
 | 19 | Joe Meyers | Kam Lal | Notetracks | 48/100 🔴 | Core | 2026-04-27 | No Next Step — "Ball in your court" |
 | 19 | Joe Meyers | Marc Buddensiek | Buddensiek Performance | 43/100 🔴 | Core | 2026-02-25 | BAMFAM'd |
 | 18 | Joe Meyers | Angelo Patsilivas | LDC Strategies | 50/100 🔴 | Growth | 2026-01-13 | Weak BAMFAM |
@@ -67,4 +68,4 @@ _Last updated: 2026-05-05_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-05-29_
+_Last updated: 2026-06-03_
