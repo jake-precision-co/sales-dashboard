@@ -2886,3 +2886,44 @@
 **Context:** Said in response to JC asking if building AI agents is taking up time. Brad didn't single out the agents — everything is the constraint. Classic founder-as-bottleneck stage. High-fit ICP signal that went unexplored.
 
 **Tags:** #saas #time-constraint #ceo-bottleneck #tier-growth
+
+### Tim DeHart — Ohio Septic & Grease Trap Services — 2026-06-03
+
+**Roadblock:** "I've not attracted the best quality people and that's limiting beliefs or whatever... how can I reduce some of the busy work so my people focus on customers and not worry about the data." — Tim (2026-06-03) [A3]
+
+**Context:** 14-year-old service business stuck at $2.7-3M ARR; chronic people/management issues, lost a key manager to illness, hired a bad replacement
+
+**Tags:** #home-services #septic #3M-ARR #management #talent #operations
+
+---
+
+**Roadblock:** "I'm very reactive... I tend to not get things accomplished, not start SOPs, and then get distracted and get involved in whatever this is." — Tim (2026-06-03) [A3]
+
+**Context:** Self-aware about his pattern of reacting instead of building systems; new manager is the integrator but Tim hasn't given him clear priorities
+
+**Tags:** #home-services #3M-ARR #leadership #sops #reactive #founder-mode
+
+---
+
+**Roadblock:** "I'm a little bit of a workshop junkie is what I'm learning. I sign up and then I don't implement." — Tim (2026-06-03) [A4]
+
+**Context:** Currently paying CEO Warrior monthly; recognizes he's been buying coaching without executing; called it "shelf help" after Joe named the pattern
+
+**Tags:** #home-services #3M-ARR #implementation-gap #shelf-help #coaching
+
+---
+
+**Roadblock:** "We went several weeks without good revenue. And that hurt." — Tim (2026-06-03) [A2]
+
+**Context:** Septic/grease trap business = seasonal; winter kills revenue (can't find tanks in snow, grease freezes in hoses). Revenue went DOWN year over year.
+
+**Tags:** #home-services #seasonality #revenue-decline #3M-ARR #cashflow
+
+---
+
+**Roadblock:** "I made some bad decisions recently... a contractor took me for $15K." — Tim (2026-06-03) [A3]
+
+**Context:** Trust is low after being burned; affecting his ability to make buying decisions; described it as making him "hesitant to spend another chunk of money without really doing my due diligence"
+
+**Tags:** #home-services #trust #decision-fatigue #3M-ARR #cashflow
+

@@ -1623,3 +1623,20 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Context:** Brad's vision is to understand the AI stack deeply himself first, then hand it off as the company scales. This is a build-to-delegate mindset — which is exactly when Precision becomes relevant. Follow-up angle: "When you're ready to delegate, what does that look like?"
 
 **Tags:** #saas #delegate #scaling #future-buyer #tier-growth
+
+### Tim DeHart — Ohio Septic & Grease Trap Services — 2026-06-03
+
+**Dream:** "My goal is in the next couple of years to sell everything and move to Latin America or Thailand or somewhere like that and just enjoy my life. Yeah. Barcelona." — Tim (2026-06-03) [A4]
+
+**Context:** Built the business to help sick parents; has been in Ohio by obligation, not choice; craves freedom and an international lifestyle; exit is the real goal, revenue growth is the means to that exit
+
+**Tags:** #home-services #3M-ARR #exit-goal #freedom #international #lifestyle
+
+---
+
+**Dream:** "I want to get over to the 5 million mark. How do I do that quicker than it's taking me to get to the 3 million mark?" — Tim (2026-06-03) [A3]
+
+**Context:** Revenue growth is strategic, not the end goal — it's the vehicle to the exit/lifestyle dream
+
+**Tags:** #home-services #3M-ARR #revenue-growth #scale #exit-ramp
+

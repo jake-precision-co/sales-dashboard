@@ -1066,3 +1066,20 @@ Auto-updated after every scored call. Last updated: 2026-06-03
 
 **"We're keeping it in house for now. Kind of want to learn it from the ground up to be honest. And then once we're scaling, then I'd probably delegate that and offload it."**
 — Brad Behlow / konnectd.io (2026-06-02) [A2] | JC responded: "Okay. Cool. No worries yet. Definitely should have my number if you ever have any questions." — Full surrender. No AAA. No follow-up question. | No Next Step. KV AAA: Acknowledge → "That makes total sense — most founders we work with built it in-house first." → Answer → "We actually sit on top of what's already built — we're not replacing anything." → Ask → "The three new guys you just hired — are you building their onboarding around the agent stack or is that separate?"
+
+---
+
+### Tim DeHart — Ohio Septic & Grease Trap Services — 2026-06-03 (AE: Joe Meyers)
+
+**Price/Budget:**
+**"5,000 right now is a little challenging just because we've got a lot of expenses."**
+— Tim DeHart (2026-06-03) [A4] | Joe said "fair enough" and pivoted to collateral — no DM Overrider, no looping | Outcome: Weak BAMFAM / June 16 follow-up
+
+**Authority:**
+**"I want buy-in from my manager because he's the implementer... I need to make sure he understands my priorities so he can implement it."**
+— Tim DeHart (2026-06-03) [A4] | Joe asked "if he says no, what happens?" (good probe) but fell back to sending a PDF rather than booking a 3-way call | Outcome: Waiting on internal alignment
+
+**Trust:**
+**"I made some bad decisions recently that cost us some money... a contractor took me for $15K. So I'm a little hesitant to spend another chunk of money without really doing my due diligence."**
+— Tim DeHart (2026-06-03) [A4] | Joe validated but didn't handle — no risk reversal anchor, no specifics on proof | Outcome: Prospect asked for testimonials from service companies + coach bios
+
