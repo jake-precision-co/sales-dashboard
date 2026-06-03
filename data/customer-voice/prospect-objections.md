@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-06-02
+Auto-updated after every scored call. Last updated: 2026-06-03
 
 ---
 
@@ -45,6 +45,10 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 ---
 
 ### Timing ("not right now," "call me later," "maybe next month")
+
+**"The price doesn't bother me. The timing does. Could you hit me up in like 30 days or so? I'm waiting for my tax refund."**
+— Jeff Diem (2026-06-02) [A4] | Joe accepted the delay immediately — no consequence question, no bridge offer, no urgency creation. Said "Totally, circle back July 1st" and let it end | Weak BAMFAM (30-day callback, no calendar)
+
 
 **"I'm at my kids' school thing. I'll take a look at the website and we'll talk another time."** (soft exit mid-callback — busy + email redirect combo)
 — Erik Sorenson / Platinum Partners (2026-05-14) [A2] | JC capitulated immediately: "No worries, I'll text you the website." No AAA attempt. No specific callback date secured. | Outcome: Vague callback — no date, no time, likely goes cold
@@ -790,7 +794,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-06-02
+Auto-updated after every scored call. Last updated: 2026-06-03
 
 ## New Entries — 2026-05-13
 
@@ -1034,3 +1038,31 @@ Auto-updated after every scored call. Last updated: 2026-06-02
 
 **"They had a 60-day money-back guarantee... and then all of a sudden he changed it."**
 — Brad Rush / Granite South (2026-06-01) [A3] | Context only — mentioned re: a prior vendor (AI takeoff quoting tool) who changed contract terms after demo. Brad is wary of overpromises. Not directed at JC or Precision. JC noted this internally. Trust baseline is low for new vendors. | Joe should NOT cite guarantees unless he can honor them exactly; Brad will be watching for contract terms that change.
+
+---
+
+### Need / Trust — Frankie Cirino (SDR Callback 2026-06-02)
+
+**"If I start having AI do anything for me where it touches my consumer, I am out of business... if they answer a phone call, if they do anything that's going to tell the customer that they don't, I don't answer the phone. I will lose that customer."**
+— Frankie Cirino / Cayman Secure (2026-06-02) [A3] | JC responded: "They're not necessarily customer facing." — Reasonable clarification, kept the call alive. Not full AAA but functional. Frankie accepted the clarification and pivoted to interest. | Call continued. Not a lost objection — just an under-leveraged one. JC could have followed with: "What does your current agent monitoring setup look like? Who's keeping watch of what's running internally?"
+
+---
+
+### Timing — Frankie Cirino (SDR Callback 2026-06-02)
+
+**"I engage with you next week as I'm in the middle of a kidney stone... call me middle or early [next week] because I may have to go in Monday or Tuesday to get this thing blasted."**
+— Frankie Cirino / Cayman Secure (2026-06-02) [A3] | JC responded with warmth and humor — "I'm so sorry about that" + kidney stone banter — excellent rapport. But accepted the vague "next week" without pinning a specific day/time. | Callback (vague). The rapport was built; the commitment wasn't secured. Win the human, lose the booking.
+
+---
+
+### Timing — Brad Behlow (SDR Callback 2026-06-02)
+
+**"I'd probably look at due diligence, start talking, have those conversations end of the year, probably November's when I'd really want to start putting some feelers out there."**
+— Brad Behlow / konnectd.io (2026-06-02) [A2] | JC responded with strong reframe: "Are you feeling this would be an extra thing to take on as opposed to something that would buy back your time?" — Brad confirmed: "Yeah, definitely could buy back time." First brush-off well handled. Second brush-off ("keeping it in-house") accepted without AAA. | No Next Step. The first handle worked. The second surrendered.
+
+---
+
+### In-House / Need — Brad Behlow (SDR Callback 2026-06-02)
+
+**"We're keeping it in house for now. Kind of want to learn it from the ground up to be honest. And then once we're scaling, then I'd probably delegate that and offload it."**
+— Brad Behlow / konnectd.io (2026-06-02) [A2] | JC responded: "Okay. Cool. No worries yet. Definitely should have my number if you ever have any questions." — Full surrender. No AAA. No follow-up question. | No Next Step. KV AAA: Acknowledge → "That makes total sense — most founders we work with built it in-house first." → Answer → "We actually sit on top of what's already built — we're not replacing anything." → Ask → "The three new guys you just hired — are you building their onboarding around the agent stack or is that separate?"

@@ -1578,3 +1578,48 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Tags:** #marketing-agency #coaching-gap
 
+
+### Jeff Diem — Elkmont / Leveler — 2026-06-02
+
+**Dream:** "There is no one else in the world that I could think of that would have access to this information. If I can go to somebody and say, yeah, I've got a database of 8,000 claims and how they react, no one has it." — Jeff (2026-06-02) [A4]
+
+**Context:** Building proprietary claims analytics database for the restoration/insurance industry. Competitive moat = data no one else has. This is his personal obsession and the strategic vision for Leveler.
+
+**Tags:** #restoration #data-moat #competitive-advantage #40M-ARR #tier-enterprise
+
+---
+
+**Dream:** "It's not about laying people off. It's more about how do I increase their capacity so I don't have to hire more people. I'd rather just keep the ones that are open-minded to it, that don't view it as a threat." — Jeff (2026-06-02) [A4]
+
+**Context:** Classic AI leverage vision — same output with fewer hires, not headcount reduction. Reveals values: loyalty to existing team, avoidance of disruption anxiety. (MISSING: personal dream never fully uncovered by Joe)
+
+**Tags:** #restoration #team-capacity #ai-leverage #leadership #tier-enterprise
+
+
+---
+
+### Frankie Cirino — Cayman Secure — 2026-06-02
+
+**Dream:** "One of the things that we develop is a, um, an agent tool that keeps an eye on all the agents that you're injecting into your organization like yours. Like a Hermes agent almost that's kind of keeping watch of everything. I want to hear that." — Frankie (2026-06-02) [A3]
+
+**Context:** Frankie is building his own agent monitoring technology and immediately saw alignment with Precision's approach. The "I want to hear that" is an unprompted buying signal — he's essentially saying his product and Precision's could work together. High-fit prospect once the acquisition settles. Potential partner / power user.
+
+**Tags:** #ai-security #agent-monitoring #product-synergy #callback #tier-smb
+
+---
+
+### Brad Behlow — konnectd.io — 2026-06-02
+
+**Dream:** "Yeah, definitely could buy back time." — Brad (2026-06-02) [A2]
+
+**Context:** Direct confirmation in response to JC's reframe question ("as opposed to something that would potentially buy back your time?"). Brad validated the core value prop. Unforced — he said it because he believes it, not because he was led there. Follow-up should anchor on this.
+
+**Tags:** #saas #time-buyback #confirmed-value #tier-growth
+
+---
+
+**Dream:** "We're keeping it in house for now. Kind of want to learn it from the ground up to be honest. And then once we're scaling, then I'd probably delegate that and offload it." — Brad (2026-06-02) [A2]
+
+**Context:** Brad's vision is to understand the AI stack deeply himself first, then hand it off as the company scales. This is a build-to-delegate mindset — which is exactly when Precision becomes relevant. Follow-up angle: "When you're ready to delegate, what does that look like?"
+
+**Tags:** #saas #delegate #scaling #future-buyer #tier-growth

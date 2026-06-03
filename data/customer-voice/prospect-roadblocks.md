@@ -2825,3 +2825,64 @@
 **Context:** 1-CSM agency, bottleneck already visible. Founder pulling delivery duty, blocking scale. Knows he needs to exit delivery but can't trust or afford another CSM hire.
 
 **Tags:** #marketing-agency #founder-ceiling #csm-bottleneck #churn-risk #delivery-trap
+
+### Jeff Diem — Elkmont / Leveler — 2026-06-02
+
+**Roadblock:** "It's still very manual and it's not much fun. If I could bring in instead of one an hour... if I could bring in 10 a day mitigation and reconstruction files, it just builds and builds." — Jeff (2026-06-02) [A4]
+
+**Context:** Building insurance claim outcome database for Leveler; current process takes 1 hr/record; wants to scale from 57 → 8,000 records using AI agents; bottleneck is manual ETL workflow.
+
+**Tags:** #restoration #insurance #40M-ARR #ai-agent-candidate #tier-enterprise
+
+---
+
+**Roadblock:** "Don't trust any of them because they hallucinate. I built this thing pretty well... I'll ask it to critique itself. Where did you break your own rules? Oh, I broke these seven rules." — Jeff (2026-06-02) [A4]
+
+**Context:** Active Claude user with real experience; hallucination anxiety is a genuine adoption barrier, not naive skepticism. He has a verification workflow in place but it slows him down.
+
+**Tags:** #restoration #ai-adoption #hallucination #40M-ARR #tier-enterprise
+
+---
+
+**Roadblock:** "LLMs just took us out at the knees for whatever we were having going on as everybody else. It's like, well, can we use your resources to try to rebuild it differently?" — Jeff (2026-06-02) [A3]
+
+**Context:** Leveler (SaaS product) got disrupted by LLMs commoditizing what they built. Now pivoting to use AI as the rebuild mechanism. Elkmont (restoration business) is the profitable engine funding this exploration.
+
+**Tags:** #saas #pivot #disruption #ai-rebuild #tier-growth
+
+
+---
+
+### Frankie Cirino — Cayman Secure — 2026-06-02
+
+**Roadblock:** "I am still trying to acquire that business. I'm having some serious issue with the, uh, the soon to be former, uh, executive team." — Frankie (2026-06-02) [A2]
+
+**Context:** In the middle of a business acquisition; fractured relationship with outgoing executive team is actively slowing or complicating the deal. JC had this on the table and walked away from it — this is the live pain point that was never explored.
+
+**Tags:** #ai-security #acquisition #executive-conflict #callback #tier-smb
+
+---
+
+**Roadblock:** "If I start having AI do anything for me where it touches my consumer, I am out of business. And in other words, if they answer a phone call, if they do anything that's going to tell the customer that they don't, I don't answer the phone. I will lose that customer." — Frankie (2026-06-02) [A3]
+
+**Context:** Frankie runs an AI security company — his brand IS trust. Any customer-facing AI that replaces human contact kills his reputation. This is a hard line, not a soft objection. Precision's back-office positioning is the correct counter.
+
+**Tags:** #ai-security #customer-trust #brand-risk #anti-customer-facing-ai #tier-smb
+
+---
+
+### Brad Behlow — konnectd.io — 2026-06-02
+
+**Roadblock:** "I'd probably look at due diligence... probably November's when I'd really want to start putting feelers out there. So kind of getting all the books together right now. And then, yeah, when I can actually devote some bandwidth to this." — Brad (2026-06-02) [A2]
+
+**Context:** Scaling quickly (just hired 3) but entirely absorbed in onboarding and ops. Bandwidth is the real constraint — he's not avoiding Precision, he genuinely has no cycles. "Getting books together" suggests a possible raise or acquisition conversation on the horizon. Worth probing in follow-up.
+
+**Tags:** #saas #bandwidth #onboarding #timing #tier-growth
+
+---
+
+**Roadblock:** "Everything's taking up time." — Brad (2026-06-02) [A2]
+
+**Context:** Said in response to JC asking if building AI agents is taking up time. Brad didn't single out the agents — everything is the constraint. Classic founder-as-bottleneck stage. High-fit ICP signal that went unexplored.
+
+**Tags:** #saas #time-constraint #ceo-bottleneck #tier-growth
