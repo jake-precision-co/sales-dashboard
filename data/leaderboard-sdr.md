@@ -34,8 +34,10 @@ _Note: Nick Marteney/MotherBear Security (67/100, 2026-05-13) entered at rank 12
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-06-02_
+_Last updated: 2026-06-03_
 
 **2026-06-02 additions (cron, prev biz day 2026-06-01):** Brad Rush/Granite South (64/100 🟠, Booked — Rebook; good rapport, ICP flag ⚠️ Anti-ICP fabrication business booked without DQ; Brad ranked at #16, bumping Kam Lal/No Tracks (63/100) off board). Curtis Fairbrother/AIQquisition.AI (54/100 🔴, DQ'd appropriate — reverse pitch inbound; did not rank (current #20: 64/100)).
 
 **2026-06-01 additions (cron, prev biz day 2026-05-29):** Greg Gasparini/diametrics.ai (46/100 🔴, No Next Step — email redirect surrender, qualification skipped; Callback), Michael Abramson/The Athletic Clubs (28/100 🔴🔴, No Next Step — timing brush-off accepted with no AAA; Callback; ⚠️ Anti-ICP flag: offline fitness business). Neither ranked (current #20: 63/100).
+
+**2026-06-03 additions (cron, prev biz day 2026-06-02):** Frankie Cirino/Cayman Secure (37/100 🔴, Callback vague — callback without discovery or qualification; pitch dump instead of permission-frame; live acquisition pain left unexplored; no specific next step locked). Brad Behlow/konnectd.io (43/100 🔴, No Next Step — callback; solid reframe on first timing brush-off but surrendered on in-house objection; no booking attempt despite confirmed buying signal "definitely could buy back time"). Neither ranked (current #20: Jonathan Cardenas/Andicar 64/100).
