@@ -2927,3 +2927,104 @@
 
 **Tags:** #home-services #trust #decision-fatigue #3M-ARR #cashflow
 
+
+### Brad Rush — Granite South — 2026-06-04
+
+**Roadblock:** "None of it works well. None of it's integrated, none of it's automated. Oof." — Brad Rush (2026-06-04) [A3]
+
+**Context:** ERP (Stone app) and GHL are completely siloed; no automation between systems; no single source of truth
+
+**Tags:** #construction #cabinetry #3-5M #operations #integration
+
+---
+
+**Roadblock:** "What is death for us is not having access to the overall information in the company for the month. How many quartz countertops did we do this month? What's the average size countertop job? What's our average sale price?" — Brad Rush (2026-06-04) [A3]
+
+**Context:** Flying blind on every business metric; QuickBooks not reconciled; no dashboard; makes margin decisions by gut
+
+**Tags:** #construction #cabinetry #3-5M #data-visibility #metrics
+
+---
+
+**Roadblock:** "I waste so much damn time on emails, texts, it's just junk." — Brad Rush (2026-06-04) [A2]
+
+**Context:** Owner is the hub for all communications including supplier, customer, and lenders; massive admin drag; no automation
+
+**Tags:** #construction #cabinetry #3-5M #admin-overwhelm #email
+
+---
+
+**Roadblock:** "The problem is, and this is again, it depends on your price. Price point is for a smaller company, we don't have big budgets, so we have to pitch and patch together." — Brad Rush (2026-06-04) [A3]
+
+**Context:** $3.5M revenue, broke even last year, goal is 5–8% margin this year; budget sensitivity is real; comparing solutions by total 12-month cost
+
+**Tags:** #construction #cabinetry #3-5M #budget #price-sensitive
+
+---
+
+**Roadblock:** "I've tried Motion, hated Motion. Tried Pipedrive... three months, that is just a placeholder. I changed phone systems five times trying to get automated." — Brad Rush (2026-06-04) [A3]
+
+**Context:** High tool-switching history; burned multiple times by vendors who didn't deliver; trust erosion is a major buying barrier
+
+**Tags:** #construction #cabinetry #3-5M #tool-fatigue #trust
+
+---
+
+### Jim Pitcher — CRC Builders Inc — 2026-06-03
+
+**Roadblock:** "My fills are just a tank and I'm trying to figure out who do I keep and who do I let go." — Jim (2026-06-03) [A3]
+
+**Context:** Construction company owner experimenting with AI agents (internal + customer-facing). Sales pipeline has dried up and he's in cash-preservation mode. Lead generation is the stated issue, not conversion.
+
+**Tags:** #construction #anti-icp #ai-curious #lead-gen #cash-flow
+
+---
+
+### Jim Pitcher — CRC Builders Inc — 2026-06-03
+
+**Roadblock:** "I can't spending more money right now. Honestly. I'm trying to keep everything together. It's the egg or the chicken first, right?" — Jim (2026-06-03) [A3]
+
+**Context:** Lead gen tanking + cash tight. Classic chicken-and-egg: needs growth to fund growth tools. Knows Precision could help conceptually but can't justify the spend right now. Anti-ICP (construction) — note for messaging: this exact language shows up in offline businesses trying to cross-apply tech solutions.
+
+**Tags:** #construction #anti-icp #cash-flow #budget-objection #chicken-and-egg
+
+---
+
+### Lou Paulozza — Media Business (lupalosa/Threads) — 2026-06-03
+
+**Roadblock:** "I can only do so much myself, right? Even in my inbox, I put a form up and they fill it out, they send it to me, but I still got to sift through everything." — Lou (2026-06-03) [A1]
+
+**Context:** Solo founder building a content creator marketplace. Hundreds of inbound contacts per day — matching creators with brands/clients — all being managed manually through Threads/Instagram DMs. No systems, no team, no tech stack. Classic information overload at scale.
+
+**Tags:** #media #pre-revenue #anti-icp #solo-founder #information-overload #manual-work
+
+
+---
+
+### Brad Rush — Granite South — 2026-06-04
+
+**Roadblock:** "That's death for us — not having access to the overall information in the company for the month. How many quartz countertops did we do this month? What's the average size countertop job? What's our average sale price?" — Brad (2026-06-04) [A3]
+
+**Context:** $3.5M cabinetry/countertop business running three disconnected systems (GHL, Stone app ERP, QuickBooks). No analytics, no unified data. Owner running blind on daily/monthly metrics. Classic scaling bottleneck: can't manage what he can't measure.
+
+**Tags:** #fabrication #construction #3-5m #analytics #data-blindness #anti-icp
+
+---
+
+### Brad Rush — Granite South — 2026-06-04
+
+**Roadblock:** "If you miss one slab that you're supposed to have in the quote, it could be 2, 3, $4,000 that you missed. Should be three slabs, you only quoted two." — Brad (2026-06-04) [A3]
+
+**Context:** Manual quoting process for custom countertops — complex geometry (waterfall edges, veins, U-shaped kitchens) means quoting errors cost thousands per job. Looking for AI-powered quoting/pricing tool. 90% of AI projects he tried haven't shipped. Aware of Claude/Gemini limitations.
+
+**Tags:** #fabrication #quoting #pricing-error #manual-process #anti-icp
+
+---
+
+### Brad Rush — Granite South — 2026-06-04
+
+**Roadblock:** "I changed phone systems five times trying to get automated. Every time... none of it works well. None of it's integrated, none of it's automated." — Brad (2026-06-04) [A3]
+
+**Context:** Has tried GHL, Pipedrive, HubSpot (3-month trial), Motion, Outlook tasks, Trainual ($350/mo replaced by self-built tool). Highly tech-curious, deeply frustrated. Trust is earned through credibility, not demos. Competing with a small ERP vendor promising a custom-built system with year-long contract.
+
+**Tags:** #fabrication #tech-fatigue #vendor-burned #integration-chaos #anti-icp

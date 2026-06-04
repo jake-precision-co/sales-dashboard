@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-06-03
+Auto-updated after every scored call. Last updated: 2026-06-04
 
 ---
 
@@ -794,7 +794,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-06-03
+Auto-updated after every scored call. Last updated: 2026-06-04
 
 ## New Entries — 2026-05-13
 
@@ -1083,3 +1083,42 @@ Auto-updated after every scored call. Last updated: 2026-06-03
 **"I made some bad decisions recently that cost us some money... a contractor took me for $15K. So I'm a little hesitant to spend another chunk of money without really doing my due diligence."**
 — Tim DeHart (2026-06-03) [A4] | Joe validated but didn't handle — no risk reversal anchor, no specifics on proof | Outcome: Prospect asked for testimonials from service companies + coach bios
 
+
+**"I've got to pay five grand to figure out what I'm really going to spend. That's my concern."**
+— Brad Rush / Granite South (2026-06-04) [A3] | Joe acknowledged and gave the guarantee; didn't probe root fear or lock in conditional commitment | Outcome: Objection Stall — Tuesday follow-up pending
+
+**"I own it at the end of a year. I can take it, run it elsewhere, do it. That's my calculation."**
+— Brad Rush / Granite South (2026-06-04) [A3] | Joe explained platform stickiness but never addressed IP fear directly; Brad repeated concern twice | Outcome: Unresolved — biggest trust blocker on this call
+
+**"I can't afford to do both. I've got one over here and one over here — it may be both, but when you're putting up 5K..."**
+— Brad Rush / Granite South (2026-06-04) [A3] | Joe used future-proofing argument (AI model evolution); Brad was partially satisfied but not converted | Outcome: Still comparing; vendor decision pending by Tuesday
+
+---
+*Entries added 2026-06-04 — JC Ruiz calls from 2026-06-03*
+
+## Budget / Financial
+
+**"I can't spending more money right now. Honestly. I'm trying to keep everything together."**
+— Jim Pitcher (2026-06-03) [A3] | JC acknowledged and asked one follow-up (lead gen vs conversion), then pivoted to SaaS Academy pitch — did not use AAA | Outcome: No next step (budget-triggered exit)
+
+## Timing
+
+**"I'm going to have to be on a holding pattern. I've talked to Joe before and Joe's a great guy... I don't think it makes sense right now."**
+— Jim Pitcher (2026-06-03) [A3] | JC accepted immediately — left number, said goodbye. Zero AAA applied. | Outcome: Lost call — call ended with no next step, no specific follow-up date
+
+**"I appreciate it, but I'm good right now. Thank you. We'll get back to you."**
+— Jim Pitcher (2026-06-03) [A3] | JC: "Not bad. You have a good one." Full surrender. | Outcome: Lost call
+
+
+---
+
+## Brad Rush (Granite South) — AE Growth Session — 2026-06-04
+
+**"I've got two competing solutions — the other company builds me a custom ERP and I own it at the end of a year."**
+— Brad Rush (2026-06-04) [A3] | Joe listened, addressed "AI model lock-in" angle and future-proofing, but didn't validate concern or confirm resolution | Outcome: Weak BAMFAM — Tuesday callback, Brad still comparing
+
+**"I've got to pay five grand just to figure out what I'm really going to spend. You come back with 40 grand — and I don't like being in that position."**
+— Brad Rush (2026-06-04) [A3] | Joe walked through staged blueprint model + "start with highest leverage" framing — solid handle — but never confirmed Brad was satisfied | Outcome: Remained hesitant — cost ceiling concern unresolved
+
+**"Every time I do upfront, I get. It's exhausting. I had a guy promise a 60-day money back guarantee and then it wasn't in the contract."**
+— Brad Rush (2026-06-04) [A3] | Joe offered 50k-value-or-your-money-back guarantee in writing — best-handled objection on the call | Outcome: Brad acknowledged ("you have a guarantee and I would hold you to it") — partial resolution

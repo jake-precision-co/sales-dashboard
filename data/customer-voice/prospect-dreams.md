@@ -1640,3 +1640,64 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Tags:** #home-services #3M-ARR #revenue-growth #scale #exit-ramp
 
+
+### Brad Rush — Granite South — 2026-06-04
+
+**Dream (Business):** "My goal is four to five [million]. Been a very slow first six months but we're getting some momentum together." — Brad Rush (2026-06-04) [A3]
+
+**Context:** $3.5M now; wants 4-5M this year; longer term wants to build a building next door; needs financing which requires profit — currently breaking even
+
+**Tags:** #construction #cabinetry #3-5M #revenue-growth #scale
+
+---
+
+**Dream (Business):** "I want to watch on a daily basis the profit margins. Sold a $20,000 job — what's your projected cost? It should be no more than about nine grand." — Brad Rush (2026-06-04) [A3]
+
+**Context:** Wants real-time margin visibility by job; currently flying blind; custom cabinet business has higher margins and he wants to scale that segment
+
+**Tags:** #construction #cabinetry #3-5M #data-visibility #margins
+
+---
+
+**Dream (Business):** "If we could market ourselves just one kitchen, custom or non-custom kitchen a week, we will for the rest of the year easily meet our goals." — Brad Rush (2026-06-04) [A3]
+
+**Context:** One $30–50K kitchen per week = goal achieved; not asking for massive volume — just consistency; lead gen is the constraint
+
+**Tags:** #construction #cabinetry #3-5M #lead-gen #marketing
+
+*(MISSING: personal dream never uncovered — Brad broke his neck, has been grinding 3+ years through recovery + post-COVID rebuild. Rich personal stakes were present and never asked.)*
+
+---
+
+### Jim Pitcher — CRC Builders Inc — 2026-06-03
+
+**Dream:** "Yeah, that's exactly what we're trying to get at." [in response to: leveraging AI to make A-players super-charged and 10X productivity within the business] — Jim (2026-06-03) [A3]
+
+**Context:** Construction company owner who has already hired an AI architect in Brazil. Not opposed to AI investment — the pain is cash flow and unclear ROI, not skepticism about AI itself. Confirmed the 10X productivity vision immediately.
+
+**Tags:** #construction #anti-icp #ai-curious #productivity #10x
+
+---
+
+### Lou Paulozza — Media Business (lupalosa/Threads) — 2026-06-03
+
+**Dream:** "I'm going to be a billionaire now." / "I'm piecing together like an army of people." — Lou (2026-06-03) [A1]
+
+**Context:** Pre-revenue media founder with massive ambition and zero infrastructure. Expects $10M in first year. Wants to build an "army" of content creators matched to brands — fully automated. The dream is huge; the execution capacity is zero. Not Precision ICP but this dream language ("army of people," "hundreds of collaborations a day") resonates with the chaos-to-scale narrative.
+
+**Tags:** #media #pre-revenue #anti-icp #big-vision #solo-founder #scale
+
+
+---
+
+### Brad Rush — Granite South — 2026-06-04
+
+**Dream (Business):** "My goal is a meager 5 to 8% [profit]. If we could market ourselves just one custom kitchen per week, we will for the rest of the year easily meet our goals. $30 to $50,000 kitchens. Just one." — Brad (2026-06-04) [A3]
+
+**Context:** $3.5M cabinetry business. Broke even last year after owner's neck injury setback + COVID. Wants to scale from 3.5M toward 4-5M this year. Also wants to build a new building next door (needs financing = needs profit). Custom cabinetry margins are the highest leverage point.
+
+**Tags:** #fabrication #3-5m #profit-growth #scaling #construction #anti-icp
+
+**Dream (Personal):** ❌ NOT UNCOVERED — Joe never asked. Brad hinted at: "I can get out of the business for a week or two and they'll survive." [2223s] — opening for personal freedom dream existed but was never explored.
+
+**Tags:** #fabrication #founder-trap #personal-dream-missing
