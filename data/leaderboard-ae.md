@@ -1,6 +1,6 @@
 # AE Growth Session Leaderboard 🏆
 
-_Last updated: 2026-05-05_
+_Last updated: 2026-06-03_
 
 | Rank | Rep | Prospect | Company | Score | Tier | Date | Outcome |
 |------|-----|----------|---------|-------|------|------|---------|
@@ -25,6 +25,7 @@ _Last updated: 2026-05-05_
 | 10 | Joe Meyers | Jaan Apajalahti | Romify | 62/100 🟠 | Growth | 2026-03-11 | BAMFAM'd |
 | 11 | Joe Meyers | Haley Brasher | Batbox | 62/100 🟠 | Growth | 2026-03-30 | BAMFAM'd |
 | 12 | Joe Meyers | Joseph Neihart | Solvix LMS | 58/100 🔴 | Core | 2026-04-15 | Weak BAMFAM (Friday partner decision) |
+| 13 | Joe Meyers | Tim DeHart | Ohio Septic & Grease Trap | 60/100 🟠 | Core ($5K blueprint + $1K/mo) | 2026-06-03 | Weak BAMFAM — June 16 (manager buy-in pending) |
 | 13 | Joe Meyers | Jacob McKinney | Studio Sweat | 58/100 🔴 | Core | 2026-03-30 | Closed Won (Part 2) |
 | 13 | Joe Meyers | Austin Brummer | Requidex | 57/100 🔴 | Growth | 2026-04-09 | Weak BAMFAM (April 20 — founder sign-off needed) |
 | 14 | Joe Meyers | Scott Messick | Analyst1 | 55/100 🔴 | Growth | 2026-03-26 | No Next Step |
@@ -32,6 +33,7 @@ _Last updated: 2026-05-05_
 | 14 | Joe Meyers | Matthew Myers | DRE Central | 55/100 🔴 | Core | 2026-04-27 | Weak BAMFAM (Thursday follow-up) |
 | 15 | Joe Meyers | Dan Huck | Painting Company | 55/100 🔴 | Core | 2026-03-20 | No Next Step |
 | 15 | Joe Meyers | Paul Boudreau | Everbreed LLC | 54/100 🔴 | Core ($1K) | 2026-04-14 | Weak BAMFAM (Friday — son approval needed) |
+| 15 | Joe Meyers | Brad Rush | Granite South | 54/100 🔴 | Blueprint ($5K) | 2026-06-04 | Weak BAMFAM (Tuesday — comparing vs competitor ERP build) |
 | 15 | Joe Meyers | Matas Jakutis | BM Digital | 54/100 🔴 | Growth | 2026-03-05 | BAMFAM'd |
 | 16 | Joe Meyers | Ben Grove | Growth Factor AI | 51/100 🔴 | Growth ($2K) | 2026-05-04 | Strong BAMFAM (Wednesday follow-up, June 1 start) |
 | 17 | Joe Meyers | Garrett Campbell | Objectionly | 51/100 🔴 | Growth | 2026-03-13 | BAMFAM'd |
@@ -68,4 +70,4 @@ _Last updated: 2026-05-05_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-06-03_
+_Last updated: 2026-06-04_
