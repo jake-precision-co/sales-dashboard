@@ -34,7 +34,9 @@ _Note: Nick Marteney/MotherBear Security (67/100, 2026-05-13) entered at rank 12
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-06-03_
+_Last updated: 2026-06-04_
+
+**2026-06-04 additions (cron, prev biz day 2026-06-03):** Jim Pitcher/CRC Builders Inc (38/100 🔴, No Next Step — Callback; never screened for business type (⚠️ Anti-ICP: construction company); no golden question, no qualification, surrendered on both brush-offs). Lou Paulozza/Media Business-lupalosa (54/100 🔴, DQ'd appropriate — Outbound Cold; pre-revenue media/content marketplace; clean DQ but business type never formally screened; 7 min on a lead that could've been DQ'd in 90 seconds). Neither ranked (current #20: Jonathan Cardenas/Andicar 64/100).
 
 **2026-06-02 additions (cron, prev biz day 2026-06-01):** Brad Rush/Granite South (64/100 🟠, Booked — Rebook; good rapport, ICP flag ⚠️ Anti-ICP fabrication business booked without DQ; Brad ranked at #16, bumping Kam Lal/No Tracks (63/100) off board). Curtis Fairbrother/AIQquisition.AI (54/100 🔴, DQ'd appropriate — reverse pitch inbound; did not rank (current #20: 64/100)).
 

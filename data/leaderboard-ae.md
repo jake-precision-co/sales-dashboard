@@ -1,6 +1,6 @@
 # AE Growth Session Leaderboard 🏆
 
-_Last updated: 2026-06-03_
+_Last updated: 2026-06-04_
 
 | Rank | Rep | Prospect | Company | Score | Tier | Date | Outcome |
 |------|-----|----------|---------|-------|------|------|---------|
@@ -33,7 +33,7 @@ _Last updated: 2026-06-03_
 | 14 | Joe Meyers | Matthew Myers | DRE Central | 55/100 🔴 | Core | 2026-04-27 | Weak BAMFAM (Thursday follow-up) |
 | 15 | Joe Meyers | Dan Huck | Painting Company | 55/100 🔴 | Core | 2026-03-20 | No Next Step |
 | 15 | Joe Meyers | Paul Boudreau | Everbreed LLC | 54/100 🔴 | Core ($1K) | 2026-04-14 | Weak BAMFAM (Friday — son approval needed) |
-| 15 | Joe Meyers | Brad Rush | Granite South | 54/100 🔴 | Blueprint ($5K) | 2026-06-04 | Weak BAMFAM (Tuesday — comparing vs competitor ERP build) |
+| 15 | Joe Meyers | Brad Rush | Granite South | 52/100 🔴 | Blueprint ($5K) | 2026-06-04 | Weak BAMFAM (Tuesday — comparing vs competitor ERP build) |
 | 15 | Joe Meyers | Matas Jakutis | BM Digital | 54/100 🔴 | Growth | 2026-03-05 | BAMFAM'd |
 | 16 | Joe Meyers | Ben Grove | Growth Factor AI | 51/100 🔴 | Growth ($2K) | 2026-05-04 | Strong BAMFAM (Wednesday follow-up, June 1 start) |
 | 17 | Joe Meyers | Garrett Campbell | Objectionly | 51/100 🔴 | Growth | 2026-03-13 | BAMFAM'd |
