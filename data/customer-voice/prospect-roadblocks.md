@@ -3028,3 +3028,53 @@
 **Context:** Has tried GHL, Pipedrive, HubSpot (3-month trial), Motion, Outlook tasks, Trainual ($350/mo replaced by self-built tool). Highly tech-curious, deeply frustrated. Trust is earned through credibility, not demos. Competing with a small ERP vendor promising a custom-built system with year-long contract.
 
 **Tags:** #fabrication #tech-fatigue #vendor-burned #integration-chaos #anti-icp
+
+---
+
+### Ro Miller — The House of M — 2026-06-15
+
+**Roadblock:** "Everything living in my head, making delegation difficult and creating a bottleneck that prevents scaling." — Ro (2026-06-15) [A3]
+
+**Context:** 8-year paving contractor, $3M revenue, 6-7 employees. Has Matthew (PM) and Autumn (pipeline) newly hired. Ro carries all operational knowledge — can't delegate what isn't documented. Revenue dropped from $10M target to $4-5M due to lost jobs. This is the primary scaling constraint.
+
+**Tags:** #construction #paving #3-5m #founder-bottleneck #delegation #knowledge-hoarding
+
+---
+
+### Ro Miller — The House of M — 2026-06-15
+
+**Roadblock:** "I'm a terrible person for HR... I'm more on the giving side and less protection side of the company. Causes things to not work as well as they should. And so overall it hurts the whole entire team." — Ro (2026-06-15) [A3]
+
+**Context:** Ro recognizes his own bias toward generosity in HR decisions — over-pays, under-protects the business, creates inequity on the team. Looking for someone/something else to "be the bad guy." Strong self-awareness, high pain. Paving industry HR is particularly volatile (crew-level turnover).
+
+**Tags:** #construction #paving #hr-management #founder-self-awareness #team-equity #operational-pain
+
+---
+
+### Ro Miller — The House of M — 2026-06-15
+
+**Roadblock:** "Everything feels like it's constantly on fire." — Ro (2026-06-15) [A3]
+
+**Context:** Classic founder chaos state. No SOPs, no documented processes, crew management reactive, founder-as-firefighter. Revenue at $3M — "too big to be small, not big enough to be large." At the plateau where systems are required to scale.
+
+**Tags:** #construction #paving #3-5m #no-sops #chaos #founder-as-firefighter
+
+---
+
+### Yair Swissa — Swiss Property Management Group — 2026-06-15
+
+**Roadblock:** Manual L10 data entry — team types in metrics weekly; inconsistent, error-prone, time-consuming. "We type it. Exactly." — Yair (2026-06-15) [A4]
+
+**Context:** Property management company ~$1.3M ARR. Currently uses Aptly CRM + 90.io-style L10 meeting system. Team manually enters metrics every week. When asked if automating it would work, Yair pushed back: "The argument is, well, then they don't look at it." Joe's counter (automation removes data entry without removing accountability) landed. High context — Yair has tried to solve this himself.
+
+**Tags:** #property-mgmt #1-3m #manual-data #l10 #kpi-tracking #ops-efficiency
+
+---
+
+### Yair Swissa — Swiss Property Management Group — 2026-06-15
+
+**Roadblock:** "I've been working on [building a brain for our company] for the last three, four weeks." — Yair (2026-06-15) [A4]
+
+**Context:** Yair has been building his own AI back office system for 3-4 weeks. He's invested emotionally and intellectually. The opportunity: Precision has already built what he's building, at enterprise scale. The risk: if Joe doesn't address the sunk cost and the gap, Yair will keep building himself and never buy. The consequence question ("What happens if you keep building for 6 more months?") was never asked.
+
+**Tags:** #property-mgmt #1-3m #diy-ai #build-vs-buy #sunk-cost #tech-founder-behavior

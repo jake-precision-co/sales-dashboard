@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-06-04
+Auto-updated after every scored call. Last updated: 2026-06-16
 
 ---
 
@@ -794,7 +794,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-06-04
+Auto-updated after every scored call. Last updated: 2026-06-16
 
 ## New Entries — 2026-05-13
 
@@ -1122,3 +1122,26 @@ Auto-updated after every scored call. Last updated: 2026-06-04
 
 **"Every time I do upfront, I get. It's exhausting. I had a guy promise a 60-day money back guarantee and then it wasn't in the contract."**
 — Brad Rush (2026-06-04) [A3] | Joe offered 50k-value-or-your-money-back guarantee in writing — best-handled objection on the call | Outcome: Brad acknowledged ("you have a guarantee and I would hold you to it") — partial resolution
+
+---
+
+### Trust / Positioning Confusion (new entries 2026-06-16)
+
+**"I'm frankly getting a little bit turned off on what this is about. Cause I came to you guys thinking this was like a SaaS academy. And instead I'm getting sent all this AI slot about getting AI agents. And I'm like, what the hell? I build that shit myself."**
+— Jean-Eric Plamondon (2026-06-15) [A3] | JC said: "No, we still help. So we do agents, but we do help out with SaaS founders." — brief Answer only, no Acknowledge or Ask. Jean resolved on his own. | Outcome: Growth Session confirmed (still on calendar) — objection didn't kill the booking but JC missed the discovery opportunity inside it
+
+**Note for Joe (GS coaching):** Jean self-identifies as an AI builder ("I build that shit myself"). He's skeptical of being sold AI tools. Don't lead with agents/tech. Lead with constraint identification + operating system for SaaS founders. His trust is fragile.
+
+### Timing (new entries 2026-06-16)
+
+**"My meeting just started. ... I'm going to be on meetings from now all the way until 4:30 PM."**
+— Ken Deocharran (2026-06-15) [A2] | JC proposed callback options, worked Ken's schedule, confirmed 3:15 PM window — decent handling though skipped formal AAA acknowledgment before pivoting to timing logistics | Outcome: Specific callback secured (3:15 PM same day) — meeting happened
+
+
+### Price/Budget (new entries 2026-06-15)
+
+**"A little bit steeper than I thought it will be... The setup fee significantly higher than... our property management software... around $2,000 for onboarding fee. And then the monthly — that is one of our team members abroad for sure. It's pretty expensive."**
+— Yair Swissa (2026-06-15) [A4] | Joe asked "The monthly or the setup fee?" (good probe), got weak validation ("for sure"), then handled with "This is replacing multiple team members" — no Feel→Felt→Found, no AH looping to discovery, no consequence callback, no ROI frame. Yair said "I'll need to think about it." | Outcome: Weak BAMFAM (Friday follow-up). Price stall accepted.
+
+**Note for Joe (Yair follow-up):** Yair's reference class is property management software ($2K onboarding). You need to reframe: "A qualified ops consultant who does what Claudia does runs $100K+/year. You've spent 3-4 weeks building your own brain — what has that cost you? Precision gets you to the same place in 14 days for $5K setup + $2K/month." Loop back to his own sunk cost + the faster path.
+

@@ -1,11 +1,11 @@
 # Pain Buckets — Living Document
-Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket: Pain (what they're stuck in) + Dream (what they want) + Objection (what stops them buying). Last updated: 2026-05-08
+Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket: Pain (what they're stuck in) + Dream (what they want) + Objection (what stops them buying). Last updated: 2026-06-16
 
 ---
 
 ## Bucket: Data You Cannot Trust
 **Priority:** 1
-**Signal strength:** 32 quotes
+**Signal strength:** 41 quotes
 **Emotional intensity:** High
 **Default awareness:** [A2] Problem-Aware
 **Avatar:** SaaS or service business founder at $30K-$500K MRR who has outgrown spreadsheets but hasn't built a real data infrastructure. Running 5-10 tools that don't talk to each other. Makes decisions on gut or stale reports. Knows the problem exists but doesn't know how to fix it without hiring a data team they can't afford.
@@ -78,7 +78,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Bucket: Founder Is the Ceiling
 **Priority:** 2
-**Signal strength:** 78 quotes
+**Signal strength:** 98 quotes
 **Emotional intensity:** High
 **Default awareness:** [A2] Problem-Aware
 **Avatar:** $1M-$5M revenue founder who IS the business. Every decision, every customer, every fire flows through them. Scaled to this point on sweat equity and personal heroics. Can't figure out how to extract themselves without everything breaking. Often a technical founder or craftsman who never learned to delegate. Knows they're the bottleneck but doesn't know how to build systems that work without them.
@@ -173,6 +173,8 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "We need something tactical — not just think big about your business, but think big about your action... if we're thinking big but still taking small action, we're never going to make it." — Arnaldo Piccinelli / Agency Comp (2026-05-05) [A3] *(Context: SaaS co-founder at ~$0 MRR. Wants operating system that closes the gap between vision and daily execution. AI COO resonated)*
 - "Once I get my freedom team, my dream team in place, then I'm ready." — Judy McMurtry / JM Excel Consultant (2026-05-06) [A2] *(Context: MISSING — personal dream of 'freedom team' is emotionally loaded. Joe never explored what 'freedom' means for Judy personally)*
 - "I would like to travel full time and do this while traveling. I would like it to be less dependent on me." — Helen Daughtrey / Mädels, die lesen. (2026-05-04) [A2] *(Context: Accidental founder, ~€60K/year German-language book club. Wants location independence. Travel and autonomy are core motivators. Price DQ — left door open for return)*
+- "what I want to build" — Yair Swissa (2026-06-16)
+
 ### Objection Quotes (what stops them buying)
 - "April travel to Asia — I'm unavailable for 2.5 weeks." — Alex Le (2026-03-23) [A4] → If the business stops when you travel, you don't have a business — you have a job.
 - "I'm in the middle of a product launch, I have literally no head space." — Einar Saevarsson Activity Stream (2026-03-26) [A2] → If you can't think about growth during a launch, who's running the business?
@@ -236,7 +238,7 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Bucket: Sales Is a Black Box
 **Priority:** 4
-**Signal strength:** 54 quotes
+**Signal strength:** 68 quotes
 **Emotional intensity:** Medium
 **Default awareness:** [A2] Problem-Aware
 **Avatar:** Technical founder or product-led company that grew on word-of-mouth, referrals, or PLG but now needs outbound or sales-led growth to hit the next level. No playbook, no sales metrics, no idea if their rep is underperforming or if the process is broken. "We're engineers, not salespeople." Founder-led sales that worked to $1M but won't scale to $5M.
@@ -311,6 +313,8 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "I don't need to be on toast if I can get my 50 to 100 in one geographical area, I can turn it to a 10 to 20 million dollar company by just vertically integrating based on the data that I have and the relationships with me being in the retail grocery space for two dozen years." — Jerry Brown / Culinary Analytics (2026-05-04) [A3] *(Context: 6-figure restaurant analytics SaaS. 20+ years in retail grocery. Path to $10-20M through vertical integration and data leverage)*
 - "I want the option to exit, but I want to help us ensure like there's a connection that I like." — Jerry Brown / Culinary Analytics (2026-05-04) [A3] *(Context: Values customer relationships and community as much as revenue growth. Community-buyer profile — the camaraderie angle resonated)*
 - "We're trying to focus on execution now... step one, I know we've got to fix our marketing funnel, then we've got to get one channel and turn that green before going on to the other channel." — Jackson / Sigil (2026-05-06) [A3] *(Context: Tech-enabled fraud detection/removal. Has the SaaS framework from Software as a Science — wants methodical step-by-step execution. Booked)*
+- "I want to have an agent that gives me insights about every place in my software." — Yair Swissa (2026-06-16)
+
 ### Objection Quotes (what stops them buying)
 - "I need to speak with my sales manager." — Piotr Gawlik GAVBIZ (2026-03-25) [A3] → If you need your sales manager's permission, you don't have visibility into your own pipeline.
 
@@ -601,4 +605,10 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 
 ## Unassigned (Pending Review)
 <!-- Quotes that don't clearly fit existing buckets. 3+ similar = new bucket candidate. -->
+- "echoed. |
+| Built weight — let pain breathe | 2 | 0 | Went immediately to demo. No tension built. |
+
+CONSEQUENCE CHECK: ❌ NO — Never asked" — Yair Swissa (2026-06-16)
+- "), team members abroad ($2K/month salary reference). |
+| Created clear contrast between dream and reality | 3 | 0 | None. No" — Yair Swissa (2026-06-16)
 - "Let's say we do work together... what does success look like to you in a year's time?" — Abhishek Jain (2026-05-20)

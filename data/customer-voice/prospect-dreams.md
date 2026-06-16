@@ -1701,3 +1701,31 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Dream (Personal):** ❌ NOT UNCOVERED — Joe never asked. Brad hinted at: "I can get out of the business for a week or two and they'll survive." [2223s] — opening for personal freedom dream existed but was never explored.
 
 **Tags:** #fabrication #founder-trap #personal-dream-missing
+
+---
+
+### Ro Miller — The House of M — 2026-06-15
+
+**Dream (Business):** "Work every day — I'd say four days a week — a strong two-crew system, plenty of runway with cash flow, collecting within 45 days, 10–12 general contractors always reaching out to us, strong company culture with personality tests and events, everything not always feeling like it's on fire." — Ro (2026-06-15) [A3]
+
+**Context:** 8-year paving contractor, $3M revenue. This is a founder who has a clear operational vision but is stuck in execution. The dream was unprompted and detailed — Ro had been carrying this for a long time. Key coaching note: Joe got the business dream but never anchored the personal dimension ("what does that unlock for YOU?").
+
+**Tags:** #construction #paving #3-5m #inbound-leads #culture #operational-freedom #4-day-week
+
+**Dream (Personal):** ❌ PARTIALLY UNCOVERED — Ro said "getting out of the field more so on vision and growth strategies for the company" and "everybody involved is making more money" — personal elements embedded in business answer. Joe never asked "What does this unlock for YOU personally, Ro?" The day-to-day personal dream (what his week looks like when it's working) was never surfaced.
+
+**Tags:** #construction #personal-dream-missing #founder-trap
+
+---
+
+### Yair Swissa — Swiss Property Management Group — 2026-06-15
+
+**Dream (Business):** "I want to have an agent that gives me insights about every place in my software — what's happening, how long it takes us to answer, the whole thing." — Yair (2026-06-15) [A4]
+
+**Context:** Part 2 follow-up call (demo call). Yair has been independently building an AI back office brain for 3-4 weeks. His vision: AI as the operational nervous system — not customer-facing, not a bot, but internal intelligence that supports every team member. "I want it to be the back office for every team member." He believes AI is the way — Precision just needs to prove they've already built what he's building. [A4] — product-aware, has prior Precision call, actively comparing to his own build.
+
+**Tags:** #property-mgmt #1-3m #ai-back-office #operational-intelligence #speed-to-lead #diy-builder
+
+**Dream (Personal):** ❌ NOT UNCOVERED. Joe never asked "When this runs the way you're visioning — what does that free you to do personally?" Yair's investment in building the brain suggests a personal stake (founder identity + time) — but what he gets personally was never explored.
+
+**Tags:** #property-mgmt #personal-dream-missing #tech-founder
