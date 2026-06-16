@@ -1,6 +1,6 @@
 # SDR Cold Call Leaderboard 🏆
 
-_Last updated: 2026-05-21_
+_Last updated: 2026-06-16_
 
 | Rank | Rep | Prospect | Company | Score | Outcome | Date |
 |------|-----|----------|---------|-------|---------|------|
@@ -34,7 +34,7 @@ _Note: Nick Marteney/MotherBear Security (67/100, 2026-05-13) entered at rank 12
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-16_
 
 **2026-06-04 additions (cron, prev biz day 2026-06-03):** Jim Pitcher/CRC Builders Inc (38/100 🔴, No Next Step — Callback; never screened for business type (⚠️ Anti-ICP: construction company); no golden question, no qualification, surrendered on both brush-offs). Lou Paulozza/Media Business-lupalosa (54/100 🔴, DQ'd appropriate — Outbound Cold; pre-revenue media/content marketplace; clean DQ but business type never formally screened; 7 min on a lead that could've been DQ'd in 90 seconds). Neither ranked (current #20: Jonathan Cardenas/Andicar 64/100).
 
@@ -43,3 +43,5 @@ _Last updated: 2026-06-04_
 **2026-06-01 additions (cron, prev biz day 2026-05-29):** Greg Gasparini/diametrics.ai (46/100 🔴, No Next Step — email redirect surrender, qualification skipped; Callback), Michael Abramson/The Athletic Clubs (28/100 🔴🔴, No Next Step — timing brush-off accepted with no AAA; Callback; ⚠️ Anti-ICP flag: offline fitness business). Neither ranked (current #20: 63/100).
 
 **2026-06-03 additions (cron, prev biz day 2026-06-02):** Frankie Cirino/Cayman Secure (37/100 🔴, Callback vague — callback without discovery or qualification; pitch dump instead of permission-frame; live acquisition pain left unexplored; no specific next step locked). Brad Behlow/konnectd.io (43/100 🔴, No Next Step — callback; solid reframe on first timing brush-off but surrendered on in-house objection; no booking attempt despite confirmed buying signal "definitely could buy back time"). Neither ranked (current #20: Jonathan Cardenas/Andicar 64/100).
+
+**2026-06-16 additions (cron, prev biz day 2026-06-15):** Jean-Eric Plamondon (44/100 🔴, Rebook — pre-GS confirmation call; GS confirmed this week ✅; zero qualification re-verified, no discovery, no day-of confirmation set; trust/positioning objection partially handled — Jean resolved on his own). Ken Deocharran (48/100 🔴, Callback — inbound text inquiry; BAMFAM 3:15 PM same day; zero qualification, no discovery, missed post-reframe window; good timing objection handling, specific callback time locked). Neither ranked (current #20: Jonathan Cardenas/Andicar 64/100).
