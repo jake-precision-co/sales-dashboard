@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-06-16
+Auto-updated after every scored call. Last updated: 2026-06-17
 
 ---
 
@@ -794,7 +794,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-06-16
+Auto-updated after every scored call. Last updated: 2026-06-17
 
 ## New Entries — 2026-05-13
 
@@ -1144,4 +1144,31 @@ Auto-updated after every scored call. Last updated: 2026-06-16
 — Yair Swissa (2026-06-15) [A4] | Joe asked "The monthly or the setup fee?" (good probe), got weak validation ("for sure"), then handled with "This is replacing multiple team members" — no Feel→Felt→Found, no AH looping to discovery, no consequence callback, no ROI frame. Yair said "I'll need to think about it." | Outcome: Weak BAMFAM (Friday follow-up). Price stall accepted.
 
 **Note for Joe (Yair follow-up):** Yair's reference class is property management software ($2K onboarding). You need to reframe: "A qualified ops consultant who does what Claudia does runs $100K+/year. You've spent 3-4 weeks building your own brain — what has that cost you? Precision gets you to the same place in 14 days for $5K setup + $2K/month." Loop back to his own sunk cost + the faster path.
+
+
+### Timing (new entries 2026-06-17)
+
+**"Can we talk later time? Can we talk next week, once I'm settled, because I'm not home. I need to get home first."**
+— Winston / Wealth Dynamic (2026-06-16) [A2] | JC did NOT accept the timing brush-off — redirected to existing Monday Growth Session: "Just want to make sure you have the link for your growth session for Monday." Good instinct. Missing: no day-of confirmation set, no backup slot offered. | Outcome: Growth Session on calendar Monday — high no-show risk given prospect's distressed personal situation
+
+**Note for Joe (Winston GS):** Winston claimed to be detained in Canada in a nursing home/hospice situation for 19+ years. Story is unusual — verify status day-of. JC never qualified role, revenue, or business type. Joe needs to open with a quick qualification check at the top.
+
+### Email Redirect / Brush-Off (new entries 2026-06-17)
+
+**"I'm not jumping on anything right now, but if you want to send me a note, I'd love this to get on it and take a look."**
+— Anonymous Director / DemandBridge (2026-06-16) [A1] | JC accepted immediately — said he'd send an email and ended the call. No AAA, no probe into what "not jumping on anything" means, no referral ask initiated (prospect volunteered one anyway). Anti-ICP contact: supply chain consulting director, not a founder. JC never DQ'd. | Outcome: No Next Step — 4 minutes wasted on wrong person, no DQ delivered
+
+
+---
+**"We will have to consult this with our team and see what's going to be the decision."**
+— Safwan Saigh, Techrar (2026-06-15) [A3] | Joe accepted immediately, no Overrider deployed | Outcome: Weak BAMFAM (Thursday email/call, uncalendared)
+
+**"It sounded interesting until you started focusing on efficiency."**
+— Safwan Saigh, Techrar (2026-06-15) [A3] | Joe handled well — phased approach reframe, Safwan satisfied | Outcome: Recovered
+
+**"I don't pull triggers on my first calls. Never. It never happened once."**
+— Ken Deocharran, Staff Worthy (2026-06-16) [A3] | Joe accepted with "Okay, sounds good, I'll wait to hear from you" — no Overrider, no calendar set | Outcome: Weak BAMFAM (Thursday phone check-in, uncalendared)
+
+**"Staff Worthy revenue is 150K... the investment [concern]."** (implied)
+— Ken Deocharran, Staff Worthy (2026-06-16) [A3] | Joe gave value justification and refund guarantee, no looping to cost of problem | Outcome: Not resolved — moved to "needs team consultation"
 

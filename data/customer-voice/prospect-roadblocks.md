@@ -3078,3 +3078,42 @@
 **Context:** Yair has been building his own AI back office system for 3-4 weeks. He's invested emotionally and intellectually. The opportunity: Precision has already built what he's building, at enterprise scale. The risk: if Joe doesn't address the sunk cost and the gap, Yair will keep building himself and never buy. The consequence question ("What happens if you keep building for 6 more months?") was never asked.
 
 **Tags:** #property-mgmt #1-3m #diy-ai #build-vs-buy #sunk-cost #tech-founder-behavior
+
+---
+
+### Ahmed Abbas Mohammad + Safwan Saigh — Techrar — 2026-06-15
+
+**Roadblock:** "We have issues in how can we convert those leads into signing our offers or into onboarding within Techrar." — Safwan (2026-06-15) [A3]
+
+**Context:** Techrar dominates the Saudi meal kit SaaS market on word-of-mouth, but their sports/studio vertical (launched Jan 2026) can't convert. They have zero conversion rate measurement. The problem is upstream: messaging, ICP clarity, and a software product that doesn't fully solve the gym/studio pain.
+
+**Tags:** #saas #subscription-platform #1-3m #saudi-arabia #conversion-problem #no-metrics
+
+**Roadblock:** "It can't run by itself without the need of the top management to get involved a lot of the time." — Ahmed (2026-06-15) [A3]
+
+**Context:** CEO and CTO are in every deal. Founders want to build a growth engine that scales without them, but haven't yet built the system or team to run independently. Classic founder bottleneck.
+
+**Tags:** #saas #founder-bottleneck #1-3m #founder-dependency #scaling
+
+**Roadblock:** "We are not measuring [conversion rates]. Unfortunately." — Safwan (2026-06-15) [A2]
+
+**Context:** Despite running a SaaS business and obsessing over growth, Techrar has zero formal measurement of their own sales conversion funnel. They know something is broken but can't quantify it. Classic pre-Precision blind spot.
+
+**Tags:** #saas #1-3m #no-metrics #blind-spot #saudi-arabia
+
+---
+
+### Ken Deocharran — Staff Worthy / Book a Ride — 2026-06-16
+
+**Roadblock:** "It's a constant situation that when something happens and you really find the root cause of it — somebody forgot to do something." — Ken (2026-06-16) [A3]
+
+**Context:** Serial entrepreneur with five companies and a corporate-style org structure. Process failure at every level is his #1 operational frustration. He's not close to the day-to-day, which makes accountability and SOP compliance invisible until revenue takes a hit.
+
+**Tags:** #transportation #staffing #10m-plus #process-compliance #ops-failure #serial-entrepreneur
+
+**Roadblock:** "The recruiters have to basically chase the lead, getting the lead to complete an application, sending them a link to click on and then validating that they complete the application correctly." — Ken (2026-06-16) [A3]
+
+**Context:** Staff Worthy's lead-to-hire funnel is entirely manual — recruiters spend most of their time chasing candidates through a paper-thin process. Ken sees this as the highest-leverage AI automation opportunity and it's a direct tie to revenue.
+
+**Tags:** #staffing #transportation #150k-rev #lead-management #manual-process #automation-ready
+

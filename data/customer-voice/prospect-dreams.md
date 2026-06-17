@@ -1729,3 +1729,34 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Dream (Personal):** ❌ NOT UNCOVERED. Joe never asked "When this runs the way you're visioning — what does that free you to do personally?" Yair's investment in building the brain suggests a personal stake (founder identity + time) — but what he gets personally was never explored.
 
 **Tags:** #property-mgmt #personal-dream-missing #tech-founder
+
+---
+
+### Ahmed Abbas Mohammad + Safwan Saigh — Techrar — 2026-06-15
+
+**Dream (Business):** "It's a forex of what we have right now. We need to reach profitability and positive cash flow." — Ahmed + Safwan (2026-06-15) [A3]
+
+**Context:** 4x revenue to $5.2M USD in 2026; expand from 2 verticals to 6-12; become a multi-product subscription platform company across Saudi Arabia and beyond. Heavily growth-oriented, not VC-dependent — angel/PE backed.
+
+**Tags:** #saas #1-3m #saudi-arabia #4x-growth #multi-product #expansion
+
+**Dream (Personal):** ❌ NOT UNCOVERED. Ahmed is the finance/CEO guy tracking profitability. Safwan is the product/CTO guy wanting to solve customer pain first, then automate. Joe asked "What does that do for you?" but accepted business-level answers. Neither founder's personal vision (what does success unlock FOR THEM?) was ever explored.
+
+**Tags:** #personal-dream-missing #saas #founder-pair
+
+---
+
+### Ken Deocharran — Staff Worthy / Book a Ride — 2026-06-16
+
+**Dream (Business):** "I want a little five-year-old to know who Bookeride is." — Ken (2026-06-16) [A4]
+
+**Context:** Ken wants Book a Ride to become the dominant household transportation brand in Guyana as the country transforms from 3rd to 1st world on oil wealth. 30+ hotels opened, labor force booming — he's positioned perfectly and knows it.
+
+**Tags:** #transportation #rideshare #guyana #brand-building #10m-plus #market-domination
+
+**Dream (Personal):** "I report to no one. That was one of my goals when I was very young... It should not depend on me. That's been my goal from day one." — Ken (2026-06-16) [A4]
+
+**Context:** Serial entrepreneur who has spent 20+ years building businesses to be owner-independent. He's largely achieved it (4 of 5 businesses run without him). Book a Ride is his "baby" and still demands his attention. He wants to complete the journey — five businesses, all self-running, freeing his brain for the next invention.
+
+**Tags:** #serial-entrepreneur #freedom #owner-independence #transportation #staffing #10m-plus #legacy
+
