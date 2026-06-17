@@ -19,6 +19,7 @@ _Last updated: 2026-06-04_
 | 10 | Joe Meyers | Brian Sampson | Tether | 65/100 🟠 | Core ($1K) | 2026-05-07 | Closed Won |
 | 11 | Joe Meyers | Brenden Melanson | BuildBox Pro | 65/100 🟠 | Core ($1K) | 2026-05-04 | Closed Won |
 | 12 | Joe Meyers | Antonis Politis | SE&C IKE | 65/100 🟠 | Growth ($2K) | 2026-04-28 | Weak BAMFAM (May 5 — co-founder review, price concern) |
+| 9 | Joe Meyers | Ro Miller | The House of M | 67/100 🟠 | Growth ($2K) | 2026-06-15 | Weak BAMFAM (Monday follow-up — 85-90% interest, needs team consult) |
 | 9 | Joe Meyers | Chris Rios | Outdoor Lighting / SaaS | 67/100 🟠 | Core | 2026-04-14 | Strong BAMFAM (99.9% yes, 10am tomorrow) |
 | 9 | Joe Meyers | Matthew Young | MovingLetters.ai | 67/100 🟠 | Growth | 2026-03-05 | Closed Won |
 | 9 | Joe Meyers | Brad Powell | Red Board | 63/100 🟠 | Growth | 2026-03-17 | BAMFAM'd |
@@ -61,6 +62,7 @@ _Last updated: 2026-06-04_
 | — | Joe Meyers | Jerry Brown | Culinary Analytics | 29/100 🔴 | None | 2026-05-20 | No Next Step — call aborted (SDR misalignment; no reframe attempted) |
 | — | Joe Meyers | Michael Benko | Student Success Agency | 59/100 🔴 | Core ($1K) | 2026-05-18 | Near-close (self-enrolled, stripe link sent, Monday ping) |
 | — | Joe Meyers | Paula Bellido | RRCA | 46/100 🔴 | Core ($1K) / Audit ($5K) | 2026-05-19 | Weak BAMFAM (next Friday — needs Lee + wife + accountant approval) |
+| — | Joe Meyers | Yair Swissa (Pt 2) | Swiss Property Mgmt Group | 43/100 🔴 | Growth ($2K) | 2026-06-15 | Weak BAMFAM (Friday 10:30am — price hurdle; "I need to think about it") |
 
 ---
 
@@ -70,4 +72,4 @@ _Last updated: 2026-06-04_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-16_
