@@ -1,6 +1,6 @@
 # AE Growth Session Leaderboard 🏆
 
-_Last updated: 2026-06-04_
+_Last updated: 2026-06-18_
 
 | Rank | Rep | Prospect | Company | Score | Tier | Date | Outcome |
 |------|-----|----------|---------|-------|------|------|---------|
@@ -23,7 +23,8 @@ _Last updated: 2026-06-04_
 | 9 | Joe Meyers | Chris Rios | Outdoor Lighting / SaaS | 67/100 🟠 | Core | 2026-04-14 | Strong BAMFAM (99.9% yes, 10am tomorrow) |
 | 9 | Joe Meyers | Matthew Young | MovingLetters.ai | 67/100 🟠 | Growth | 2026-03-05 | Closed Won |
 | 9 | Joe Meyers | Brad Powell | Red Board | 63/100 🟠 | Growth | 2026-03-17 | BAMFAM'd |
-| 10 | Joe Meyers | Jaan Apajalahti | Romify | 62/100 🟠 | Growth | 2026-03-11 | BAMFAM'd |
+| 10 | Joe Meyers | Cory Irwin | ABE Construction Group | 62/100 🟠 | Growth ($2K) | 2026-06-17 | Weak BAMFAM — Friday 11am (team consult + platform cost review) |
+| 11 | Joe Meyers | Jaan Apajalahti | Romify | 62/100 🟠 | Growth | 2026-03-11 | BAMFAM'd |
 | 11 | Joe Meyers | Haley Brasher | Batbox | 62/100 🟠 | Growth | 2026-03-30 | BAMFAM'd |
 | 12 | Joe Meyers | Joseph Neihart | Solvix LMS | 58/100 🔴 | Core | 2026-04-15 | Weak BAMFAM (Friday partner decision) |
 | 13 | Joe Meyers | Tim DeHart | Ohio Septic & Grease Trap | 60/100 🟠 | Core ($5K blueprint + $1K/mo) | 2026-06-03 | Weak BAMFAM — June 16 (manager buy-in pending) |
