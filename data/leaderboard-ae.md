@@ -63,6 +63,8 @@ _Last updated: 2026-06-04_
 | — | Joe Meyers | Michael Benko | Student Success Agency | 59/100 🔴 | Core ($1K) | 2026-05-18 | Near-close (self-enrolled, stripe link sent, Monday ping) |
 | — | Joe Meyers | Paula Bellido | RRCA | 46/100 🔴 | Core ($1K) / Audit ($5K) | 2026-05-19 | Weak BAMFAM (next Friday — needs Lee + wife + accountant approval) |
 | — | Joe Meyers | Yair Swissa (Pt 2) | Swiss Property Mgmt Group | 43/100 🔴 | Growth ($2K) | 2026-06-15 | Weak BAMFAM (Friday 10:30am — price hurdle; "I need to think about it") |
+| — | Joe Meyers | Ahmed Abbas Mohammad + Safwan Saigh | Techrar (Saudi SaaS) | 61/100 🟠 | Growth ($2K) | 2026-06-15 | Weak BAMFAM (Thursday email/call — uncalendared; team consultation) |
+| — | Joe Meyers | Ken Deocharran | Staff Worthy / Book a Ride | 61/100 🟠 | Growth ($2K) | 2026-06-16 | Weak BAMFAM (Thursday phone check-in — uncalendared; serial entrepreneur) |
 
 ---
 
@@ -72,4 +74,4 @@ _Last updated: 2026-06-04_
 - Ties broken by most recent date
 - Top 20 leaderboard (all time)
 
-_Last updated: 2026-06-16_
+_Last updated: 2026-06-17_
