@@ -338,7 +338,7 @@
 
 **Roadblock:** (Unknown - never explored. Prospect said "I have several things I'm doing" but SDR didn't probe.)
 
-**Context:** Old SaaS Academy lead, running events platform. No qualification performed on the call. Growth Session booked for 3/24 but AE will walk in blind.
+**Context:** Old Precision lead, running events platform. No qualification performed on the call. Growth Session booked for 3/24 but AE will walk in blind.
 
 **Industry:** SaaS  
 **MRR:** Unknown  
@@ -352,7 +352,7 @@
 
 **Roadblock:** (Unknown - prospect disqualified himself immediately, said "it wasn't relevant for us" before any discovery happened.)
 
-**Context:** Old SaaS Academy lead. Ran an agency in the past. SDR pitched features instead of asking questions. No roadblock surfaced.
+**Context:** Old Precision lead. Ran an agency in the past. SDR pitched features instead of asking questions. No roadblock surfaced.
 
 **Industry:** Agency  
 **MRR:** Unknown  
@@ -895,12 +895,12 @@
 **Exact Quote:**
 > "We don't have the budget for it. We're operating tightly right now. It's not a good time for us."
 
-**Context:** Inbound MQL follow-up. Peter had reached out to SaaS Academy in the past but said "not interested" when JC called. When pressed for feedback, he cited budget constraints.
+**Context:** Inbound MQL follow-up. Peter had reached out to Precision in the past but said "not interested" when JC called. When pressed for feedback, he cited budget constraints.
 
 **The Real Roadblock:**
 > "Sales people. Quality sales people and marketing campaigns. That's the biggest thing holding us back from growing the budget."
 
-**Why This Matters:** Peter admitted the exact problem SaaS Academy solves (sales team + marketing execution) and even acknowledged, "I know you can help with that. I understand that." But he still said no because he's stuck in a mental loop: *"We don't have budget because our sales and marketing aren't working, but we can't fix sales and marketing because we don't have budget."* This is the classic small-business death spiral.
+**Why This Matters:** Peter admitted the exact problem Precision solves (sales team + marketing execution) and even acknowledged, "I know you can help with that. I understand that." But he still said no because he's stuck in a mental loop: *"We don't have budget because our sales and marketing aren't working, but we can't fix sales and marketing because we don't have budget."* This is the classic small-business death spiral.
 
 **Missed Opportunity:** JC should have broken the loop by reframing: "Peter, you just told me the reason your budget is tight is because your sales and marketing aren't producing. That's EXACTLY what we fix. If we solve that problem, does the budget constraint solve itself?" Instead, JC folded: "No worries, I understand."
 
@@ -1090,7 +1090,7 @@
 
 **Roadblock:** "I'm not a fan of the whole of like Growth Accelerator's model... basically course recorded calls and then like come with Q and A." — Steve (2026-03-30) [A4]
 
-**Context:** Existing SaaS Academy customer (Growth Accelerator tier) frustrated with the course-based model. Wants direct coaching, not pre-recorded content. Transitioned to Precision Core during this period.
+**Context:** Existing Precision customer (Growth Accelerator tier) frustrated with the course-based model. Wants direct coaching, not pre-recorded content. Transitioned to Precision Core during this period.
 
 **Industry:** SaaS  
 **MRR:** Unknown  
@@ -1110,7 +1110,7 @@
 
 **Roadblock:** "My complaint with Growth Accelerator was we had no exposure to Dan, which I understand Dan, but it's like we're sold on this, like, coaching. Dan's coaching program. It's like it wasn't Dan's coaching program. We never talked to Dan." — Steve (2026-03-30) [A4]
 
-**Context:** Felt misled by SaaS Academy's marketing — Dan Martell's face was on everything but customers never interacted with him directly. Trust issue around leadership access. Contrast: Steve specifically said "I really like Matt" about Matt Verlach and asked if he'd get exposure to Matt at Precision.
+**Context:** Felt misled by Precision's marketing — Dan Martell's face was on everything but customers never interacted with him directly. Trust issue around leadership access. Contrast: Steve specifically said "I really like Matt" about Matt Verlach and asked if he'd get exposure to Matt at Precision.
 
 **Industry:** SaaS  
 **MRR:** Unknown  
@@ -1166,7 +1166,7 @@
 
 **Roadblock:** "We're looking at it from a marketing perspective, not a coaching perspective." — Todd (2026-04-02) [A2]
 
-**Context:** Prospect had a prior SaaS Academy inquiry. Had a meeting with SaaS Academy the same day JC called. Shopping for marketing help, not a coaching/operating system. Not yet aware of Precision's expanded offering.
+**Context:** Prospect had a prior Precision inquiry. Had a meeting with Precision the same day JC called. Shopping for marketing help, not a coaching/operating system. Not yet aware of Precision's expanded offering.
 
 **Industry:** SaaS  
 **Tier:** Unknown  
@@ -1174,9 +1174,9 @@
 
 ---
 
-**Roadblock:** "We need to digest what we just learned with SaaS Academy... we haven't even had a chance to discuss and break down the meeting yet." — Todd (2026-04-02) [A2]
+**Roadblock:** "We need to digest what we just learned with Precision... we haven't even had a chance to discuss and break down the meeting yet." — Todd (2026-04-02) [A2]
 
-**Context:** Actively evaluating SaaS Academy on the same day. Decision process requires business partner alignment. Timing was genuinely premature — JC called mid-evaluation cycle.
+**Context:** Actively evaluating Precision on the same day. Decision process requires business partner alignment. Timing was genuinely premature — JC called mid-evaluation cycle.
 
 **Industry:** SaaS  
 **Other:** Hrtech, Decision Committee, Timing Objection, Callback Lead
@@ -1505,7 +1505,7 @@
 
 **Roadblock:** "There was a definite reason [why I didn't go with you], but I just don't remember why." — George (2026-04-13) [A3]
 
-**Context:** Prior SaaS Academy lead who opted for accelerators instead. Objected to pricing structure and "ownership" of the company. Went to programs that "paid us to do the same thing virtually." Trust/belief objection — not price sensitivity.
+**Context:** Prior Precision lead who opted for accelerators instead. Objected to pricing structure and "ownership" of the company. Went to programs that "paid us to do the same thing virtually." Trust/belief objection — not price sensitivity.
 
 **Industry:** SaaS  
 **Other:** Prior Lead, Trust Objection, Competitor Accelerator
@@ -1805,7 +1805,7 @@
 
 **Roadblock:** "Don't you guys cater to established SaaS owners rather than startups?" — Haroon (2026-04-20) [A2]
 
-**Context:** Pre-launch AI product, self-funded, solo founder. Had submitted a SaaS Academy application but worried Precision was only for more mature companies. JC dispelled this on the call.
+**Context:** Pre-launch AI product, self-funded, solo founder. Had submitted a Precision application but worried Precision was only for more mature companies. JC dispelled this on the call.
 
 **MRR:** Pre-Revenue  
 **Other:** Ai Saas, Startup, Solo Founder
@@ -1925,7 +1925,7 @@
 
 **Roadblock:** "We're not growing and I'm looking to change it. The last six months we grew very little, like 5% and had a new affiliate come over randomly. Not even our effort. So luck came in a little extra." — Yuli (2026-04-24) [A3]
 
-**Context:** 15-year bootstrapped hosting/file-sharing B2C SaaS. $150K MRR, profitable, plateau for 2 years. 50% churn on new acquisitions every 3 months. Yuli identified himself as a strategist, not an operator — wants to hire a GM/PM/Tech Lead to run the business autonomously. Came in as an inbound MQL from SaaS Academy brand.
+**Context:** 15-year bootstrapped hosting/file-sharing B2C SaaS. $150K MRR, profitable, plateau for 2 years. 50% churn on new acquisitions every 3 months. Yuli identified himself as a strategist, not an operator — wants to hire a GM/PM/Tech Lead to run the business autonomously. Came in as an inbound MQL from Precision brand.
 
 **Industry:** SaaS  
 **Outcome:** No Next Step  
@@ -2063,7 +2063,7 @@
 
 **Roadblock:** "Right now, we're just dealing with some problems with our payment processor. Yeah, we're a small business. There's only two of us. Actually, we don't have employees, so. Yeah, we're doing the work instead of running the business. So, my heads are just down doing that." — Sean (2026-04-27) [A2]
 
-**Context:** Two-person SaaS company with payment processor issues and operational overwhelm. Heads-down execution mode, not running the business strategically. Prior SaaS Academy contact who read Software as a Science and raised prices.
+**Context:** Two-person SaaS company with payment processor issues and operational overwhelm. Heads-down execution mode, not running the business strategically. Prior Precision contact who read Software as a Science and raised prices.
 
 **Industry:** SaaS  
 **Other:** Small Team, Operator Trap, Pre Icp Revenue
@@ -2132,7 +2132,7 @@
 
 **Roadblock:** "I don't want the blind leading the blind. Right, where a bunch of founders get together and talk to each other. Like, I want experts. If I'm going to spend the time to do something like that, I want to spend time with experts and not us." — Carolyn (2026-04-29) [A3]
 
-**Context:** Prior SaaS Academy member who cancelled. Biggest barrier is community/peer programs vs. expert-led coaching. Wants proven operators, not other founders figuring it out.
+**Context:** Prior Precision member who cancelled. Biggest barrier is community/peer programs vs. expert-led coaching. Wants proven operators, not other founders figuring it out.
 
 **Industry:** SaaS  
 **MRR:** Pre-Revenue  
@@ -2202,7 +2202,7 @@
 
 **Roadblock:** "We've unfortunately been focusing on the skeleton team on the product development side. But we need to get back to focus on scaling our sales effort to sales emotions." — Justin (2026-04-30) [A2]
 
-**Context:** Callback from December (Trevor/SaaS Academy). Company in product-first mode with sales deprioritized. Founder acknowledges the sales gap — ready to reconnect when the timing works.
+**Context:** Callback from December (Trevor/Precision). Company in product-first mode with sales deprioritized. Founder acknowledges the sales gap — ready to reconnect when the timing works.
 
 **Industry:** SaaS  
 **Other:** Product First, Sales Gap, Callback
@@ -2224,7 +2224,7 @@
 
 **Roadblock:** "Your guys' reviews online just suck. I was just like, I don't want to do this. I'm attracted to the concept, but yeah, honestly, I'm still a pass for now, but maybe next year." — Marlow (2026-05-01) [A3]
 
-**Context:** Pre-AR founder who has read SaaS Academy content and downloaded Precision materials. Brand trust is the primary blocker — SaaS Academy's historical reviews. Also surfaced pre-revenue status as a secondary reason for hesitation.
+**Context:** Pre-AR founder who has read Precision content and downloaded Precision materials. Brand trust is the primary blocker — Precision's historical reviews. Also surfaced pre-revenue status as a secondary reason for hesitation.
 
 **Industry:** SaaS  
 **MRR:** Pre-Revenue  
@@ -2284,7 +2284,7 @@
 
 **Roadblock:** "The challenge is... it said nothing that nothing else I had already said and it did exactly what they did not give you actually any actionable things you can do. So there's a difference between tell us why do you need to build a funnel and exactly how to build a funnel and then what a good funnel looks like." — Jerry Brown (2026-05-04) [A3]
 
-**Context:** Restaurant analytics software founder, ~6 figures ARR, built a complete fintech product. Read SaaS Academy book and found it too theoretical — knew the "why" but couldn't extract the "how." Looking for actionable systems, not frameworks.
+**Context:** Restaurant analytics software founder, ~6 figures ARR, built a complete fintech product. Read Precision book and found it too theoretical — knew the "why" but couldn't extract the "how." Looking for actionable systems, not frameworks.
 
 **Industry:** FinTech, SaaS  
 **Other:** 6 Figures, Theory Vs Execution, Sas Academy Referral
@@ -2303,7 +2303,7 @@
 
 **Roadblock:** "We're working on the wrong things, focused on the wrong things, working the wrong way. We're working the way we know how rather than leveraging things like you guys." — Arnaldo (2026-05-05) [A3]
 
-**Context:** Co-founder of SaaS product. Prior SaaS Academy contact. New features just shipped this weekend. Cash-constrained (~$0 revenue, covering server costs). Partner has a focus/execution problem — gets it in the moment but reverts to firefighting by tomorrow. Classic pre-PMF founder trapped in tactical mode.
+**Context:** Co-founder of SaaS product. Prior Precision contact. New features just shipped this weekend. Cash-constrained (~$0 revenue, covering server costs). Partner has a focus/execution problem — gets it in the moment but reverts to firefighting by tomorrow. Classic pre-PMF founder trapped in tactical mode.
 
 **Industry:** SaaS  
 **MRR:** Pre-Revenue  
@@ -2401,7 +2401,7 @@
 
 **Roadblock:** "I don't want to just, it's basically like, hey, I read the book, this is great. This is an upload, we're in the process of implementing it. But then I want to keep this information top of mind and just make sure, you know, learning well." — Jackson (2026-05-06) [A3]
 
-**Context:** Tech-enabled SaaS company (Amazon/Walmart fraud removal). Found Precision via SaaS Academy and "Software as a Science." Roadblock is implementation confidence — has the framework from the book but doesn't trust his own execution. Low-urgency framing hides real fear of not applying things correctly.
+**Context:** Tech-enabled SaaS company (Amazon/Walmart fraud removal). Found Precision via Precision and "Software as a Science." Roadblock is implementation confidence — has the framework from the book but doesn't trust his own execution. Low-urgency framing hides real fear of not applying things correctly.
 
 **Industry:** Tech-Enabled SaaS  
 **MRR:** Early MRR  
@@ -2412,7 +2412,7 @@
 
 **Roadblock:** "I was a part of it last year. [Didn't renew]." — Andrew Dolan (2026-05-06) [A3]
 
-**Context:** Former SaaS Academy member, General Manager at Supporting Cast. Did not renew — specific reason not surfaced (call ended at email redirect). Roadblock is prior experience disappointment or implementation failure — exact nature unknown. JC did not probe deeply enough to qualify.
+**Context:** Former Precision member, General Manager at Supporting Cast. Did not renew — specific reason not surfaced (call ended at email redirect). Roadblock is prior experience disappointment or implementation failure — exact nature unknown. JC did not probe deeply enough to qualify.
 
 **Industry:** SaaS  
 **MRR:** Unknown  
@@ -2535,7 +2535,7 @@
 
 ### Nick Marteney — MotherBear Security — 2026-05-13
 **Roadblock:** "I'm trying to fire myself, right? Like, I'm working through getting out of founder, building the team. I want to focus on kind of larger scale topics at hand to continue growing it." — Nick (2026-05-13) [A2]
-**Context:** Callback from SaaS Academy prospect. Founder actively trying to remove himself from day-to-day BD operations. Has a BD person, working on a new call structure, over $10K MRR.
+**Context:** Callback from Precision prospect. Founder actively trying to remove himself from day-to-day BD operations. Has a BD person, working on a new call structure, over $10K MRR.
 **Tags:** #security #founder-bottleneck #team-building #bd-ops #mql
 
 **Roadblock:** "We're in a spot where if I had to go spend my time and money... it just would just come down to the time. Like, you know, I love the playbooks you guys have... but the price point was too much." — Nick (2026-05-13) [A2]
@@ -2709,7 +2709,7 @@
 
 **Roadblock:** "I have a lot of moving parts in my world of personal life and business. And I'm hesitant to bite off more just with everything I've got going on right now." — Dane Koonin (2026-05-26) [A2]
 
-**Context:** SaaS Academy alumni being re-engaged by JC. Already juggling personal and business complexity; the idea of adding another program/resource felt overwhelming. Classic "bandwidth" timing objection — not disqualification, just saturation at this moment.
+**Context:** Precision alumni being re-engaged by JC. Already juggling personal and business complexity; the idea of adding another program/resource felt overwhelming. Classic "bandwidth" timing objection — not disqualification, just saturation at this moment.
 
 **Tags:** #saas-adjacent #callback #timing-barrier #bandwidth-overwhelm #saas-academy-alumni
 
@@ -3117,3 +3117,53 @@
 
 **Tags:** #staffing #transportation #150k-rev #lead-management #manual-process #automation-ready
 
+
+---
+
+### Cory Irwin — ABE Construction Group — 2026-06-17
+
+**Roadblock:** "It's a lot of repeat data entry. From our CRM we enter all the information for the job, the quote, the sales. Then once it becomes a customer and a job, we have to re-enter all the information again." — Cory (2026-06-17) [A3]
+
+**Context:** Industrial contractor ($7M ARR, Toronto) running Job Perfect FSM — data doesn't sync between CRM and job management. Doing 2-3K jobs/year, hours of manual transfer daily.
+
+**Tags:** #construction #fsm #7m-revenue #data-ops #tier-growth
+
+---
+
+**Roadblock:** "You can't book a job for multiple days. The software is built more towards a service type business which isn't right for us — we do jobs that last two or three months and jobs that are 15 minutes." — Cory (2026-06-17) [A3]
+
+**Context:** Job Perfect's FSM architecture optimized for service calls, not project-based construction. Multi-day scheduling gap is a daily ops pain.
+
+**Tags:** #construction #fsm #scheduling #7m-revenue #tier-growth
+
+---
+
+**Roadblock:** "They charge us a lot already... now they want to upsell us on APIs. If we want one for job costing, one for resource tracking, that's like two separate APIs, essentially per API card. And it's a lot." — Cory (2026-06-17) [A3]
+
+**Context:** Vendor nickel-and-diming on every feature add-on after already paying for the base platform + per-seat licenses for 10 field workers.
+
+**Tags:** #construction #fsm #pricing-pain #7m-revenue #vendor-frustration #tier-growth
+
+---
+
+**Roadblock:** "Invoice scanning feature has been broken since we started using the software. Just the actual process of getting that fixed and getting customer support from them takes a long while." — Cory (2026-06-17) [A3]
+
+**Context:** Core feature promised during sale has never worked. Support response is slow. This was the final straw that pushed Cory to explore alternatives.
+
+**Tags:** #construction #fsm #support-frustration #7m-revenue #tier-growth
+
+---
+
+### Aaron — Impact City FC — 2026-06-17
+
+**Roadblock:** "They've gone down this route twice with two different companies to a dead end, where they can't make it work." — Aaron (2026-06-17) [A3]
+
+**Context:** Nonprofit with 7 US locations tried two prior vendors to get data integration working (PlayMetrics + other tools). Both failed to deliver. High skepticism about vendor promises. Prospect was warm but guarded — needed credibility proof before agreeing to next step.
+
+**Tags:** #nonprofit #sports-org #integration-failure #multi-location #anti-icp
+
+**Roadblock:** "What if it's in a few different places right now?" (Data scattered across PlayMetrics, Bloomerang, Google Sheets, social media, QuickBooks/Stripe) — Aaron (2026-06-17) [A2]
+
+**Context:** No unified data view. 7 locations with inputs across 4+ platforms. Manual reporting is the current state. Classic fragmented-data pain, but in a nonprofit context (Anti-ICP) — applicable as intelligence for understanding integration objection patterns.
+
+**Tags:** #nonprofit #data-fragmentation #multi-platform #integration-gap

@@ -177,7 +177,7 @@
 
 **Dream:** (Unknown — never asked. SDR pitched features instead of discovering what Grigoriy is trying to achieve.)
 
-**Context:** Old SaaS Academy lead, running events platform. No dream explored on the call. Growth Session booked for 3/24 but AE will walk in blind.
+**Context:** Old Precision lead, running events platform. No dream explored on the call. Growth Session booked for 3/24 but AE will walk in blind.
 
 **Tags:** #running-events #saas #industry-unknown #mrr-unknown #pipeline #growth-2k
 
@@ -187,7 +187,7 @@
 
 **Dream:** (Unknown — prospect disqualified himself immediately before any discovery happened.)
 
-**Context:** Old SaaS Academy lead. Ran an agency in the past. SDR pitched instead of asking questions. No dream surfaced.
+**Context:** Old Precision lead. Ran an agency in the past. SDR pitched instead of asking questions. No dream surfaced.
 
 **Tags:** #agency #industry-unknown #mrr-unknown #closed-lost #tier-unknown
 
@@ -399,7 +399,7 @@
 
 **Dream:** (MINIMAL — dream barely surfaced) — Brian wants KPIs working across the organization, teams aligned with "company hats on," and processes cleaned up so results keep improving.
 
-**Context:** SDR cold call. Brian shared that they've overhauled processes and leadership but are still chasing full cross-department alignment. He mentioned being "impressed" with SaaS Academy content and open to a conversation "mid-next quarter." Dream is purely functional — no personal dream explored. (MISSING: personal dream completely absent — what does Brian personally want from fixing these org challenges? More influence? Promotion? Less fire-fighting?)
+**Context:** SDR cold call. Brian shared that they've overhauled processes and leadership but are still chasing full cross-department alignment. He mentioned being "impressed" with Precision content and open to a conversation "mid-next quarter." Dream is purely functional — no personal dream explored. (MISSING: personal dream completely absent — what does Brian personally want from fixing these org challenges? More influence? Promotion? Less fire-fighting?)
 
 **Tags:** #saas #mrr-unknown #pipeline #tier-unknown
 
@@ -543,7 +543,7 @@
 (MISSING: personal dream never uncovered)
 (MISSING: business dream never uncovered)
 
-**Context:** Existing SaaS Academy/Precision customer. Steve described wanting direct, candid coaching but Joe never explored what success looks like for Steve or CRM-U. The closest signal: Steve's desire to "not step in potholes" and "not take 12 months to figure out something that should take two months" — but these were Joe's words repeated back, not Steve's vision.
+**Context:** Existing Precision/Precision customer. Steve described wanting direct, candid coaching but Joe never explored what success looks like for Steve or CRM-U. The closest signal: Steve's desire to "not step in potholes" and "not take 12 months to figure out something that should take two months" — but these were Joe's words repeated back, not Steve's vision.
 
 **Tags:** #saas #mrr-unknown #existing-customer #dream-missing
 
@@ -952,7 +952,7 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Dream:** "I know that depending on the three variables I will reach the maximum we can earn per month. So I have to work on that." — Marcelo (2026-04-20) [A2]
 
-**Context:** Founder who read the SaaS Academy book and is already thinking about growth ceilings and constraints. He knows theoretically what he needs — he's looking for someone to help him operationalize it.
+**Context:** Founder who read the Precision book and is already thinking about growth ceilings and constraints. He knows theoretically what he needs — he's looking for someone to help him operationalize it.
 
 **Tags:** #saas #pre-revenue #growth-ceiling #revenue-ceiling #go-to-market
 
@@ -1039,7 +1039,7 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Dream (Business):** "I'm looking to hire a mini leadership team so this business could grow and run autonomously without me... I think I'm actually the wrong person being in a business... grow the company 20% year over year in a profitable way." — Yuli (2026-04-24) [A3]
 
-**Context:** 15-year bootstrapped founder who wants to step back from operations. Clear goal: hire GM + PM + Tech Lead and let the team run it. 20% YoY growth target set explicitly. B2C SaaS ($150K MRR), plateau for 2 years. Came in from SaaS Academy inbound.
+**Context:** 15-year bootstrapped founder who wants to step back from operations. Clear goal: hire GM + PM + Tech Lead and let the team run it. 20% YoY growth target set explicitly. B2C SaaS ($150K MRR), plateau for 2 years. Came in from Precision inbound.
 
 **(MISSING: Personal dream never uncovered — Joe never asked what autonomous business operation unlocks for Yuli personally. Exit? Next venture? Time freedom? This was the emotional close that was never made.)**
 
@@ -1123,12 +1123,12 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 ---
 
-### Brenden Melanson — Blueprint Consulting | Callback (SaaS Academy referral) | Booked
+### Brenden Melanson — Blueprint Consulting | Callback (Precision referral) | Booked
 
 **Dream: Getting Back to Growth Conversations [A3]**
 > "Sure, let's do that." [agreeing to a Growth Session]
 — Brenden Melanson, Blueprint Consulting, 2026-04-28 [A3]
-*Note: Warm prospect who remembered SaaS Academy and agreed to reconnect. Had prior coaching context. Dream = recapturing the growth trajectory from SaaS Academy days.*
+*Note: Warm prospect who remembered Precision and agreed to reconnect. Had prior coaching context. Dream = recapturing the growth trajectory from Precision days.*
 
 **Tags:** #callback #saas-academy-referral #warm-prospect #booked
 
@@ -1501,7 +1501,7 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Dream:** "Probably using more AI and making so that my team is more efficient with just getting everything cleaned up within my business, getting things more organized, et cetera." — Dane Koonin (2026-05-26) [A2]
 
-**Context:** Callback to SaaS Academy alumni. Dane has a team and is explicitly chasing AI-powered efficiency + organizational clarity. The vision was volunteered unprompted — he wants structure and operational lift. He's already investing in this direction (competitor coaching program) which validates both the desire AND the awareness level. Pain is real, timing is tight.
+**Context:** Callback to Precision alumni. Dane has a team and is explicitly chasing AI-powered efficiency + organizational clarity. The vision was volunteered unprompted — he wants structure and operational lift. He's already investing in this direction (competitor coaching program) which validates both the desire AND the awareness level. Pain is real, timing is tight.
 
 **Tags:** #saas-adjacent #callback #ai-efficiency #team-efficiency #organizational-clarity #saas-academy-alumni
 
@@ -1760,3 +1760,47 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **Tags:** #serial-entrepreneur #freedom #owner-independence #transportation #staffing #10m-plus #legacy
 
+
+---
+
+### Cory Irwin — ABE Construction Group — 2026-06-17
+
+**Dream:** "I don't want to be the bottleneck of the company. I don't want to be spending my time doing things that I could replace. Why replace them with someone who calls in sick, gets frustrated, makes errors? A lot of it is just updating the system with current pricing as invoices come in." — Cory (2026-06-17) [A4]
+
+**Context:** $7M contractor who discovered Dan Martell's "buy back your time" philosophy. Actively seeking to systemize and automate repetitive ops tasks.
+
+**Tags:** #construction #buy-back-your-time #dm-fan #7m-revenue #bottleneck #tier-growth
+
+---
+
+**Dream:** "I want to build a sellable business. I don't want it all to be relying on myself. God forbid I get sick or off for three months — what the hell would happen here?" — Cory (2026-06-17) [A4]
+
+**Context:** Knows the "bus test" concept from DM. Wants documented processes, team autonomy, potential exit optionality.
+
+**Tags:** #construction #sellable-business #exit-optionality #7m-revenue #tier-growth
+
+---
+
+**Dream:** "I think next year I want to go 10 plus [million]. Right now I don't know if we're going to be able to get there based on the systems we have in place. It's more the ability to get sales, manage them, execute them and keep moving." — Cory (2026-06-17) [A4]
+
+**Context:** Specific revenue target with a hard deadline (fiscal year ends October). System bottlenecks are the blocker, not sales capacity. Urgency is real but not excavated by rep.
+
+**Tags:** #construction #revenue-goal #10m-target #7m-revenue #tier-growth
+
+**Note:** MISSING — personal dream never uncovered. What does $10M and buying back time mean for Cory personally? Day-to-day life? Family? Time freedom? This is the close Joe is missing for Friday's follow-up.
+
+---
+
+### Aaron — Impact City FC — 2026-06-17
+
+**Dream:** "A live dashboard of key metrics that we want to track is something we're interested in doing." — Aaron (2026-06-17) [A3]
+
+**Context:** Nonprofit leader wants unified real-time view of all KPIs: PlayMetrics participant data, Bloomerang donor dollars, Google Sheets, social media, QuickBooks/Stripe. Has wanted this for 18+ months.
+
+**Tags:** #nonprofit #real-time-dashboard #unified-data #anti-icp
+
+**Dream:** "If we could pull them all into one place, it would make our management side a lot easier. It's a solution we've been looking for for the last year and a half." — Aaron (2026-06-17) [A3]
+
+**Context:** The dream is operational simplicity and management ease — not growth acceleration. Anti-ICP signal: the goal is "easier" not "faster/bigger." Useful pattern: even Anti-ICP prospects use the unified-dashboard dream language. This maps directly to ICP language, which is why JC didn't catch the mismatch.
+
+**Tags:** #nonprofit #management-efficiency #18-month-pain #anti-icp #dashboard-language

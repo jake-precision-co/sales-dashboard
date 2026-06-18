@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-06-17
+Auto-updated after every scored call. Last updated: 2026-06-18
 
 ---
 
@@ -57,7 +57,7 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 — Jade Fickert (2026-05-14) [A2] | JC responded: "Cool. When would be a good time to chat?" — no AAA, but pivoted to scheduling without breaking stride. Got "later in the week" + text-first agreement. | Outcome: Vague callback — text-first, no specific day or time locked
 
 **"I don't know if it makes sense at this point when we are still finalizing a business plan and getting ready to launch, brand and website and all that stuff. We're pretty early on."**
-— Noah / Baseworks Consulting (2026-04-08) [A2] | JC started pitching product features (AI COO, SaaS Academy) instead of probing what would make timing right | No next step — pitch before booking; timing concern never addressed with a question
+— Noah / Baseworks Consulting (2026-04-08) [A2] | JC started pitching product features (AI COO, Precision) instead of probing what would make timing right | No next step — pitch before booking; timing concern never addressed with a question
 
 **"I'll think about it."**
 — Marc Buddensiek (2026-02-25) [A3] | "Is there anything missing?" — accepted the stall without building urgency or referencing the gap | Partial — BAMFAM'd Friday 2:30pm CET
@@ -182,7 +182,7 @@ Each entry: "objection quote" — Prospect Name (date) [A?] | How it was handled
 **"What's in for you guys? Is there a percentage?"** (SDR call)
 — Jaan Apajalahti via JC (2026-03-10) [A3] | "No, not at all. Your success is our success. We don't take a percentage or any sort of ownership." | Yes — clean, direct
 
-**"You've reached out to SaaS Academy... it was pretty astronomically high."** (prior pricing concern)
+**"You've reached out to Precision... it was pretty astronomically high."** (prior pricing concern)
 — Roman Fedgers via JC (2026-03-23) [A2] | "Completely revamped and improved" + SAS Academy → Precision pivot | Yes — meeting booked
 
 **"Send me a deck."** / **"Send me a high-level summary."**
@@ -452,7 +452,7 @@ By source:
 — Joe Neihart (2026-04-15) [A3] | Joe probed ("what do you think they'll say?"), used ROI framing, prospect self-sold at 30:04 ("I think we're a go") | Outcome: Weak BAMFAM — Friday follow-up set
 
 **"You're my first call. Normally by the fifth or sixth call, I'm a lot better at this... I don't know if you're a square wheel, my friend."**
-— Jay Temaat (2026-04-15) [A3] | Joe used creative "car keys" reframe [31:16], credential dump (COO/SaaS Academy/$250M exit), but didn't loop back to Jay's pain or extract resolution check | Outcome: Weak BAMFAM — April 22 follow-up set, shopping 2-3 more coaches
+— Jay Temaat (2026-04-15) [A3] | Joe used creative "car keys" reframe [31:16], credential dump (COO/Precision/$250M exit), but didn't loop back to Jay's pain or extract resolution check | Outcome: Weak BAMFAM — April 22 follow-up set, shopping 2-3 more coaches
 
 
 ---
@@ -506,7 +506,7 @@ By source:
 **Prior Call / Prior No (Callback Objection)**
 
 **"We both agreed that, yeah, this is what you offer and what I do just don't align."**
-— Joey Lutes / Bean Zoom (2026-04-17) [A2] | JC acknowledged ("I appreciate the transparency"), reframed via Precision acquisition/rebrand ("SaaS Academy was actually acquired..."), asked for a two-minute conversation — overcame successfully | Outcome: Booked (Growth Session May 5 @ 1:30 PM CT)
+— Joey Lutes / Bean Zoom (2026-04-17) [A2] | JC acknowledged ("I appreciate the transparency"), reframed via Precision acquisition/rebrand ("Precision was actually acquired..."), asked for a two-minute conversation — overcame successfully | Outcome: Booked (Growth Session May 5 @ 1:30 PM CT)
 
 **Type:** Trust/Need — "We already decided it wasn't a fit"
 
@@ -633,7 +633,7 @@ By source:
 ## 2026-04-28 — JC Ruiz SDR Calls
 
 **"No, it's not even 7 a.m. I'm just getting my day started here."**
-— Brenden Melanson / Blueprint Consulting (2026-04-28) [A3] | Timing brush-off. JC acknowledged, said "no worries my apologies," pivoted to booking ask. Prospect agreed — warm contact (SaaS Academy referral made this work). JC's apology was slightly energy-draining but recovery was solid. | Outcome: Booked — Growth Session Monday May 4, 11 AM Pacific
+— Brenden Melanson / Blueprint Consulting (2026-04-28) [A3] | Timing brush-off. JC acknowledged, said "no worries my apologies," pivoted to booking ask. Prospect agreed — warm contact (Precision referral made this work). JC's apology was slightly energy-draining but recovery was solid. | Outcome: Booked — Growth Session Monday May 4, 11 AM Pacific
 
 **"I feel bad. I feel like, you know, I'm a terrible lead because I wasn't even the one that downloaded it."**
 — Romeo P / Accretion Digital (2026-04-28) [A1] | Self-DQ attempt. JC didn't reframe the objection — he accepted it, gave his direct line, and ended the call. Correct move was: "The CEO picking up is better than the downloader — who on your team do you think downloaded it?" | Outcome: No Next Step — gave direct line passively, no booking attempt made
@@ -683,7 +683,7 @@ By source:
 ## 2026-04-30 Entries
 
 **"probably not this time, mostly because I kind of in the thick of operating right now... I'm probably probably good for now"**
-— Noah Sanches / Rotor (2026-04-30) [A2] | JC launched into unsolicited pitch instead of AAA | Booked anyway (May 26 tentative) — prospect's prior SaaS Academy familiarity saved it, not the handle
+— Noah Sanches / Rotor (2026-04-30) [A2] | JC launched into unsolicited pitch instead of AAA | Booked anyway (May 26 tentative) — prospect's prior Precision familiarity saved it, not the handle
 
 **"Quick favor. I've actually just been driving right now. Do you mind if we chat another time?"**
 — Justin Asgarpoour / EyeCareX (2026-04-30) [A2] | JC pivoted to car rapport (Ferrari) — kept prospect on line; no AAA framework used | Calendly link sent — no confirmed booking
@@ -694,7 +694,7 @@ By source:
 — Brian / Tetheree (2026-05-01) [A2] | JC continued into Precision pitch without probing the value concern further | Booked anyway — prospect was engaged enough to proceed despite price concern unresolved
 
 **"Your guys' reviews online just suck. I think it just is so bad. I was just like, I don't want to do this. I'm attracted to the concept, but like yeah, honestly, I'm still a pass for now, but maybe next year."**
-— Marlow Bryant (2026-05-01) [A3] | JC explained SaaS Academy acquisition + total revamp clearly, stayed calm; did NOT follow-up with AAA on the timing/nurture | No next step — passive close (website reference)
+— Marlow Bryant (2026-05-01) [A3] | JC explained Precision acquisition + total revamp clearly, stayed calm; did NOT follow-up with AAA on the timing/nurture | No next step — passive close (website reference)
 
 **"I'm still pre-AR. So I don't have a lot for you guys to work with yet. Let me figure it out for myself. We'll keep in touch."**
 — Marlow Bryant (2026-05-01) [A3] | JC offered "we do work with pre-AR founders" but gave no discovery question to probe urgency or what "figuring it out" means | No next step — call ended on passive handoff
@@ -794,7 +794,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-06-17
+Auto-updated after every scored call. Last updated: 2026-06-18
 
 ## New Entries — 2026-05-13
 
@@ -927,15 +927,15 @@ Auto-updated after every scored call. Last updated: 2026-06-17
 
 **Objection: Skepticism about implementation**
 > "I'm skeptical about how it would implement using my business at this point."
-- Context: Prospect with multiple businesses (4 total), A/V & smart home automation. Heard about Precision via Jake/SaaS Academy connection. Willing to book but openly skeptical.
+- Context: Prospect with multiple businesses (4 total), A/V & smart home automation. Heard about Precision via Jake/Precision connection. Willing to book but openly skeptical.
 - JC's response: "Well, yeah, that's what the growth session would be." — redirected to meeting.
 - Framework gap: No AAA. Didn't probe what specifically drove the skepticism before pivoting to booking.
 
 **Objection: Name/company not recognized**
 > "Precision doesn't really ring a bell."
 - Context: 5+ months since prior contact with Jake. Prospect forgot the brand.
-- JC's response: Referenced Dan Martell + SaaS Academy connection — good bridge. "Dan Martell has spoken about us."
-- This works for warm callbacks with a SaaS Academy/DM connection in the prospect's background.
+- JC's response: Referenced Dan Martell + Precision connection — good bridge. "Dan Martell has spoken about us."
+- This works for warm callbacks with a Precision/DM connection in the prospect's background.
 
 **Objection: "How come you're not an AI bot?"**
 > "How come you're not an AI bot from Dan's other business Atlas calling you?"
@@ -1099,7 +1099,7 @@ Auto-updated after every scored call. Last updated: 2026-06-17
 ## Budget / Financial
 
 **"I can't spending more money right now. Honestly. I'm trying to keep everything together."**
-— Jim Pitcher (2026-06-03) [A3] | JC acknowledged and asked one follow-up (lead gen vs conversion), then pivoted to SaaS Academy pitch — did not use AAA | Outcome: No next step (budget-triggered exit)
+— Jim Pitcher (2026-06-03) [A3] | JC acknowledged and asked one follow-up (lead gen vs conversion), then pivoted to Precision pitch — did not use AAA | Outcome: No next step (budget-triggered exit)
 
 ## Timing
 
@@ -1172,3 +1172,28 @@ Auto-updated after every scored call. Last updated: 2026-06-17
 **"Staff Worthy revenue is 150K... the investment [concern]."** (implied)
 — Ken Deocharran, Staff Worthy (2026-06-16) [A3] | Joe gave value justification and refund guarantee, no looping to cost of problem | Outcome: Not resolved — moved to "needs team consultation"
 
+
+---
+
+### From: Cory Irwin — ABE Construction Group (2026-06-17) [A4]
+
+#### Authority / Team Consultation
+
+**"I just want to see how much it costs to get rid of a couple other platforms. I'm kind of wanting to cancel right now. And then I want to speak with obviously the rest of the team here and see what their thoughts are."**
+— Cory Irwin (2026-06-17) [A4] | Joe responded with humor ("I don't like making decisions ever either") then immediately moved to scheduling without probing the actual concern, validating it, or looping back to discovery urgency. No DM Overrider deployed (Listen ✓, Question ✗, Review ✗, Handle ✗, Check partial). | Outcome: Weak BAMFAM — Friday 11am follow-up set; Cory interested but undecided.
+
+**Coaching note:** Cory's interest was high ("it's kind of what I was expecting, not surprising and it's reasonable"). The real objection wasn't price or need — it was process ("I don't like to make decisions on the spot"). Joe should have asked: "Is one of your concerns that your team won't be on board — or is this really just running the numbers on the platform cancellation?" Then validate, then loop: "You mentioned you're doing 2-3K jobs a year and re-entering data manually. You've got 4 months to hit $10M. What's the cost of waiting 30 days on this?"
+
+---
+
+### Trust / Prior Failure (2026-06-17)
+
+**"They've gone down this route twice with two different companies to a dead end, where they can't make it work."**
+— Aaron, Impact City FC (2026-06-17) [A3] | JC acknowledged the concern and connected it to why Aaron applied. Said "we'll be up front with you if we can or can't integrate." Proactively checked APIs live during the call (Bloomerang, PlayMetrics). Did NOT use a closing question after the answer — missed the "Ask" in AAA. | Outcome: Callback (checking PlayMetrics API for follow-up) — Anti-ICP (nonprofit) not DQ'd
+
+---
+
+### Price / Budget (2026-06-17)
+
+**"I won't hold you to it, but what's kind of your price range to create a dashboard like that?"**
+— Aaron, Impact City FC (2026-06-17) [A3] | JC deflected cleanly: "It's a little more than a dashboard... let's take it one step at a time." Redirected to confirming integrations first. Good instinct — didn't give a number without value context. | Outcome: Clean deflection — prospect accepted the redirect
