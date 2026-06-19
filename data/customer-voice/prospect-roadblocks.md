@@ -3167,3 +3167,28 @@
 **Context:** No unified data view. 7 locations with inputs across 4+ platforms. Manual reporting is the current state. Classic fragmented-data pain, but in a nonprofit context (Anti-ICP) — applicable as intelligence for understanding integration objection patterns.
 
 **Tags:** #nonprofit #data-fragmentation #multi-platform #integration-gap
+
+### Andre Garcia Herreros Camargo — Automatex (Agency/Automation Services) — 2026-06-18
+
+**Roadblock:** "We're getting like a lot of leads and most of them are, are like not qualified." — Andre (2026-06-18) [A3]
+
+**Context:** Running Facebook ads generating unqualified leads. No lead scoring system. Custom CRM built in-house is too basic to track quality.
+
+**Tags:** #agency #services #mrr-sub-300k #lead-quality #sales-ops
+
+---
+
+**Roadblock:** "Like seeing how our closers are performing, like are they having higher conversion rates, low conversion rates. How many of the zoom calls they getting are with qualified people?" — Andre (2026-06-18) [A3]
+
+**Context:** No visibility into individual closer performance metrics. Sales manager wants data to coach from but has no system to surface it.
+
+**Tags:** #agency #services #mrr-sub-300k #sales-visibility #coaching-gap
+
+---
+
+**Roadblock:** "We created the CRM... it's very simple. Like it's a pipeline and you can add nodes and tasks." — Andre (2026-06-18) [A2]
+
+**Context:** Built custom CRM in-house. No API, limited visibility, no sales analytics layer. CRM is a pipeline toy, not a data system.
+
+**Tags:** #agency #services #mrr-sub-300k #crm #tech-stack
+

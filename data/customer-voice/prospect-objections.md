@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-06-18
+Auto-updated after every scored call. Last updated: 2026-06-19
 
 ---
 
@@ -794,7 +794,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-06-18
+Auto-updated after every scored call. Last updated: 2026-06-19
 
 ## New Entries — 2026-05-13
 
@@ -1197,3 +1197,9 @@ Auto-updated after every scored call. Last updated: 2026-06-18
 
 **"I won't hold you to it, but what's kind of your price range to create a dashboard like that?"**
 — Aaron, Impact City FC (2026-06-17) [A3] | JC deflected cleanly: "It's a little more than a dashboard... let's take it one step at a time." Redirected to confirming integrations first. Good instinct — didn't give a number without value context. | Outcome: Clean deflection — prospect accepted the redirect
+
+### Need
+
+**"I just don't know if this is the best kind of solution. It feels like it might be a little bit overkill."**
+— Andre Garcia, Automatex (2026-06-18) [A3] | Joe explained value (Claudia, metrics visibility, replaces employees) — redirected with features instead of running DM 5-step Overrider. No probe ("is your concern that it's too much for your stage?"), no Feel/Felt/Found, no check. Objection dissolved passively through explanation. | Outcome: Weak BAMFAM (calendar link to founder/SD; no date set)
+

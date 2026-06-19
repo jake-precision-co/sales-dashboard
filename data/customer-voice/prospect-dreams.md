@@ -1804,3 +1804,22 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 **Context:** The dream is operational simplicity and management ease — not growth acceleration. Anti-ICP signal: the goal is "easier" not "faster/bigger." Useful pattern: even Anti-ICP prospects use the unified-dashboard dream language. This maps directly to ICP language, which is why JC didn't catch the mismatch.
 
 **Tags:** #nonprofit #management-efficiency #18-month-pain #anti-icp #dashboard-language
+
+### Andre Garcia Herreros Camargo — Automatex (Agency/Automation Services) — 2026-06-18
+
+**Dream:** "We want to equip them with tools so they can have higher conversion rates and they can close more deals." — Andre (2026-06-18) [A3]
+
+**Context:** Head of ERP systems at Automatex. Wants to give the sales team data + tools to improve conversion. Business goal: commercial automation and visibility.
+
+**Tags:** #agency #services #mrr-sub-300k #conversion #sales-enablement
+
+---
+
+**Dream (Founder Perspective, inferred by Andre):** "He has clear visibility of like every department. And on top of that he can see the bottlenecks and how to make better decisions." — Andre describing what the founder wants (2026-06-18) [A3]
+
+**Context:** Andre predicts the founder will value the cross-departmental visibility and decision-support angle. This is the founder's dream as seen through the evaluator's eyes.
+
+**Tags:** #agency #services #mrr-sub-300k #visibility #data-centralization
+
+**NOTE:** ❌ PERSONAL DREAM NEVER UNCOVERED — Andre's personal goal/motivation was never explored on the call. Joe went from qualification to demo without asking.
+
