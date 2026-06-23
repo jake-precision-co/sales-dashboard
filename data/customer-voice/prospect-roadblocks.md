@@ -3192,3 +3192,30 @@
 
 **Tags:** #agency #services #mrr-sub-300k #crm #tech-stack
 
+
+---
+
+### Jason DeVelvis — Orange Eight — 2026-06-22
+
+**Roadblock:** "A lot of the people we were targeting didn't even know that they needed back office software or anything to do with cost of goods, or anything that we were trying to pitch them on." — Jason (2026-06-22) [A2]
+
+**Context:** Jason built SaaS back-office management for coffee shops. His roadblock isn't Precision — it's his own go-to-market: his target market is unaware of the problem. Classic unaware market (A1 audience needing A2 education before conversion).
+
+**Tags:** #saas #vibe-coder #sub-10k-mrr #awareness #gtm
+
+**Roadblock:** "The biggest competitor in the field is Restaurant 365, and they're incredibly expensive for independent businesses." — Jason (2026-06-22) [A3]
+
+**Context:** Jason's ICP (coffee shop owners) knows they need something but can't afford the enterprise alternative. He built his product specifically to be the affordable option.
+
+**Tags:** #saas #competitive-displacement #sub-10k-mrr
+
+---
+
+### Patrick Graham — SSAS (ADAS Calibration) — 2026-06-22
+
+**Roadblock:** "Always looking for new lead generation. And I like the automation idea a lot." — Patrick (2026-06-22) [A2]
+
+**Context:** Rebook confirmation call. Patrick's stated pain is lead gen. ⚠️ ANTI-ICP: Physical ADAS calibration business, not SaaS/AI. Retained for pattern reference only — physical service owners express this same lead gen pain and should be redirected, not booked.
+
+**Tags:** #anti-icp #automotive-services #lead-gen #physical-business #warning
+

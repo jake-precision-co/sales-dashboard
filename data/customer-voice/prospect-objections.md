@@ -1,5 +1,5 @@
 # Prospect Objections — Living Document
-Auto-updated after every scored call. Last updated: 2026-06-19
+Auto-updated after every scored call. Last updated: 2026-06-23
 
 ---
 
@@ -794,7 +794,7 @@ By source:
 
 ---
 
-Auto-updated after every scored call. Last updated: 2026-06-19
+Auto-updated after every scored call. Last updated: 2026-06-23
 
 ## New Entries — 2026-05-13
 
@@ -1202,4 +1202,12 @@ Auto-updated after every scored call. Last updated: 2026-06-19
 
 **"I just don't know if this is the best kind of solution. It feels like it might be a little bit overkill."**
 — Andre Garcia, Automatex (2026-06-18) [A3] | Joe explained value (Claudia, metrics visibility, replaces employees) — redirected with features instead of running DM 5-step Overrider. No probe ("is your concern that it's too much for your stage?"), no Feel/Felt/Found, no check. Objection dissolved passively through explanation. | Outcome: Weak BAMFAM (calendar link to founder/SD; no date set)
+
+
+---
+
+### Price / Budget (continued)
+
+**"Right now it is [a showstopper]. Ideally long term it will be."**
+— Jason DeVelvis, Orange Eight (2026-06-22) [A3] | JC proactively dropped price ($5K + $2K/mo) before booking attempt. Jason honest about timing. JC offered to circle back "down the road" — no specific revenue threshold set. | Callback vague (appropriate DQ at $2K MRR, but missed re-engagement anchor)
 

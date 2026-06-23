@@ -1823,3 +1823,30 @@ NOTE: Personal dream WAS uncovered by Joe — asked "If you exit in five years, 
 
 **NOTE:** ❌ PERSONAL DREAM NEVER UNCOVERED — Andre's personal goal/motivation was never explored on the call. Joe went from qualification to demo without asking.
 
+
+---
+
+### Jason DeVelvis — Orange Eight — 2026-06-22
+
+**Dream:** "This runs the rest of your business so that you can focus on the art or the customers or the menu or whatever you want to focus on that you really got into it for." — Jason (2026-06-22) [A2]
+
+**Context:** Jason articulating what he's building for coffee shop owners. Mirrors exactly what Precision sells to SaaS founders. The language is gold for any founder-focused pitch.
+
+**Tags:** #saas #founder-vision #freedom #systems #sub-10k-mrr
+
+**Dream:** "I didn't want to grow just to waste money. I wanted to find the right fire to light." — Jason (2026-06-22) [A2]
+
+**Context:** Jason describing his disciplined growth approach — seminars to learn the market before dumping money into ads. Seed investment funded, wants capital-efficient growth.
+
+**Tags:** #saas #capital-efficiency #growth #sub-10k-mrr
+
+---
+
+### Patrick Graham — SSAS (ADAS Calibration) — 2026-06-22
+
+**Dream:** "More time away from the business. I try and work on stuff like this to keep it growing." — Patrick (2026-06-22) [A2]
+
+**Context:** Rebook confirmation. ⚠️ ANTI-ICP: Physical ADAS service business. Dream language ("more time away from the business") is nearly identical to ICP founder language — useful as pattern recognition that physical service owners express the same dreams, but have different constraints.
+
+**Tags:** #anti-icp #automotive-services #founder-bottleneck #warning
+
