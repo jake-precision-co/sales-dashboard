@@ -1211,3 +1211,10 @@ Auto-updated after every scored call. Last updated: 2026-06-23
 **"Right now it is [a showstopper]. Ideally long term it will be."**
 — Jason DeVelvis, Orange Eight (2026-06-22) [A3] | JC proactively dropped price ($5K + $2K/mo) before booking attempt. Jason honest about timing. JC offered to circle back "down the road" — no specific revenue threshold set. | Callback vague (appropriate DQ at $2K MRR, but missed re-engagement anchor)
 
+---
+
+### Interest / Self-DQ
+
+**"I appreciate the call, but I don't think we're the right fit for you guys."**
+— Christian Waidner, morsel.ai (2026-06-23) [A3] | Prospect had already been auto-DQ'd via the Instagram application form. JC gracefully accepted and future-proofed with LinkedIn connection ask. No AAA attempt needed — DQ was accurate (pre-revenue AI product, no customers). | DQ'd appropriate (Tertiary ICP — check back in 6-12 months when morsel.ai has revenue)
+

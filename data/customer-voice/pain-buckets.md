@@ -1,11 +1,11 @@
 # Pain Buckets — Living Document
-Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket: Pain (what they're stuck in) + Dream (what they want) + Objection (what stops them buying). Last updated: 2026-06-16
+Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket: Pain (what they're stuck in) + Dream (what they want) + Objection (what stops them buying). Last updated: 2026-06-24
 
 ---
 
 ## Bucket: Data You Cannot Trust
 **Priority:** 1
-**Signal strength:** 41 quotes
+**Signal strength:** 50 quotes
 **Emotional intensity:** High
 **Default awareness:** [A2] Problem-Aware
 **Avatar:** SaaS or service business founder at $30K-$500K MRR who has outgrown spreadsheets but hasn't built a real data infrastructure. Running 5-10 tools that don't talk to each other. Makes decisions on gut or stale reports. Knows the problem exists but doesn't know how to fix it without hiring a data team they can't afford.
@@ -49,6 +49,11 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "No CRM, no scorecards, no proper use of communications — scattered in different tunnels. A lot of bottlenecks." — Antonis Politis / SE&C IKE (2026-04-28) [A2] *(Context: €1M+ EU grants/SaaS business, Greece. Referred by Dan Martell. Operations completely unstructured despite significant revenue)*
 
 - "I just don't really know what it's telling me... I'm diving blind kind of. I don't really know what produces any outcome really." — Helen Daughtrey — Mädels, die lesen. (2026-05-04) [A2] *(Accidental founder running €60K German book club community, tracks metrics but can't connect any of them to growth outcomes.)*
+- "We'll be really tight on reporting one month and then the next week it's just not automated like it needs to be... I wish it was. I think we'd have a lot more intelligent conversations with our customers." — Chase Arrington / Arrington Media (2026-05-18) [A3] *(5-client marketing agency at <$20K MRR. Inconsistent reporting cadence means they can’t have data-driven client conversations. Recognizes the gap but hasn’t forced the fix.)*
+- "We are not measuring [conversion rates]. Unfortunately." — Safwan Saigh / Techrar (2026-06-15) [A2] *(Despite running a SaaS subscription platform in Saudi Arabia, Techrar has zero formal measurement of their own sales conversion funnel. They know something is broken but can’t quantify it.)*
+- "We type it. Exactly." [re: manual L10 metric entry] — Yair Swissa / Swiss Property Management Group (2026-06-15) [A4] *(~$1.3M ARR property management company. Team manually enters L10 metrics every week — inconsistent, error-prone, time-consuming. Has tried to solve this himself for 3–4 weeks.)*
+- "Seeing how our closers are performing, like are they having higher conversion rates, low conversion rates. How many of the zoom calls they getting are with qualified people?" — Andre Garcia / Automatex (2026-06-18) [A3] *(No visibility into individual closer performance metrics. Sales manager wants data to coach from but has no system to surface it.)*
+- "We don't have a leader in any department that I can give an outcome goal to and say go reverse engineer it." — Michael Benko / Student Success Agency (2026-05-18) [A4] *(SCOO with 15 years in the company. No leadership bench in any department — Sales, CS, Product. Every KPI sits with Michael or the CEO.)*
 ### Dream Quotes (what they want instead)
 - "A single source of truth to make decisions based off of accurate data." — Garrett Campbell (2026-03-12) [A3]
 - "All of the data at my fingertips... mapping out the entire customer success journey... preventing as many fires as possible... delivering metrics to clients that they didn't expect." — Haley Brasher (2026-03-30) [A3]
@@ -66,6 +71,10 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "On a daily basis, can I have a scorecard where I see what is happening on different fronts — execution, project management, sales — and red flags when they come?" — Antonis Politis / SE&C IKE (2026-04-28) [A2] *(Context: Concrete operational scorecard dream — single daily view across departments with automated red-flag alerts)*
 
 - "I just don't really know what it's telling me... I'm diving blind kind of. I don't really know what produces any outcome really." — Helen Daughtrey / Mädels, die lesen. (2026-05-04) [A2] *(Context: Accidental founder, membership + Instagram model. Tracks some metrics but can't connect them to growth outcomes. B2C feels like guessing)*
+- "I just want to master that part of the business where we just have the scorecard going to them every single week and not having to, I don’t know, dig around for numbers." — Chase Arrington / Arrington Media (2026-05-18) [A3] *(5-client marketing agency. Chase wants fully automated client reporting but hasn’t implemented Agency Analytics consistently.)*
+- "I wanted a clear, like, mission control that people have with all of our data, which I haven't had that. Been able to set that up in a good way yet." — Kobe Shemesh / Infinity Pipeline (2026-06-01) [A3] *(Marketing agency founder wanting unified data visibility across departments — the “single source of truth” that Precision’s platform directly addresses.)*
+- "I want to have an agent that gives me insights about every place in my software — what’s happening, how long it takes us to answer, the whole thing." — Yair Swissa / Swiss Property Management Group (2026-06-15) [A4] *(Has been independently building an AI back office brain for 3–4 weeks. Vision: AI as the operational nervous system — not customer-facing, internal intelligence supporting every team member.)*
+- "He has clear visibility of every department. And on top of that he can see the bottlenecks and how to make better decisions." — Andre Garcia / Automatex (describing founder’s desired state) (2026-06-18) [A3] *(Head of ERP at agency. Wants cross-departmental visibility and decision support for the CEO.)*
 ### Objection Quotes (what stops them buying)
 - "I just want the software, not coaching." — Garrett Campbell (2026-03-13) [A3] → You don't need more dashboards. You need someone to tell you which number actually matters.
 - "Can I just buy the software?" / "Can I just buy the course?" — Garrett Campbell via JC (2026-03-12) [A3] → You've tried courses. You've tried tools. You need both plus accountability.
@@ -73,12 +82,13 @@ Auto-updated by data-analyzer cron (10 AM ET Mon-Fri). Three signals per bucket:
 - "Tell me more about the software / how does it compare to Baremetrics and Runway?" — Jaan Apajalahti (2026-03-11) [A3] → Baremetrics shows you metrics. We show you what to do next.
 - "What makes you different from Domo/Data Rails?" — Piotr Gawlik GAVBIZ (2026-03-25) [A3] → Domo gives you dashboards. We give you decisions.
 - "What are the frameworks around your AI? Hallucination prevention?" — Haley Brasher (2026-03-30) [A4] → Our AI is trained on 3,000 founder playbooks — not the internet.
+- "I don’t know if you have experience trying to overcome that pain — not a lot of people use the system the way they should. Therefore, your reports are not accurate." — Paula Bellido / RRCA (2026-05-19) [A3] → When your team won’t use the tool, the tool isn’t the problem — adoption is.
 
 ---
 
 ## Bucket: Founder Is the Ceiling
 **Priority:** 2
-**Signal strength:** 98 quotes
+**Signal strength:** 112 quotes
 **Emotional intensity:** High
 **Default awareness:** [A2] Problem-Aware
 **Avatar:** $1M-$5M revenue founder who IS the business. Every decision, every customer, every fire flows through them. Scaled to this point on sweat equity and personal heroics. Can't figure out how to extract themselves without everything breaking. Often a technical founder or craftsman who never learned to delegate. Knows they're the bottleneck but doesn't know how to build systems that work without them.
